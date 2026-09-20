@@ -2,15 +2,20 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import * as THREE from 'three';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { earthTexture, spherePoint } from './earth';
-import { mapColor, snapshotAt } from './snapshots';
+import { mapColor } from './snapshots';
+import type { Coordinate, MapSnapshot } from './snapshots';
+export { getMapPresentation } from './snapshots';
+export type { Coordinate, MapSnapshot } from './snapshots';
 import './map.css';
 
 export interface Marker { id: string; label: string; location: readonly [number, number] }
 export interface MapRelation { id: string; label: string; location: readonly [number, number]; sourceId: string; targetId?: string }
 export interface Props {
+  snapshot?: MapSnapshot; viewCenter: Coordinate; regionNotice?: string;
   markers: Marker[]; onSelect: (id: string) => void; level?: 0 | 1 | 2; startYear?: number;
   colorMode?: 'territory' | 'theme'; theme?: string; selectedId?: string;
   themeLabel?: string; themeColor?: string;
+  knowledgeStatus?: 'ready' | 'missing';
   relations?: MapRelation[]; onEnterRegion?: () => void;
 }
 interface Cluster { id: string; members: Marker[]; location: readonly [number, number] }
@@ -34,25 +39,24 @@ function clustersFor(markers: Marker[], level: number): Cluster[] {
   return groups;
 }
 
-export function Globe({ markers, onSelect, level = 0, startYear = 1900, colorMode = 'territory', theme = '全部', themeLabel, themeColor, selectedId, relations = [], onEnterRegion }: Props) {
+export function Globe({ markers, onSelect, snapshot, viewCenter, regionNotice, level = 0, startYear = 1900, colorMode = 'territory', theme = '全部', themeLabel, themeColor, knowledgeStatus = 'ready', selectedId, relations = [], onEnterRegion }: Props) {
   const host = useRef<HTMLDivElement>(null);
   const labels = useRef<HTMLDivElement>(null);
   const command = useRef<(action: 'east' | 'reset') => void>(() => {});
   const update = useRef<() => void>(() => {});
-  const current = useRef({ level, startYear, colorMode, theme, themeColor, markers, selectedId, relations });
-  current.current = { level, startYear, colorMode, theme, themeColor, markers, selectedId, relations };
+  const current = useRef({ level, startYear, snapshot, viewCenter, colorMode, theme, themeColor, markers, selectedId, relations });
+  current.current = { level, startYear, snapshot, viewCenter, colorMode, theme, themeColor, markers, selectedId, relations };
   const [ready, setReady] = useState(false);
   const [failure, setFailure] = useState(false);
   const [view, setView] = useState('正面视角');
   const [expanded, setExpanded] = useState<string>();
   const groups = useMemo(() => clustersFor(markers, level), [markers, level]);
   const activeGroup = groups.find(group => group.id === expanded);
-  const snapshot = snapshotAt(startYear);
   const color = colorMode === 'theme' && markers.length === 0 ? '#778985' : colorMode === 'theme' && themeColor ? themeColor : mapColor(colorMode, theme);
   const selected = markers.find(marker => marker.id === selectedId);
   const visibleRelations = selected ? relations : [];
   useEffect(() => { setExpanded(undefined); }, [level, startYear, theme, colorMode]);
-  useEffect(() => { update.current(); }, [level, startYear, colorMode, theme, themeColor, markers, selectedId, relations]);
+  useEffect(() => { update.current(); }, [level, startYear, snapshot, viewCenter, colorMode, theme, themeColor, markers, selectedId, relations]);
 
   useEffect(() => {
     const container = host.current!;
@@ -70,7 +74,7 @@ export function Globe({ markers, onSelect, level = 0, startYear = 1900, colorMod
     scene.add(new THREE.Mesh(geometry, material));
     scene.add(new THREE.AmbientLight('#b7dcd8', 1.8));
     const light = new THREE.DirectionalLight('#fff2d8', 2.5);
-    light.position.copy(spherePoint([110, 24], 4.15)).add(new THREE.Vector3(-2, 3, 0)); scene.add(light);
+    light.position.copy(spherePoint(current.current.viewCenter, 4.15)).add(new THREE.Vector3(-2, 3, 0)); scene.add(light);
     const lines = new THREE.Group(); scene.add(lines);
     const clearLines = () => {
       for (const child of [...lines.children]) {
@@ -78,25 +82,26 @@ export function Globe({ markers, onSelect, level = 0, startYear = 1900, colorMod
         line.geometry.dispose(); line.material.dispose(); lines.remove(line);
       }
     };
-    let previousLevel = -1;
+    let previousFocusKey = '';
     let previousTextureKey = '';
     let previousRelationKey = '';
     const focus = () => {
       const next = current.current.level;
-      camera.position.copy(spherePoint(next === 2 ? [113, 33] : [110, 30], next === 0 ? 4.15 : next === 1 ? 2.6 : 1.85));
+      camera.position.copy(spherePoint(current.current.viewCenter, next === 0 ? 4.15 : next === 1 ? 2.6 : 1.85));
       controls.target.set(0, 0, 0); controls.update();
       setView(next === 0 ? '全球视角' : next === 1 ? '中国区域视角' : '省级尺度示意视角');
     };
     update.current = () => {
       const state = current.current;
       const fill = state.colorMode === 'theme' && state.markers.length === 0 ? '#778985' : state.colorMode === 'theme' && state.themeColor ? state.themeColor : mapColor(state.colorMode, state.theme);
-      const textureKey = `${snapshotAt(state.startYear)?.id}:${fill}:${state.level}`;
+      const textureKey = JSON.stringify([state.snapshot, fill, state.level]);
       if (previousTextureKey !== textureKey) {
         material.map?.dispose();
-        material.map = earthTexture(snapshotAt(state.startYear), fill, state.level); material.needsUpdate = true;
+        material.map = earthTexture(state.snapshot, fill, state.level); material.needsUpdate = true;
         previousTextureKey = textureKey;
       }
-      if (previousLevel !== state.level) { focus(); previousLevel = state.level; }
+      const focusKey = JSON.stringify([state.level, state.viewCenter]);
+      if (previousFocusKey !== focusKey) { focus(); previousFocusKey = focusKey; }
       const origin = state.markers.find(marker => marker.id === state.selectedId);
       const relationKey = JSON.stringify([origin?.id, origin?.location, origin ? state.relations : []]);
       if (relationKey === previousRelationKey) return;
@@ -151,11 +156,11 @@ export function Globe({ markers, onSelect, level = 0, startYear = 1900, colorMod
       <strong>{snapshot ? snapshot.name : '当前起点缺少地图资料'}</strong>
       <span>{snapshot ? `测试状态 ${snapshot.from}—${snapshot.to} · 年精度` : `${startYear} 年：未绘制测试区划，未沿用其他年份边界`}</span>
       <span>虚构功能测试面 · 非真实历史版图</span>
-      {level === 2 && snapshot?.id === 'demo-b' && <span>原测试辖区甲在此时点已不存在；现展示替代测试辖区乙，非原区划延续。</span>}
+      {regionNotice && <span>{regionNotice}</span>}
       {level === 2 && <span>省级观察尺度 · 不使用现代省界</span>}
     </div>
+    {onEnterRegion && level < 2 && <button className="fixed-region-entry" onClick={onEnterRegion} aria-label="在地图中进入区域">{level === 0 ? '中国区域 ↗' : '省级尺度 ↗'}</button>}
     <div ref={labels} className="map-labels">
-      {onEnterRegion && level < 2 && <button className="map-marker region-map-entry" data-lon={level === 0 ? 101 : 107} data-lat={level === 0 ? 42 : 39} onClick={onEnterRegion} aria-label="在地图中进入区域">{level === 0 ? '中国区域 ↗' : '省级尺度 ↗'}</button>}
       {groups.map(group => <button key={group.id} data-marker data-lon={group.location[0]} data-lat={group.location[1]} className={'map-marker' + (group.members.some(member => member.id === selectedId) ? ' selected-marker' : '')} aria-label={group.members.length > 1 ? `展开 ${group.members.length} 条知识聚合` : '查看 ' + group.members[0].label} onClick={() => group.members.length > 1 ? setExpanded(group.id) : onSelect(group.members[0].id)}>
         <span className="marker-dot" />{group.members.length > 1 ? `${group.members.length} 条知识` : group.members[0].label.replace('演示事件：', '')}
       </button>)}
@@ -166,7 +171,7 @@ export function Globe({ markers, onSelect, level = 0, startYear = 1900, colorMod
       {activeGroup.members.map(marker => <button key={marker.id} onClick={() => { onSelect(marker.id); setExpanded(undefined); }}>{marker.label}</button>)}
       {level < 2 && onEnterRegion && <button onClick={() => { setExpanded(undefined); onEnterRegion(); }}>进入下一级展开气泡</button>}
     </div>}
-    <div className="map-legend" aria-label="地图颜色图例"><span style={{ background: color }} />{colorMode === 'territory' ? '政权／疆域：虚构测试辖区' : markers.length === 0 ? '发展主题：当前筛选无匹配知识（灰色）' : `发展主题：${themeLabel || (!theme || theme === '全部' ? '多主题并存' : theme)}（测试配色）`}{!snapshot && ' · 暂无可着色历史面'}</div>
+    <div className="map-legend" aria-label="地图颜色图例"><span style={{ background: color }} />{colorMode === 'territory' ? '政权／疆域：虚构测试辖区' : markers.length === 0 ? knowledgeStatus === 'missing' ? '发展主题：资料不足，暂无法判断（灰色）' : '发展主题：当前筛选无匹配知识（灰色）' : `发展主题：${themeLabel || (!theme || theme === '全部' ? '多主题并存' : theme)}（测试配色）`}{!snapshot && ' · 暂无可着色历史面'}</div>
     {visibleRelations.length > 0 && <div className="map-relations" aria-label="地图关系连线">实线：{visibleRelations.map(relation => relation.label).join('；')}（测试关系）</div>}
     {level === 2 && <div className="map-overlap-hint">同位置知识可从右侧列表逐条阅读</div>}
     {failure && <div className="map-fallback" role="alert">此浏览器无法显示三维地球。仍可从右侧知识列表阅读内容。</div>}

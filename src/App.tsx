@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import { demoKnowledge, queryKnowledge, themes, formatYear, formatRange, shiftYear } from './modules/history';
-import { Globe } from './modules/map';
+import { getKnowledge, getRelatedKnowledge, queryKnowledge, themes, formatYear, formatRange, shiftYear } from './modules/history';
+import { Globe, getMapPresentation } from './modules/map';
 import { ReadingPanel } from './modules/reading';
 
 type Level = 0 | 1 | 2;
@@ -21,6 +21,9 @@ export default function App() {
   const duration = durations[view.level];
   const result = queryKnowledge({startYear:view.startYear,duration,regionId:regions[view.level],theme:theme || undefined});
   const selected = result.items.find(item => item.id === selectedId);
+  const mapPresentation = getMapPresentation(view.startYear,view.level);
+  const resultThemes = themes.filter(item => result.items.some(knowledge=>knowledge.theme===item.id));
+  const displayTheme = theme ? themes.find(item=>item.id===theme) : resultThemes.length===1 ? resultThemes[0] : undefined;
   function changeView(next: View) {
     setView(next); setYearInput(String(next.startYear)); setSelectedId(undefined); setNotice(''); setInputError('');
   }
@@ -34,7 +37,7 @@ export default function App() {
   }
   function select(id:string) {
     if(result.items.some(item=>item.id===id)) {setSelectedId(id);setNotice('');return;}
-    const target = demoKnowledge.find(item=>item.id===id);
+    const target = getKnowledge(id);
     if(!target) return;
     changeView({...view,startYear:target.year}); setTheme('');setSelectedId(id);
     setNotice(`已切换至关联知识的时间：${formatYear(target.year)}。关联不表示它发生在原区间。`);
@@ -76,13 +79,11 @@ export default function App() {
       </nav>
       <section className="map-stage" aria-label="历史地图">
         <div className="map-heading"><p className="eyebrow">A WORLD OF CONNECTIONS</p><h2>历史，在这里发生</h2><p>旋转地球，选择区域，沿着时间阅读。</p></div>
-        <Globe markers={result.items.map(item=>({id:item.id,label:item.title,location:item.location}))} onSelect={select} level={view.level} startYear={view.startYear} colorMode={colorMode} theme={theme} themeLabel={themes.find(item=>item.id===theme)?.label} themeColor={themes.find(item=>item.id===theme)?.color} selectedId={selected?.id} relations={selected?.relations ?? []} onEnterRegion={view.level<2?enter:undefined} />
+        <Globe {...mapPresentation} markers={result.items.map(item=>({id:item.id,label:item.title,location:item.location}))} onSelect={select} knowledgeStatus={result.status} level={view.level} startYear={view.startYear} colorMode={colorMode} theme={theme} themeLabel={displayTheme?.label} themeColor={displayTheme?.color} selectedId={selected?.id} relations={selected?.relations ?? []} onEnterRegion={view.level<2?enter:undefined} />
         <div className="map-footnote"><span>当前筛选：{result.items.length} 条知识</span><span>陆地参照 · 历史区域为虚构示意</span></div>
       </section>
-      <div className="reading-container">{notice && <p role="status" className="navigation-notice">{notice}</p>}<ReadingPanel relatedItems={demoKnowledge} items={result.items} selected={selected} status={result.status} onSelect={select} onBack={()=>{setSelectedId(undefined);setNotice('');}} /></div>
+      <div className="reading-container">{notice && <p role="status" className="navigation-notice">{notice}</p>}<ReadingPanel relatedItems={getRelatedKnowledge(selected)} items={result.items} selected={selected} status={result.status} onSelect={select} onBack={()=>{setSelectedId(undefined);setNotice('');}} /></div>
     </main>
     <footer className="site-footer"><span>时空史图 <i>/</i> 中国通史学习地图</span><span>功能演示不计入教材覆盖。</span></footer>
   </div>;
 }
-
-

@@ -140,16 +140,50 @@ export function formatKnowledgeTime(item: Knowledge): string {
 }
 export interface KnowledgeQuery { startYear: number; duration: number; regionId: string; theme?: string }
 export interface KnowledgeResult { items: Knowledge[]; status: 'ready' | 'missing' }
-/** Closed intervals. Partial coverage keeps available results and reports missing. */
-export function queryKnowledge({ startYear, duration, regionId, theme }: KnowledgeQuery): KnowledgeResult {
-  const endYear = intervalEnd(startYear, duration);
-  const windows = knowledgeCoverage.filter(window => window.regionIds.includes(regionId));
-  const covered = windows.some(window => startYear >= window.startYear && endYear <= window.endYear);
-  const items = demoKnowledge.filter(item => {
-    if (!item.regionIds.includes(regionId) || (theme && theme !== 'all' && item.theme !== theme)) return false;
-    const itemEnd = item.kind === 'process' ? (item.endYear ?? Infinity) : item.year;
-    // Do not extrapolate an unfinished fixture beyond the available demonstration windows.
-    return windows.some(window => Math.max(startYear, item.year, window.startYear) <= Math.min(endYear, itemEnd, window.endYear));
-  });
-  return { items, status: covered ? 'ready' : 'missing' };
+export interface KnowledgeCoverage {
+  startYear: number;
+  endYear: number;
+  regionIds: readonly string[];
 }
+export interface KnowledgeRepository {
+  query: (query: KnowledgeQuery) => KnowledgeResult;
+  get: (id: string) => Knowledge | undefined;
+  getRelated: (item?: Knowledge) => Knowledge[];
+}
+
+/** Keeps storage selection inside the knowledge boundary; no UI or transport dependencies. */
+export function createKnowledgeRepository(data: {
+  items: readonly Knowledge[];
+  coverage: readonly KnowledgeCoverage[];
+}): KnowledgeRepository {
+  const byId = new Map(data.items.map(item => [item.id, item]));
+  const get = (id: string) => byId.get(id);
+  return {
+    get,
+    getRelated(item) {
+      const targetIds = new Set(item?.relations.flatMap(relation => relation.targetId ? [relation.targetId] : []) ?? []);
+      return [...targetIds].flatMap(id => {
+        const target = get(id);
+        return target ? [target] : [];
+      });
+    },
+    /** Closed intervals. Partial coverage keeps available results and reports missing. */
+    query({ startYear, duration, regionId, theme }) {
+      const endYear = intervalEnd(startYear, duration);
+      const windows = data.coverage.filter(window => window.regionIds.includes(regionId));
+      const covered = windows.some(window => startYear >= window.startYear && endYear <= window.endYear);
+      const items = data.items.filter(item => {
+        if (!item.regionIds.includes(regionId) || (theme && theme !== 'all' && item.theme !== theme)) return false;
+        const itemEnd = item.kind === 'process' ? (item.endYear ?? Infinity) : item.year;
+        // Do not extrapolate an unfinished process beyond the available data windows.
+        return windows.some(window => Math.max(startYear, item.year, window.startYear) <= Math.min(endYear, itemEnd, window.endYear));
+      });
+      return { items, status: covered ? 'ready' : 'missing' };
+    },
+  };
+}
+
+const repository = createKnowledgeRepository({ items: demoKnowledge, coverage: knowledgeCoverage });
+export const queryKnowledge = repository.query;
+export const getKnowledge = repository.get;
+export const getRelatedKnowledge = repository.getRelated;

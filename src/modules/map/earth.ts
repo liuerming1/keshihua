@@ -60,12 +60,15 @@ export function earthTexture(snapshot?: MapSnapshot, color = '#c69559', level = 
     context.fillStyle = color;
     context.fill();
     context.strokeStyle = '#fff0bd'; context.lineWidth = 3; context.stroke();
-    if (level === 2) {
+    if (level === 2 && snapshot.subdivision?.length) {
       context.save(); context.clip();
       // An explicit test subdivision, never a modern province boundary.
       context.beginPath();
-      context.moveTo((112 + 180) / 360 * canvas.width, (90 - 42) / 180 * canvas.height);
-      context.lineTo((114 + 180) / 360 * canvas.width, (90 - 24) / 180 * canvas.height);
+      snapshot.subdivision.forEach(([lon, lat], index) => {
+        const x = (lon + 180) / 360 * canvas.width;
+        const y = (90 - lat) / 180 * canvas.height;
+        if (index === 0) context.moveTo(x, y); else context.lineTo(x, y);
+      });
       context.setLineDash([5, 4]); context.lineWidth = 2; context.stroke();
       context.restore();
     }
