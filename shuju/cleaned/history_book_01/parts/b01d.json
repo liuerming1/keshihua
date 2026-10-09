@@ -1,0 +1,4255 @@
+{
+  "schema_version": "history-pdf-ingest/1.0",
+  "batch": {
+    "id": "history_book_01_b01d",
+    "document_id": "history_book_01",
+    "requested_pdf_pages": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "completed_pdf_pages": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "partial_pdf_pages": [],
+    "unprocessed_pdf_pages": [],
+    "complete": true,
+    "next_pdf_page": null,
+    "carryover": [
+      {
+        "type": "paragraph",
+        "record_ids": [
+          "history_book_01_p0030_b001",
+          "history_book_01_p0031_b001"
+        ],
+        "description": "第30页首段承接第29页末尾“公元前……”的跨页句，第31页首段承接第30页末尾关于刘秀措施的句子。",
+        "next_action": "合并批次时保留跨页顺序，并以相邻页复核断句。"
+      },
+      {
+        "type": "paragraph",
+        "record_ids": [
+          "history_book_01_p0031_b006",
+          "history_book_01_p0032_b001"
+        ],
+        "description": "第31页末尾“两汉文学”段落在“真实情”处跨页，第32页首行续为“况”。",
+        "next_action": "按页序拼接，不将“况”当作新句。"
+      },
+      {
+        "type": "paragraph",
+        "record_ids": [
+          "history_book_01_p0035_b006",
+          "history_book_01_p0036_b001"
+        ],
+        "description": "第35页“三国与西晋”段落在“刘备仍用汉的国号”处跨页，第36页续写定都成都及西晋统一。",
+        "next_action": "按页序拼接跨页段落。"
+      },
+      {
+        "type": "paragraph",
+        "record_ids": [
+          "history_book_01_p0038_b008"
+        ],
+        "description": "第38页末段在“鲜”处跨页至第39页，北魏孝文帝后续措施尚未完整。",
+        "next_action": "后续页段续接，不据本页补写未显示内容。"
+      }
+    ]
+  },
+  "documents": [
+    {
+      "id": "history_book_01",
+      "file_name": "普通高中教科书·历史必修_中外历史纲要（上）.pdf",
+      "title": "历史 必修 中外历史纲要（上）",
+      "edition": null,
+      "volume": "上",
+      "publisher": "人民教育出版社",
+      "publication_year": null,
+      "total_pdf_pages": 223,
+      "language": "zh-CN",
+      "source_kind": "textbook",
+      "sha256": "833DFC015A6E1DB90A744A9B2E94424043149995AE796330A461A922ACB18E27"
+    }
+  ],
+  "pages": [
+    {
+      "id": "history_book_01_p0030",
+      "document_id": "history_book_01",
+      "pdf_page_number": 30,
+      "printed_page_label": "23",
+      "chapter_path": [
+        "第一单元 从中华文明起源到秦汉统一多民族封建国家的建立与巩固",
+        "第4课 西汉与东汉——统一多民族封建国家的巩固"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "已查看PDF文字层及220dpi逐页渲染图。",
+        "页脚出版社使用提示和重复页眉未作为教材知识块；图内文字登记在图块与asset.visible_text中。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0031",
+      "document_id": "history_book_01",
+      "pdf_page_number": 31,
+      "printed_page_label": "24",
+      "chapter_path": [
+        "第一单元 从中华文明起源到秦汉统一多民族封建国家的建立与巩固",
+        "第4课 西汉与东汉——统一多民族封建国家的巩固"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "已查看PDF文字层及220dpi逐页渲染图。",
+        "页脚出版社使用提示和重复页眉未作为教材知识块；图内文字登记在图块与asset.visible_text中。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0032",
+      "document_id": "history_book_01",
+      "pdf_page_number": 32,
+      "printed_page_label": "25",
+      "chapter_path": [
+        "第一单元 从中华文明起源到秦汉统一多民族封建国家的建立与巩固",
+        "第4课 西汉与东汉——统一多民族封建国家的巩固"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "已查看PDF文字层及220dpi逐页渲染图。",
+        "页脚出版社使用提示和重复页眉未作为教材知识块；图内文字登记在图块与asset.visible_text中。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0033",
+      "document_id": "history_book_01",
+      "pdf_page_number": 33,
+      "printed_page_label": "26",
+      "chapter_path": [
+        "第一单元 从中华文明起源到秦汉统一多民族封建国家的建立与巩固",
+        "第4课 西汉与东汉——统一多民族封建国家的巩固"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "已查看PDF文字层及220dpi逐页渲染图。",
+        "页脚出版社使用提示和重复页眉未作为教材知识块；图内文字登记在图块与asset.visible_text中。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0034",
+      "document_id": "history_book_01",
+      "pdf_page_number": 34,
+      "printed_page_label": "27",
+      "chapter_path": [
+        "第二单元 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "已查看PDF文字层及220dpi逐页渲染图。",
+        "页脚出版社使用提示和重复页眉未作为教材知识块；图内文字登记在图块与asset.visible_text中。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0035",
+      "document_id": "history_book_01",
+      "pdf_page_number": 35,
+      "printed_page_label": "28",
+      "chapter_path": [
+        "第二单元 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展",
+        "第5课 三国两晋南北朝的政权更迭与民族交融"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "已查看PDF文字层及220dpi逐页渲染图。",
+        "页脚出版社使用提示和重复页眉未作为教材知识块；图内文字登记在图块与asset.visible_text中。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0036",
+      "document_id": "history_book_01",
+      "pdf_page_number": 36,
+      "printed_page_label": "29",
+      "chapter_path": [
+        "第二单元 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展",
+        "第5课 三国两晋南北朝的政权更迭与民族交融"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "已查看PDF文字层及220dpi逐页渲染图。",
+        "页脚出版社使用提示和重复页眉未作为教材知识块；图内文字登记在图块与asset.visible_text中。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0037",
+      "document_id": "history_book_01",
+      "pdf_page_number": 37,
+      "printed_page_label": "30",
+      "chapter_path": [
+        "第二单元 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展",
+        "第5课 三国两晋南北朝的政权更迭与民族交融"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "已查看PDF文字层及220dpi逐页渲染图。",
+        "页脚出版社使用提示和重复页眉未作为教材知识块；图内文字登记在图块与asset.visible_text中。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0038",
+      "document_id": "history_book_01",
+      "pdf_page_number": 38,
+      "printed_page_label": "31",
+      "chapter_path": [
+        "第二单元 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展",
+        "第5课 三国两晋南北朝的政权更迭与民族交融"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "已查看PDF文字层及220dpi逐页渲染图。",
+        "页脚出版社使用提示和重复页眉未作为教材知识块；图内文字登记在图块与asset.visible_text中。"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "history_book_01_p0030_b001",
+      "page_id": "history_book_01_p0030",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "元前 60 年，西汉在乌垒城①设置西域都护府，作为管理西域的军政机构。西汉对东南沿海和西南少数民族地区的治理，也比以前更加有效。统一多民族封建国家得到巩固加强。",
+      "clean_text": "（承接上页）元前60年，西汉在乌垒城①设置西域都护府，作为管理西域的军政机构。西汉对东南沿海和西南少数民族地区的治理也比以前更加有效，统一多民族封建国家得到巩固加强。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "页首“元前”与上页末“公”跨页，未在raw_text中擅自补字。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0030_b002",
+      "page_id": "history_book_01_p0030",
+      "order": 2,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "西汉形势图；图内标有西汉、匈奴、乌孙、羌、鲜卑、龟兹、焉耆、葱岭、西域都护府、敦煌郡、酒泉郡、张掖郡、武威郡、河西四郡、长安、黄河、长江、东海、南海；图例含都城、郡级驻所、河西四郡、长城、政权部族界、今国界。",
+      "clean_text": "西汉形势图（地图文字详见对应asset.visible_text）。",
+      "asset_ids": [
+        "history_book_01_p0030_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "地图未作空间校准，不能直接转为疆域几何。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0030_b003",
+      "page_id": "history_book_01_p0030",
+      "order": 3,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 西汉形势图",
+      "clean_text": "西汉形势图",
+      "asset_ids": [
+        "history_book_01_p0030_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0030_b004",
+      "page_id": "history_book_01_p0030",
+      "order": 4,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "东汉的兴衰",
+      "clean_text": "东汉的兴衰",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0030_b005",
+      "page_id": "history_book_01_p0030",
+      "order": 5,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "光武帝刘秀吸取西汉后期的教训，采取加强集权、发展生产等措施，东汉前期社会出现繁荣景象。",
+      "clean_text": "学习聚焦：光武帝刘秀吸取西汉后期的教训，采取加强集权、发展生产等措施，东汉前期社会出现繁荣景象。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0030_b006",
+      "page_id": "history_book_01_p0030",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "西汉后期，政治日趋黑暗，土地兼并严重，赋税徭役沉重，破产农民沦为奴婢或流亡，社会动荡不安。公元9年，外戚王莽夺取皇位，改国号为新，西汉灭亡。王莽针对西汉后期的社会矛盾推行了一系列改革措施，试图挽救社会危机，但措施不切实际，反而使社会矛盾更加激化。王莽统治末年，国家出现严重的旱灾和蝗灾，赤地千里，绿林、赤眉等农民大起义终于爆发。23年，绿林军在昆阳击败王莽军队主力。随后，绿林军攻入长安，推翻王莽政权。25年，西汉宗室刘秀重建汉朝，不久定都洛阳，史称东汉，刘秀即汉光武帝。随后，刘秀又平定一些割据政权，实现全国统一。东汉初年，刘秀加强皇权，增强尚书台的作用；严格控制外戚干政；裁并郡县，裁减官吏，节省开支；整顿吏治，惩处贪污腐败；清查全国垦田、户口数量；",
+      "clean_text": "西汉后期政治黑暗、土地兼并和赋税徭役沉重，导致社会动荡。公元9年王莽夺位改国号为新，西汉灭亡；王莽改革不切实际，社会矛盾加剧。王莽末年旱灾、蝗灾严重，绿林、赤眉起义爆发；23年绿林军在昆阳击败王莽军队，随后攻入长安推翻王莽政权。25年刘秀重建汉朝，定都洛阳，史称东汉；刘秀平定割据、实现统一，并在东汉初年加强皇权、整顿吏治、清查垦田和户口等。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "段末分号承接第31页首段。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0030_b007",
+      "page_id": "history_book_01_p0030",
+      "order": 7,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "① 乌垒城，在今新疆巴州轮台县。",
+      "clean_text": "①乌垒城，在今新疆巴州轮台县。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0031_b001",
+      "page_id": "history_book_01_p0031",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "释放奴婢；重视儒学。社会经济在稳定的政局下重新发展起来，史称“光武中兴”。",
+      "clean_text": "（承接上页）释放奴婢，重视儒学。社会经济在稳定政局下重新发展起来，史称“光武中兴”。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "承接第30页末段。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0031_b002",
+      "page_id": "history_book_01_p0031",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "东汉中期以后，皇帝大多年幼继位，年寿不长。皇帝年少不能亲政，太后掌握朝政，实际权力控制在外戚手中。皇帝逐渐长大，不满外戚干政，便依靠宦官铲除外戚势力，宦官又因此掌控朝政，从而出现外戚宦官交替专权的局面。他们各谋私利，相互争斗，致使东汉后期政治腐朽黑暗。一些正直官员和士人不满现实，品评人物，抨击时政，称为“清议”。他们触犯了宦官利益，被诬陷为“党人”，遭到严厉镇压，史称“党锢之祸”。",
+      "clean_text": "东汉中期以后，皇帝大多年幼继位，年寿不长。皇帝年少不能亲政，太后掌握朝政，实际权力控制在外戚手中。皇帝逐渐长大，不满外戚干政，便依靠宦官铲除外戚势力，宦官又因此掌控朝政，从而出现外戚宦官交替专权的局面。他们各谋私利，相互争斗，致使东汉后期政治腐朽黑暗。一些正直官员和士人不满现实，品评人物，抨击时政，称为“清议”。他们触犯了宦官利益，被诬陷为“党人”，遭到严厉镇压，史称“党锢之祸”。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0031_b003",
+      "page_id": "history_book_01_p0031",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "东汉时期，豪强地主势力发展迅速，土地兼并严重，阶级矛盾日益尖锐。184年，张角创立的民间秘密宗教“太平道”的信徒，在多个地方同时发动起义。起义军头裹黄巾，称“黄巾军”。起义军虽然相继被官兵各个击破，但黄巾起义动摇了东汉王朝的统治基础。地方长官趁机拥兵自重，军阀割据局面出现，东汉政权名存实亡。",
+      "clean_text": "东汉时期，豪强地主势力发展迅速，土地兼并严重，阶级矛盾日益尖锐。184年，张角创立的民间秘密宗教“太平道”的信徒，在多个地方同时发动起义。起义军头裹黄巾，称“黄巾军”。起义军虽然相继被官兵各个击破，但黄巾起义动摇了东汉王朝的统治基础。地方长官趁机拥兵自重，军阀割据局面出现，东汉政权名存实亡。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0031_b004",
+      "page_id": "history_book_01_p0031",
+      "order": 4,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "两汉的文化",
+      "clean_text": "两汉的文化",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0031_b005",
+      "page_id": "history_book_01_p0031",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "两汉史学的代表性成就是《史记》与《汉书》。西汉司马迁撰写的《史记》，以本纪、表、书、世家、列传的形式，叙述了上起黄帝、下至汉武帝年间的历史，首创了纪传体通史体裁。《史记》文字精练，人物刻画与叙事生动，不虚美，不隐恶，是一部兼具史学和文学特色的不朽名著。东汉班固撰写的《汉书》，是我国第一部纪传体断代史。",
+      "clean_text": "两汉史学的代表性成就是《史记》与《汉书》。西汉司马迁撰写的《史记》，以本纪、表、书、世家、列传的形式，叙述了上起黄帝、下至汉武帝年间的历史，首创了纪传体通史体裁。《史记》文字精练，人物刻画与叙事生动，不虚美，不隐恶，是一部兼具史学和文学特色的不朽名著。东汉班固撰写的《汉书》，是我国第一部纪传体断代史。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0031_b006",
+      "page_id": "history_book_01_p0031",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "两汉文学成就集中体现在汉赋、乐府诗上。汉赋是一种介于韵文和散文之间的文体，讲究铺陈排比，辞藻华丽。乐府是国家专管音乐的机构，乐府采集民歌修改而成的诗称为乐府诗，其中很多诗反映了当时社会的真实情",
+      "clean_text": "两汉文学成就集中体现在汉赋、乐府诗上。汉赋介于韵文和散文之间，讲究铺陈排比、辞藻华丽；乐府是国家专管音乐的机构，采集民歌修改而成的诗称为乐府诗，其中很多诗反映当时社会的真实情",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "末尾“情”承接第32页首行“况”。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0031_b007",
+      "page_id": "history_book_01_p0031",
+      "order": 7,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "两汉人民创造了灿烂的文化，成就斐然。",
+      "clean_text": "学习聚焦：两汉人民创造了灿烂的文化，成就斐然。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0031_b008",
+      "page_id": "history_book_01_p0031",
+      "order": 8,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "东汉画像砖中描绘的集市；画面为画像砖上的集市场景。",
+      "clean_text": "东汉画像砖中描绘的集市。",
+      "asset_ids": [
+        "history_book_01_p0031_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0031_b009",
+      "page_id": "history_book_01_p0031",
+      "order": 9,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 东汉画像砖中描绘的集市",
+      "clean_text": "东汉画像砖中描绘的集市",
+      "asset_ids": [
+        "history_book_01_p0031_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0032_b001",
+      "page_id": "history_book_01_p0032",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "况。东汉民间流行五言诗，语言朴实、生动，传播广泛。",
+      "clean_text": "（承接上页）况。东汉民间流行五言诗，语言朴实、生动，传播广泛。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "跨页原串只保留本页可见“况”。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0032_b002",
+      "page_id": "history_book_01_p0032",
+      "order": 2,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "若夫终日驰骋，劳神苦形，罢车马之用，抏士卒之精，费府库之财，而无德厚之恩，务在独乐，不顾众庶，忘国家之政，贪雉兔之获，则仁者不繇也。——司马相如《上林赋》",
+      "clean_text": "材料一：司马相如《上林赋》节选。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0032_b003",
+      "page_id": "history_book_01_p0032",
+      "order": 3,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "江南可采莲，莲叶何田田。——乐府《江南》",
+      "clean_text": "材料二：乐府《江南》节选。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0032_b004",
+      "page_id": "history_book_01_p0032",
+      "order": 4,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "行行重行行，与君生别离。相去万余里，各在天一涯。——《行行重行行》",
+      "clean_text": "材料三：《行行重行行》节选。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0032_b005",
+      "page_id": "history_book_01_p0032",
+      "order": 5,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "谈谈阅读上述诗赋的感受体会。",
+      "clean_text": "阅读上述诗赋，谈感受体会。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0032_b006",
+      "page_id": "history_book_01_p0032",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "两汉科技成就突出。成书于战国至西汉间的《黄帝内经》奠定了中医理论的基础，东汉时的《神农本草经》是中国古代第一部药物学专著。《九章算术》在中国数学史乃至世界数学史上都占有重要地位。105年，东汉蔡伦改进造纸术。后来，纸成为主要书写材料，大大促进了中国和世界文化的传播和发展。",
+      "clean_text": "两汉科技成就突出。成书于战国至西汉间的《黄帝内经》奠定了中医理论的基础，东汉时的《神农本草经》是中国古代第一部药物学专著。《九章算术》在中国数学史乃至世界数学史上都占有重要地位。105年，东汉蔡伦改进造纸术。后来，纸成为主要书写材料，大大促进了中国和世界文化的传播和发展。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0032_b007",
+      "page_id": "history_book_01_p0032",
+      "order": 7,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "历史纵横",
+      "clean_text": "历史纵横",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0032_b008",
+      "page_id": "history_book_01_p0032",
+      "order": 8,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "两汉科技成就众多。西汉时期成书的《周髀算经》，记载了用竿标测日影以求日高的方法，最早引用了西周初年勾股定理的特例商高定理。东汉张衡发明候风地动仪，测验地震方位，还撰写了天文学专著《灵宪》。东汉张仲景博采众方，著《伤寒杂病论》，被后世誉为“医圣”。东汉华佗发明了一种从植物中提取、适用于外科手术的麻醉药，即麻沸散。农学方面出现了《氾胜之书》，其后出现的《四民月令》中也有较多的农学内容。",
+      "clean_text": "两汉科技成就众多。西汉时期成书的《周髀算经》，记载了用竿标测日影以求日高的方法，最早引用了西周初年勾股定理的特例商高定理。东汉张衡发明候风地动仪，测验地震方位，还撰写了天文学专著《灵宪》。东汉张仲景博采众方，著《伤寒杂病论》，被后世誉为“医圣”。东汉华佗发明了一种从植物中提取、适用于外科手术的麻醉药，即麻沸散。农学方面出现了《氾胜之书》，其后出现的《四民月令》中也有较多的农学内容。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0032_b009",
+      "page_id": "history_book_01_p0032",
+      "order": 9,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "《九章算术》书影；可见古籍封面文字及书影。",
+      "clean_text": "《九章算术》书影。",
+      "asset_ids": [
+        "history_book_01_p0032_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0032_b010",
+      "page_id": "history_book_01_p0032",
+      "order": 10,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲《九章算术》书影",
+      "clean_text": "《九章算术》书影",
+      "asset_ids": [
+        "history_book_01_p0032_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0033_b001",
+      "page_id": "history_book_01_p0033",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "两汉人民创造了灿烂的历史与文化，其中许多杰出人物的昂扬进取、不屈不挠的斗志，给后世留下了宝贵的精神财富。司马迁“究天人之际，通古今之变，成一家之言”的志向，霍去病“匈奴未灭，无以家为”的壮志，张骞“凿空”的勇气，苏武绝不“屈节辱命”的精神，马援“马革裹尸”的情怀，班超“投笔从戎”“立功绝域”的追求，脍炙人口，广为流传，熔铸为中华优秀传统文化的组成部分。",
+      "clean_text": "两汉人民创造了灿烂的历史与文化，其中许多杰出人物的昂扬进取、不屈不挠的斗志，给后世留下了宝贵的精神财富。司马迁“究天人之际，通古今之变，成一家之言”的志向，霍去病“匈奴未灭，无以家为”的壮志，张骞“凿空”的勇气，苏武绝不“屈节辱命”的精神，马援“马革裹尸”的情怀，班超“投笔从戎”“立功绝域”的追求，脍炙人口，广为流传，熔铸为中华优秀传统文化的组成部分。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0033_b002",
+      "page_id": "history_book_01_p0033",
+      "order": 2,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "查阅相关资料，进一步了解这些历史人物的事迹，感悟他们的家国情怀。",
+      "clean_text": "学习拓展：查阅资料了解相关历史人物事迹，感悟家国情怀。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0033_b003",
+      "page_id": "history_book_01_p0033",
+      "order": 3,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "探究与拓展",
+      "clean_text": "探究与拓展",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0033_b004",
+      "page_id": "history_book_01_p0033",
+      "order": 4,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "东汉末年政论家仲长统讲述了东汉豪强势力的迅猛发展：汉兴以来，相与同为编户齐民，而以财力相君长者，世无数焉。而清絜之士，徒自苦于茨棘之间，无所益损于风俗也。豪人之室，连栋数百，膏田满野，奴婢千群，徒附万计。船车贾贩，周于四方；废居积贮，满于都城。琦赂宝货，巨室不能容；马牛羊豕，山谷不能受。妖童美妾，填乎绮室；倡讴伎乐，列乎深堂。宾客待见而不敢去，车骑交错而不敢进。三牲之肉，臭而不可食；清醇之酎，败而不可饮。睇盼则人从其目之所视，喜怒则人随其心之所虑。此皆公侯之广乐，君长之厚实也。——《后汉书·仲长统列传》",
+      "clean_text": "材料节选：仲长统《后汉书·仲长统列传》关于东汉豪强势力发展的记述。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0033_b005",
+      "page_id": "history_book_01_p0033",
+      "order": 5,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "阅读这段材料，分析豪强地主势力的发展与东汉政权衰亡之间的关系。",
+      "clean_text": "问题探究：分析豪强地主势力的发展与东汉政权衰亡之间的关系。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0034_b001",
+      "page_id": "history_book_01_p0034",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第二单元\n三国两晋南北朝的民族交融\n与隋唐统一多民族封建国家的发展",
+      "clean_text": "第二单元\n三国两晋南北朝的民族交融\n与隋唐统一多民族封建国家的发展",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0034_b002",
+      "page_id": "history_book_01_p0034",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "三国两晋南北朝包括三国、西晋、东晋十六国、南北朝几个阶段，除西晋外都处于分裂状态。尽管战火连绵，政局动荡，但社会经济在曲折中仍有发展，南方的开发初见成效，文化领域也有不少重要成果。汉族与内迁边疆民族从冲突到和平交往，逐步走向交融，推动了统一多民族封建国家的发展。随后出现的隋唐统一王朝，国力强盛，疆域拓展，经济繁荣，民族往来和对外交往活跃，制度上也有重要建树，在当时世界范围内首屈一指。自唐朝中期爆发安史之乱起，中央对地方的控制严重削弱，最终演变为五代十国的分裂局面。",
+      "clean_text": "三国两晋南北朝包括三国、西晋、东晋十六国、南北朝几个阶段，除西晋外都处于分裂状态。尽管战火连绵，政局动荡，但社会经济在曲折中仍有发展，南方的开发初见成效，文化领域也有不少重要成果。汉族与内迁边疆民族从冲突到和平交往，逐步走向交融，推动了统一多民族封建国家的发展。随后出现的隋唐统一王朝，国力强盛，疆域拓展，经济繁荣，民族往来和对外交往活跃，制度上也有重要建树，在当时世界范围内首屈一指。自唐朝中期爆发安史之乱起，中央对地方的控制严重削弱，最终演变为五代十国的分裂局面。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0034_b003",
+      "page_id": "history_book_01_p0034",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "通过本单元的学习，了解三国两晋南北朝政权更迭的历史脉络和隋唐王朝的鼎盛局面，认识这一时期制度演进、民族交融、区域开发和思想文化发展等新的成就。",
+      "clean_text": "学习目标：了解三国两晋南北朝政权更迭和隋唐鼎盛，认识制度演进、民族交融、区域开发、思想文化发展等成就。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0034_b004",
+      "page_id": "history_book_01_p0034",
+      "order": 4,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "单元导语背景插图：人物骑马、旌旗和山水的历史题材画面；未见独立图题。",
+      "clean_text": "第二单元导语背景插图，画面为历史题材人物与山水。",
+      "asset_ids": [
+        "history_book_01_p0034_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "仅作客观画面描述，未据画面推定人物、时代或事件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0035_b001",
+      "page_id": "history_book_01_p0035",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第5课\n三国两晋南北朝的政权更迭与民族交融",
+      "clean_text": "第5课\n三国两晋南北朝的政权更迭与民族交融",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_b002",
+      "page_id": "history_book_01_p0035",
+      "order": 2,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "四川成都武侯祠照片；牌坊上可见“武侯祠”等字样。",
+      "clean_text": "四川成都武侯祠照片。",
+      "asset_ids": [
+        "history_book_01_p0035_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_b003",
+      "page_id": "history_book_01_p0035",
+      "order": 3,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 四川成都武侯祠",
+      "clean_text": "四川成都武侯祠",
+      "asset_ids": [
+        "history_book_01_p0035_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_b004",
+      "page_id": "history_book_01_p0035",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "二、三世纪之交，军阀混战，东汉政权名存实亡。207年，号称出自汉朝皇族的刘备拜访隐士诸葛亮，请他出山辅佐自己。诸葛亮分析局势说：北方的曹操实力强大，而且控制了东汉皇帝，“诚不可与争锋”；东南的孙权割据多年，基础坚固，“可以为援而不可图也”；刘备只能争取控制西南地区，站稳脚跟，然后待机发展。这一“三分天下”的预言，后来得到应验。诸葛亮生前获封“武乡侯”，死后谥号“忠武侯”，因此其祠名为“武侯祠”。",
+      "clean_text": "二、三世纪之交军阀混战，东汉政权名存实亡。207年刘备拜访诸葛亮并请其出山；诸葛亮判断曹操、孙权与刘备的势力范围，提出“三分天下”预言，后来得到应验。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "本页正文起始为“二、三世纪之交”，按页面原貌保留。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0035_b005",
+      "page_id": "history_book_01_p0035",
+      "order": 5,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "三国与西晋",
+      "clean_text": "三国与西晋",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_b006",
+      "page_id": "history_book_01_p0035",
+      "order": 6,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "东汉末年，曹操、刘备、孙权三大军事集团渐成鼎足之势。220年，曹操之子曹丕称帝，定都洛阳，国号魏，东汉灭亡。刘备、孙权也相继称帝。刘备仍用汉的国号，",
+      "clean_text": "学习聚焦：东汉灭亡后出现三国鼎立局面，随后西晋短暂统一。正文在“刘备仍用汉的国号”处跨页。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "承接第36页。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0035_b007",
+      "page_id": "history_book_01_p0035",
+      "order": 7,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "三国鼎立形势图（262年）；图内标有魏、蜀、吴、鲜卑、羌、氐、山越、南中、洛阳、许昌、建业、成都、荆州、赤壁、官渡、隆中、夷洲，以及都城、州级驻所、政权部族界、今国界未定等图例。",
+      "clean_text": "三国鼎立形势图（262年；地图文字详见asset.visible_text）。",
+      "asset_ids": [
+        "history_book_01_p0035_a002"
+      ],
+      "table_data": null,
+      "notes": [
+        "地图未作空间校准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0035_b008",
+      "page_id": "history_book_01_p0035",
+      "order": 8,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 三国鼎立形势图（262年）",
+      "clean_text": "三国鼎立形势图（262年）",
+      "asset_ids": [
+        "history_book_01_p0035_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_b009",
+      "page_id": "history_book_01_p0035",
+      "order": 9,
+      "type": "table",
+      "bbox": null,
+      "raw_text": "官渡…………今河南中牟；隆中…………在今湖北襄阳西；建业…………今江苏南京；赤壁…………在今湖北嘉鱼东北；夷洲…………今台湾",
+      "clean_text": "图下注释：官渡—今河南中牟；隆中—今湖北襄阳西；建业—今江苏南京；赤壁—今湖北嘉鱼东北；夷洲—今台湾。",
+      "asset_ids": [],
+      "table_data": {
+        "columns": [
+          "历史地名",
+          "今地"
+        ],
+        "rows": [
+          [
+            "官渡",
+            "今河南中牟"
+          ],
+          [
+            "隆中",
+            "在今湖北襄阳西"
+          ],
+          [
+            "建业",
+            "今江苏南京"
+          ],
+          [
+            "赤壁",
+            "在今湖北嘉鱼东北"
+          ],
+          [
+            "夷洲",
+            "今台湾"
+          ]
+        ],
+        "notes": []
+      },
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_b001",
+      "page_id": "history_book_01_p0036",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "定都成都，史称蜀汉，简称蜀。孙权定都建业，国号吴。魏国国力较强，在三国鼎立局面中略占上风。蜀、吴两国则加强了对南方少数民族地区的治理。263年，曹魏权臣司马昭发兵灭蜀。266年，司马昭之子司马炎代魏称帝，国号晋，史称西晋。司马炎即晋武帝。280年，西晋灭吴，完成统一。",
+      "clean_text": "（承接上页）刘备定都成都，史称蜀汉；孙权定都建业，国号吴。魏国略占上风，蜀、吴加强对南方少数民族地区治理。263年司马昭灭蜀；266年司马炎代魏称帝建立西晋；280年西晋灭吴，完成统一。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "承接第35页。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0036_b002",
+      "page_id": "history_book_01_p0036",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "自东汉以来，西、北边陲的一些少数民族不断向内地迁徙。到西晋，内迁的少数民族主要有匈奴、羯、氐、羌和活动在长城一带的鲜卑。晋武帝死后，宗室诸王展开对中央权力的争夺，演化为内战。内迁少数民族卷入其中，并且逐渐主导了局势。316年，西晋被内迁匈奴贵族所灭。自此，中国历史又进入一个比较长的政权分立时期，起初是东晋十六国的割据，后来演变为南北朝的对峙。",
+      "clean_text": "自东汉以来，西、北边陲的一些少数民族不断向内地迁徙。到西晋，内迁的少数民族主要有匈奴、羯、氐、羌和活动在长城一带的鲜卑。晋武帝死后，宗室诸王展开对中央权力的争夺，演化为内战。内迁少数民族卷入其中，并且逐渐主导了局势。316年，西晋被内迁匈奴贵族所灭。自此，中国历史又进入一个比较长的政权分立时期，起初是东晋十六国的割据，后来演变为南北朝的对峙。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_b003",
+      "page_id": "history_book_01_p0036",
+      "order": 3,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "西晋末年内迁少数民族分布与北方流民南迁示意图；可见鲜卑、匈奴、羌、氐、羯、长安、洛阳、襄阳郡、丹阳郡、蜀郡、长沙郡，绿色流民南迁箭头及图例。",
+      "clean_text": "西晋末年内迁少数民族分布与北方流民南迁示意图。",
+      "asset_ids": [
+        "history_book_01_p0036_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "示意图未作空间校准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0036_b004",
+      "page_id": "history_book_01_p0036",
+      "order": 4,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 西晋末年内迁少数民族分布与北方流民南迁示意图",
+      "clean_text": "西晋末年内迁少数民族分布与北方流民南迁示意图",
+      "asset_ids": [
+        "history_book_01_p0036_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_b005",
+      "page_id": "history_book_01_p0036",
+      "order": 5,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "西晋颁给内迁少数民族酋长的“晋归义羌侯”印文；红色印面篆文图像。",
+      "clean_text": "西晋颁给内迁少数民族酋长的“晋归义羌侯”印文。",
+      "asset_ids": [
+        "history_book_01_p0036_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_b006",
+      "page_id": "history_book_01_p0036",
+      "order": 6,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 西晋颁给内迁少数民族酋长的“晋归义羌侯”印文",
+      "clean_text": "西晋颁给内迁少数民族酋长的“晋归义羌侯”印文",
+      "asset_ids": [
+        "history_book_01_p0036_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_b007",
+      "page_id": "history_book_01_p0036",
+      "order": 7,
+      "type": "table",
+      "bbox": null,
+      "raw_text": "长安…………今陕西西安；丹阳郡…………郡治在今江苏南京；襄阳郡…………郡治在今湖北襄阳；蜀郡…………郡治在今四川成都；长沙郡…………郡治在今湖南长沙",
+      "clean_text": "图下注释：长安—今陕西西安；丹阳郡—郡治在今江苏南京；襄阳郡—郡治在今湖北襄阳；蜀郡—郡治在今四川成都；长沙郡—郡治在今湖南长沙。",
+      "asset_ids": [],
+      "table_data": {
+        "columns": [
+          "历史地名",
+          "今地"
+        ],
+        "rows": [
+          [
+            "长安",
+            "今陕西西安"
+          ],
+          [
+            "丹阳郡",
+            "郡治在今江苏南京"
+          ],
+          [
+            "襄阳郡",
+            "郡治在今湖北襄阳"
+          ],
+          [
+            "蜀郡",
+            "郡治在今四川成都"
+          ],
+          [
+            "长沙郡",
+            "郡治在今湖南长沙"
+          ]
+        ],
+        "notes": []
+      },
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0037_b001",
+      "page_id": "history_book_01_p0037",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "东晋与南朝",
+      "clean_text": "东晋与南朝",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0037_b002",
+      "page_id": "history_book_01_p0037",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "317年，西晋宗室司马睿在建康重建晋朝，史称东晋。自三国、西晋以来，一些声名显赫的士大夫家族世代把持官位，享受政治、经济等方面特权，形成一个特殊的社会阶层，称为士族。逃到南方的几家北方高门士族先后执掌朝政，成为东晋政权的主要支柱。他们争权夺利，势力逐渐衰弱。420年，出身低级士族的武将刘裕夺取皇位，改国号宋。此后170年间，南方先后经历了宋、齐、梁、陈四个王朝，合称南朝。四个王朝均定都建康，加上先前在此定都的吴和东晋，又统称为六朝。",
+      "clean_text": "317年，西晋宗室司马睿在建康重建晋朝，史称东晋。自三国、西晋以来，一些声名显赫的士大夫家族世代把持官位，享受政治、经济等方面特权，形成一个特殊的社会阶层，称为士族。逃到南方的几家北方高门士族先后执掌朝政，成为东晋政权的主要支柱。他们争权夺利，势力逐渐衰弱。420年，出身低级士族的武将刘裕夺取皇位，改国号宋。此后170年间，南方先后经历了宋、齐、梁、陈四个王朝，合称南朝。四个王朝均定都建康，加上先前在此定都的吴和东晋，又统称为六朝。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0037_b003",
+      "page_id": "history_book_01_p0037",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "从西晋末年起，北方人民为躲避战乱，大批流亡南下，带来了先进的生产工具和技术，也充实了劳动力资源。东晋南朝时期，南方土地大量开垦，农作物品种增加，产量提高。手工业方面，纺织、矿冶、陶瓷、造船、造纸等行业都有明显进步。在江南开发的过程中，许多山区的少数民族也逐步与汉族交融。",
+      "clean_text": "从西晋末年起，北方人民为躲避战乱，大批流亡南下，带来了先进的生产工具和技术，也充实了劳动力资源。东晋南朝时期，南方土地大量开垦，农作物品种增加，产量提高。手工业方面，纺织、矿冶、陶瓷、造船、造纸等行业都有明显进步。在江南开发的过程中，许多山区的少数民族也逐步与汉族交融。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0037_b004",
+      "page_id": "history_book_01_p0037",
+      "order": 4,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "东晋的士族专权：东晋建立之初，高门士族琅邪（yá）王氏当权。其代表人物王导在朝中担任宰相，王敦统重兵坐镇长江中游，内外相应。司马睿即位接受百官朝贺时，甚至请王导与他并排上坐，王导坚决推辞，方才作罢，时称“王与马，共天下”。此后，颍川庾氏、谯国桓氏、陈郡谢氏、太原王氏等士族相继掌权。",
+      "clean_text": "历史纵横：东晋士族专权，王导、王敦等高门士族掌握朝政，时称“王与马，共天下”。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0037_b005",
+      "page_id": "history_book_01_p0037",
+      "order": 5,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "在东晋和南朝相继统治下，南方经济有了明显发展。",
+      "clean_text": "学习聚焦：在东晋和南朝相继统治下，南方经济有了明显发展。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0037_b006",
+      "page_id": "history_book_01_p0037",
+      "order": 6,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "《宋书》记载南朝第一个王朝刘宋历史，其中有一段描述：至于元嘉末……兵车勿用，民不外劳，役宽务简，氓庶繁息，至余粮栖亩，户不夜扃（jiōng），盖东西之极盛也……地广野丰，民勤本业，一岁或稔（rěn），则数郡忘饥。会土带海傍湖，良畴亦数十万顷，膏腴上地，亩直一金，鄠（hù）、杜之间，不能比也。荆城跨南楚之富，扬部有全吴之沃，鱼盐杞梓之利，充仞八方，丝绵布帛之饶，覆衣天下。——《宋书》",
+      "clean_text": "材料：据《宋书》描述刘宋元嘉末年南方经济状况。教材保留了注音。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0037_b007",
+      "page_id": "history_book_01_p0037",
+      "order": 7,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "根据材料，说说当时南方经济发展的成就。",
+      "clean_text": "学思之窗：根据材料说明南方经济发展的成就。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0037_b008",
+      "page_id": "history_book_01_p0037",
+      "order": 8,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "东晋南朝时期江南得到开发的原因有哪些？",
+      "clean_text": "思考点：东晋南朝时期江南得到开发的原因。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_b001",
+      "page_id": "history_book_01_p0038",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "十六国与北朝",
+      "clean_text": "十六国与北朝",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_b002",
+      "page_id": "history_book_01_p0038",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "西晋末年到东晋时期，北方先后出现了一批割据政权，最主要的有15个，加上西南地区的成汉，合称“十六国”。其中大部分由内迁少数民族建立。它们都采用了中原模式的国号、年号，学习汉族的典章制度。在长期混战中，原有民族布局被打乱，各族之间频繁接触，差异慢慢缩小，但民族隔阂仍然广泛存在。4世纪下半叶，氐族建立的前秦统一北方，随后大举进攻东晋，被击败于淝水。由于内部各族尚未充分交融，统治基础脆弱，强大的前秦政权在淝水之战后迅速崩溃，曾经稍显缓和的民族矛盾又加剧了。",
+      "clean_text": "四世纪下半叶氐族建立的前秦统一北方，进攻东晋后在淝水战败并迅速崩溃；教材解释其与内部民族融合不足、统治基础脆弱有关。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_b003",
+      "page_id": "history_book_01_p0038",
+      "order": 3,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "东晋十六国形势图；图内标有东晋、十六国、前秦、西凉、西秦、后秦、前赵、后赵、前燕、后燕、南燕、北燕、夏、北凉、前凉、南凉、后凉、成汉、建康、淝水，以及都城、政权部族界、今国界等图例。",
+      "clean_text": "东晋十六国形势图。",
+      "asset_ids": [
+        "history_book_01_p0038_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "地图未作空间校准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0038_b004",
+      "page_id": "history_book_01_p0038",
+      "order": 4,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 东晋十六国形势图",
+      "clean_text": "东晋十六国形势图",
+      "asset_ids": [
+        "history_book_01_p0038_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_b005",
+      "page_id": "history_book_01_p0038",
+      "order": 5,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "从十六国到北朝，北方政权在民族交融的基础上逐渐壮大，为统一全国准备了条件。",
+      "clean_text": "学习聚焦：从十六国到北朝，北方政权在民族交融基础上逐渐壮大，为统一全国准备条件。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_b006",
+      "page_id": "history_book_01_p0038",
+      "order": 6,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "鲜卑旧墟石室嘎仙洞祝文；黑白石壁文字照片。",
+      "clean_text": "鲜卑旧墟石室嘎仙洞祝文。",
+      "asset_ids": [
+        "history_book_01_p0038_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_b007",
+      "page_id": "history_book_01_p0038",
+      "order": 7,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 鲜卑旧墟石室嘎仙洞祝文",
+      "clean_text": "鲜卑旧墟石室嘎仙洞祝文",
+      "asset_ids": [
+        "history_book_01_p0038_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_b008",
+      "page_id": "history_book_01_p0038",
+      "order": 8,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1980年，考古工作者在内蒙古鄂伦春自治旗一个山洞——嘎仙洞的石壁上，发现了北魏皇帝祭祖时镌刻的祝文，文字内容与《魏书》相关记载相同，证明嘎仙洞就是《魏书》中提到的鲜卑拓跋部“石室”祖庙。",
+      "clean_text": "1980年，考古工作者在内蒙古鄂伦春自治旗一个山洞——嘎仙洞的石壁上，发现了北魏皇帝祭祖时镌刻的祝文，文字内容与《魏书》相关记载相同，证明嘎仙洞就是《魏书》中提到的鲜卑拓跋部“石室”祖庙。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_b009",
+      "page_id": "history_book_01_p0038",
+      "order": 9,
+      "type": "table",
+      "bbox": null,
+      "raw_text": "十六国统治者族属表：匈奴：前赵、北凉、夏、后赵；羯：后赵；氐：前秦、后凉、后秦、成汉；羌（表格字样待核）；鲜卑：前燕、后燕、南燕、南凉、西秦；汉：前凉、北燕、西凉。",
+      "clean_text": "十六国统治者族属表。",
+      "asset_ids": [],
+      "table_data": {
+        "columns": [
+          "族属",
+          "政权"
+        ],
+        "rows": [
+          [
+            "匈奴",
+            "前赵、北凉、夏、后赵"
+          ],
+          [
+            "羯",
+            "后赵"
+          ],
+          [
+            "氐",
+            "前秦、后凉、后秦、成汉"
+          ],
+          [
+            "羌",
+            "教材表格列示，字样需复核"
+          ],
+          [
+            "鲜卑",
+            "前燕、后燕、南燕、南凉、西秦"
+          ],
+          [
+            "汉",
+            "前凉、北燕、西凉"
+          ]
+        ],
+        "notes": [
+          "“羌”行按可辨内容保留，未补写不可确认政权。"
+        ]
+      },
+      "notes": [
+        "“羌”行的政权归属文字较小，已登记待核验问题。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0038_b010",
+      "page_id": "history_book_01_p0038",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "建康…………今江苏南京；夷洲…………今台湾；平城，今山西大同。",
+      "clean_text": "图下注释：建康—今江苏南京；夷洲—今台湾。页脚注释：平城，今山西大同。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    }
+  ],
+  "assets": [
+    {
+      "id": "history_book_01_p0030_a001",
+      "page_id": "history_book_01_p0030",
+      "block_id": "history_book_01_p0030_b002",
+      "type": "map",
+      "bbox": null,
+      "file_path": null,
+      "caption": "西汉形势图",
+      "visible_text": "西汉；匈奴；乌孙；羌；鲜卑；龟兹；焉耆；葱岭；西域都护府；敦煌郡；酒泉郡；张掖郡；武威郡；河西四郡；长安；黄河；长江；东海；南海；图例：都城、郡级驻所、河西四郡、长城、政权部族界、今国界。",
+      "description": "教材历史地图，展示西汉版图、政权部族界、河西四郡和相关地名；不把像素边界当作几何。",
+      "claims": [],
+      "notes": [
+        "地图内小字按高分辨率渲染可辨部分记录，地名与年代仍需人工校勘。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0031_a001",
+      "page_id": "history_book_01_p0031",
+      "block_id": "history_book_01_p0031_b008",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "东汉画像砖中描绘的集市",
+      "visible_text": "图像中人物与摊位，无独立可读标题",
+      "description": "黑白画像砖上的集市场景，客观描述不推定人物身份。",
+      "claims": [],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0032_a001",
+      "page_id": "history_book_01_p0032",
+      "block_id": "history_book_01_p0032_b009",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "《九章算术》书影",
+      "visible_text": "九章算术；书影封面竖排文字（部分字样不清）",
+      "description": "古籍书影，部分封面字样细小或模糊，未据书影推定版本。",
+      "claims": [],
+      "notes": [
+        "书影中的细小字样未逐字OCR。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0034_a001",
+      "page_id": "history_book_01_p0034",
+      "block_id": "history_book_01_p0034_b004",
+      "type": "illustration",
+      "bbox": null,
+      "file_path": null,
+      "caption": "第二单元导语背景插图",
+      "visible_text": "无可确认文字",
+      "description": "历史题材人物骑马、旌旗和山水背景插图，仅作视觉记录。",
+      "claims": [],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_a001",
+      "page_id": "history_book_01_p0035",
+      "block_id": "history_book_01_p0035_b002",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "四川成都武侯祠",
+      "visible_text": "武侯祠；牌坊上可见“武侯祠”等字样",
+      "description": "四川成都武侯祠牌坊照片，地点依据教材图注。",
+      "claims": [],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_a002",
+      "page_id": "history_book_01_p0035",
+      "block_id": "history_book_01_p0035_b007",
+      "type": "map",
+      "bbox": null,
+      "file_path": null,
+      "caption": "三国鼎立形势图（262年）",
+      "visible_text": "魏；蜀；吴；鲜卑；羌；氐；山越；南中；洛阳；许昌；建业；成都；荆州；赤壁；官渡；隆中；夷洲；东海；南海；图例：都城、州级驻所、政权部族界、今国界未定。",
+      "description": "教材历史地图，展示262年三国政权及相关地名；不直接数字化疆域。",
+      "claims": [],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_a001",
+      "page_id": "history_book_01_p0036",
+      "block_id": "history_book_01_p0036_b003",
+      "type": "map",
+      "bbox": null,
+      "file_path": null,
+      "caption": "西晋末年内迁少数民族分布与北方流民南迁示意图",
+      "visible_text": "鲜卑；匈奴；羌；氐；羯；长安；洛阳；襄阳郡；丹阳郡；蜀郡；长沙郡；流民南迁方向；政权部族界；今国界",
+      "description": "教材示意图，既有族群分布色块又有流民南迁箭头；未作地理校准。",
+      "claims": [],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_a002",
+      "page_id": "history_book_01_p0036",
+      "block_id": "history_book_01_p0036_b005",
+      "type": "other",
+      "bbox": null,
+      "file_path": null,
+      "caption": "“晋归义羌侯”印文",
+      "visible_text": "晋归义羌侯",
+      "description": "红色印文图像，印文内容由图注确认。",
+      "claims": [],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_a001",
+      "page_id": "history_book_01_p0038",
+      "block_id": "history_book_01_p0038_b003",
+      "type": "map",
+      "bbox": null,
+      "file_path": null,
+      "caption": "东晋十六国形势图",
+      "visible_text": "东晋；十六国；前秦；西凉；西秦；后秦；前赵；后赵；前燕；后燕；南燕；北燕；夏；北凉；前凉；南凉；后凉；成汉；建康；淝水；东海；南海；图例：都城、政权部族界、今国界。",
+      "description": "教材历史地图，展示东晋十六国时期政权及相关地名；未作空间校准。",
+      "claims": [],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_a002",
+      "page_id": "history_book_01_p0038",
+      "block_id": "history_book_01_p0038_b006",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "鲜卑旧墟石室嘎仙洞祝文",
+      "visible_text": "石壁祝文；图中文字细小不可完整辨认",
+      "description": "嘎仙洞石壁祝文黑白照片，历史含义以旁正文和图注为依据。",
+      "claims": [],
+      "notes": [
+        "图片文字未逐字转录。"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "history_book_01_p0030_pl001",
+      "name_as_written": "乌垒城",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0030_b001",
+        "history_book_01_p0030_b007"
+      ],
+      "notes": [
+        "脚注给出现今新疆巴州轮台县，尚未做坐标核验。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0030_pl002",
+      "name_as_written": "西域都护府",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0030_b001"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0030_pl003",
+      "name_as_written": "长安",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0030_b002",
+        "history_book_01_p0030_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0030_pl004",
+      "name_as_written": "昆阳",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0030_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0030_pl005",
+      "name_as_written": "洛阳",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0030_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_pl001",
+      "name_as_written": "成都",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0035_b004",
+        "history_book_01_p0035_b007"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_pl002",
+      "name_as_written": "武侯祠",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0035_b002",
+        "history_book_01_p0035_b004"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_pl003",
+      "name_as_written": "洛阳",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0035_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_pl004",
+      "name_as_written": "建业",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0035_b006",
+        "history_book_01_p0035_b009"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_pl005",
+      "name_as_written": "官渡",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0035_b007",
+        "history_book_01_p0035_b009"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_pl006",
+      "name_as_written": "隆中",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0035_b007",
+        "history_book_01_p0035_b009"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_pl007",
+      "name_as_written": "赤壁",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0035_b007",
+        "history_book_01_p0035_b009"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_pl008",
+      "name_as_written": "夷洲",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0035_b007",
+        "history_book_01_p0035_b009"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_pl001",
+      "name_as_written": "长安",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0036_b002",
+        "history_book_01_p0036_b003",
+        "history_book_01_p0036_b007"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_pl002",
+      "name_as_written": "洛阳",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0036_b003"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_pl003",
+      "name_as_written": "襄阳郡",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0036_b003",
+        "history_book_01_p0036_b007"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_pl004",
+      "name_as_written": "丹阳郡",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0036_b003",
+        "history_book_01_p0036_b007"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_pl005",
+      "name_as_written": "蜀郡",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0036_b003",
+        "history_book_01_p0036_b007"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_pl006",
+      "name_as_written": "长沙郡",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0036_b003",
+        "history_book_01_p0036_b007"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0037_pl001",
+      "name_as_written": "建康",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0037_b002"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_pl001",
+      "name_as_written": "淝水",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0038_b002",
+        "history_book_01_p0038_b003"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_pl002",
+      "name_as_written": "平城",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0038_b008",
+        "history_book_01_p0038_b010"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_pl003",
+      "name_as_written": "嘎仙洞",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0038_b006",
+        "history_book_01_p0038_b008"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_pl004",
+      "name_as_written": "夷洲",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0038_b010"
+      ],
+      "notes": []
+    }
+  ],
+  "people": [
+    {
+      "id": "history_book_01_p0030_pe001",
+      "name_as_written": "刘秀",
+      "aliases": [
+        "汉光武帝"
+      ],
+      "evidence_block_ids": [
+        "history_book_01_p0030_b005",
+        "history_book_01_p0030_b006",
+        "history_book_01_p0031_b001"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0030_pe002",
+      "name_as_written": "王莽",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0030_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0031_pe001",
+      "name_as_written": "张角",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0031_b003"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0031_pe002",
+      "name_as_written": "司马迁",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0031_b005",
+        "history_book_01_p0033_b001"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0031_pe003",
+      "name_as_written": "班固",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0031_b005",
+        "history_book_01_p0033_b001"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0032_pe001",
+      "name_as_written": "蔡伦",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0032_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0032_pe002",
+      "name_as_written": "张衡",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0032_b008"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0032_pe003",
+      "name_as_written": "张仲景",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0032_b008"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0032_pe004",
+      "name_as_written": "华佗",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0032_b008"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0033_pe001",
+      "name_as_written": "霍去病",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0033_b001"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0033_pe002",
+      "name_as_written": "张骞",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0033_b001"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0033_pe003",
+      "name_as_written": "苏武",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0033_b001"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0033_pe004",
+      "name_as_written": "马援",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0033_b001"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0033_pe005",
+      "name_as_written": "班超",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0033_b001"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0033_pe006",
+      "name_as_written": "仲长统",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0033_b004"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_pe001",
+      "name_as_written": "刘备",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0035_b004",
+        "history_book_01_p0035_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_pe002",
+      "name_as_written": "诸葛亮",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0035_b004"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_pe003",
+      "name_as_written": "曹操",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0035_b004",
+        "history_book_01_p0035_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_pe004",
+      "name_as_written": "孙权",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0035_b004",
+        "history_book_01_p0035_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_pe005",
+      "name_as_written": "曹丕",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0035_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_pe001",
+      "name_as_written": "司马昭",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0036_b001"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_pe002",
+      "name_as_written": "司马炎",
+      "aliases": [
+        "晋武帝"
+      ],
+      "evidence_block_ids": [
+        "history_book_01_p0036_b001"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0037_pe001",
+      "name_as_written": "司马睿",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0037_b002",
+        "history_book_01_p0037_b004"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0037_pe002",
+      "name_as_written": "刘裕",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0037_b002",
+        "history_book_01_p0037_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0037_pe003",
+      "name_as_written": "王导",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0037_b004"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0037_pe004",
+      "name_as_written": "王敦",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0037_b004"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_pe001",
+      "name_as_written": "拓跋宏",
+      "aliases": [
+        "北魏孝文帝"
+      ],
+      "evidence_block_ids": [
+        "history_book_01_p0038_b008"
+      ],
+      "notes": []
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "history_book_01_p0030_k001",
+      "title": "西汉设置西域都护府",
+      "kind": "event",
+      "content_type": "institution",
+      "themes": [
+        "politics",
+        "foreign_relations"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0030_pl001",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0030_b001",
+            "history_book_01_p0030_b007"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "西汉在乌垒城设置西域都护府，作为管理西域的军政机构。",
+        "evidence_block_ids": [
+          "history_book_01_p0030_b001"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": {
+        "text": "西汉对东南沿海和西南少数民族地区治理更有效，统一多民族封建国家得到巩固加强。",
+        "evidence_block_ids": [
+          "history_book_01_p0030_b001"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0030_b001"
+      ],
+      "asset_ids": [
+        "history_book_01_p0030_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0030_i001"
+      ],
+      "uncertainties": [
+        "页首时间跨页，需人工确认“公元前60年”。"
+      ],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "元前60年",
+        "mode": "point",
+        "start_year": -60,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": "“元前”承接第29页末尾“公”，按跨页暂存为公元前60年，待复核。",
+        "evidence_block_ids": [
+          "history_book_01_p0030_b001"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0030_k002",
+      "title": "王莽改国号为新与西汉灭亡",
+      "kind": "event",
+      "content_type": "event",
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0030_pe002"
+      ],
+      "summary": {
+        "text": "外戚王莽夺取皇位，改国号为新，西汉灭亡。",
+        "evidence_block_ids": [
+          "history_book_01_p0030_b006"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": {
+        "text": "西汉后期政治黑暗、土地兼并严重、赋税徭役沉重，破产农民沦为奴婢或流亡。",
+        "evidence_block_ids": [
+          "history_book_01_p0030_b006"
+        ]
+      },
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0030_b006"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0030_i002"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "公元9年",
+        "mode": "point",
+        "start_year": 9,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0030_b006"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0030_k003",
+      "title": "绿林、赤眉起义与王莽政权覆亡",
+      "kind": "event",
+      "content_type": "war",
+      "themes": [
+        "war",
+        "society",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0030_pl004",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0030_b006"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0030_pl003",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0030_b006"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "绿林、赤眉等农民大起义爆发；23年绿林军在昆阳击败王莽军队主力，随后攻入长安推翻王莽政权。",
+        "evidence_block_ids": [
+          "history_book_01_p0030_b006"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": {
+        "text": "王莽统治末年发生严重旱灾和蝗灾，社会危机激化。",
+        "evidence_block_ids": [
+          "history_book_01_p0030_b006"
+        ]
+      },
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0030_b006"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0030_i003"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "23年",
+        "mode": "point",
+        "start_year": 23,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": "教材未写“公元”，按教材语境暂作公元23年，需人工核对。",
+        "evidence_block_ids": [
+          "history_book_01_p0030_b006"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0030_k004",
+      "title": "刘秀重建汉朝与光武中兴",
+      "kind": "process",
+      "content_type": "institution",
+      "themes": [
+        "politics",
+        "economy"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0030_pl005",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0030_b006"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0030_pe001"
+      ],
+      "summary": {
+        "text": "25年刘秀重建汉朝，定都洛阳，史称东汉；东汉初年加强皇权、整顿吏治、清查垦田和户口，社会经济重新发展，史称“光武中兴”。",
+        "evidence_block_ids": [
+          "history_book_01_p0030_b006",
+          "history_book_01_p0031_b001"
+        ]
+      },
+      "flow": [
+        {
+          "text": "东汉初年采取加强集权、发展生产等措施。",
+          "evidence_block_ids": [
+            "history_book_01_p0030_b005",
+            "history_book_01_p0030_b006"
+          ]
+        }
+      ],
+      "points": [],
+      "background": null,
+      "impact": {
+        "text": "社会经济在稳定政局下重新发展起来，史称“光武中兴”。",
+        "evidence_block_ids": [
+          "history_book_01_p0031_b001"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0030_b005",
+        "history_book_01_p0030_b006",
+        "history_book_01_p0031_b001"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0030_i004"
+      ],
+      "uncertainties": [
+        "结束年份未知，不标记为ongoing。"
+      ],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "25年，东汉初年",
+        "mode": "duration",
+        "start_year": 25,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "教材给出重建汉朝为25年，但未给出“光武中兴”结束年。",
+        "evidence_block_ids": [
+          "history_book_01_p0030_b006",
+          "history_book_01_p0031_b001"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0031_k001",
+      "title": "东汉外戚宦官交替专权与党锢之祸",
+      "kind": "process",
+      "content_type": "other",
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "东汉中期以后外戚与宦官交替专权，政治腐朽黑暗；正直官员和士人因“清议”触犯宦官利益，被诬为“党人”并遭镇压，史称“党锢之祸”。",
+        "evidence_block_ids": [
+          "history_book_01_p0031_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0031_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0031_i001"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "东汉中期以后",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "教材仅给出时期，不换算公历范围。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0031_b002"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0031_k002",
+      "title": "黄巾起义与东汉政权名存实亡",
+      "kind": "event",
+      "content_type": "war",
+      "themes": [
+        "war",
+        "society",
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0031_pe001"
+      ],
+      "summary": {
+        "text": "张角创立的太平道信徒在多地发动黄巾起义；起义动摇东汉统治基础，地方长官拥兵自重，军阀割据出现。",
+        "evidence_block_ids": [
+          "history_book_01_p0031_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": {
+        "text": "东汉时期豪强地主势力发展、土地兼并严重，阶级矛盾尖锐。",
+        "evidence_block_ids": [
+          "history_book_01_p0031_b003"
+        ]
+      },
+      "impact": {
+        "text": "黄巾起义动摇东汉王朝统治基础，东汉政权名存实亡。",
+        "evidence_block_ids": [
+          "history_book_01_p0031_b003"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0031_b003"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0031_i002"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "184年",
+        "mode": "point",
+        "start_year": 184,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0031_b003"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0031_k003",
+      "title": "《史记》与《汉书》的史学成就",
+      "kind": "origin",
+      "content_type": "culture",
+      "themes": [
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0031_pe002",
+        "history_book_01_p0031_pe003"
+      ],
+      "summary": {
+        "text": "《史记》首创纪传体通史体裁；《汉书》是我国第一部纪传体断代史。",
+        "evidence_block_ids": [
+          "history_book_01_p0031_b005"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "《史记》叙述上起黄帝、下至汉武帝年间的历史，兼具史学和文学特色。",
+          "evidence_block_ids": [
+            "history_book_01_p0031_b005"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0031_b005"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0031_i003"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "西汉至东汉",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "教材未给出具体成书年份。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0031_b005"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0031_k004",
+      "title": "汉赋、乐府诗与五言诗",
+      "kind": "process",
+      "content_type": "culture",
+      "themes": [
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "两汉文学成就集中在汉赋、乐府诗；东汉民间流行五言诗，语言朴实生动、传播广泛。",
+        "evidence_block_ids": [
+          "history_book_01_p0031_b006",
+          "history_book_01_p0032_b001"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "汉赋介于韵文和散文之间，乐府诗由乐府采集民歌修改而成。",
+          "evidence_block_ids": [
+            "history_book_01_p0031_b006"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0031_b006",
+        "history_book_01_p0032_b001"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0031_i004"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "两汉",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "教材以“两汉”概括，未换算具体年代。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0031_b006",
+          "history_book_01_p0032_b001"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0032_k001",
+      "title": "两汉科技成就与蔡伦改进造纸术",
+      "kind": "process",
+      "content_type": "science",
+      "themes": [
+        "science",
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0032_pe001"
+      ],
+      "summary": {
+        "text": "《黄帝内经》奠定中医理论基础，《神农本草经》是中国古代第一部药物学专著，《九章算术》在中外数学史上有重要地位；105年蔡伦改进造纸术。",
+        "evidence_block_ids": [
+          "history_book_01_p0032_b006"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": {
+        "text": "纸成为主要书写材料，促进中国和世界文化传播发展。",
+        "evidence_block_ids": [
+          "history_book_01_p0032_b006"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0032_b006"
+      ],
+      "asset_ids": [
+        "history_book_01_p0032_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0032_i001"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "两汉",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "教材同时涉及战国至西汉间成书及105年事件，保留原话。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0032_b006"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0032_k002",
+      "title": "两汉其他重要科技成就",
+      "kind": "process",
+      "content_type": "science",
+      "themes": [
+        "science",
+        "agriculture"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0032_pe002",
+        "history_book_01_p0032_pe003",
+        "history_book_01_p0032_pe004"
+      ],
+      "summary": {
+        "text": "《周髀算经》记载测日影求日高并引用商高定理；张衡发明候风地动仪并撰《灵宪》；张仲景著《伤寒杂病论》；华佗发明麻沸散；《氾胜之书》和《四民月令》含农学内容。",
+        "evidence_block_ids": [
+          "history_book_01_p0032_b008"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0032_b008"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0032_i002"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "两汉",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "教材按两汉时期列举，未给出统一年代。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0032_b008"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0033_k001",
+      "title": "两汉杰出人物的家国情怀",
+      "kind": "process",
+      "content_type": "culture",
+      "themes": [
+        "culture",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0031_pe002",
+        "history_book_01_p0033_pe001",
+        "history_book_01_p0033_pe002",
+        "history_book_01_p0033_pe003",
+        "history_book_01_p0033_pe004",
+        "history_book_01_p0033_pe005"
+      ],
+      "summary": {
+        "text": "教材列举司马迁、霍去病、张骞、苏武、马援、班超等人物的志向、勇气、精神与情怀，认为其熔铸为中华优秀传统文化的组成部分。",
+        "evidence_block_ids": [
+          "history_book_01_p0033_b001"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0033_b001"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0033_i001"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "两汉",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "教材将其作为文化与学习拓展，未逐一给出人物年代。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0033_b001"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0033_k002",
+      "title": "东汉豪强地主势力发展及其与政权衰亡的关系",
+      "kind": "process",
+      "content_type": "other",
+      "themes": [
+        "society",
+        "politics",
+        "economy"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0033_pe006"
+      ],
+      "summary": {
+        "text": "仲长统材料描写东汉豪强地主的土地、财富、奴婢和宾客规模；教材要求分析其与东汉政权衰亡的关系。",
+        "evidence_block_ids": [
+          "history_book_01_p0033_b004",
+          "history_book_01_p0033_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0033_b004",
+        "history_book_01_p0033_b005"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0033_i002"
+      ],
+      "uncertainties": [
+        "因果关系保留为探究问题，待人工审核。",
+        "原提取 content_type=society 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "东汉末年",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "关系结论由问题探究提出，未直接当作教材定论。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0033_b004",
+          "history_book_01_p0033_b005"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0034_k001",
+      "title": "三国两晋南北朝至五代十国的阶段概述",
+      "kind": "process",
+      "content_type": "event",
+      "themes": [
+        "politics",
+        "economy",
+        "culture",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "三国两晋南北朝经历政权分裂、南方开发和民族交融；隋唐统一王朝国力强盛，唐中期安史之乱后最终演变为五代十国分裂。",
+        "evidence_block_ids": [
+          "history_book_01_p0034_b002"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "单元强调制度演进、民族交融、区域开发和思想文化发展。",
+          "evidence_block_ids": [
+            "history_book_01_p0034_b003"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0034_b002",
+        "history_book_01_p0034_b003"
+      ],
+      "asset_ids": [
+        "history_book_01_p0034_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0034_i001"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "三国至五代十国",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "单元导语概述多个阶段，未换算为单一连续年代。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0034_b002"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0035_k001",
+      "title": "刘备拜访诸葛亮与三分天下预言",
+      "kind": "event",
+      "content_type": "event",
+      "themes": [
+        "politics",
+        "war"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0035_pl002",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0035_b004"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0035_pe001",
+        "history_book_01_p0035_pe002",
+        "history_book_01_p0035_pe003",
+        "history_book_01_p0035_pe004"
+      ],
+      "summary": {
+        "text": "207年刘备拜访诸葛亮；诸葛亮据曹操、孙权与刘备的势力提出“三分天下”判断，后来得到应验。",
+        "evidence_block_ids": [
+          "history_book_01_p0035_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0035_b004"
+      ],
+      "asset_ids": [
+        "history_book_01_p0035_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0035_i001"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "207年",
+        "mode": "point",
+        "start_year": 207,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0035_b004"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0035_k002",
+      "title": "三国鼎立",
+      "kind": "process",
+      "content_type": "other",
+      "themes": [
+        "politics",
+        "war"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0035_pl003",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0035_b006"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0035_pl004",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0035_b006"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0035_pl001",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0035_b006"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0035_pe001",
+        "history_book_01_p0035_pe004",
+        "history_book_01_p0035_pe005"
+      ],
+      "summary": {
+        "text": "220年曹丕称帝建立魏，东汉灭亡；刘备、孙权相继称帝，形成三国鼎立局面。",
+        "evidence_block_ids": [
+          "history_book_01_p0035_b006"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0035_b006",
+        "history_book_01_p0035_b007"
+      ],
+      "asset_ids": [
+        "history_book_01_p0035_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0035_i002"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "220年后",
+        "mode": "unknown",
+        "start_year": 220,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "教材给出220年曹丕称帝及三国相继称帝，未给出鼎立结束年。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0035_b006"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0036_k001",
+      "title": "西晋短暂统一",
+      "kind": "event",
+      "content_type": "other",
+      "themes": [
+        "politics",
+        "war"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0036_pl002",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0036_b001"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0036_pe002"
+      ],
+      "summary": {
+        "text": "266年司马炎代魏称帝建立西晋，280年西晋灭吴，完成统一。",
+        "evidence_block_ids": [
+          "history_book_01_p0036_b001"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0036_b001"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0036_i001"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "280年",
+        "mode": "point",
+        "start_year": 280,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0036_b001"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0036_k002",
+      "title": "西晋少数民族内迁与政权分立",
+      "kind": "process",
+      "content_type": "other",
+      "themes": [
+        "society",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0036_pl001",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0036_b002",
+            "history_book_01_p0036_b003"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "西、北边陲少数民族不断向内地迁徙；西晋时期主要有匈奴、羯、氐、羌和鲜卑。316年西晋被内迁匈奴贵族所灭，随后进入东晋十六国割据并演变为南北朝对峙。",
+        "evidence_block_ids": [
+          "history_book_01_p0036_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0036_b002"
+      ],
+      "asset_ids": [
+        "history_book_01_p0036_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0036_i002"
+      ],
+      "uncertainties": [
+        "原提取 content_type=society 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "东汉以来至316年",
+        "mode": "duration",
+        "start_year": null,
+        "end_year": 316,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "known",
+        "normalization_note": "教材明确以316年西晋灭亡为阶段终点，但未给出内迁起点的公历年。",
+        "evidence_block_ids": [
+          "history_book_01_p0036_b002"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0037_k001",
+      "title": "东晋建立与南朝更替",
+      "kind": "process",
+      "content_type": "other",
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0037_pl001",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0037_b002"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0037_pe001",
+        "history_book_01_p0037_pe002"
+      ],
+      "summary": {
+        "text": "317年司马睿在建康重建晋朝，史称东晋；420年刘裕建立宋，此后南方经历宋、齐、梁、陈四朝，合称南朝；吴、东晋及南朝四朝又统称六朝。",
+        "evidence_block_ids": [
+          "history_book_01_p0037_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0037_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0037_i001"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "317—约589年",
+        "mode": "unknown",
+        "start_year": 317,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "教材给出317年、420年和170年间，未给出南朝结束公历年。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0037_b002"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0037_k002",
+      "title": "士族专权",
+      "kind": "process",
+      "content_type": "other",
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0037_pl001",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0037_b004"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0037_pe001",
+        "history_book_01_p0037_pe003",
+        "history_book_01_p0037_pe004"
+      ],
+      "summary": {
+        "text": "士大夫家族世代把持官位并享有特权，东晋高门士族先后执掌朝政，形成“王与马，共天下”的局面。",
+        "evidence_block_ids": [
+          "history_book_01_p0037_b002",
+          "history_book_01_p0037_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0037_b002",
+        "history_book_01_p0037_b004"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0037_i002"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "三国、西晋以来至东晋南朝",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "教材仅给出历史时期，不换算具体年代。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0037_b002",
+          "history_book_01_p0037_b004"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0037_k003",
+      "title": "东晋南朝时期江南开发",
+      "kind": "process",
+      "content_type": "economy",
+      "themes": [
+        "economy",
+        "agriculture",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "北方人民南迁带来生产工具、技术和劳动力；南方土地开垦、农作物品种增加、产量提高，纺织、矿冶、陶瓷、造船、造纸等手工业进步，少数民族逐步与汉族交融。",
+        "evidence_block_ids": [
+          "history_book_01_p0037_b003"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "《宋书》材料描写刘宋元嘉末年南方农业、人口和手工业状况；教材要求据材料说明经济发展成就。",
+          "evidence_block_ids": [
+            "history_book_01_p0037_b006",
+            "history_book_01_p0037_b007"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0037_b003",
+        "history_book_01_p0037_b006",
+        "history_book_01_p0037_b007"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0037_i003"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "东晋南朝时期",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "教材未给出具体起止公历年。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0037_b003",
+          "history_book_01_p0037_b006",
+          "history_book_01_p0037_b007"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0038_k001",
+      "title": "十六国与民族交融",
+      "kind": "process",
+      "content_type": "other",
+      "themes": [
+        "politics",
+        "society",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "西晋末年至东晋时期北方出现主要15个割据政权，加成汉合称十六国；大多由内迁少数民族建立，并采用中原国号、年号和典章制度。长期混战中各族频繁接触，差异缩小但隔阂仍存。",
+        "evidence_block_ids": [
+          "history_book_01_p0038_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0038_b002",
+        "history_book_01_p0038_b003"
+      ],
+      "asset_ids": [
+        "history_book_01_p0038_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0038_i001"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "西晋末年到东晋时期",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "教材给出历史时期和“十六国”数量，不换算公历范围。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0038_b002"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0038_k002",
+      "title": "前秦统一北方与淝水之战",
+      "kind": "event",
+      "content_type": "war",
+      "themes": [
+        "war",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0038_pl001",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0038_b002",
+            "history_book_01_p0038_b003"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "氐族建立的前秦统一北方，随后进攻东晋，在淝水被击败；前秦因内部各族尚未充分交融、统治基础脆弱而迅速崩溃。",
+        "evidence_block_ids": [
+          "history_book_01_p0038_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": {
+        "text": "淝水之战后民族矛盾又加剧。",
+        "evidence_block_ids": [
+          "history_book_01_p0038_b002"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0038_b002"
+      ],
+      "asset_ids": [
+        "history_book_01_p0038_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0038_i002"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "4世纪下半叶",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "century",
+        "end_status": "unknown",
+        "normalization_note": "教材仅给出“4世纪下半叶”，不将其误写为持续整个世纪。",
+        "evidence_block_ids": [
+          "history_book_01_p0038_b002"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0038_k003",
+      "title": "北魏统一北方与民族交融",
+      "kind": "process",
+      "content_type": "other",
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0038_pl002",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0038_b008"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0038_pe001"
+      ],
+      "summary": {
+        "text": "鲜卑拓跋部建立的北魏于439年统一北方；5世纪后期北魏孝文帝拓跋宏在位，大力推动民族交融，并将都城从平城迁到洛阳。",
+        "evidence_block_ids": [
+          "history_book_01_p0038_b008"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0038_b008"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0038_i003"
+      ],
+      "uncertainties": [
+        "汉化措施在第39页续接，本批不补写。",
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "4世纪末至5世纪后期",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "本页末段在“鲜”处跨页，后续措施待第39页补全。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0038_b008"
+        ]
+      }
+    },
+    {
+      "id": "history_book_01_p0038_k004",
+      "title": "嘎仙洞石室祖庙的考古证据",
+      "kind": "event",
+      "content_type": "culture",
+      "themes": [
+        "culture",
+        "science"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0038_pl003",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0038_b008"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "1980年考古工作者在嘎仙洞石壁发现北魏皇帝祭祖祝文；文字内容与《魏书》相关记载相同，教材据此说明嘎仙洞即鲜卑拓跋部“石室”祖庙。",
+        "evidence_block_ids": [
+          "history_book_01_p0038_b008"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0038_b008"
+      ],
+      "asset_ids": [
+        "history_book_01_p0038_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0038_i004"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review",
+      "time": {
+        "source_text": "1980年",
+        "mode": "point",
+        "start_year": 1980,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0038_b008"
+        ]
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "history_book_01_p0035_r001",
+      "from_knowledge_id": "history_book_01_p0035_k001",
+      "to_knowledge_id": "history_book_01_p0035_k002",
+      "target_label": "三国鼎立",
+      "type": "other",
+      "person_ids": [
+        "history_book_01_p0035_pe001",
+        "history_book_01_p0035_pe002"
+      ],
+      "place_ids": [],
+      "time_text": null,
+      "description": "教材称“三分天下”预言后来得到应验，后文以三国鼎立局面承接。",
+      "evidence_block_ids": [
+        "history_book_01_p0035_b004",
+        "history_book_01_p0035_b006"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0036_r001",
+      "from_knowledge_id": "history_book_01_p0036_k001",
+      "to_knowledge_id": "history_book_01_p0036_k002",
+      "target_label": "政权分立时期",
+      "type": "other",
+      "person_ids": [
+        "history_book_01_p0036_pe002"
+      ],
+      "place_ids": [],
+      "time_text": null,
+      "description": "教材按西晋短暂统一后转入较长政权分立时期叙述。",
+      "evidence_block_ids": [
+        "history_book_01_p0036_b001",
+        "history_book_01_p0036_b002"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0037_r001",
+      "from_knowledge_id": "history_book_01_p0037_k001",
+      "to_knowledge_id": "history_book_01_p0037_k003",
+      "target_label": "江南开发",
+      "type": "influence",
+      "person_ids": [],
+      "place_ids": [],
+      "time_text": null,
+      "description": "教材将北方人民南迁、东晋南朝统治与南方经济发展并置叙述，具体因果仍需复核。",
+      "evidence_block_ids": [
+        "history_book_01_p0037_b002",
+        "history_book_01_p0037_b003"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0038_r001",
+      "from_knowledge_id": "history_book_01_p0038_k001",
+      "to_knowledge_id": "history_book_01_p0038_k003",
+      "target_label": "北朝",
+      "type": "other",
+      "person_ids": [],
+      "place_ids": [],
+      "time_text": null,
+      "description": "教材概括十六国到北朝北方政权在民族交融基础上逐渐壮大，为统一全国准备条件。",
+      "evidence_block_ids": [
+        "history_book_01_p0038_b002",
+        "history_book_01_p0038_b005"
+      ],
+      "review_status": "pending_review"
+    }
+  ],
+  "map_candidates": [
+    {
+      "id": "history_book_01_p0030_i_map001",
+      "asset_id": "history_book_01_p0030_a001",
+      "reference_time_text": "西汉时期",
+      "reference_year": null,
+      "date_precision": "period",
+      "historical_names": [
+        "西汉",
+        "匈奴",
+        "乌孙",
+        "羌",
+        "鲜卑",
+        "西域都护府",
+        "河西四郡",
+        "长安"
+      ],
+      "legend_text": "都城；郡级驻所；河西四郡；长城；政权部族界；今国界",
+      "evidence_block_ids": [
+        "history_book_01_p0030_b002",
+        "history_book_01_p0030_b003"
+      ],
+      "geometry": null,
+      "geometry_status": "not_digitized",
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0035_i_map001",
+      "asset_id": "history_book_01_p0035_a002",
+      "reference_time_text": "262年",
+      "reference_year": 262,
+      "date_precision": "year",
+      "historical_names": [
+        "魏",
+        "蜀",
+        "吴",
+        "洛阳",
+        "成都",
+        "建业",
+        "荆州",
+        "赤壁",
+        "官渡",
+        "隆中",
+        "夷洲"
+      ],
+      "legend_text": "都城；州级驻所；政权部族界；今国界未定",
+      "evidence_block_ids": [
+        "history_book_01_p0035_b007",
+        "history_book_01_p0035_b008"
+      ],
+      "geometry": null,
+      "geometry_status": "not_digitized",
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0036_i_map001",
+      "asset_id": "history_book_01_p0036_a001",
+      "reference_time_text": "西晋末年",
+      "reference_year": null,
+      "date_precision": "period",
+      "historical_names": [
+        "鲜卑",
+        "匈奴",
+        "羌",
+        "氐",
+        "羯",
+        "长安",
+        "洛阳",
+        "襄阳郡",
+        "丹阳郡",
+        "蜀郡",
+        "长沙郡"
+      ],
+      "legend_text": "流民南迁方向；政权部族界；今国界",
+      "evidence_block_ids": [
+        "history_book_01_p0036_b003",
+        "history_book_01_p0036_b004"
+      ],
+      "geometry": null,
+      "geometry_status": "not_digitized",
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0038_i_map001",
+      "asset_id": "history_book_01_p0038_a001",
+      "reference_time_text": "东晋十六国时期",
+      "reference_year": null,
+      "date_precision": "period",
+      "historical_names": [
+        "东晋",
+        "十六国",
+        "前秦",
+        "西凉",
+        "西秦",
+        "后秦",
+        "前赵",
+        "后赵",
+        "前燕",
+        "后燕",
+        "南燕",
+        "北燕",
+        "夏",
+        "北凉",
+        "前凉",
+        "南凉",
+        "后凉",
+        "成汉",
+        "建康",
+        "淝水"
+      ],
+      "legend_text": "都城；政权部族界；今国界",
+      "evidence_block_ids": [
+        "history_book_01_p0038_b002",
+        "history_book_01_p0038_b003",
+        "history_book_01_p0038_b004"
+      ],
+      "geometry": null,
+      "geometry_status": "not_digitized",
+      "notes": []
+    }
+  ],
+  "inventory": [
+    {
+      "id": "history_book_01_p0030_i001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0030"
+      ],
+      "block_ids": [
+        "history_book_01_p0030_b001",
+        "history_book_01_p0030_b002",
+        "history_book_01_p0030_b003"
+      ],
+      "item_label": "西汉设置西域都护府及西汉形势图",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0030_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0030_i002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0030"
+      ],
+      "block_ids": [
+        "history_book_01_p0030_b006"
+      ],
+      "item_label": "王莽改国号为新、西汉灭亡",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0030_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0030_i003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0030"
+      ],
+      "block_ids": [
+        "history_book_01_p0030_b006"
+      ],
+      "item_label": "绿林赤眉起义与王莽政权覆亡",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0030_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0030_i004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0030",
+        "history_book_01_p0031"
+      ],
+      "block_ids": [
+        "history_book_01_p0030_b005",
+        "history_book_01_p0030_b006",
+        "history_book_01_p0031_b001"
+      ],
+      "item_label": "刘秀重建汉朝、东汉初年治理与光武中兴",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0030_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0031_i001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0031"
+      ],
+      "block_ids": [
+        "history_book_01_p0031_b002"
+      ],
+      "item_label": "东汉外戚宦官交替专权与党锢之祸",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0031_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0031_i002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0031"
+      ],
+      "block_ids": [
+        "history_book_01_p0031_b003"
+      ],
+      "item_label": "黄巾起义与东汉政权名存实亡",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0031_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0031_i003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0031"
+      ],
+      "block_ids": [
+        "history_book_01_p0031_b005"
+      ],
+      "item_label": "《史记》与《汉书》",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0031_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0031_i004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0031",
+        "history_book_01_p0032"
+      ],
+      "block_ids": [
+        "history_book_01_p0031_b006",
+        "history_book_01_p0032_b001"
+      ],
+      "item_label": "汉赋、乐府诗与五言诗",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0031_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0032_i001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0032"
+      ],
+      "block_ids": [
+        "history_book_01_p0032_b006",
+        "history_book_01_p0032_b009",
+        "history_book_01_p0032_b010"
+      ],
+      "item_label": "两汉科技成就、蔡伦造纸术与《九章算术》书影",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0032_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0032_i002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0032"
+      ],
+      "block_ids": [
+        "history_book_01_p0032_b008"
+      ],
+      "item_label": "两汉其他重要科技成就",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0032_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0033_i001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0033"
+      ],
+      "block_ids": [
+        "history_book_01_p0033_b001",
+        "history_book_01_p0033_b002"
+      ],
+      "item_label": "两汉杰出人物及家国情怀学习拓展",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0033_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0033_i002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0033"
+      ],
+      "block_ids": [
+        "history_book_01_p0033_b004",
+        "history_book_01_p0033_b005"
+      ],
+      "item_label": "东汉豪强地主材料与问题探究",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0033_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材要求分析关系，因果结论待人工审核。"
+    },
+    {
+      "id": "history_book_01_p0034_i001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0034"
+      ],
+      "block_ids": [
+        "history_book_01_p0034_b001",
+        "history_book_01_p0034_b002",
+        "history_book_01_p0034_b003"
+      ],
+      "item_label": "第二单元导语：三国两晋南北朝、隋唐与五代十国概述",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0034_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0035_i001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0035"
+      ],
+      "block_ids": [
+        "history_book_01_p0035_b002",
+        "history_book_01_p0035_b003",
+        "history_book_01_p0035_b004"
+      ],
+      "item_label": "刘备拜访诸葛亮与三分天下预言",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0035_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0035_i002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0035"
+      ],
+      "block_ids": [
+        "history_book_01_p0035_b006",
+        "history_book_01_p0035_b007",
+        "history_book_01_p0035_b008",
+        "history_book_01_p0035_b009"
+      ],
+      "item_label": "三国鼎立与262年形势图",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0035_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0036_i001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0036"
+      ],
+      "block_ids": [
+        "history_book_01_p0036_b001"
+      ],
+      "item_label": "西晋灭蜀、代魏与灭吴统一",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0036_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0036_i002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0036"
+      ],
+      "block_ids": [
+        "history_book_01_p0036_b002",
+        "history_book_01_p0036_b003",
+        "history_book_01_p0036_b004",
+        "history_book_01_p0036_b007"
+      ],
+      "item_label": "少数民族内迁、西晋灭亡与政权分立",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0036_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0037_i001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0037"
+      ],
+      "block_ids": [
+        "history_book_01_p0037_b001",
+        "history_book_01_p0037_b002"
+      ],
+      "item_label": "东晋建立与南朝四朝、六朝",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0037_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0037_i002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0037"
+      ],
+      "block_ids": [
+        "history_book_01_p0037_b002",
+        "history_book_01_p0037_b004"
+      ],
+      "item_label": "东晋士族专权",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0037_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0037_i003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0037"
+      ],
+      "block_ids": [
+        "history_book_01_p0037_b003",
+        "history_book_01_p0037_b006",
+        "history_book_01_p0037_b007",
+        "history_book_01_p0037_b008"
+      ],
+      "item_label": "东晋南朝江南开发及经济成就",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0037_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0038_i001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0038"
+      ],
+      "block_ids": [
+        "history_book_01_p0038_b001",
+        "history_book_01_p0038_b002",
+        "history_book_01_p0038_b003",
+        "history_book_01_p0038_b004",
+        "history_book_01_p0038_b009"
+      ],
+      "item_label": "十六国政权与民族交融",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0038_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0038_i002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0038"
+      ],
+      "block_ids": [
+        "history_book_01_p0038_b002",
+        "history_book_01_p0038_b003"
+      ],
+      "item_label": "前秦统一北方、淝水之战及政权崩溃",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0038_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0038_i003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0038"
+      ],
+      "block_ids": [
+        "history_book_01_p0038_b005",
+        "history_book_01_p0038_b008"
+      ],
+      "item_label": "北魏统一北方与民族交融",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0038_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0038_i004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0038"
+      ],
+      "block_ids": [
+        "history_book_01_p0038_b006",
+        "history_book_01_p0038_b007",
+        "history_book_01_p0038_b008"
+      ],
+      "item_label": "嘎仙洞石室祖庙考古证据",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0038_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0030_map001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0030"
+      ],
+      "block_ids": [
+        "history_book_01_p0030_b002",
+        "history_book_01_p0030_b003"
+      ],
+      "item_label": "西汉形势图",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "地图候选，待空间校准和历史地名核验。"
+    },
+    {
+      "id": "history_book_01_p0035_map001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0035"
+      ],
+      "block_ids": [
+        "history_book_01_p0035_b007",
+        "history_book_01_p0035_b008"
+      ],
+      "item_label": "三国鼎立形势图（262年）",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "地图候选，待空间校准和历史地名核验。"
+    },
+    {
+      "id": "history_book_01_p0036_map001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0036"
+      ],
+      "block_ids": [
+        "history_book_01_p0036_b003",
+        "history_book_01_p0036_b004"
+      ],
+      "item_label": "西晋末年内迁少数民族分布与北方流民南迁示意图",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "示意图候选，待空间校准与箭头含义核验。"
+    },
+    {
+      "id": "history_book_01_p0038_map001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0038"
+      ],
+      "block_ids": [
+        "history_book_01_p0038_b003",
+        "history_book_01_p0038_b004"
+      ],
+      "item_label": "东晋十六国形势图",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "地图候选，待空间校准和政权标签核验。"
+    }
+  ],
+  "review_issues": [
+    {
+      "id": "history_book_01_p0030_ri001",
+      "record_ids": [
+        "history_book_01_p0030_b001",
+        "history_book_01_p0030_k001"
+      ],
+      "category": "ocr",
+      "description": "第30页首行显示“元前60年”，与第29页末尾的“公”跨页；知识时间按公元前60年暂存，需人工复核。",
+      "evidence_block_ids": [
+        "history_book_01_p0030_b001"
+      ],
+      "suggested_action": "与第29页末尾文字层和渲染图对照。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0030_ri002",
+      "record_ids": [
+        "history_book_01_p0030_a001",
+        "history_book_01_p0030_map001"
+      ],
+      "category": "image",
+      "description": "西汉形势图未空间校准；图内小字已记录可辨标签，但不应据像素边界生成几何。",
+      "evidence_block_ids": [
+        "history_book_01_p0030_b002",
+        "history_book_01_p0030_b003"
+      ],
+      "suggested_action": "人工核对图例、地名、时期后再数字化。",
+      "blocking": true,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0031_ri001",
+      "record_ids": [
+        "history_book_01_p0031_b006",
+        "history_book_01_p0032_b001"
+      ],
+      "category": "ocr",
+      "description": "“真实情”与下一页“况”跨页，需按页序合并复核。",
+      "evidence_block_ids": [
+        "history_book_01_p0031_b006",
+        "history_book_01_p0032_b001"
+      ],
+      "suggested_action": "合并批次时拼接，不将“况”当新句。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0032_ri001",
+      "record_ids": [
+        "history_book_01_p0032_a001"
+      ],
+      "category": "image",
+      "description": "《九章算术》书影细小封面文字无法完整辨认，未编造版本或文字。",
+      "evidence_block_ids": [
+        "history_book_01_p0032_b009",
+        "history_book_01_p0032_b010"
+      ],
+      "suggested_action": "需要时另做高分辨率图像文字复核。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0033_ri001",
+      "record_ids": [
+        "history_book_01_p0033_k002"
+      ],
+      "category": "relation",
+      "description": "问题探究要求分析豪强地主发展与东汉政权衰亡关系，清洗层保留材料和问题，未写成已证实因果。",
+      "evidence_block_ids": [
+        "history_book_01_p0033_b004",
+        "history_book_01_p0033_b005"
+      ],
+      "suggested_action": "由历史内容审核者完成因果审阅。",
+      "blocking": true,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0034_ri001",
+      "record_ids": [
+        "history_book_01_p0034_a001"
+      ],
+      "category": "image",
+      "description": "单元导语背景插图无图题，人物和时代不能仅凭画面判断。",
+      "evidence_block_ids": [
+        "history_book_01_p0034_b004"
+      ],
+      "suggested_action": "仅作装饰性资产；后续使用须补充出处。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0035_ri001",
+      "record_ids": [
+        "history_book_01_p0035_a002",
+        "history_book_01_p0035_map001"
+      ],
+      "category": "image",
+      "description": "三国鼎立形势图未空间校准，图例含“今国界未定”，不可直接生成现代边界。",
+      "evidence_block_ids": [
+        "history_book_01_p0035_b007",
+        "history_book_01_p0035_b008"
+      ],
+      "suggested_action": "核验262年历史地名和图例后再数字化。",
+      "blocking": true,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0036_ri001",
+      "record_ids": [
+        "history_book_01_p0036_a001",
+        "history_book_01_p0036_map001"
+      ],
+      "category": "image",
+      "description": "西晋末年示意图色块、箭头和部族界未空间校准，不能视作精确疆域或迁徙路线数据。",
+      "evidence_block_ids": [
+        "history_book_01_p0036_b003",
+        "history_book_01_p0036_b004"
+      ],
+      "suggested_action": "人工核验部族标签和迁徙方向后决定展示精度。",
+      "blocking": true,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0038_ri001",
+      "record_ids": [
+        "history_book_01_p0038_b009"
+      ],
+      "category": "ocr",
+      "description": "十六国统治者族属表的“羌”行文字较小，未确认的政权归属保留待核验。",
+      "evidence_block_ids": [
+        "history_book_01_p0038_b009"
+      ],
+      "suggested_action": "对照高分辨率页面或纸质教材复核。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0038_ri002",
+      "record_ids": [
+        "history_book_01_p0038_a001",
+        "history_book_01_p0038_map001"
+      ],
+      "category": "image",
+      "description": "东晋十六国形势图未空间校准，不能直接生成疆域几何。",
+      "evidence_block_ids": [
+        "history_book_01_p0038_b003",
+        "history_book_01_p0038_b004"
+      ],
+      "suggested_action": "核验政权名称、时期和图例后再数字化。",
+      "blocking": true,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0038_ri003",
+      "record_ids": [
+        "history_book_01_p0038_a002"
+      ],
+      "category": "image",
+      "description": "嘎仙洞祝文照片中文字细小，未逐字转录；正文和图注提供其历史含义。",
+      "evidence_block_ids": [
+        "history_book_01_p0038_b006",
+        "history_book_01_p0038_b008"
+      ],
+      "suggested_action": "需要时另做图像文字复核。",
+      "blocking": false,
+      "status": "open"
+    }
+  ],
+  "validation": {
+    "structure_check_status": "passed",
+    "duplicate_ids": [],
+    "dangling_references": [],
+    "page_coverage_issues": [],
+    "time_issues": [],
+    "source_issues": [],
+    "unreadable_blocks": [],
+    "unprocessed_assets": [],
+    "semantic_review_status": "not_performed"
+  }
+}

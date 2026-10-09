@@ -1,0 +1,251 @@
+## history_book_01_p0218_k001 南京大屠杀
+TIME {"source_text": "1937年12月", "mode": "point", "start_year": 1937, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b002"]}
+SUMMARY {"text": "南京大屠杀", "evidence_block_ids": ["history_book_01_p0218_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_007_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0218_b002"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b002"]
+BLOCK history_book_01_p0218_b002 [paragraph] 1937年12月 南京大屠杀
+
+## history_book_01_p0218_k002 徐州会战，台儿庄大捷
+TIME {"source_text": "1938年1—5月", "mode": "duration", "start_year": 1938, "end_year": 1938, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "known", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b003"]}
+SUMMARY {"text": "徐州会战，台儿庄大捷", "evidence_block_ids": ["history_book_01_p0218_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_011_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0218_b003"]}, {"place_id": "history_book_01_place_012_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0218_b003"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b003"]
+BLOCK history_book_01_p0218_b003 [paragraph] 1938年1—5月 徐州会战，台儿庄大捷
+
+## history_book_01_p0218_k003 毛泽东发表《论持久战》
+TIME {"source_text": "1938年5月", "mode": "point", "start_year": 1938, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b004"]}
+SUMMARY {"text": "毛泽东发表《论持久战》", "evidence_block_ids": ["history_book_01_p0218_b004"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_010_b06"]
+EVIDENCE ["history_book_01_p0218_b004"]
+BLOCK history_book_01_p0218_b004 [paragraph] 1938年5月 毛泽东发表《论持久战》
+
+## history_book_01_p0218_k004 武汉会战
+TIME {"source_text": "1938年6—10月", "mode": "duration", "start_year": 1938, "end_year": 1938, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "known", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b005"]}
+SUMMARY {"text": "武汉会战", "evidence_block_ids": ["history_book_01_p0218_b005"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_013_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0218_b005"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b005"]
+BLOCK history_book_01_p0218_b005 [paragraph] 1938年6—10月 武汉会战
+
+## history_book_01_p0218_k005 汪精卫在南京成立伪国民政府
+TIME {"source_text": "1940年3月", "mode": "point", "start_year": 1940, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b006"]}
+SUMMARY {"text": "汪精卫在南京成立伪国民政府", "evidence_block_ids": ["history_book_01_p0218_b006"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_007_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0218_b006"]}]
+PEOPLE ["history_book_01_person_009_b06"]
+EVIDENCE ["history_book_01_p0218_b006"]
+BLOCK history_book_01_p0218_b006 [paragraph] 1940年3月 汪精卫在南京成立伪国民政府
+
+## history_book_01_p0218_k006 百团大战开始
+TIME {"source_text": "1940年8月", "mode": "point", "start_year": 1940, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b007"]}
+SUMMARY {"text": "百团大战开始", "evidence_block_ids": ["history_book_01_p0218_b007"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b007"]
+BLOCK history_book_01_p0218_b007 [paragraph] 1940年8月 百团大战开始
+
+## history_book_01_p0218_k007 皖南事变
+TIME {"source_text": "1941年1月", "mode": "point", "start_year": 1941, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b008"]}
+SUMMARY {"text": "皖南事变", "evidence_block_ids": ["history_book_01_p0218_b008"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b008"]
+BLOCK history_book_01_p0218_b008 [paragraph] 1941年1月 皖南事变
+
+## history_book_01_p0218_k008 第三次长沙会战开始
+TIME {"source_text": "1941年12月", "mode": "point", "start_year": 1941, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b009"]}
+SUMMARY {"text": "第三次长沙会战开始", "evidence_block_ids": ["history_book_01_p0218_b009"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_014_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0218_b009"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b009"]
+BLOCK history_book_01_p0218_b009 [paragraph] 1941年12月 第三次长沙会战开始
+
+## history_book_01_p0218_k009 国际反法西斯统一战线正式建立
+TIME {"source_text": "1942年1月", "mode": "point", "start_year": 1942, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b010"]}
+SUMMARY {"text": "国际反法西斯统一战线正式建立", "evidence_block_ids": ["history_book_01_p0218_b010"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b010"]
+BLOCK history_book_01_p0218_b010 [paragraph] 1942年1月 国际反法西斯统一战线正式建立
+
+## history_book_01_p0218_k010 中国共产党第七次全国代表大会举行，确立毛泽东思想为党的指导思想
+TIME {"source_text": "1945年4—6月", "mode": "duration", "start_year": 1945, "end_year": 1945, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "known", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b011"]}
+SUMMARY {"text": "中国共产党第七次全国代表大会举行，确立毛泽东思想为党的指导思想", "evidence_block_ids": ["history_book_01_p0218_b011"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_010_b06"]
+EVIDENCE ["history_book_01_p0218_b011"]
+BLOCK history_book_01_p0218_b011 [paragraph] 1945年4—6月 中国共产党第七次全国代表大会举行，确立毛泽东思想为党的指导思想
+
+## history_book_01_p0218_k011 日本无条件投降
+TIME {"source_text": "1945年8月15日", "mode": "point", "start_year": 1945, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b012"]}
+SUMMARY {"text": "日本无条件投降", "evidence_block_ids": ["history_book_01_p0218_b012"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b012"]
+BLOCK history_book_01_p0218_b012 [paragraph] 1945年8月15日 日本无条件投降
+
+## history_book_01_p0218_k012 重庆谈判开始
+TIME {"source_text": "1945年8月底", "mode": "point", "start_year": 1945, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b013"]}
+SUMMARY {"text": "重庆谈判开始", "evidence_block_ids": ["history_book_01_p0218_b013"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_015_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0218_b013"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b013"]
+BLOCK history_book_01_p0218_b013 [paragraph] 1945年8月底 重庆谈判开始
+
+## history_book_01_p0218_k013 日本投降签字仪式举行，中国14年抗日战争和世界反法西斯战争胜利结束
+TIME {"source_text": "1945年9月2日", "mode": "point", "start_year": 1945, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b014"]}
+SUMMARY {"text": "日本投降签字仪式举行，中国14年抗日战争和世界反法西斯战争胜利结束", "evidence_block_ids": ["history_book_01_p0218_b014"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b014"]
+BLOCK history_book_01_p0218_b014 [paragraph] 1945年9月2日 日本投降签字仪式举行，中国14年抗日战争和世界反法西斯战争胜利结束
+
+## history_book_01_p0218_k014 “双十协定”签订
+TIME {"source_text": "1945年10月10日", "mode": "point", "start_year": 1945, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b015"]}
+SUMMARY {"text": "“双十协定”签订", "evidence_block_ids": ["history_book_01_p0218_b015"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b015"]
+BLOCK history_book_01_p0218_b015 [paragraph] 1945年10月10日 “双十协定”签订
+
+## history_book_01_p0218_k015 台湾光复
+TIME {"source_text": "1945年10月25日", "mode": "point", "start_year": 1945, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b016"]}
+SUMMARY {"text": "台湾光复", "evidence_block_ids": ["history_book_01_p0218_b016"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_002_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0218_b016"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b016"]
+BLOCK history_book_01_p0218_b016 [paragraph] 1945年10月25日 台湾光复
+
+## history_book_01_p0218_k016 国民党发动全面内战，人民解放战争开始
+TIME {"source_text": "1946年6月", "mode": "point", "start_year": 1946, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b017"]}
+SUMMARY {"text": "国民党发动全面内战，人民解放战争开始", "evidence_block_ids": ["history_book_01_p0218_b017"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b017"]
+BLOCK history_book_01_p0218_b017 [paragraph] 1946年6月 国民党发动全面内战，人民解放战争开始
+
+## history_book_01_p0218_k017 《中国土地法大纲》颁布
+TIME {"source_text": "1947年", "mode": "point", "start_year": 1947, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b018"]}
+SUMMARY {"text": "《中国土地法大纲》颁布", "evidence_block_ids": ["history_book_01_p0218_b018"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b018"]
+BLOCK history_book_01_p0218_b018 [paragraph] 1947年 《中国土地法大纲》颁布
+
+## history_book_01_p0218_k018 辽沈战役，东北全境解放
+TIME {"source_text": "1948年9—11月", "mode": "duration", "start_year": 1948, "end_year": 1948, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "known", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b019"]}
+SUMMARY {"text": "辽沈战役，东北全境解放", "evidence_block_ids": ["history_book_01_p0218_b019"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b019"]
+BLOCK history_book_01_p0218_b019 [paragraph] 1948年9—11月 辽沈战役，东北全境解放
+
+## history_book_01_p0218_k019 淮海战役，平津战役
+TIME {"source_text": "1948年11月—1949年1月", "mode": "duration", "start_year": 1948, "end_year": 1949, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "known", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b020"]}
+SUMMARY {"text": "淮海战役，平津战役", "evidence_block_ids": ["history_book_01_p0218_b020"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b020"]
+BLOCK history_book_01_p0218_b020 [paragraph] 1948年11月—1949年1月 淮海战役，平津战役
+
+## history_book_01_p0218_k020 中共七届二中全会召开
+TIME {"source_text": "1949年3月", "mode": "point", "start_year": 1949, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b021"]}
+SUMMARY {"text": "中共七届二中全会召开", "evidence_block_ids": ["history_book_01_p0218_b021"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b021"]
+BLOCK history_book_01_p0218_b021 [paragraph] 1949年3月 中共七届二中全会召开
+
+## history_book_01_p0218_k021 渡江战役开始
+TIME {"source_text": "1949年4月21日", "mode": "point", "start_year": 1949, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0218_b022"]}
+SUMMARY {"text": "渡江战役开始", "evidence_block_ids": ["history_book_01_p0218_b022"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0218_b022"]
+BLOCK history_book_01_p0218_b022 [paragraph] 1949年4月21日 渡江战役开始

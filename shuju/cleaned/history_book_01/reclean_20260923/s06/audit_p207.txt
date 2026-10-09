@@ -1,0 +1,59 @@
+## history_book_01_p0207_k001 中华民族多元一体格局与统一多民族国家发展
+TIME {"source_text": "自古以来", "mode": "unknown", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "period", "end_status": "unknown", "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。", "evidence_block_ids": ["history_book_01_p0207_b003"]}
+SUMMARY {"text": "教材概述各民族交往交流交融、相互依存和相互影响，形成中华民族多元一体格局，共同推进统一多民族国家发展。", "evidence_block_ids": ["history_book_01_p0207_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0207_b003"]
+BLOCK history_book_01_p0207_b003 [paragraph] 自古以来，我国就是一个多民族共存、共同发展的国家。各民族交往交流交融，相互依存，互相影响，形成了中华民族多元一体的格局，共同推进着统一多民族国家的发展。
+
+## history_book_01_p0207_k002 家国情怀作为中华优秀传统文化基本内涵
+TIME {"source_text": "古代思想文献及后世传承", "mode": "unknown", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "period", "end_status": "unknown", "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。", "evidence_block_ids": ["history_book_01_p0207_b004"]}
+SUMMARY {"text": "教材以《礼记·大学》《孟子》及相关名句说明家国、修身与治国之间的关系，并指出家国情怀被赋予新的时代意义。", "evidence_block_ids": ["history_book_01_p0207_b004"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0207_b004"]
+BLOCK history_book_01_p0207_b004 [paragraph] 家国情怀是中华优秀传统文化的基本内涵之一。我国儒家经典《礼记·大学》提出了“修身齐家治国平天下”。《孟子》解释说：“天下之本在国，国之本在家，家之本在身。”家是国的基础，国是家的延伸，国家与家庭、社会与个人密不可分。一个人树立治国的志向，首先要从修身齐家做起，这成为历代有志之士的追求。古人说“一屋不扫何以扫天下”“先天下之忧而忧，后天下之乐而乐”“天下兴亡，匹夫有责”，这些都是讲修身与治国的关系。经历了近代列强侵略、国破家亡的苦难与伤痛，家国情怀被赋予新的时代意义。
+
+## history_book_01_p0207_k003 班超家族和梁启超家族的家国贡献
+TIME {"source_text": "汉朝至近代", "mode": "unknown", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "period", "end_status": "unknown", "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。", "evidence_block_ids": ["history_book_01_p0207_b005"]}
+SUMMARY {"text": "教材举班超一家数代、梁启超及其子女的事例，作为家国情怀和家族贡献的学习材料。", "evidence_block_ids": ["history_book_01_p0207_b005"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_p0207_person001", "history_book_01_p0207_person002", "history_book_01_p0207_person003"]
+EVIDENCE ["history_book_01_p0207_b005"]
+BLOCK history_book_01_p0207_b005 [paragraph] 我国历史上涌现出众多富有家国情怀的仁人志士。汉朝班超一家数代对国家作出了贡献。近代以来，著名政治家和学者梁启超，不仅本人对国家发展作出了贡献，他的九个子女也都成为有用之才。中国航天奠基人之一梁思礼院士是梁启超的少子，在被问及从父亲那里继承了什么时，他说：“爱国！”抗日战争中，回族青年马本斋和他母亲英勇抗日的事迹，传颂至今。中国共产党人更是体现家国情怀的典范。正如方志敏被捕入狱后写下的“假使能使中国民族得到解放，那我又何惜于我这一条蚁命！”“假如我还能生存，那我生存一天就要为中国呼喊一天”的名句，激励着一代代中华儿女前仆后继。习近平总书记说过：“修身、齐家、治国、平天下，我们这代人自小就受这种思想的影响。”学习中外历史，每个爱国学子都要把增长知识、学好本领与国家的富强联系起来！
+
+## history_book_01_p0207_k004 马本斋和母亲抗日事迹
+TIME {"source_text": "抗日战争中", "mode": "unknown", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "period", "end_status": "unknown", "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。", "evidence_block_ids": ["history_book_01_p0207_b005"]}
+SUMMARY {"text": "教材记载回族青年马本斋和其母亲英勇抗日的事迹。", "evidence_block_ids": ["history_book_01_p0207_b005"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_p0207_person004"]
+EVIDENCE ["history_book_01_p0207_b005"]
+BLOCK history_book_01_p0207_b005 [paragraph] 我国历史上涌现出众多富有家国情怀的仁人志士。汉朝班超一家数代对国家作出了贡献。近代以来，著名政治家和学者梁启超，不仅本人对国家发展作出了贡献，他的九个子女也都成为有用之才。中国航天奠基人之一梁思礼院士是梁启超的少子，在被问及从父亲那里继承了什么时，他说：“爱国！”抗日战争中，回族青年马本斋和他母亲英勇抗日的事迹，传颂至今。中国共产党人更是体现家国情怀的典范。正如方志敏被捕入狱后写下的“假使能使中国民族得到解放，那我又何惜于我这一条蚁命！”“假如我还能生存，那我生存一天就要为中国呼喊一天”的名句，激励着一代代中华儿女前仆后继。习近平总书记说过：“修身、齐家、治国、平天下，我们这代人自小就受这种思想的影响。”学习中外历史，每个爱国学子都要把增长知识、学好本领与国家的富强联系起来！
+
+## history_book_01_p0207_k005 方志敏关于民族解放和为中国呼喊的引文
+TIME {"source_text": "被捕入狱后", "mode": "unknown", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "unknown", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0207_b005"]}
+SUMMARY {"text": "教材引用方志敏被捕入狱后所写名句，作为中国共产党人家国情怀的学习材料。", "evidence_block_ids": ["history_book_01_p0207_b005"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_p0207_person005"]
+EVIDENCE ["history_book_01_p0207_b005"]
+BLOCK history_book_01_p0207_b005 [paragraph] 我国历史上涌现出众多富有家国情怀的仁人志士。汉朝班超一家数代对国家作出了贡献。近代以来，著名政治家和学者梁启超，不仅本人对国家发展作出了贡献，他的九个子女也都成为有用之才。中国航天奠基人之一梁思礼院士是梁启超的少子，在被问及从父亲那里继承了什么时，他说：“爱国！”抗日战争中，回族青年马本斋和他母亲英勇抗日的事迹，传颂至今。中国共产党人更是体现家国情怀的典范。正如方志敏被捕入狱后写下的“假使能使中国民族得到解放，那我又何惜于我这一条蚁命！”“假如我还能生存，那我生存一天就要为中国呼喊一天”的名句，激励着一代代中华儿女前仆后继。习近平总书记说过：“修身、齐家、治国、平天下，我们这代人自小就受这种思想的影响。”学习中外历史，每个爱国学子都要把增长知识、学好本领与国家的富强联系起来！

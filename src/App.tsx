@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { getKnowledge, getRelatedKnowledge, queryKnowledge, themes, formatYear, formatRange, shiftYear } from './modules/history';
 import { Globe, getMapPresentation } from './modules/map';
 import { ReadingPanel } from './modules/reading';
+import TextbookApp from './TextbookApp';
 
 type Level = 0 | 1 | 2;
 interface View { level: Level; startYear: number }
@@ -10,6 +11,7 @@ const regions = ['world', 'china', 'region-demo'];
 const names = ['世界全景', '中国区域', '省级示意区域'];
 
 export default function App() {
+  if (window.location.pathname.startsWith('/textbook')) return <TextbookApp />;
   const [view, setView] = useState<View>({level:0,startYear:1900});
   const [parents, setParents] = useState<View[]>([]);
   const [selectedId, setSelectedId] = useState<string>();
@@ -54,7 +56,7 @@ export default function App() {
     <header className="site-header">
       <div className="brand"><span className="brand-icon">◉</span><div><h1>时空史图</h1><p>HISTORY, IN PERSPECTIVE</p></div></div>
       <p className="header-motto">在地图中，读懂时间</p>
-      <span className="demo-badge"><i />演示资料 · 非正式教材内容</span>
+      <span className="demo-badge"><i />演示资料 · 非正式教材内容 <a href="/textbook" style={{color:'inherit',marginLeft:12}}>进入教材资料</a></span>
     </header>
     <section className="timeline" aria-label="历史时间线">
       <div className="timeline-caption"><span className="eyebrow">THE FLOW OF TIME / 时间</span><strong aria-label="当前时间区间">{formatRange(view.startYear,duration)}</strong><span className="interval-label">{names[view.level]} · 每段 {duration} 年</span></div>

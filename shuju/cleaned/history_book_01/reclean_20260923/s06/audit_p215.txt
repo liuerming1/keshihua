@@ -1,0 +1,239 @@
+## history_book_01_p0215_k001 李自成建立大顺政权，攻占北京，明朝灭亡；清军入关，建立全国性政权
+TIME {"source_text": "1644年", "mode": "point", "start_year": 1644, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b002"]}
+SUMMARY {"text": "李自成建立大顺政权，攻占北京，明朝灭亡；清军入关，建立全国性政权", "evidence_block_ids": ["history_book_01_p0215_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_001_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0215_b002"]}]
+PEOPLE ["history_book_01_person_001_b06"]
+EVIDENCE ["history_book_01_p0215_b002"]
+BLOCK history_book_01_p0215_b002 [paragraph] 1644年 李自成建立大顺政权，攻占北京，明朝灭亡；清军入关，建立全国性政权
+
+## history_book_01_p0215_k002 郑成功收复台湾
+TIME {"source_text": "1662年", "mode": "point", "start_year": 1662, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b003"]}
+SUMMARY {"text": "郑成功收复台湾", "evidence_block_ids": ["history_book_01_p0215_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_002_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0215_b003"]}]
+PEOPLE ["history_book_01_person_002_b06"]
+EVIDENCE ["history_book_01_p0215_b003"]
+BLOCK history_book_01_p0215_b003 [paragraph] 1662年 郑成功收复台湾
+
+## history_book_01_p0215_k003 清朝设置台湾府，隶属福建省
+TIME {"source_text": "1684年", "mode": "point", "start_year": 1684, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b004"]}
+SUMMARY {"text": "清朝设置台湾府，隶属福建省", "evidence_block_ids": ["history_book_01_p0215_b004"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_002_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0215_b004"]}, {"place_id": "history_book_01_place_003_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0215_b004"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b004"]
+BLOCK history_book_01_p0215_b004 [paragraph] 1684年 清朝设置台湾府，隶属福建省
+
+## history_book_01_p0215_k004 中俄《尼布楚条约》签订
+TIME {"source_text": "1689年", "mode": "point", "start_year": 1689, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b005"]}
+SUMMARY {"text": "中俄《尼布楚条约》签订", "evidence_block_ids": ["history_book_01_p0215_b005"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b005"]
+BLOCK history_book_01_p0215_b005 [paragraph] 1689年 中俄《尼布楚条约》签订
+
+## history_book_01_p0215_k005 清朝开始派遣驻藏大臣
+TIME {"source_text": "1727年", "mode": "point", "start_year": 1727, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b006"]}
+SUMMARY {"text": "清朝开始派遣驻藏大臣", "evidence_block_ids": ["history_book_01_p0215_b006"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b006"]
+BLOCK history_book_01_p0215_b006 [paragraph] 1727年 清朝开始派遣驻藏大臣
+
+## history_book_01_p0215_k006 清朝设立伊犁将军
+TIME {"source_text": "1762年", "mode": "point", "start_year": 1762, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b007"]}
+SUMMARY {"text": "清朝设立伊犁将军", "evidence_block_ids": ["history_book_01_p0215_b007"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_005_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0215_b007"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b007"]
+BLOCK history_book_01_p0215_b007 [paragraph] 1762年 清朝设立伊犁将军
+
+## history_book_01_p0215_k007 清朝颁布治理西藏的章程
+TIME {"source_text": "1793年", "mode": "point", "start_year": 1793, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b008"]}
+SUMMARY {"text": "清朝颁布治理西藏的章程", "evidence_block_ids": ["history_book_01_p0215_b008"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_004_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0215_b008"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b008"]
+BLOCK history_book_01_p0215_b008 [paragraph] 1793年 清朝颁布治理西藏的章程
+
+## history_book_01_p0215_k008 鸦片战争爆发
+TIME {"source_text": "1840年", "mode": "point", "start_year": 1840, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b009"]}
+SUMMARY {"text": "鸦片战争爆发", "evidence_block_ids": ["history_book_01_p0215_b009"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b009"]
+BLOCK history_book_01_p0215_b009 [paragraph] 1840年 鸦片战争爆发
+
+## history_book_01_p0215_k009 中英《南京条约》签订
+TIME {"source_text": "1842年", "mode": "point", "start_year": 1842, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b010"]}
+SUMMARY {"text": "中英《南京条约》签订", "evidence_block_ids": ["history_book_01_p0215_b010"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_007_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0215_b010"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b010"]
+BLOCK history_book_01_p0215_b010 [paragraph] 1842年 中英《南京条约》签订
+
+## history_book_01_p0215_k010 中英《虎门条约》签订
+TIME {"source_text": "1843年", "mode": "point", "start_year": 1843, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b011"]}
+SUMMARY {"text": "中英《虎门条约》签订", "evidence_block_ids": ["history_book_01_p0215_b011"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b011"]
+BLOCK history_book_01_p0215_b011 [paragraph] 1843年 中英《虎门条约》签订
+
+## history_book_01_p0215_k011 中美《望厦条约》、中法《黄埔条约》签订
+TIME {"source_text": "1844年", "mode": "point", "start_year": 1844, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b012"]}
+SUMMARY {"text": "中美《望厦条约》、中法《黄埔条约》签订", "evidence_block_ids": ["history_book_01_p0215_b012"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b012"]
+BLOCK history_book_01_p0215_b012 [paragraph] 1844年 中美《望厦条约》、中法《黄埔条约》签订
+
+## history_book_01_p0215_k012 金田起义，建号太平天国
+TIME {"source_text": "1851年", "mode": "point", "start_year": 1851, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b013"]}
+SUMMARY {"text": "金田起义，建号太平天国", "evidence_block_ids": ["history_book_01_p0215_b013"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_006_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0215_b013"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b013"]
+BLOCK history_book_01_p0215_b013 [paragraph] 1851年 金田起义，建号太平天国
+
+## history_book_01_p0215_k013 第二次鸦片战争
+TIME {"source_text": "1856—1860年", "mode": "duration", "start_year": 1856, "end_year": 1860, "earliest_year": null, "latest_year": null, "precision": "period", "end_status": "known", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b014"]}
+SUMMARY {"text": "第二次鸦片战争", "evidence_block_ids": ["history_book_01_p0215_b014"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b014"]
+BLOCK history_book_01_p0215_b014 [paragraph] 1856—1860年 第二次鸦片战争
+
+## history_book_01_p0215_k014 中俄《瑷珲条约》签订，中英、中法《天津条约》签订
+TIME {"source_text": "1858年", "mode": "point", "start_year": 1858, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b015"]}
+SUMMARY {"text": "中俄《瑷珲条约》签订，中英、中法《天津条约》签订", "evidence_block_ids": ["history_book_01_p0215_b015"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b015"]
+BLOCK history_book_01_p0215_b015 [paragraph] 1858年 中俄《瑷珲条约》签订，中英、中法《天津条约》签订
+
+## history_book_01_p0215_k015 中英、中法《北京条约》签订，中俄《北京条约》签订
+TIME {"source_text": "1860年", "mode": "point", "start_year": 1860, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b016"]}
+SUMMARY {"text": "中英、中法《北京条约》签订，中俄《北京条约》签订", "evidence_block_ids": ["history_book_01_p0215_b016"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_001_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0215_b016"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b016"]
+BLOCK history_book_01_p0215_b016 [paragraph] 1860年 中英、中法《北京条约》签订，中俄《北京条约》签订
+
+## history_book_01_p0215_k016 天京陷落，太平天国运动失败
+TIME {"source_text": "1864年", "mode": "point", "start_year": 1864, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b017"]}
+SUMMARY {"text": "天京陷落，太平天国运动失败", "evidence_block_ids": ["history_book_01_p0215_b017"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b017"]
+BLOCK history_book_01_p0215_b017 [paragraph] 1864年 天京陷落，太平天国运动失败
+
+## history_book_01_p0215_k017 洋务运动
+TIME {"source_text": "19世纪60—90年代", "mode": "uncertain", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "period", "end_status": "unknown", "normalization_note": "原文以世纪内年代段表述，本批不换算为精确公历边界。", "evidence_block_ids": ["history_book_01_p0215_b018"]}
+SUMMARY {"text": "洋务运动", "evidence_block_ids": ["history_book_01_p0215_b018"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b018"]
+BLOCK history_book_01_p0215_b018 [paragraph] 19世纪60—90年代 洋务运动
+
+## history_book_01_p0215_k018 中法战争
+TIME {"source_text": "1883—1885年", "mode": "duration", "start_year": 1883, "end_year": 1885, "earliest_year": null, "latest_year": null, "precision": "period", "end_status": "known", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b019"]}
+SUMMARY {"text": "中法战争", "evidence_block_ids": ["history_book_01_p0215_b019"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b019"]
+BLOCK history_book_01_p0215_b019 [paragraph] 1883—1885年 中法战争
+
+## history_book_01_p0215_k019 甲午中日战争
+TIME {"source_text": "1894—1895年", "mode": "duration", "start_year": 1894, "end_year": 1895, "earliest_year": null, "latest_year": null, "precision": "period", "end_status": "known", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b020"]}
+SUMMARY {"text": "甲午中日战争", "evidence_block_ids": ["history_book_01_p0215_b020"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b020"]
+BLOCK history_book_01_p0215_b020 [paragraph] 1894—1895年 甲午中日战争
+
+## history_book_01_p0215_k020 中日《马关条约》签订
+TIME {"source_text": "1895年", "mode": "point", "start_year": 1895, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0215_b021"]}
+SUMMARY {"text": "中日《马关条约》签订", "evidence_block_ids": ["history_book_01_p0215_b021"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0215_b021"]
+BLOCK history_book_01_p0215_b021 [paragraph] 1895年 中日《马关条约》签订

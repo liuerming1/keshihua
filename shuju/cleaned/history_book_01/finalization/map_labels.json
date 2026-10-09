@@ -1,0 +1,2669 @@
+{
+  "maps": [
+    {
+      "map_candidate_id": "history_book_01_p0009_map001",
+      "asset_id": "history_book_01_p0009_a002",
+      "pdf_page_number": 9,
+      "labels": [
+        {
+          "text": "北京",
+          "image_position": [
+            0.717794,
+            0.314954
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "金牛山人",
+          "image_position": [
+            0.817435,
+            0.297043
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "丁村人",
+          "image_position": [
+            0.63021,
+            0.447283
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "蓝田人",
+          "image_position": [
+            0.581818,
+            0.516653
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "郧县人",
+          "image_position": [
+            0.601262,
+            0.557815
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "和县人",
+          "image_position": [
+            0.726493,
+            0.571645
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "长阳人",
+          "image_position": [
+            0.656963,
+            0.595684
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "马坝人",
+          "image_position": [
+            0.684249,
+            0.794658
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "左镇人",
+          "image_position": [
+            0.79265,
+            0.824295
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "山顶洞人",
+          "image_position": [
+            0.699336,
+            0.415149
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "元谋人",
+          "image_position": [
+            0.466349,
+            0.772733
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0010_map001",
+      "asset_id": "history_book_01_p0010_a001",
+      "pdf_page_number": 10,
+      "labels": [
+        {
+          "text": "半坡",
+          "image_position": [
+            0.566875,
+            0.557316
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "姜寨",
+          "image_position": [
+            0.585839,
+            0.509351
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "陶寺",
+          "image_position": [
+            0.651446,
+            0.489137
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "河姆渡",
+          "image_position": [
+            0.841397,
+            0.660256
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "大汶口",
+          "image_position": [
+            0.755573,
+            0.489665
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "龙山",
+          "image_position": [
+            0.7346,
+            0.4446
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "仰韶",
+          "image_position": [
+            0.629334,
+            0.5484
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "贾湖",
+          "image_position": [
+            0.672488,
+            0.579803
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "仙人洞",
+          "image_position": [
+            0.753727,
+            0.716005
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "大溪",
+          "image_position": [
+            0.585274,
+            0.660236
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "玉蟾岩",
+          "image_position": [
+            0.662629,
+            0.769417
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "良渚",
+          "image_position": [
+            0.754039,
+            0.635938
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "上山",
+          "image_position": [
+            0.778776,
+            0.68053
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "马家浜",
+          "image_position": [
+            0.831784,
+            0.62274
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "石家河",
+          "image_position": [
+            0.642829,
+            0.681592
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "高庙",
+          "image_position": [
+            0.610125,
+            0.71703
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "齐家坪",
+          "image_position": [
+            0.488369,
+            0.456737
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "马家窑",
+          "image_position": [
+            0.467083,
+            0.525644
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "宝墩",
+          "image_position": [
+            0.498075,
+            0.656104
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "屈家岭",
+          "image_position": [
+            0.634418,
+            0.610763
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "大地湾",
+          "image_position": [
+            0.543381,
+            0.480648
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "裴李岗",
+          "image_position": [
+            0.6993,
+            0.538116
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "磁山",
+          "image_position": [
+            0.639291,
+            0.454738
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "石峁",
+          "image_position": [
+            0.583191,
+            0.403246
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "红山",
+          "image_position": [
+            0.729303,
+            0.26832
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "牛河梁",
+          "image_position": [
+            0.788792,
+            0.325889
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "北阴阳营",
+          "image_position": [
+            0.714503,
+            0.606327
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "青莲岗",
+          "image_position": [
+            0.786345,
+            0.52995
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0011_map001",
+      "asset_id": "history_book_01_p0011_a002",
+      "pdf_page_number": 11,
+      "labels": [
+        {
+          "text": "良渚古城",
+          "image_position": [
+            0.15193,
+            0.995513
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0013_map002",
+      "asset_id": "history_book_01_p0013_a004",
+      "pdf_page_number": 13,
+      "labels": [
+        {
+          "text": "周",
+          "image_position": [
+            0.337484,
+            0.43752
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "燕",
+          "image_position": [
+            0.675351,
+            0.052656
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "齐",
+          "image_position": [
+            0.748447,
+            0.293355
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "鲁",
+          "image_position": [
+            0.726892,
+            0.366689
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "晋",
+          "image_position": [
+            0.479878,
+            0.371824
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "晋",
+          "image_position": [
+            0.065981,
+            0.834664
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "卫",
+          "image_position": [
+            0.585711,
+            0.362534
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "宋",
+          "image_position": [
+            0.682721,
+            0.478485
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "吴",
+          "image_position": [
+            0.885109,
+            0.637931
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0016_map003",
+      "asset_id": "history_book_01_p0016_a002",
+      "pdf_page_number": 16,
+      "labels": [
+        {
+          "text": "燕",
+          "image_position": [
+            0.652291,
+            0.077316
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "齐",
+          "image_position": [
+            0.752812,
+            0.348419
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "晋",
+          "image_position": [
+            0.421036,
+            0.389255
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "卫",
+          "image_position": [
+            0.594654,
+            0.40378
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "鲁",
+          "image_position": [
+            0.69498,
+            0.406519
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "秦",
+          "image_position": [
+            0.177663,
+            0.463114
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "郑",
+          "image_position": [
+            0.55623,
+            0.507608
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "宋",
+          "image_position": [
+            0.623375,
+            0.498065
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "楚",
+          "image_position": [
+            0.426466,
+            0.787977
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "吴",
+          "image_position": [
+            0.906552,
+            0.710227
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "吴",
+          "image_position": [
+            0.934761,
+            0.738479
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "越",
+          "image_position": [
+            0.878927,
+            0.844292
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "巴",
+          "image_position": [
+            0.107377,
+            0.826594
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "巴",
+          "image_position": [
+            0.083543,
+            0.855739
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0017_map004",
+      "asset_id": "history_book_01_p0017_a001",
+      "pdf_page_number": 17,
+      "labels": [
+        {
+          "text": "燕",
+          "image_position": [
+            0.645952,
+            0.209957
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "赵",
+          "image_position": [
+            0.568037,
+            0.385331
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "齐",
+          "image_position": [
+            0.713492,
+            0.434913
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "魏",
+          "image_position": [
+            0.572311,
+            0.523732
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "秦",
+          "image_position": [
+            0.30112,
+            0.572061
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "韩",
+          "image_position": [
+            0.547709,
+            0.613281
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "楚",
+          "image_position": [
+            0.468475,
+            0.788969
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "越",
+          "image_position": [
+            0.832475,
+            0.718114
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0024_mc001",
+      "asset_id": "history_book_01_p0024_a001",
+      "pdf_page_number": 24,
+      "labels": [],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0026_mc001",
+      "asset_id": "history_book_01_p0026_a001",
+      "pdf_page_number": 26,
+      "labels": [],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0026_mc002",
+      "asset_id": "history_book_01_p0026_a002",
+      "pdf_page_number": 26,
+      "labels": [],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0030_i_map001",
+      "asset_id": "history_book_01_p0030_a001",
+      "pdf_page_number": 30,
+      "labels": [
+        {
+          "text": "西汉",
+          "image_position": [
+            0.942134,
+            0.717467
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "羌",
+          "image_position": [
+            0.388923,
+            0.688276
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "西域都护府",
+          "image_position": [
+            0.31084,
+            0.334703
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "河西四郡",
+          "image_position": [
+            0.152546,
+            0.832606
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "长安",
+          "image_position": [
+            0.609429,
+            0.609846
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [
+        "匈奴",
+        "乌孙",
+        "鲜卑"
+      ],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0035_i_map001",
+      "asset_id": "history_book_01_p0035_a002",
+      "pdf_page_number": 35,
+      "labels": [
+        {
+          "text": "魏",
+          "image_position": [
+            0.642403,
+            0.463309
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "蜀",
+          "image_position": [
+            0.898466,
+            0.67965
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "蜀",
+          "image_position": [
+            0.519669,
+            0.732453
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "吴",
+          "image_position": [
+            0.928189,
+            0.708505
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "吴",
+          "image_position": [
+            0.666444,
+            0.748445
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "洛阳",
+          "image_position": [
+            0.601585,
+            0.557188
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "成都",
+          "image_position": [
+            0.511193,
+            0.621835
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "建业",
+          "image_position": [
+            0.738174,
+            0.626551
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "荆州",
+          "image_position": [
+            0.618209,
+            0.657294
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "赤壁",
+          "image_position": [
+            0.660655,
+            0.680328
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "官渡",
+          "image_position": [
+            0.682333,
+            0.535768
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "隆中",
+          "image_position": [
+            0.654826,
+            0.597655
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "夷洲",
+          "image_position": [
+            0.783972,
+            0.772543
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0036_i_map001",
+      "asset_id": "history_book_01_p0036_a001",
+      "pdf_page_number": 36,
+      "labels": [
+        {
+          "text": "鲜卑",
+          "image_position": [
+            0.914459,
+            0.76545
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "匈奴",
+          "image_position": [
+            0.914459,
+            0.796607
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "羌",
+          "image_position": [
+            0.32929,
+            0.447034
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "羌",
+          "image_position": [
+            0.90367,
+            0.827764
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "氐",
+          "image_position": [
+            0.319603,
+            0.512982
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "氐",
+          "image_position": [
+            0.903668,
+            0.858921
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "羯",
+          "image_position": [
+            0.565419,
+            0.385061
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "长安",
+          "image_position": [
+            0.45453,
+            0.520676
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "洛阳",
+          "image_position": [
+            0.623928,
+            0.470001
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "襄阳郡",
+          "image_position": [
+            0.623235,
+            0.58998
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "丹阳郡",
+          "image_position": [
+            0.871418,
+            0.575019
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "蜀郡",
+          "image_position": [
+            0.30757,
+            0.676035
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "长沙郡",
+          "image_position": [
+            0.686032,
+            0.770491
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0038_i_map001",
+      "asset_id": "history_book_01_p0038_a001",
+      "pdf_page_number": 38,
+      "labels": [
+        {
+          "text": "前秦",
+          "image_position": [
+            0.416333,
+            0.360867
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "西凉",
+          "image_position": [
+            0.142979,
+            0.082985
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "西秦",
+          "image_position": [
+            0.314721,
+            0.290698
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "后秦",
+          "image_position": [
+            0.416333,
+            0.398456
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "前赵",
+          "image_position": [
+            0.416333,
+            0.32223
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "后赵",
+          "image_position": [
+            0.597218,
+            0.230282
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "前燕",
+          "image_position": [
+            0.586802,
+            0.272792
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "后燕",
+          "image_position": [
+            0.635598,
+            0.157813
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "南燕",
+          "image_position": [
+            0.739655,
+            0.254274
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "北燕",
+          "image_position": [
+            0.734866,
+            0.04988
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "夏",
+          "image_position": [
+            0.450594,
+            0.174729
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "北凉",
+          "image_position": [
+            0.215119,
+            0.130793
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "前凉",
+          "image_position": [
+            0.306248,
+            0.160987
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "南凉",
+          "image_position": [
+            0.263346,
+            0.245772
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "后凉",
+          "image_position": [
+            0.307889,
+            0.19709
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "成汉",
+          "image_position": [
+            0.305343,
+            0.504263
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "建康",
+          "image_position": [
+            0.795739,
+            0.468877
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "淝水",
+          "image_position": [
+            0.743697,
+            0.427306
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [
+        "东晋",
+        "十六国"
+      ],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0039_mc002",
+      "asset_id": "history_book_01_p0039_a002",
+      "pdf_page_number": 39,
+      "labels": [],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0044_mc002",
+      "asset_id": "history_book_01_p0044_a002",
+      "pdf_page_number": 44,
+      "labels": [],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0045_mc001",
+      "asset_id": "history_book_01_p0045_a001",
+      "pdf_page_number": 45,
+      "labels": [],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0049_map001",
+      "asset_id": "history_book_01_p0049_a001",
+      "pdf_page_number": 49,
+      "labels": [
+        {
+          "text": "中书省",
+          "image_position": [
+            0.380419,
+            0.292086
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "门下省",
+          "image_position": [
+            0.594982,
+            0.292086
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "尚书省",
+          "image_position": [
+            0.631589,
+            0.644157
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0056_map001",
+      "asset_id": "history_book_01_p0056_a002",
+      "pdf_page_number": 56,
+      "labels": [
+        {
+          "text": "长安",
+          "image_position": [
+            0.541188,
+            0.369659
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "幽州",
+          "image_position": [
+            0.588807,
+            0.221652
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "登州",
+          "image_position": [
+            0.627707,
+            0.308668
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "扬州",
+          "image_position": [
+            0.631808,
+            0.360026
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "广州",
+          "image_position": [
+            0.587381,
+            0.494653
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "天竺",
+          "image_position": [
+            0.785268,
+            0.70322
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "波斯",
+          "image_position": [
+            0.785268,
+            0.769895
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "大食",
+          "image_position": [
+            0.785268,
+            0.83657
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "缚达城",
+          "image_position": [
+            0.141934,
+            0.318699
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "流求",
+          "image_position": [
+            0.785268,
+            0.569869
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "流求",
+          "image_position": [
+            0.619101,
+            0.495147
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_m001",
+      "asset_id": "history_book_01_p0061_a001",
+      "pdf_page_number": 61,
+      "labels": [
+        {
+          "text": "辽",
+          "image_position": [
+            0.663881,
+            0.305431
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "北宋",
+          "image_position": [
+            0.960819,
+            0.77558
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "西夏",
+          "image_position": [
+            0.410425,
+            0.998699
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "东京",
+          "image_position": [
+            0.789908,
+            0.565384
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "澶州（澶渊）",
+          "image_position": [
+            0.815916,
+            0.532718
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "澶州（澶渊）",
+          "image_position": [
+            0.08945,
+            0.646625
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "中京",
+          "image_position": [
+            0.774212,
+            0.376628
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "上京",
+          "image_position": [
+            0.80059,
+            0.299866
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "兴庆",
+          "image_position": [
+            0.644816,
+            0.478106
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_m002",
+      "asset_id": "history_book_01_p0063_a002",
+      "pdf_page_number": 63,
+      "labels": [
+        {
+          "text": "金",
+          "image_position": [
+            0.826792,
+            0.312092
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "南宋",
+          "image_position": [
+            0.954953,
+            0.731919
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "上京（会宁）",
+          "image_position": [
+            0.088672,
+            0.493622
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "燕京",
+          "image_position": [
+            0.786088,
+            0.424873
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "兴庆",
+          "image_position": [
+            0.687037,
+            0.473068
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "郾城",
+          "image_position": [
+            0.773894,
+            0.57699
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "大散关",
+          "image_position": [
+            0.721823,
+            0.613332
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "临安",
+          "image_position": [
+            0.858117,
+            0.674294
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [
+        "西夏"
+      ],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_m003",
+      "asset_id": "history_book_01_p0066_a002",
+      "pdf_page_number": 66,
+      "labels": [
+        {
+          "text": "金中都",
+          "image_position": [
+            0.731261,
+            0.912384
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "元大都",
+          "image_position": [
+            0.854537,
+            0.912384
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "明北京",
+          "image_position": [
+            0.968654,
+            0.912384
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0068_map001",
+      "asset_id": "history_book_01_p0068_a001",
+      "pdf_page_number": 68,
+      "labels": [
+        {
+          "text": "元朝",
+          "image_position": [
+            0.079062,
+            0.997841
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "岭北行省",
+          "image_position": [
+            0.130654,
+            0.849401
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "辽阳行省",
+          "image_position": [
+            0.245033,
+            0.821489
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "大都",
+          "image_position": [
+            0.711888,
+            0.470965
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "上都",
+          "image_position": [
+            0.706179,
+            0.367109
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "和宁",
+          "image_position": [
+            0.504004,
+            0.252307
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "琉球",
+          "image_position": [
+            0.819129,
+            0.786551
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [
+        "宣政院辖地"
+      ],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0072_map001",
+      "asset_id": "history_book_01_p0072_a002",
+      "pdf_page_number": 72,
+      "labels": [
+        {
+          "text": "元朝运河",
+          "image_position": [
+            0.383248,
+            0.997138
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "海运路线",
+          "image_position": [
+            0.65512,
+            0.997138
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "海运路线",
+          "image_position": [
+            0.366028,
+            0.944537
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "大都",
+          "image_position": [
+            0.256173,
+            0.116813
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "刘家港",
+          "image_position": [
+            0.860618,
+            0.844476
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "杭州",
+          "image_position": [
+            0.688147,
+            0.938893
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "集庆",
+          "image_position": [
+            0.610502,
+            0.799994
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "直沽",
+          "image_position": [
+            0.339232,
+            0.179477
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0079_map001",
+      "asset_id": "history_book_01_p0079_a001",
+      "pdf_page_number": 79,
+      "labels": [
+        {
+          "text": "刘家港",
+          "image_position": [
+            0.967153,
+            0.090386
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "南京",
+          "image_position": [
+            0.893063,
+            0.103799
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "满剌加",
+          "image_position": [
+            0.747153,
+            0.613767
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "忽鲁谟斯",
+          "image_position": [
+            0.27585,
+            0.1627
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "阿丹",
+          "image_position": [
+            0.155849,
+            0.423571
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "天方",
+          "image_position": [
+            0.119129,
+            0.296471
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "慢八撒",
+          "image_position": [
+            0.061605,
+            0.781371
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0081_map001",
+      "asset_id": "history_book_01_p0081_a001",
+      "pdf_page_number": 81,
+      "labels": [
+        {
+          "text": "明",
+          "image_position": [
+            0.61295,
+            0.598097
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "明",
+          "image_position": [
+            0.404145,
+            0.999734
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "明",
+          "image_position": [
+            0.940137,
+            0.757082
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "奴儿干都司",
+          "image_position": [
+            0.86654,
+            0.018433
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [
+        "鞑靼",
+        "瓦剌",
+        "乌思藏"
+      ],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0086_m001",
+      "asset_id": "history_book_01_p0086_a001",
+      "pdf_page_number": 86,
+      "labels": [
+        {
+          "text": "库伦",
+          "image_position": [
+            0.504227,
+            0.221862
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "乌里雅苏台",
+          "image_position": [
+            0.391589,
+            0.232312
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "伊犁",
+          "image_position": [
+            0.222968,
+            0.315821
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "喇萨",
+          "image_position": [
+            0.247207,
+            0.673864
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "钓鱼台",
+          "image_position": [
+            0.764904,
+            0.731227
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "万里长沙",
+          "image_position": [
+            0.961015,
+            0.781094
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [
+        "千里石塘"
+      ],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0089_m001",
+      "asset_id": "history_book_01_p0089_a002",
+      "pdf_page_number": 89,
+      "labels": [
+        {
+          "text": "北京",
+          "image_position": [
+            0.574462,
+            0.13396
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "天津",
+          "image_position": [
+            0.672014,
+            0.173115
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "太原",
+          "image_position": [
+            0.516291,
+            0.210235
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "兰州",
+          "image_position": [
+            0.222231,
+            0.357192
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "武昌",
+          "image_position": [
+            0.610794,
+            0.524619
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "成都",
+          "image_position": [
+            0.263578,
+            0.567308
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "重庆",
+          "image_position": [
+            0.2739,
+            0.610428
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "广州",
+          "image_position": [
+            0.637721,
+            0.865527
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "台湾",
+          "image_position": [
+            0.91005,
+            0.834723
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0094_m001",
+      "asset_id": "history_book_01_p0094_a001",
+      "pdf_page_number": 94,
+      "labels": [],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0098_map001",
+      "asset_id": "history_book_01_p0098_a001",
+      "pdf_page_number": 98,
+      "labels": [
+        {
+          "text": "中国",
+          "image_position": [
+            0.524136,
+            0.99989
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "清",
+          "image_position": [
+            0.396771,
+            0.286432
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "英国及其殖民地",
+          "image_position": [
+            0.331073,
+            0.794178
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [
+        "俄国及其扩张所获得的领土"
+      ],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0104_map001",
+      "asset_id": "history_book_01_p0104_a001",
+      "pdf_page_number": 104,
+      "labels": [],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0107_map001",
+      "asset_id": "history_book_01_p0107_a001",
+      "pdf_page_number": 107,
+      "labels": [],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0108_map001",
+      "asset_id": "history_book_01_p0108_a001",
+      "pdf_page_number": 108,
+      "labels": [],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0112_map001",
+      "asset_id": "history_book_01_p0112_a001",
+      "pdf_page_number": 112,
+      "labels": [],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_map001",
+      "asset_id": "history_book_01_p0120_a001",
+      "pdf_page_number": 120,
+      "labels": [
+        {
+          "text": "武昌",
+          "image_position": [
+            0.641325,
+            0.542923
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "南京",
+          "image_position": [
+            0.802629,
+            0.479481
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "北京",
+          "image_position": [
+            0.701019,
+            0.083991
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [
+        "武汉三镇"
+      ],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0124_map001",
+      "asset_id": "history_book_01_p0124_a001",
+      "pdf_page_number": 124,
+      "labels": [
+        {
+          "text": "直系军阀",
+          "image_position": [
+            0.138261,
+            0.051036
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "皖系军阀",
+          "image_position": [
+            0.138261,
+            0.022136
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "奉系军阀",
+          "image_position": [
+            0.138261,
+            0.079936
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "滇系军阀",
+          "image_position": [
+            0.138261,
+            0.108836
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "晋系军阀",
+          "image_position": [
+            0.138261,
+            0.137736
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "桂系军阀",
+          "image_position": [
+            0.138261,
+            0.166636
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0133_map001",
+      "asset_id": "history_book_01_p0133_a002",
+      "pdf_page_number": 133,
+      "labels": [],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0138_map002",
+      "asset_id": "history_book_01_p0138_a001",
+      "pdf_page_number": 138,
+      "labels": [],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0139_map003",
+      "asset_id": "history_book_01_p0139_a002",
+      "pdf_page_number": 139,
+      "labels": [],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0145_map001",
+      "asset_id": "history_book_01_p0145_a002",
+      "pdf_page_number": 145,
+      "labels": [
+        {
+          "text": "宛平",
+          "image_position": [
+            0.414635,
+            0.631241
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "卢沟桥",
+          "image_position": [
+            0.261267,
+            0.616174
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "龙王庙",
+          "image_position": [
+            0.242719,
+            0.378763
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "大瓦窑",
+          "image_position": [
+            0.698193,
+            0.314163
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "五里店",
+          "image_position": [
+            0.868125,
+            0.435745
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0150_map001",
+      "asset_id": "history_book_01_p0150_a001",
+      "pdf_page_number": 150,
+      "labels": [
+        {
+          "text": "台儿庄",
+          "image_position": [
+            0.593501,
+            0.605842
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "徐州",
+          "image_position": [
+            0.151989,
+            0.900809
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "临沂",
+          "image_position": [
+            0.890722,
+            0.119272
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "枣庄",
+          "image_position": [
+            0.463658,
+            0.282073
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0151_map001",
+      "asset_id": "history_book_01_p0151_a001",
+      "pdf_page_number": 151,
+      "labels": [
+        {
+          "text": "晋察冀",
+          "image_position": [
+            0.063339,
+            0.001109
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "陕甘宁",
+          "image_position": [
+            0.153301,
+            0.628563
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "华北",
+          "image_position": [
+            0.084827,
+            0.998515
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [
+        "晋冀豫",
+        "山东"
+      ],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0152_map001",
+      "asset_id": "history_book_01_p0152_a001",
+      "pdf_page_number": 152,
+      "labels": [
+        {
+          "text": "五台山",
+          "image_position": [
+            0.341883,
+            0.217146
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "狼牙山",
+          "image_position": [
+            0.632738,
+            0.231094
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "石家庄",
+          "image_position": [
+            0.584339,
+            0.513068
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "阳曲",
+          "image_position": [
+            0.17469,
+            0.531756
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "榆次",
+          "image_position": [
+            0.260095,
+            0.592683
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [
+        "太行山"
+      ],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0157_map001",
+      "asset_id": "history_book_01_p0157_a002",
+      "pdf_page_number": 157,
+      "labels": [
+        {
+          "text": "归绥",
+          "image_position": [
+            0.422154,
+            0.160276
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "归绥",
+          "image_position": [
+            0.427824,
+            0.14587
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "陕甘宁",
+          "image_position": [
+            0.327604,
+            0.254385
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "晋冀鲁豫",
+          "image_position": [
+            0.489981,
+            0.327346
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "山东",
+          "image_position": [
+            0.619644,
+            0.330835
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "苏北",
+          "image_position": [
+            0.658118,
+            0.389923
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "苏中",
+          "image_position": [
+            0.692213,
+            0.433154
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [
+        "今内蒙古呼和浩特",
+        "晋察冀"
+      ],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0161_m001",
+      "asset_id": "history_book_01_p0161_a004",
+      "pdf_page_number": 161,
+      "labels": [
+        {
+          "text": "辽沈战役",
+          "image_position": [
+            0.44219,
+            0.180234
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "淮海战役",
+          "image_position": [
+            0.478842,
+            0.690594
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "平津战役",
+          "image_position": [
+            0.461579,
+            0.4539
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "长春",
+          "image_position": [
+            0.973154,
+            0.032133
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "锦州",
+          "image_position": [
+            0.681146,
+            0.253389
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "沈阳",
+          "image_position": [
+            0.921908,
+            0.202834
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "徐州",
+          "image_position": [
+            0.372136,
+            0.76841
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "南京",
+          "image_position": [
+            0.520287,
+            0.930802
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "天津",
+          "image_position": [
+            0.377836,
+            0.399411
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [
+        "北平（北京）"
+      ],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    },
+    {
+      "map_candidate_id": "history_book_01_p0162_m001",
+      "asset_id": "history_book_01_p0162_a008",
+      "pdf_page_number": 162,
+      "labels": [
+        {
+          "text": "湖口",
+          "image_position": [
+            0.428363,
+            0.503317
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "江阴",
+          "image_position": [
+            0.797194,
+            0.196034
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "南京",
+          "image_position": [
+            0.585737,
+            0.15546
+          ],
+          "method": "exact_pdf_text_layer_match",
+          "spatial_precision": "image_pixel_only"
+        },
+        {
+          "text": "渡江战役",
+          "image_position": [
+            0.565387,
+            0.992629
+          ],
+          "method": "exact_pdf_chars_spatial_sequence",
+          "spatial_precision": "image_pixel_only"
+        }
+      ],
+      "unmatched_names": [
+        "长江"
+      ],
+      "coordinate_system": "normalized_cropped_image",
+      "georeferenced": false
+    }
+  ]
+}

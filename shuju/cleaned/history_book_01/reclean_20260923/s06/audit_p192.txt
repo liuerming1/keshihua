@@ -1,0 +1,37 @@
+## history_book_01_p0192_k001 港澳回归后的CEPA与内地港澳交流合作
+TIME {"source_text": "2003年；2011年统计", "mode": "duration", "start_year": 2003, "end_year": 2011, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0192_b001", "history_book_01_p0192_b003"]}
+SUMMARY {"text": "2003年中央政府与港澳特别行政区政府签署建立更紧密经贸关系的安排及补充协议，促进货物、服务贸易自由化和投资便利化。", "evidence_block_ids": ["history_book_01_p0192_b001", "history_book_01_p0192_b003"]}
+FLOW []
+POINTS [{"text": "协议包括对原产于港澳的进口货物实施零关税、扩大服务贸易开放领域和贸易投资便利化。", "evidence_block_ids": ["history_book_01_p0192_b003"]}]
+BACKGROUND null
+IMPACT {"text": "教材以港澳经济增长和社会稳定说明“一国两制”方针的作用。", "evidence_block_ids": ["history_book_01_p0192_b001"]}
+PLACES [{"place_id": "history_book_01_place_hongkong", "role": "related", "evidence_block_ids": ["history_book_01_p0192_b001", "history_book_01_p0192_b003"]}, {"place_id": "history_book_01_place_macau", "role": "related", "evidence_block_ids": ["history_book_01_p0192_b001", "history_book_01_p0192_b003"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0192_b001", "history_book_01_p0192_b003"]
+BLOCK history_book_01_p0192_b001 [paragraph] 香港、澳门回归后，中央政府严格按照宪法和特别行政区基本法办事，全力支持特别行政区政府依法施政、发展经济、改善民生，取得显著成绩。2003年，中央政府先后与香港、澳门特别行政区政府签署关于内地与香港、澳门建立更紧密经贸关系的安排及其补充协议，促进内地与港澳之间的货物、服务贸易自由化和投资便利化，实现了港澳与内地优势互补、共同发展。同时，开放内地部分城市居民个人赴港澳旅游，扩大人民币在香港、澳门业务，推动内地企业在香港上市。2011年，香港地区生产总值较回归前的1996年增长54%，澳门地区生产总值较2000年翻了两番多，年均增长率达12.5%，香港、澳门社会保持稳定，经济更加繁荣，显示了“一国两制”方针的强大生命力。
+BLOCK history_book_01_p0192_b003 [paragraph] 2003年，中央政府先后与香港、澳门特别行政区政府签署内地与香港、澳门关于建立更紧密经贸关系的安排：对原产于香港、澳门的进口货物实施零关税；内地扩大对香港、澳门的服务贸易开放领域；实行贸易投资便利化。此后又签署多个补充协议。想一想，这一系列协议的签署及实施，对深化内地和香港、澳门的交流合作起到怎样的作用？
+
+## history_book_01_p0192_k002 两岸交流、“九二共识”与汪辜会谈
+TIME {"source_text": "1979年元旦至1993年4月", "mode": "duration", "start_year": 1979, "end_year": 1993, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0192_b004"]}
+SUMMARY {"text": "教材记载，1992年海协会与海基会在事务性商谈中各自以口头方式表述“海峡两岸均坚持一个中国原则”，并称为“九二共识”；1993年汪辜会谈标志两岸关系发展迈出重要一步。", "evidence_block_ids": ["history_book_01_p0192_b004"]}
+FLOW []
+POINTS [{"text": "“九二共识”核心要义为海峡两岸同属一个中国，共同努力谋求国家统一。", "evidence_block_ids": ["history_book_01_p0192_b004"]}]
+BACKGROUND null
+IMPACT {"text": "教材记载两岸往来、民间交往和经贸合作不断发展。", "evidence_block_ids": ["history_book_01_p0192_b004"]}
+PLACES [{"place_id": "history_book_01_place_taiwan", "role": "occurrence", "evidence_block_ids": ["history_book_01_p0192_b004"]}, {"place_id": "history_book_01_place_singapore", "role": "related", "evidence_block_ids": ["history_book_01_p0192_b004"]}]
+PEOPLE ["history_book_01_person_wang_daohan", "history_book_01_person_gu_zhenfu"]
+EVIDENCE ["history_book_01_p0192_b004"]
+BLOCK history_book_01_p0192_b004 [paragraph] 1979年元旦全国人大常委会发表《告台湾同胞书》后，中国政府推动大陆同台湾同胞的经济技术交流与合作，促进双方人员往来。1992年，海峡两岸关系协会与台湾海峡交流基金会开始进行事务性商谈，达成各自以口头方式表述“海峡两岸均坚持一个中国原则”的“九二共识”，其核心要义是“海峡两岸同属一个中国，共同努力谋求国家统一”。1993年4月，海协会会长汪道涵、台湾海基会董事长辜振甫在新加坡举行会谈。汪辜会谈标志着两岸关系发展迈出了重要一步。经过海峡两岸同胞的共同努力，两岸往来日渐频繁，民间交往不断扩大，经贸合作蓬勃发展。
+
+## history_book_01_p0192_k003 《反分裂国家法》与两岸政党交流
+TIME {"source_text": "2005年3月14日；2005年4月；2008年12月", "mode": "duration", "start_year": 2005, "end_year": 2008, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0192_b005", "history_book_01_p0192_b006"]}
+SUMMARY {"text": "2005年通过《反分裂国家法》，同年4月开启两岸政党交流；教材还记载2008年12月两岸海、空直航及直接通邮等“三通”迈开实质性步伐。", "evidence_block_ids": ["history_book_01_p0192_b005", "history_book_01_p0192_b006"]}
+FLOW []
+POINTS [{"text": "《反分裂国家法》被教材表述为维护国家主权和领土完整共同意志的体现。", "evidence_block_ids": ["history_book_01_p0192_b005"]}]
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_taiwan", "role": "related", "evidence_block_ids": ["history_book_01_p0192_b005"]}]
+PEOPLE ["history_book_01_person_hu_jintao", "history_book_01_person_lianzhan"]
+EVIDENCE ["history_book_01_p0192_b005", "history_book_01_p0192_b006"]
+BLOCK history_book_01_p0192_b005 [paragraph] 进入21世纪，“台独”分裂活动不断加剧，党和国家将反对和遏制“台独”摆在对台工作更加突出的 位置。2005年3月14日，十届全国人大三次会议通过《反分裂国家法》，表明全中国人民维护国家主权和领土完整的共同意志和坚定决心。2005年4月，胡锦涛邀请中国国民党主席连战访问大陆，成功开启两岸政党交流。双方达成坚持“九二共识”、反对“台独”、谋求台海和平稳定、促进两岸关系发展等多项共识。2008年12月，两岸海、空直航
+BLOCK history_book_01_p0192_b006 [image] ▲ 2005年3月14日，出席十届全国人大三次会议的代表们对《反分裂国家法（草案）》进行表决

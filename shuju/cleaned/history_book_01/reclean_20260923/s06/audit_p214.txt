@@ -1,0 +1,863 @@
+## history_book_01_p0214_k001 589年：隋灭陈，统一中国
+TIME {"source_text": "589年", "mode": "point", "start_year": 589, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "隋灭陈，统一中国", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k002 618年：隋朝灭亡，唐朝建立
+TIME {"source_text": "618年", "mode": "point", "start_year": 618, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "隋朝灭亡，唐朝建立", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k003 7世纪前期：“贞观之治”
+TIME {"source_text": "7世纪前期", "mode": "uncertain", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "unknown", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "“贞观之治”", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k004 8世纪前期：“开元盛世”
+TIME {"source_text": "8世纪前期", "mode": "uncertain", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "unknown", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "“开元盛世”", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k005 755—763年：安史之乱
+TIME {"source_text": "755—763年", "mode": "duration", "start_year": 755, "end_year": 763, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "安史之乱", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k006 875年：黄巢起义爆发
+TIME {"source_text": "875年", "mode": "point", "start_year": 875, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "黄巢起义爆发", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k007 907年：朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+TIME {"source_text": "907年", "mode": "point", "start_year": 907, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "朱温废唐称帝，建立后梁，唐朝灭亡，五代开始", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k008 916年：契丹族首领耶律阿保机建立契丹国
+TIME {"source_text": "916年", "mode": "point", "start_year": 916, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "契丹族首领耶律阿保机建立契丹国", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k009 960年：赵匡胤建立宋朝，史称北宋
+TIME {"source_text": "960年", "mode": "point", "start_year": 960, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "赵匡胤建立宋朝，史称北宋", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k010 1038年：党项族首领元昊建立西夏
+TIME {"source_text": "1038年", "mode": "point", "start_year": 1038, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "党项族首领元昊建立西夏", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k011 1069年：王安石开始变法
+TIME {"source_text": "1069年", "mode": "point", "start_year": 1069, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "王安石开始变法", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k012 1115年：女真族首领完颜阿骨打建立金朝
+TIME {"source_text": "1115年", "mode": "point", "start_year": 1115, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "女真族首领完颜阿骨打建立金朝", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k013 1125年：金灭辽
+TIME {"source_text": "1125年", "mode": "point", "start_year": 1125, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "金灭辽", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k014 1127年：金灭北宋，南宋开始，金与南宋形成对峙局面
+TIME {"source_text": "1127年", "mode": "point", "start_year": 1127, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "金灭北宋，南宋开始，金与南宋形成对峙局面", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k015 1141年：南宋与金订立绍兴和议，南宋对金称臣
+TIME {"source_text": "1141年", "mode": "point", "start_year": 1141, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "南宋与金订立绍兴和议，南宋对金称臣", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k016 1206年：铁木真建立蒙古汗国
+TIME {"source_text": "1206年", "mode": "point", "start_year": 1206, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "铁木真建立蒙古汗国", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k017 1271年：忽必烈定国号为大元
+TIME {"source_text": "1271年", "mode": "point", "start_year": 1271, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "忽必烈定国号为大元", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k018 1276年：临安陷落（教材年表作“南宋灭亡”）
+TIME {"source_text": "1276年", "mode": "point", "start_year": 1276, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "教材年表以1276年记“南宋灭亡”；这一年元军占领临安，宋室余部继续抵抗，南宋最终终结通常记为1279年。", "evidence_block_ids": ["history_book_01_p0214_b001"], "external_source_ids": ["SRC_SOUTHERN_SONG", "SRC_SOUTHERN_SONG_1276"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k019 1351年：元末农民起义爆发
+TIME {"source_text": "1351年", "mode": "point", "start_year": 1351, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "元末农民起义爆发", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k020 1368年：朱元璋建立明朝，元朝灭亡
+TIME {"source_text": "1368年", "mode": "point", "start_year": 1368, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "朱元璋建立明朝，元朝灭亡", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k021 1405—1433年：郑和下西洋
+TIME {"source_text": "1405—1433年", "mode": "duration", "start_year": 1405, "end_year": 1433, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "郑和下西洋", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k022 16世纪中期：葡萄牙人获得澳门租住权
+TIME {"source_text": "16世纪中期", "mode": "uncertain", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "unknown", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "葡萄牙人获得澳门租住权", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k023 1616年：努尔哈赤建立后金
+TIME {"source_text": "1616年", "mode": "point", "start_year": 1616, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "努尔哈赤建立后金", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清
+
+## history_book_01_p0214_k024 1636年：皇太极在盛京称帝，改国号为大清
+TIME {"source_text": "1636年", "mode": "point", "start_year": 1636, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0214_b001"]}
+SUMMARY {"text": "皇太极在盛京称帝，改国号为大清", "evidence_block_ids": ["history_book_01_p0214_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0214_b001"]
+BLOCK history_book_01_p0214_b001 [table] 中国古代史大事年表（续表）
+589年	隋灭陈，统一中国
+618年	隋朝灭亡，唐朝建立
+7世纪前期	“贞观之治”
+8世纪前期	“开元盛世”
+755—763年	安史之乱
+875年	黄巢起义爆发
+907年	朱温废唐称帝，建立后梁，唐朝灭亡，五代开始
+916年	契丹族首领耶律阿保机建立契丹国
+960年	赵匡胤建立宋朝，史称北宋
+1038年	党项族首领元昊建立西夏
+1069年	王安石开始变法
+1115年	女真族首领完颜阿骨打建立金朝
+1125年	金灭辽
+1127年	金灭北宋，南宋开始，金与南宋形成对峙局面
+1141年	南宋与金订立绍兴和议，南宋对金称臣
+1206年	铁木真建立蒙古汗国
+1271年	忽必烈定国号为大元
+1276年	南宋灭亡
+1351年	元末农民起义爆发
+1368年	朱元璋建立明朝，元朝灭亡
+1405—1433年	郑和下西洋
+16世纪中期	葡萄牙人获得澳门租住权
+1616年	努尔哈赤建立后金
+1636年	皇太极在盛京称帝，改国号为大清

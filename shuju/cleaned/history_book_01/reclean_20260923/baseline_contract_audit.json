@@ -1,0 +1,971 @@
+{
+  "kind": "contract_check_not_fact_review",
+  "findings": [
+    {
+      "code": "unknown_with_year",
+      "record_id": "history_book_01_p0035_k002",
+      "detail": "未知时间模式与已有数值年份冲突，应按来源重新判断。"
+    },
+    {
+      "code": "unknown_with_year",
+      "record_id": "history_book_01_p0037_k001",
+      "detail": "未知时间模式与已有数值年份冲突，应按来源重新判断。"
+    },
+    {
+      "code": "point_without_year",
+      "record_id": "history_book_01_p0098_k001",
+      "detail": "单点事件没有明确年份，应拆分或改为不确定时间。"
+    },
+    {
+      "code": "unknown_with_year",
+      "record_id": "history_book_01_p0170_k001",
+      "detail": "未知时间模式与已有数值年份冲突，应按来源重新判断。"
+    },
+    {
+      "code": "point_without_year",
+      "record_id": "history_book_01_p0181_k003",
+      "detail": "单点事件没有明确年份，应拆分或改为不确定时间。"
+    },
+    {
+      "code": "process_note_as_text",
+      "record_id": "history_book_01_p0004_b002",
+      "detail": "操作说明替代了清洗原文。"
+    },
+    {
+      "code": "process_note_as_text",
+      "record_id": "history_book_01_p0005_b001",
+      "detail": "操作说明替代了清洗原文。"
+    },
+    {
+      "code": "process_note_as_text",
+      "record_id": "history_book_01_p0006_b001",
+      "detail": "操作说明替代了清洗原文。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0020_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0021_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0022_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0023_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0024_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0025_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0026_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0027_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0028_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0029_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0039_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0040_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0041_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0042_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0043_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0044_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0045_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0046_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0047_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0048_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0049_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0050_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0051_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0052_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0053_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0054_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0055_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0056_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0057_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0067_b012",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0068_b012",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0069_b012",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0070_b008",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0071_b011",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0072_b011",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0073_b011",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0074_b015",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0075_b012",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0076_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0077_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0078_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0079_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0080_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0081_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0082_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0083_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0084_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0085_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0095_b006",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0096_b005",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0097_b012",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0098_b013",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0099_b012",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0100_b016",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0101_b011",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0102_b005",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0103_b012",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0104_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0105_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0106_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0107_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0108_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0109_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0110_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0111_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0112_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0113_b008",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0114_b007",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0115_b003",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0116_b004",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0117_b013",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0118_b011",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0119_b009",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0120_b006",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0121_b009",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0122_b012",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0123_b012",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0124_b008",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0125_b011",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0126_b013",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0127_b010",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0128_b004",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0129_b013",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0130_b009",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0131_b012",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0132_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0133_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0134_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0135_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0136_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0137_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0138_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0139_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0140_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0141_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0142_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0143_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0144_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0145_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0146_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0147_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0148_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0149_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0150_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0151_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0152_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0153_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0154_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0155_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0156_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0157_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0158_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0159_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0160_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0161_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0162_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0163_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0164_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0165_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0166_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0167_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0168_b090",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0169_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0170_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0171_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0172_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0173_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0174_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0175_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0176_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0177_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0178_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0179_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0180_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0181_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0182_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0183_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0184_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0185_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0186_b000",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0187_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0188_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0189_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0190_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0191_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0192_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0193_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0194_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0195_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0196_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0197_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0197_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0198_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0198_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0199_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0199_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0200_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0200_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0201_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0201_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0202_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0202_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0203_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0203_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0204_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0204_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0205_b001",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0205_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0206_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0207_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0208_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0209_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0210_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0211_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0212_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0213_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "unclean_encoding",
+      "record_id": "history_book_01_p0214_b099",
+      "detail": "clean_text仍有已知编码异常，需要对原页处理。"
+    },
+    {
+      "code": "stale_continuation",
+      "record_id": "history_book_01_p0029_b001",
+      "detail": "下一批从PDF页序30继续读取并接续。"
+    },
+    {
+      "code": "stale_continuation",
+      "record_id": "history_book_01_p0039_b001,history_book_01_p0040_b001",
+      "detail": "后续批次从PDF页序49继续，并另行建立跨页关系。"
+    },
+    {
+      "code": "stale_continuation",
+      "record_id": "history_book_01_p0057_b001",
+      "detail": "下一批从PDF页序58继续。"
+    },
+    {
+      "code": "stale_continuation",
+      "record_id": "history_book_01_p0065_b002,history_book_01_p0066_b003",
+      "detail": "后续批次从PDF页序67继续。"
+    },
+    {
+      "code": "stale_continuation",
+      "record_id": "history_book_01_p0085_b001",
+      "detail": "下一批从PDF页序86继续。"
+    },
+    {
+      "code": "stale_continuation",
+      "record_id": "history_book_01_p0094_b007,history_book_01_p0094_b008",
+      "detail": "从PDF页序95继续读取并回接本批探究材料。"
+    },
+    {
+      "code": "stale_continuation",
+      "record_id": "history_book_01_p0112_b001",
+      "detail": "从PDF页序113继续。"
+    },
+    {
+      "code": "stale_continuation",
+      "record_id": "history_book_01_p0159_b008",
+      "detail": "下一批从第160页继续，并沿用第24课章节路径。"
+    }
+  ],
+  "count": 193
+}

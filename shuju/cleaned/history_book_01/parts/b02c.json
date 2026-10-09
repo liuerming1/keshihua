@@ -1,0 +1,4727 @@
+{
+  "schema_version": "history-pdf-ingest/1.0",
+  "batch": {
+    "id": "history_book_01_b02c",
+    "document_id": "history_book_01",
+    "requested_pdf_pages": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "completed_pdf_pages": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "partial_pdf_pages": [],
+    "unprocessed_pdf_pages": [],
+    "complete": true,
+    "next_pdf_page": null,
+    "carryover": [
+      {
+        "type": "other",
+        "record_ids": [
+          "history_book_01_p0065_b002",
+          "history_book_01_p0066_b003"
+        ],
+        "description": "第65页开启第10课，第66页承接并继续金朝入主中原内容。",
+        "next_action": "后续批次从PDF页序67继续。"
+      }
+    ]
+  },
+  "documents": [
+    {
+      "id": "history_book_01",
+      "file_name": "普通高中教科书·历史必修_中外历史纲要（上）.pdf",
+      "title": "普通高中教科书·历史必修 中外历史纲要（上）",
+      "edition": null,
+      "volume": "上",
+      "publisher": "人民教育出版社",
+      "publication_year": null,
+      "total_pdf_pages": 223,
+      "language": "zh-CN",
+      "source_kind": "textbook",
+      "sha256": null
+    }
+  ],
+  "pages": [
+    {
+      "id": "history_book_01_p0058",
+      "document_id": "history_book_01",
+      "pdf_page_number": 58,
+      "printed_page_label": null,
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序58为第三单元扉页，视觉页面未显示印刷页码，printed_page_label保留null。",
+        "扉页背景图已渲染检查，未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0059",
+      "document_id": "history_book_01",
+      "pdf_page_number": 59,
+      "printed_page_label": "52",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第9课 两宋的政治和军事"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0060",
+      "document_id": "history_book_01",
+      "pdf_page_number": 60,
+      "printed_page_label": "53",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第9课 两宋的政治和军事"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0061",
+      "document_id": "history_book_01",
+      "pdf_page_number": 61,
+      "printed_page_label": "54",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第9课 两宋的政治和军事"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0062",
+      "document_id": "history_book_01",
+      "pdf_page_number": 62,
+      "printed_page_label": "55",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第9课 两宋的政治和军事"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0063",
+      "document_id": "history_book_01",
+      "pdf_page_number": 63,
+      "printed_page_label": "56",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第9课 两宋的政治和军事"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0064",
+      "document_id": "history_book_01",
+      "pdf_page_number": 64,
+      "printed_page_label": "57",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第9课 两宋的政治和军事"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "not_applicable",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "页面为探究与拓展纯文字栏目，未发现独立图片资产，image_status标记not_applicable。",
+        "PDF页序与印刷页码分开记录。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0065",
+      "document_id": "history_book_01",
+      "pdf_page_number": 65,
+      "printed_page_label": "58",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第10课 辽夏金元的统治"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0066",
+      "document_id": "history_book_01",
+      "pdf_page_number": 66,
+      "printed_page_label": "59",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第10课 辽夏金元的统治"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "history_book_01_p0058_b001",
+      "page_id": "history_book_01_p0058",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第三单元\n辽宋夏金多民族政权的并立\n与元朝的统一",
+      "clean_text": "第三单元\n辽宋夏金多民族政权的并立\n与元朝的统一",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0058_b002",
+      "page_id": "history_book_01_p0058",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "辽宋夏金元是继三国两晋南北朝之后又一个北方少数民族活跃的时期，可分三个阶段：北宋与辽、西夏的对峙，南宋与金、西夏的并立，元朝的统一。宋朝强化中央集权，内部统治比较稳定，社会经济高度发展，学术文化也取得突出成就，但军事力量不振，与北方少数民族交战处于劣势。与这一时期的战争相比，各民族之间经济和文化联系更为持久和稳定，呈现出互相交融的趋势。元朝结束了多民族政权并立的局面，成为中国历史上第一个由北方少数民族建立的统一王朝。这一时期，中国的经济、文化成就在世界上仍处于领先地位。",
+      "clean_text": "辽宋夏金元是继三国两晋南北朝之后又一个北方少数民族活跃的时期，可分三个阶段：北宋与辽、西夏的对峙，南宋与金、西夏的并立，元朝的统一。宋朝强化中央集权，内部统治比较稳定，社会经济高度发展，学术文化也取得突出成就，但军事力量不振，与北方少数民族交战处于劣势。与这一时期的战争相比，各民族之间经济和文化联系更为持久和稳定，呈现出互相交融的趋势。元朝结束了多民族政权并立的局面，成为中国历史上第一个由北方少数民族建立的统一王朝。这一时期，中国的经济、文化成就在世界上仍处于领先地位。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0058_b003",
+      "page_id": "history_book_01_p0058",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "通过本单元的学习，认识两宋王朝在政治、经济、文化与社会等方面的新变化；了解辽夏金元诸政权的建立、发展和相关制度建设，认识北方少数民族政权在统一多民族封建国家发展中的重要作用。",
+      "clean_text": "通过本单元的学习，认识两宋王朝在政治、经济、文化与社会等方面的新变化；了解辽夏金元诸政权的建立、发展和相关制度建设，认识北方少数民族政权在统一多民族封建国家发展中的重要作用。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0058_b004",
+      "page_id": "history_book_01_p0058",
+      "order": 4,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [
+        "history_book_01_p0058_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "单元扉页下部为市集、房屋、船只与人物线描背景，不能据画面确认具体时代、地点或身份。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0058_b005",
+      "page_id": "history_book_01_p0058",
+      "order": 5,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "第8课 三国至隋唐的文化 51\n仅供个人学习使用，未经授权不得另做他用",
+      "clean_text": "第8课 三国至隋唐的文化 51\n仅供个人学习使用，未经授权不得另做他用",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "PDF文字层含相邻页标题和版权水印残留；保留raw_text用于覆盖审计，不作为本页正文。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0059_b001",
+      "page_id": "history_book_01_p0059",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第9课\n两宋的政治和军事",
+      "clean_text": "第9课\n两宋的政治和军事",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0059_b002",
+      "page_id": "history_book_01_p0059",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "五代时期，天子“兵强马壮者为之”，中原王朝更迭频繁。后来，新政权结束了五代十国分裂局面，形成长时间的稳定统治。图为明朝人绘制的《雪夜访普图》，描绘了新政权统治者与谋士筹划统一方略的场景。",
+      "clean_text": "五代时期，天子“兵强马壮者为之”，中原王朝更迭频繁。后来，新政权结束了五代十国分裂局面，形成长时间的稳定统治。图为明朝人绘制的《雪夜访普图》，描绘了新政权统治者与谋士筹划统一方略的场景。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0059_b003",
+      "page_id": "history_book_01_p0059",
+      "order": 3,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [
+        "history_book_01_p0059_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0059_b004",
+      "page_id": "history_book_01_p0059",
+      "order": 4,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲《雪夜访普图》",
+      "clean_text": "▲《雪夜访普图》",
+      "asset_ids": [
+        "history_book_01_p0059_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0059_b005",
+      "page_id": "history_book_01_p0059",
+      "order": 5,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "宋初中央集权的加强",
+      "clean_text": "宋初中央集权的加强",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0059_b006",
+      "page_id": "history_book_01_p0059",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "960年，后周禁军统帅赵匡胤发动兵变夺取帝位，建立宋朝，定都东京，史称北宋。赵匡胤就是宋太祖。北宋建立后，相继灭掉南方的几个割据政权和北方的北汉，结束了五代十国的分裂局面。统治者鉴于唐后期以来军阀割据、政局动荡的历史教训，有针对性地采取了一系列强化中央集权、维护政权稳定的措施。",
+      "clean_text": "960年，后周禁军统帅赵匡胤发动兵变夺取帝位，建立宋朝，定都东京，史称北宋。赵匡胤就是宋太祖。北宋建立后，相继灭掉南方的几个割据政权和北方的北汉，结束了五代十国的分裂局面。统治者鉴于唐后期以来军阀割据、政局动荡的历史教训，有针对性地采取了一系列强化中央集权、维护政权稳定的措施。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0059_b007",
+      "page_id": "history_book_01_p0059",
+      "order": 7,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "为加强对地方的控制，中央派文官出任地方各州的长官知州，节度使逐渐变为虚衔；设诸路转运司统管地方财政，保证各州赋税绝大部分上缴朝廷；将地方精锐部队编入禁军，拱卫京师，镇守地方，定期更换驻地。",
+      "clean_text": "为加强对地方的控制，中央派文官出任地方各州的长官知州，节度使逐渐变为虚衔；设诸路转运司统管地方财政，保证各州赋税绝大部分上缴朝廷；将地方精锐部队编入禁军，拱卫京师，镇守地方，定期更换驻地。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0059_b008",
+      "page_id": "history_book_01_p0059",
+      "order": 8,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "为分散机构权力，在中央，枢密院专掌军政，三司专掌财政，与宰相分权，并增设参知政事为副相。枢密院与禁军管理机构“三衙”分权，前者有调兵权但并不统兵，后者统兵但无权调兵。在地方，包括转运司在内，先后设立了平行的四个路级机构，从不同方面对各州进行监控和节制。州一级增设通判，与知州共同签署文书，彼此制约。",
+      "clean_text": "为分散机构权力，在中央，枢密院专掌军政，三司专掌财政，与宰相分权，并增设参知政事为副相。枢密院与禁军管理机构“三衙”分权，前者有调兵权但并不统兵，后者统兵但无权调兵。在地方，包括转运司在内，先后设立了平行的四个路级机构，从不同方面对各州进行监控和节制。州一级增设通判，与知州共同签署文书，彼此制约。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0059_b009",
+      "page_id": "history_book_01_p0059",
+      "order": 9,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "学习聚焦\n宋初统治者大力加强中央集权，成功地维护了政权的稳定。",
+      "clean_text": "学习聚焦\n宋初统治者大力加强中央集权，成功地维护了政权的稳定。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0059_b010",
+      "page_id": "history_book_01_p0059",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "52 中外历史纲要 上 第三单元 辽宋夏金多民族政权的并立与元朝的统一\n仅供个人学习使用，未经授权不得另做他用",
+      "clean_text": "52 中外历史纲要 上 第三单元 辽宋夏金多民族政权的并立与元朝的统一\n仅供个人学习使用，未经授权不得另做他用",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_b001",
+      "page_id": "history_book_01_p0060",
+      "order": 1,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [
+        "history_book_01_p0060_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_b002",
+      "page_id": "history_book_01_p0060",
+      "order": 2,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲北宋中央权力分配示意图",
+      "clean_text": "▲北宋中央权力分配示意图",
+      "asset_ids": [
+        "history_book_01_p0060_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_b003",
+      "page_id": "history_book_01_p0060",
+      "order": 3,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [
+        "history_book_01_p0060_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_b004",
+      "page_id": "history_book_01_p0060",
+      "order": 4,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲北宋地方权力分配示意图",
+      "clean_text": "▲北宋地方权力分配示意图",
+      "asset_ids": [
+        "history_book_01_p0060_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_b005",
+      "page_id": "history_book_01_p0060",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "为抑制武将势力膨胀，北宋实行崇文抑武的方针，罢免宿将兵权，用文官担任枢密院长官；大力提倡文治，扩大科举录取规模，抬高文官和士人的地位。",
+      "clean_text": "为抑制武将势力膨胀，北宋实行崇文抑武的方针，罢免宿将兵权，用文官担任枢密院长官；大力提倡文治，扩大科举录取规模，抬高文官和士人的地位。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_b006",
+      "page_id": "history_book_01_p0060",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "这些措施强化了中央集权，有效地预防了内部动乱，巩固了国家的统一和安定。但“事为之防，曲为之制”，制度过于僵化，权力分割过细，也影响了行政效率，助长了因循保守的政治风气。",
+      "clean_text": "这些措施强化了中央集权，有效地预防了内部动乱，巩固了国家的统一和安定。但“事为之防，曲为之制”，制度过于僵化，权力分割过细，也影响了行政效率，助长了因循保守的政治风气。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_b007",
+      "page_id": "history_book_01_p0060",
+      "order": 7,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "史料阅读",
+      "clean_text": "史料阅读",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_b008",
+      "page_id": "history_book_01_p0060",
+      "order": 8,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "宋初措施在防范内部动乱、维护统治稳定方面效果显著。时人描述：",
+      "clean_text": "宋初措施在防范内部动乱、维护统治稳定方面效果显著。时人描述：",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_b009",
+      "page_id": "history_book_01_p0060",
+      "order": 9,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "吾宋制治，有县令，有郡守，有转运使，以大系小，丝牵绳联，总合于上。虽其地在万里外，方数千里，拥兵百万，而天子一呼于殿陛间，三尺竖子驰传（zhuan）捧诏，召而归之京师，则解印趋走，惟恐不及。\n——苏洵《嘉祐集》卷1《审势》",
+      "clean_text": "吾宋制治，有县令，有郡守，有转运使，以大系小，丝牵绳联，总合于上。虽其地在万里外，方数千里，拥兵百万，而天子一呼于殿陛间，三尺竖子驰传（zhuan）捧诏，召而归之京师，则解印趋走，惟恐不及。\n——苏洵《嘉祐集》卷1《审势》",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_b010",
+      "page_id": "history_book_01_p0060",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "唯本朝之法，上下相维，轻重相制，如身之使臂，臂之使指……藩方守臣，统制列城，付以数千里之地，十万之师，单车之使，尺纸之诏，朝召而夕至，则为匹夫！\n——范祖禹《范太史集》卷22《转对条上四事状》",
+      "clean_text": "唯本朝之法，上下相维，轻重相制，如身之使臂，臂之使指……藩方守臣，统制列城，付以数千里之地，十万之师，单车之使，尺纸之诏，朝召而夕至，则为匹夫！\n——范祖禹《范太史集》卷22《转对条上四事状》",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_b011",
+      "page_id": "history_book_01_p0060",
+      "order": 11,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "边防压力与财政危机",
+      "clean_text": "边防压力与财政危机",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_b012",
+      "page_id": "history_book_01_p0060",
+      "order": 12,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "早在北宋建立之前，契丹族建立的辽朝在北方草原崛起，占领了燕云十六州，对中原形成严重威胁。北宋统一后，两次发起夺回燕云十六州的北伐，均告惨败。后来辽军大举南下，兵临黄河北岸。双方签订协议，维持已有边界。",
+      "clean_text": "早在北宋建立之前，契丹族建立的辽朝在北方草原崛起，占领了燕云十六州，对中原形成严重威胁。北宋统一后，两次发起夺回燕云十六州的北伐，均告惨败。后来辽军大举南下，兵临黄河北岸。双方签订协议，维持已有边界。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_b013",
+      "page_id": "history_book_01_p0060",
+      "order": 13,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "学习聚焦\n北宋的统治危机主要表现在军事和财政两个方面。",
+      "clean_text": "学习聚焦\n北宋的统治危机主要表现在军事和财政两个方面。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_b014",
+      "page_id": "history_book_01_p0060",
+      "order": 14,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "第9课 两宋的政治和军事 53\n仅供个人学习使用，未经授权不得另做他用",
+      "clean_text": "第9课 两宋的政治和军事 53\n仅供个人学习使用，未经授权不得另做他用",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0061_b001",
+      "page_id": "history_book_01_p0061",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "辽宋皇帝以兄弟相称。北宋每年送给辽一笔钱物，称为“岁币”。通过这项协议，北宋获得了北部边防的基本安定。",
+      "clean_text": "辽宋皇帝以兄弟相称。北宋每年送给辽一笔钱物，称为“岁币”。通过这项协议，北宋获得了北部边防的基本安定。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0061_b002",
+      "page_id": "history_book_01_p0061",
+      "order": 2,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [
+        "history_book_01_p0061_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0061_b003",
+      "page_id": "history_book_01_p0061",
+      "order": 3,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 辽、北宋、西夏形势图（1111年）",
+      "clean_text": "▲ 辽、北宋、西夏形势图（1111年）",
+      "asset_ids": [
+        "history_book_01_p0061_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0061_b004",
+      "page_id": "history_book_01_p0061",
+      "order": 4,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "图中标注：东京（今河南开封）、澶州（澶渊）（今河南濮阳）、中京（今内蒙古宁城）、上京（在今内蒙古巴林左旗南）、兴庆（今宁夏银川）、流求（今台湾）；图例含都城、政权部族界、今国界未定、燕云十六州地区。",
+      "clean_text": "图中标注：东京（今河南开封）、澶州（澶渊）（今河南濮阳）、中京（今内蒙古宁城）、上京（在今内蒙古巴林左旗南）、兴庆（今宁夏银川）、流求（今台湾）；图例含都城、政权部族界、今国界未定、燕云十六州地区。",
+      "asset_ids": [
+        "history_book_01_p0061_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0061_b005",
+      "page_id": "history_book_01_p0061",
+      "order": 5,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "思考点\n北宋这种“以钱物换和平”的做法是否可取？为什么？",
+      "clean_text": "思考点\n北宋这种“以钱物换和平”的做法是否可取？为什么？",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0061_b006",
+      "page_id": "history_book_01_p0061",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "后来，北宋又与西北党项族新建立的西夏发生战争，也是屡战屡败。双方最终达成和议：西夏向北宋称臣，但实际上保持帝号；北宋每年送给西夏钱物，称为“岁赐”。",
+      "clean_text": "后来，北宋又与西北党项族新建立的西夏发生战争，也是屡战屡败。双方最终达成和议：西夏向北宋称臣，但实际上保持帝号；北宋每年送给西夏钱物，称为“岁赐”。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0061_b007",
+      "page_id": "history_book_01_p0061",
+      "order": 7,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "北宋在边疆战事中频吃败仗，却供养了一支空前庞大的军队。这支军队是通过招募组建的，多而不精，管理混乱，训练废弛，素质低下。军队不断扩编，导致军费直线上升，占到国家财政开支的大半。另外，北宋政府机构设置重叠，官僚子弟入仕过滥，致使官僚队伍也不断膨胀。养兵和养官成为朝廷的沉重负担，财政状况日益恶化。",
+      "clean_text": "北宋在边疆战事中频吃败仗，却供养了一支空前庞大的军队。这支军队是通过招募组建的，多而不精，管理混乱，训练废弛，素质低下。军队不断扩编，导致军费直线上升，占到国家财政开支的大半。另外，北宋政府机构设置重叠，官僚子弟入仕过滥，致使官僚队伍也不断膨胀。养兵和养官成为朝廷的沉重负担，财政状况日益恶化。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0061_b008",
+      "page_id": "history_book_01_p0061",
+      "order": 8,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "历史纵横",
+      "clean_text": "历史纵横",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0061_b009",
+      "page_id": "history_book_01_p0061",
+      "order": 9,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "北宋的募兵政策\n通过普遍招募方式组建军队的做法开始于唐玄宗时期。北宋统治者将募兵发展为一种有意识的“养兵”政策，希望通过广泛募兵稳定社会治安、消除动乱因素，即所谓“不收为兵，则恐为盗”“饥岁莫急于防民之盗，而防盗莫先于募民为兵”。募兵过滥致使军队数量不断增加，累增至120余万，军费随之恶性膨胀，成为财政支出的大宗。北宋中期有人说：“天下之所以困，本于兵”，“天下六分之物，五分养兵”。",
+      "clean_text": "北宋的募兵政策\n通过普遍招募方式组建军队的做法开始于唐玄宗时期。北宋统治者将募兵发展为一种有意识的“养兵”政策，希望通过广泛募兵稳定社会治安、消除动乱因素，即所谓“不收为兵，则恐为盗”“饥岁莫急于防民之盗，而防盗莫先于募民为兵”。募兵过滥致使军队数量不断增加，累增至120余万，军费随之恶性膨胀，成为财政支出的大宗。北宋中期有人说：“天下之所以困，本于兵”，“天下六分之物，五分养兵”。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0061_b010",
+      "page_id": "history_book_01_p0061",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "54 中外历史纲要 上 第三单元 辽宋夏金多民族政权的并立与元朝的统一\n仅供个人学习使用，未经授权不得另做他用",
+      "clean_text": "54 中外历史纲要 上 第三单元 辽宋夏金多民族政权的并立与元朝的统一\n仅供个人学习使用，未经授权不得另做他用",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0062_b001",
+      "page_id": "history_book_01_p0062",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "王安石变法",
+      "clean_text": "王安石变法",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0062_b002",
+      "page_id": "history_book_01_p0062",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "北宋的政治风气因循保守，行政效率低下。宋仁宗在位时，大臣范仲淹曾发起以整顿官僚队伍为宗旨的改革，史称“庆历新政”。新政明显触犯了官僚集团的既得利益，引发抵制，很快归于失败。",
+      "clean_text": "北宋的政治风气因循保守，行政效率低下。宋仁宗在位时，大臣范仲淹曾发起以整顿官僚队伍为宗旨的改革，史称“庆历新政”。新政明显触犯了官僚集团的既得利益，引发抵制，很快归于失败。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0062_b003",
+      "page_id": "history_book_01_p0062",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1069年，宋神宗任用王安石主持变法。变法涉及农业、商业、军事、科举、教育等诸多领域，基本原则是加强国家对这些领域的管理和控制，达到富国强兵的目的。富国方面，官府通过向农民提供农业贷款、拨巨资从事商业经营等手段，力图在调控经济的同时开辟财源；强兵方面，对农民进行编制管理和军事训练，希望借以逐渐恢复“兵农合一”的征兵制，取代募兵制。",
+      "clean_text": "1069年，宋神宗任用王安石主持变法。变法涉及农业、商业、军事、科举、教育等诸多领域，基本原则是加强国家对这些领域的管理和控制，达到富国强兵的目的。富国方面，官府通过向农民提供农业贷款、拨巨资从事商业经营等手段，力图在调控经济的同时开辟财源；强兵方面，对农民进行编制管理和军事训练，希望借以逐渐恢复“兵农合一”的征兵制，取代募兵制。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0062_b004",
+      "page_id": "history_book_01_p0062",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "王安石变法达到了富国目的，增加了大笔收入，但强兵的效果并不明显，北宋与西夏开战，又以失败告终。一些措施在执行过程中加重了人民的负担，也引起激烈争议。统治集团内部的分裂日益严重，北宋逐渐走向衰亡。",
+      "clean_text": "王安石变法达到了富国目的，增加了大笔收入，但强兵的效果并不明显，北宋与西夏开战，又以失败告终。一些措施在执行过程中加重了人民的负担，也引起激烈争议。统治集团内部的分裂日益严重，北宋逐渐走向衰亡。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0062_b005",
+      "page_id": "history_book_01_p0062",
+      "order": 5,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [
+        "history_book_01_p0062_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0062_b006",
+      "page_id": "history_book_01_p0062",
+      "order": 6,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 王安石（1021—1086）",
+      "clean_text": "▲ 王安石（1021—1086）",
+      "asset_ids": [
+        "history_book_01_p0062_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0062_b007",
+      "page_id": "history_book_01_p0062",
+      "order": 7,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学思之窗",
+      "clean_text": "学思之窗",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0062_b008",
+      "page_id": "history_book_01_p0062",
+      "order": 8,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "时人描述王安石变法开始后的情景说：今介甫为政，尽变更祖宗旧法，先者后之，上者下之，右者左之，成者毁之，弃者取之。矻矻焉穷日力，继之以夜，而不得息。使上自朝廷，下及田野，内起京师，外周四海，士、吏、兵、农、工、商、僧、道，无一人得袭故而守常者，纷纷扰扰，莫安其居……——司马光《传家集》卷60《与王介甫书》",
+      "clean_text": "时人描述王安石变法开始后的情景说：今介甫为政，尽变更祖宗旧法，先者后之，上者下之，右者左之，成者毁之，弃者取之。矻矻焉穷日力，继之以夜，而不得息。使上自朝廷，下及田野，内起京师，外周四海，士、吏、兵、农、工、商、僧、道，无一人得袭故而守常者，纷纷扰扰，莫安其居……——司马光《传家集》卷60《与王介甫书》",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0062_b009",
+      "page_id": "history_book_01_p0062",
+      "order": 9,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "二三年间，开阖动摇，举天地之内无一民一物得安其所者……今数十百事交举并作，欲以岁月变化天下……——刘挚《忠肃集》卷3《论助役法分析第二疏》",
+      "clean_text": "二三年间，开阖动摇，举天地之内无一民一物得安其所者……今数十百事交举并作，欲以岁月变化天下……——刘挚《忠肃集》卷3《论助役法分析第二疏》",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0062_b010",
+      "page_id": "history_book_01_p0062",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "上述言论出自变法反对派之口，或有夸大之处，但是否也反映了变法的某些缺陷？",
+      "clean_text": "上述言论出自变法反对派之口，或有夸大之处，但是否也反映了变法的某些缺陷？",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0062_b011",
+      "page_id": "history_book_01_p0062",
+      "order": 11,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "学习聚焦\n王安石变法取得一些成果，但并未挽救北宋衰亡的命运。",
+      "clean_text": "学习聚焦\n王安石变法取得一些成果，但并未挽救北宋衰亡的命运。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0062_b012",
+      "page_id": "history_book_01_p0062",
+      "order": 12,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "第9课 两宋的政治和军事 55\n仅供个人学习使用，未经授权不得另做他用",
+      "clean_text": "第9课 两宋的政治和军事 55\n仅供个人学习使用，未经授权不得另做他用",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0063_b001",
+      "page_id": "history_book_01_p0063",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "南宋的偏安",
+      "clean_text": "南宋的偏安",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0063_b002",
+      "page_id": "history_book_01_p0063",
+      "order": 2,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "学习聚焦\n南宋偏安半壁的局面维持了较长时间。",
+      "clean_text": "学习聚焦\n南宋偏安半壁的局面维持了较长时间。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0063_b003",
+      "page_id": "history_book_01_p0063",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1127年，北宋被东北女真族建立的金朝攻灭，两位皇帝徽宗、钦宗被俘虏北去，史称“靖康之变”。北宋康王赵构在应天府称皇帝，后定都临安，史称南宋。赵构就是宋高宗。",
+      "clean_text": "1127年，北宋被东北女真族建立的金朝攻灭，两位皇帝徽宗、钦宗被俘虏北去，史称“靖康之变”。北宋康王赵构在应天府称皇帝，后定都临安，史称南宋。赵构就是宋高宗。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0063_b004",
+      "page_id": "history_book_01_p0063",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "南宋初年，宋军在与金军对抗中素质明显提高，形成几支较有战斗力的部队，尤以岳飞指挥的“岳家军”战绩卓著。然而，宋高宗和宰相秦桧却视岳飞等为心腹之患，主动向金朝求和。1141年，南宋与金订立绍兴和议。以东起淮水、西至大散关一线划界，南宋对金称臣，每年向金朝缴纳一笔财物，称为“岁贡”。岳飞也被南宋朝廷逮捕杀害。",
+      "clean_text": "南宋初年，宋军在与金军对抗中素质明显提高，形成几支较有战斗力的部队，尤以岳飞指挥的“岳家军”战绩卓著。然而，宋高宗和宰相秦桧却视岳飞等为心腹之患，主动向金朝求和。1141年，南宋与金订立绍兴和议。以东起淮水、西至大散关一线划界，南宋对金称臣，每年向金朝缴纳一笔财物，称为“岁贡”。岳飞也被南宋朝廷逮捕杀害。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0063_b005",
+      "page_id": "history_book_01_p0063",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "此后，宋金之间又发生几次战争，南宋地位稍有上升，不再向金称臣，而是“世为侄国”，继续维持南北对峙的局面。",
+      "clean_text": "此后，宋金之间又发生几次战争，南宋地位稍有上升，不再向金称臣，而是“世为侄国”，继续维持南北对峙的局面。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0063_b006",
+      "page_id": "history_book_01_p0063",
+      "order": 6,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [
+        "history_book_01_p0063_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0063_b007",
+      "page_id": "history_book_01_p0063",
+      "order": 7,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 岳飞（1103—1142）\n岳飞的抗金事迹，数百年来为人们所传颂，人们视岳飞为民族英雄。",
+      "clean_text": "▲ 岳飞（1103—1142）\n岳飞的抗金事迹，数百年来为人们所传颂，人们视岳飞为民族英雄。",
+      "asset_ids": [
+        "history_book_01_p0063_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0063_b008",
+      "page_id": "history_book_01_p0063",
+      "order": 8,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [
+        "history_book_01_p0063_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0063_b009",
+      "page_id": "history_book_01_p0063",
+      "order": 9,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 金、南宋、西夏形势图（1142年）",
+      "clean_text": "▲ 金、南宋、西夏形势图（1142年）",
+      "asset_ids": [
+        "history_book_01_p0063_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0063_b010",
+      "page_id": "history_book_01_p0063",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "图中标注：上京（会宁）（在今黑龙江哈尔滨）、燕京（今北京）、兴庆（今宁夏银川）、郾城（在今河南漯河）、大散关（在今陕西宝鸡）、临安（今浙江杭州）、流求（今台湾）；图例含都城、路级驻所、政权部族界、今国界未定。",
+      "clean_text": "图中标注：上京（会宁）（在今黑龙江哈尔滨）、燕京（今北京）、兴庆（今宁夏银川）、郾城（在今河南漯河）、大散关（在今陕西宝鸡）、临安（今浙江杭州）、流求（今台湾）；图例含都城、路级驻所、政权部族界、今国界未定。",
+      "asset_ids": [
+        "history_book_01_p0063_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0063_b011",
+      "page_id": "history_book_01_p0063",
+      "order": 11,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "① 靖康，宋钦宗的年号。\n② 应天府，今河南商丘。",
+      "clean_text": "① 靖康，宋钦宗的年号。\n② 应天府，今河南商丘。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0063_b012",
+      "page_id": "history_book_01_p0063",
+      "order": 12,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "56 中外历史纲要 上 第三单元 辽宋夏金多民族政权的并立与元朝的统一\n仅供个人学习使用，未经授权不得另做他用",
+      "clean_text": "56 中外历史纲要 上 第三单元 辽宋夏金多民族政权的并立与元朝的统一\n仅供个人学习使用，未经授权不得另做他用",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0064_b001",
+      "page_id": "history_book_01_p0064",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "探究与拓展",
+      "clean_text": "探究与拓展",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0064_b002",
+      "page_id": "history_book_01_p0064",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "问题探究",
+      "clean_text": "问题探究",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0064_b003",
+      "page_id": "history_book_01_p0064",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "南宋学者叶适对北宋初期加强中央集权的措施进行了批评，他说：",
+      "clean_text": "南宋学者叶适对北宋初期加强中央集权的措施进行了批评，他说：",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0064_b004",
+      "page_id": "history_book_01_p0064",
+      "order": 4,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "今内外上下，一事之小，一罪之微，皆先有法以待之；极一世之人志虑之所周浃（jia），忽得一智，自以为甚奇，而法固已备之矣，是法之密也。虽然，人之才不获尽，人之志不获伸，昏然俯首一听于法度，而事功日隳（hui），风俗日坏，贫民愈无告，奸人愈得志。——《水心别集》卷10《实谋》",
+      "clean_text": "今内外上下，一事之小，一罪之微，皆先有法以待之；极一世之人志虑之所周浃（jia），忽得一智，自以为甚奇，而法固已备之矣，是法之密也。虽然，人之才不获尽，人之志不获伸，昏然俯首一听于法度，而事功日隳（hui），风俗日坏，贫民愈无告，奸人愈得志。——《水心别集》卷10《实谋》",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0064_b005",
+      "page_id": "history_book_01_p0064",
+      "order": 5,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "唐失其道，化内地为藩镇，内外皆坚，而人至不能自安；本朝反其弊，使内外皆柔，虽能自安，而有大不可安者。——《水心别集》卷14《纪纲二》",
+      "clean_text": "唐失其道，化内地为藩镇，内外皆坚，而人至不能自安；本朝反其弊，使内外皆柔，虽能自安，而有大不可安者。——《水心别集》卷14《纪纲二》",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0064_b006",
+      "page_id": "history_book_01_p0064",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "结合所学知识，谈谈你对上述材料的理解，分析宋初加强中央集权措施的利弊得失。",
+      "clean_text": "结合所学知识，谈谈你对上述材料的理解，分析宋初加强中央集权措施的利弊得失。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0064_b007",
+      "page_id": "history_book_01_p0064",
+      "order": 7,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习拓展",
+      "clean_text": "学习拓展",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0064_b008",
+      "page_id": "history_book_01_p0064",
+      "order": 8,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "近千年来，关于王安石变法的评价，存在着相当大的争议。就此次变法某个方面的措施查找资料，了解其争议所在。",
+      "clean_text": "近千年来，关于王安石变法的评价，存在着相当大的争议。就此次变法某个方面的措施查找资料，了解其争议所在。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0064_b009",
+      "page_id": "history_book_01_p0064",
+      "order": 9,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "第9课 两宋的政治和军事 57\n仅供个人学习使用，未经授权不得另做他用",
+      "clean_text": "第9课 两宋的政治和军事 57\n仅供个人学习使用，未经授权不得另做他用",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0065_b001",
+      "page_id": "history_book_01_p0065",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第10课\n辽夏金元的统治",
+      "clean_text": "第10课\n辽夏金元的统治",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0065_b002",
+      "page_id": "history_book_01_p0065",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "宋朝史料记载了宋神宗对辽和西夏的评价。他忧心忡忡地说：“二虏之势所以难制者，有城国，有行国……比之汉、唐，最为强盛。”宋神宗的话反映出这一时期的北方民族政权在统治本族原居地的同时，还越来越深入地向中原农耕地区拓展。图为辽墓壁画《契丹人引马图》，部分反映了契丹人的游牧生活方式。",
+      "clean_text": "宋朝史料记载了宋神宗对辽和西夏的评价。他忧心忡忡地说：“二虏之势所以难制者，有城国，有行国……比之汉、唐，最为强盛。”宋神宗的话反映出这一时期的北方民族政权在统治本族原居地的同时，还越来越深入地向中原农耕地区拓展。图为辽墓壁画《契丹人引马图》，部分反映了契丹人的游牧生活方式。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0065_b003",
+      "page_id": "history_book_01_p0065",
+      "order": 3,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [
+        "history_book_01_p0065_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0065_b004",
+      "page_id": "history_book_01_p0065",
+      "order": 4,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲《契丹人引马图》",
+      "clean_text": "▲《契丹人引马图》",
+      "asset_ids": [
+        "history_book_01_p0065_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0065_b005",
+      "page_id": "history_book_01_p0065",
+      "order": 5,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "辽与西夏",
+      "clean_text": "辽与西夏",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0065_b006",
+      "page_id": "history_book_01_p0065",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "辽朝的建立者契丹族与鲜卑同源，在辽河上游过着游牧、渔猎生活。916年，契丹族首领耶律阿保机建立契丹国，定都上京，后来版图扩大，改国号为辽。辽与北宋长期对峙，大部分时间里维持了和平局面，通使频繁，贸易活跃。",
+      "clean_text": "辽朝的建立者契丹族与鲜卑同源，在辽河上游过着游牧、渔猎生活。916年，契丹族首领耶律阿保机建立契丹国，定都上京，后来版图扩大，改国号为辽。辽与北宋长期对峙，大部分时间里维持了和平局面，通使频繁，贸易活跃。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0065_b007",
+      "page_id": "history_book_01_p0065",
+      "order": 7,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "辽朝的职官设置分为南、北面官。南面官负责以汉人为主的农耕民族事务，北面官负责契丹等游牧民族事务。皇帝和宫廷依然保持草原习俗，每年随季节转换定期迁徙。迁徙中的行营成为国家政治中心。",
+      "clean_text": "辽朝的职官设置分为南、北面官。南面官负责以汉人为主的农耕民族事务，北面官负责契丹等游牧民族事务。皇帝和宫廷依然保持草原习俗，每年随季节转换定期迁徙。迁徙中的行营成为国家政治中心。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0065_b008",
+      "page_id": "history_book_01_p0065",
+      "order": 8,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学思之窗",
+      "clean_text": "学思之窗",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0065_b009",
+      "page_id": "history_book_01_p0065",
+      "order": 9,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "契丹……官分南、北，以国制治契丹，以汉制待汉人……北面治宫帐、部族、属国之政，南面治汉人州县、租赋、军马之事。因俗而治，得其宜矣。——《辽史·百官志一》",
+      "clean_text": "契丹……官分南、北，以国制治契丹，以汉制待汉人……北面治宫帐、部族、属国之政，南面治汉人州县、租赋、军马之事。因俗而治，得其宜矣。——《辽史·百官志一》",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0065_b010",
+      "page_id": "history_book_01_p0065",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "胡人之官，领番中职事者皆胡服，谓之契丹官，枢密、宰臣则曰北枢密、北宰相。领燕中职事者，虽胡人亦汉服，谓之汉官，执政者则曰南宰相、南枢密。——余靖《武溪集》卷18《契丹官仪》",
+      "clean_text": "胡人之官，领番中职事者皆胡服，谓之契丹官，枢密、宰臣则曰北枢密、北宰相。领燕中职事者，虽胡人亦汉服，谓之汉官，执政者则曰南宰相、南枢密。——余靖《武溪集》卷18《契丹官仪》",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0065_b011",
+      "page_id": "history_book_01_p0065",
+      "order": 11,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "第一段材料反映的辽朝职官设置特点是什么？你能否从第二段材料的描述中体会到这一特点？",
+      "clean_text": "第一段材料反映的辽朝职官设置特点是什么？你能否从第二段材料的描述中体会到这一特点？",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0065_b012",
+      "page_id": "history_book_01_p0065",
+      "order": 12,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "学习聚焦\n辽和西夏与北宋鼎峙，都维持了较长时间统治的稳定。",
+      "clean_text": "学习聚焦\n辽和西夏与北宋鼎峙，都维持了较长时间统治的稳定。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0065_b013",
+      "page_id": "history_book_01_p0065",
+      "order": 13,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "58 中外历史纲要 上 第三单元 辽宋夏金多民族政权的并立与元朝的统一\n仅供个人学习使用，未经授权不得另做他用",
+      "clean_text": "58 中外历史纲要 上 第三单元 辽宋夏金多民族政权的并立与元朝的统一\n仅供个人学习使用，未经授权不得另做他用",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0066_b001",
+      "page_id": "history_book_01_p0066",
+      "order": 1,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [
+        "history_book_01_p0066_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0066_b002",
+      "page_id": "history_book_01_p0066",
+      "order": 2,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 西夏王陵\n西夏王陵位于宁夏回族自治区银川市西，贺兰山东麓，是西夏历代皇帝的陵墓。",
+      "clean_text": "▲ 西夏王陵\n西夏王陵位于宁夏回族自治区银川市西，贺兰山东麓，是西夏历代皇帝的陵墓。",
+      "asset_ids": [
+        "history_book_01_p0066_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0066_b003",
+      "page_id": "history_book_01_p0066",
+      "order": 3,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "金朝入主中原",
+      "clean_text": "金朝入主中原",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0066_b004",
+      "page_id": "history_book_01_p0066",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "金朝的建立者女真族活动于黑龙江、松花江流域，以农业、狩猎、畜牧为生。1114年，女真族首领完颜阿骨打举兵反辽，次年称皇帝，建立金朝，定都会宁府，会宁府也称上京。1125年，金灭辽，两年后又灭北宋，与南宋逐渐形成对峙局面。1153年，金迁都燕京，将燕京改名为中都。",
+      "clean_text": "金朝的建立者女真族活动于黑龙江、松花江流域，以农业、狩猎、畜牧为生。1114年，女真族首领完颜阿骨打举兵反辽，次年称皇帝，建立金朝，定都会宁府，会宁府也称上京。1125年，金灭辽，两年后又灭北宋，与南宋逐渐形成对峙局面。1153年，金迁都燕京，将燕京改名为中都。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0066_b005",
+      "page_id": "history_book_01_p0066",
+      "order": 5,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [
+        "history_book_01_p0066_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0066_b006",
+      "page_id": "history_book_01_p0066",
+      "order": 6,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 金、元、明北京城址变迁图",
+      "clean_text": "▲ 金、元、明北京城址变迁图",
+      "asset_ids": [
+        "history_book_01_p0066_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0066_b007",
+      "page_id": "history_book_01_p0066",
+      "order": 7,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "西夏的建立者党项族是古代羌人的分支，唐末在今陕北、宁夏一带形成边疆藩镇，宋初仍然保持半独立的地位。1038年，党项首领元昊脱离宋朝称帝，定都兴庆府，国号大夏，史称西夏。其制度基本模仿北宋，中央机构除汉式官称外，同时有一套本民族称谓的官称。",
+      "clean_text": "西夏的建立者党项族是古代羌人的分支，唐末在今陕北、宁夏一带形成边疆藩镇，宋初仍然保持半独立的地位。1038年，党项首领元昊脱离宋朝称帝，定都兴庆府，国号大夏，史称西夏。其制度基本模仿北宋，中央机构除汉式官称外，同时有一套本民族称谓的官称。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0066_b008",
+      "page_id": "history_book_01_p0066",
+      "order": 8,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "北宋灭亡前夕，西夏向金朝称臣，此后仍然保持事实上的独立。",
+      "clean_text": "北宋灭亡前夕，西夏向金朝称臣，此后仍然保持事实上的独立。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0066_b009",
+      "page_id": "history_book_01_p0066",
+      "order": 9,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "学习聚焦\n金朝由东北入主中原，一度出现治世。",
+      "clean_text": "学习聚焦\n金朝由东北入主中原，一度出现治世。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0066_b010",
+      "page_id": "history_book_01_p0066",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "金朝迁都燕京，是北京成为王朝都城的开始。后来元朝在金中都东北兴建大都。明朝前期迁都北京，位置比元大都略微南移。明朝嘉靖年间，又在北京城南面加修外城。今天北京的中心区域由此形成。",
+      "clean_text": "金朝迁都燕京，是北京成为王朝都城的开始。后来元朝在金中都东北兴建大都。明朝前期迁都北京，位置比元大都略微南移。明朝嘉靖年间，又在北京城南面加修外城。今天北京的中心区域由此形成。",
+      "asset_ids": [
+        "history_book_01_p0066_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0066_b011",
+      "page_id": "history_book_01_p0066",
+      "order": 11,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "59 中外历史纲要 上 第三单元 辽宋夏金多民族政权的并立与元朝的统一\n仅供个人学习使用，未经授权不得另做他用",
+      "clean_text": "59 中外历史纲要 上 第三单元 辽宋夏金多民族政权的并立与元朝的统一\n仅供个人学习使用，未经授权不得另做他用",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0058_b999",
+      "page_id": "history_book_01_p0058",
+      "order": 999,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "第8课﻿﻿﻿﻿三国至隋唐的文化 51\n第三单元\n辽宋夏金多民族政权的并立\n与元朝的统一\n辽宋夏金元是继三国两晋南北朝之后又一个北方少数\n民族活跃的时期，可分三个阶段：北宋与辽、西夏的对\n峙，南宋与金、西夏的并立，元朝的统一。宋朝强化中央\n集权，内部统治比较稳定，社会经济高度发展，学术文化\n也取得突出成就，但军事力量不振，与北方少数民族交战\n处于劣势。与这一时期的战争相比，各民族之间经济和文\n化联系更为持久和稳定，呈现出互相交融的趋势。元朝结\n束了多民族政权并立的局面，成为中国历史上第一个由北\n方少数民族建立的统一王朝。这一时期，中国的经济、文\n化成就在世界上仍处于领先地位。\n通过本单元的学习，认识两宋王朝在政治、经济、文\n化与社会等方面的新变化；了解辽夏金元诸政权的建立、\n发展和相关制度建设，认识北方少数民族政权在统一多民\n族封建国家发展中的重要作用。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "技术性原始文字层证据块，仅用于覆盖审计；语义整理以本页其他标题、段落、图注和边栏块为准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0059_b999",
+      "page_id": "history_book_01_p0059",
+      "order": 999,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "52 中外历史纲要﻿上﻿﻿第三单元﻿辽宋夏金多民族政权的并立与元朝的统一\n第9课\n两宋的政治和军事\n五代时期，天子“兵强马壮者为之” ，中原王朝更迭\n频繁。后来，新政权结束了五代十国分裂局面，形成长时\n间的稳定统治。图为明朝人绘制的《雪夜访普图》 ，描绘\n了新政权统治者与谋士筹划统一方略的场景。\n宋初中央集权的加强 \n960 年，后周禁军统帅赵匡胤发动兵变夺取帝位，建\n立宋朝，定都东京，史称北宋。赵匡胤就是宋太祖。北宋\n建立后，相继灭掉南方的几个割据政权和北方的北汉，结\n束了五代十国的分裂局面。统治者鉴于唐后期以来军阀割\n据、政局动荡的历史教训，有针对性地采取了一系列强化\n中央集权、维护政权稳定的措施。\n为加强对地方的控制，中央派文官出任地方各州的长\n官知州，节度使逐渐变为虚衔；设诸路转运司统管地方财\n政，保证各州赋税绝大部分上缴朝廷；将地方精锐部队编入\n禁军，拱卫京师，镇守地方，定期更换驻地。\n为分散机构权力，在中央，枢密院专掌军政，三司\n专掌财政，与宰相分权，并增设参知政事为副相。枢密\n院与禁军管理机构“三衙”分权，前者有调兵权但并不统\n兵，后者统兵但无权调兵。在地方，包括转运司在内，先\n后设立了平行的四个路级机构，从不同方面对各州进行监\n控和节制。州一级增设通判，与知州共同签署文书，彼此\n制约。\n▲ 《雪夜访普图》\n  \n宋初统治者大力加强中\n央集权，成功地维护了政权\n的稳定。\n学习聚焦\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "技术性原始文字层证据块，仅用于覆盖审计；语义整理以本页其他标题、段落、图注和边栏块为准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0060_b999",
+      "page_id": "history_book_01_p0060",
+      "order": 999,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "第9课    两宋的政治和军事 53\n为抑制武将势力膨胀，北宋实行崇文抑武的方针，罢\n免宿将兵权，用文官担任枢密院长官；大力提倡文治，扩\n大科举录取规模，抬高文官和士人的地位。\n这些措施强化了中央集权，有效地预防了内部动乱，\n巩固了国家的统一和安定。但“事为之防，曲为之制” ，\n制度过于僵化，权力分割过细，也影响了行政效率，助长\n了因循保守的政治风气。\n边防压力与财政危机\n早在北宋建立之前，契丹族建立的辽朝在北方草原崛\n起，占领了燕云十六州，对中原形成严重威胁。北宋统一\n后，两次发起夺回燕云十六州的北伐，均告惨败。后来辽军\n大举南下，兵临黄河北岸。双方签订协议，维持已有边界，\n史料阅读\n宋初措施在防范内部动乱、维护统治稳定方面效果显著。时人描述：\n吾宋制治，有县令，有郡守，有转运使，以大系小，丝牵绳联，总合于上。虽其地在万里外，\n方数千里，拥兵百万，而天子一呼于殿陛间，三尺竖子驰传（zhuSn）捧诏，召而归之京师，则解印\n趋走，惟恐不及。\n——苏洵《嘉祐集》卷 1 《审势》\n唯本朝之法，上下相维，轻重相制，如身之使臂，臂之使指……藩方守臣，统制列城，付以数\n千里之地，十万之师，单车之使，尺纸之诏，朝召而夕至，则为匹夫！\n——范祖禹《范太史集》卷 22 《转对条上四事状》\n北宋的统治危机主要表\n现在军事和财政两个方面。\n学习聚焦\n▲ 北宋中央权力分配示意图 ▲北宋地方权力分配示意图\nܽ\n᡹\nйᄣ\nԞ\nՃ὇\nᣁᤂՃ὆໧Ճ὇\nՃ὇\nՃ὆̲Ճ὇\n὆ੋᅼऊ኎὇\nᤰѼ\nᅼԞ὆ੋԞ̾὇\nࣛ\n८Ғ͘ᝬ\nᬓ Լះ\nʼՃΎ\nࠣ\n८Ծ˗ˎ ᅼះᬓቦ̃\nᄱ὇\nԠᅼ஋̃\n὆ੰ஋὇\nΎ\n὆ੰ஋὇\nҞΎ\n὆ੰ஋὇\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "技术性原始文字层证据块，仅用于覆盖审计；语义整理以本页其他标题、段落、图注和边栏块为准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0061_b999",
+      "page_id": "history_book_01_p0061",
+      "order": 999,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "54 中外历史纲要 上  第三单元  辽宋夏金多民族政权的并立与元朝的统一\n辽宋皇帝以兄弟相称。北宋每年送给辽一笔钱物，称为“岁\n币” 。通过这项协议，北宋获得了北部边防的基本安定。\n北宋这种 “以钱物换\n和平”的做法是否可取 ？\n为什么？\n思考点\n▲ 辽、北宋、西夏形势图（1111年）\n东京…………… 今河南开封\n澶州（澶渊） \n… 今河南濮阳\n中京………… 今内蒙古宁城\n上京…………… 在今内蒙古\n巴林左旗南\n兴庆…………… 今宁夏银川\n流求………………… 今台湾\n南海\n南\n海\n北宋\n北  宋\n辽\n西 夏\n黄\n河\n海\n渤\n黄头回纥\n葱 岭\n吐蕃诸部\n西州回鹘\n大\n理\n海 南\n海\n东\n江大\n流\n求\n万\n里\n石\n塘\n辽、北宋、西夏形势图(1111年)\n东京\n中京\n兴庆\n辖\n戛 斯\n斡\n朗\n改\n女\n真\n燕云十六州地区\n都城\n政权部族界\n今国界未定\n澶州\n上京\n（澶渊）\n黑  汗\n（喀喇汗）\n后来，北宋又与西北党项族新建立的西夏发生战争，\n也是屡战屡败。双方最终达成和议：西夏向北宋称臣，但\n实际上保持帝号；北宋每年送给西夏钱物，称为“岁赐” 。\n北宋在边疆战事中频吃败仗，却供养了一支空前庞大\n的军队。这支军队是通过招募组建的，多而不精，管理混\n乱，训练废弛，素质低下。军队不断扩编，导致军费直线\n上升，占到国家财政开支的大半。另外，北宋政府机构设\n置重叠，官僚子弟入仕过滥，致使官僚队伍也不断膨胀。\n养兵和养官成为朝廷的沉重负担，财政状况日益恶化。\n北宋的募兵政策\n通过普遍招募方式组建军队的做法开始于唐玄宗时期。北宋统治者将募兵发展为一种有意识\n的“养兵”政策，希望通过广泛募兵稳定社会治安、消除动乱因素，即所谓“不收为兵，则恐为\n盗” “饥岁莫急于防民之盗，而防盗莫先于募民为兵” 。募兵过滥致使军队数量不断增加，累增\n至 120 余万，军费随之恶性膨胀，成为财政支出的大宗。北宋中期有人说： “天下之所以困，本于\n兵” ， “天下六分之物，五分养兵” 。\n历史纵横\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "技术性原始文字层证据块，仅用于覆盖审计；语义整理以本页其他标题、段落、图注和边栏块为准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0062_b999",
+      "page_id": "history_book_01_p0062",
+      "order": 999,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "第9课﻿﻿﻿﻿两宋的政治和军事 55\n王安石变法取得一些成\n果，但并未挽救北宋衰亡的\n命运。\n学习聚焦\n王安石变法\n北宋的政治风气因循保守，行政效率低下。宋仁宗在\n位时，大臣范仲淹曾发起以整顿官僚队伍为宗旨的改革，\n史称“庆历新政” 。新政明显触犯了官僚集团的既得利益，\n引发抵制，很快归于失败。\n1069 年，宋神宗任用王安石主持变法。变法涉及农\n业、商业、军事、科举、教育等诸多领域，基本原则是加\n强国家对这些领域的管理和控制，达到富国强兵的目的。\n富国方面，官府通过向农民提供农业贷款、拨巨资从事商\n业经营等手段，力图在调控经济的同时开辟财源；强兵方\n面，对农民进行编制管理和军事训练，希望借以逐渐恢复\n“兵农合一”的征兵制，取代募兵制。\n王安石变法达到了富国目的，增加了大笔收入，但强\n兵的效果并不明显，北宋与西夏开战，又以失败告终。一\n些措施在执行过程中加重了人民的负担，也引起激烈争议。\n统治集团内部的分裂日益严重，北宋逐渐走向衰亡。\n▲ 王安石（1021—1086）\n时人描述王安石变法开始后的情景说：\n今介甫为政，尽变更祖宗旧法，先者后之，上者下之，右者\n左之，成者毁之，弃者取之。矻（kO）矻焉穷日力，继之以夜，\n而不得息。使上自朝廷，下及田野，内起京师，外周四海，士、\n吏、兵、农、工、商、僧、道，无一人得袭故而守常者，纷纷扰\n扰，莫安其居……\n——司马光《传家集》卷60 《与王介甫书》\n二三年间，开阖动摇，举天地之内无一民一物得安其所\n者……今数十百事交举并作，欲以岁月变化天下……\n  \n——刘挚《忠肃集》卷3 《论助役法分析第二疏》\n上述言论出自变法反对派之口，或有夸大之处，但是否也反\n映了变法的某些缺陷？\n学思之窗\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "技术性原始文字层证据块，仅用于覆盖审计；语义整理以本页其他标题、段落、图注和边栏块为准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0063_b999",
+      "page_id": "history_book_01_p0063",
+      "order": 999,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "56 中外历史纲要﻿上﻿﻿第三单元﻿辽宋夏金多民族政权的并立与元朝的统一\n南宋的偏安\n1127年，北宋被东北女真族建立的金朝攻灭，两位皇\n帝徽宗、钦宗被俘虏北去，史称“靖康\n①\n之变” 。北宋康王\n赵构在应天府\n②\n称皇帝，后定都临安，史称南宋。赵构就\n是宋高宗。\n南宋初年，宋军在与金军对抗中素质明显提高，形成\n几支较有战斗力的部队，尤以岳飞指挥的“岳家军”战绩\n卓著。然而，宋高宗和宰相秦桧却视岳飞等为心腹之患，主\n动向金朝求和。1141年，南宋与金订立绍兴和议。以东起\n淮水、西至大散关一线划界，南宋对金称臣，每年向金朝缴\n纳一笔财物，称为“岁贡” 。岳飞也被南宋朝廷逮捕杀害。\n此后，宋金之间又发生几次战争，南宋地位稍有上\n升，不再向金称臣，而是“世为侄国” ，继续维持南北对\n峙的局面。\n▲ 岳飞（1103—1142）\n  岳飞的抗金事迹，数百年来为人\n们所传颂，人们视岳飞为民族英雄。\n上京（会宁） …… 在今黑龙江\n哈尔滨\n燕京\n…………………… 今北京\n兴庆……………… 今宁夏银川\n郾城…………… 在今河南漯河\n大散关………… 在今陕西宝鸡\n临安……………… 今浙江杭州\n流求…………………… 今台湾\n▲ 金、南宋、西夏形势图（1142年）\n上京会宁\n萌古斯部\n克烈部\n畏 兀 儿\n大散关 大 江\n临安\n淮 水\n开封\n千\n里\n长沙\n千里\n长\n沙\n万\n里\n石\n塘\n郾城\n兴庆\n燕京\n吐蕃等部\n金\n西夏\n南宋\n大\n理\n西 辽\n黄\n河\n渤\n海\n东\n海\n南\n流\n求\n(蒙古部)\n海\n南宋\n海\n南\n南海\n黠\n戛\n斯\n都城\n路级驻所\n政权部族界\n今国界未定\n金、南宋、西夏形势图（1142年）\n① 靖康，宋钦宗的年号。\n② 应天府，今河南商丘。\n南宋偏安半壁的局面维\n持了较长时间。\n学习聚焦\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "技术性原始文字层证据块，仅用于覆盖审计；语义整理以本页其他标题、段落、图注和边栏块为准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0064_b999",
+      "page_id": "history_book_01_p0064",
+      "order": 999,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "第9课﻿﻿﻿﻿两宋的政治和军事 57\n探究与拓展\n南宋学者叶适对北宋初期加强中央集权的措施进行\n了批评，他说：\n今内外上下，一事之小，一罪之微，皆先有法以待\n之；极一世之人志虑之所周浃（ jiQ） ，忽得一智，自以为\n甚奇，而法固已备之矣，是法之密也。虽然，人之才不\n获尽，人之志不获伸，昏然俯首一听于法度，而事功日\n隳（huU） ，风俗日坏，贫民愈无告，奸人愈得志。  \n——《水心别集》卷 10《实谋》\n唐失其道，化内地为藩镇，内外皆坚，而人至不能自\n安；本朝反其弊，使内外皆柔，虽能自安，而有大不可安者。\n——《水心别集》卷 14《纪纲二》\n结合所学知识，谈谈你对上述材料的理解，分析宋初\n加强中央集权措施的利弊得失。\n问题探究\n近千年来，关于王安石变法的评价，存在着相当大的\n争议。就此次变法某个方面的措施查找资料，了解其争议\n所在。\n学习拓展\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "技术性原始文字层证据块，仅用于覆盖审计；语义整理以本页其他标题、段落、图注和边栏块为准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0065_b999",
+      "page_id": "history_book_01_p0065",
+      "order": 999,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "58 中外历史纲要﻿上﻿﻿第三单元﻿辽宋夏金多民族政权的并立与元朝的统一\n▲ 《契丹人引马图》\n第1 0课\n辽夏金元的统治\n宋朝史料记载了宋神宗对辽和西夏的评价。他忧心忡\n忡地说： “二虏之势所以难制者，有城国，有行国……比\n之汉、唐，最为强盛。 ”宋神宗的话反映出这一时期的北\n方民族政权在统治本族原居地的同时，还越来越深入地向\n中原农耕地区拓展。图为辽墓壁画《契丹人引马图》 ，部\n分反映了契丹人的游牧生活方式。\n辽与西夏\n辽朝的建立者契丹族与鲜卑同源，在辽河上游过着游\n牧、渔猎生活。 916 年，契丹族首领耶律阿保机建立契丹\n国，定都上京，后来版图扩大，改国号为辽。辽与北宋长\n期对峙，大部分时间里维持了和平局面，通使频繁，贸易\n活跃。\n辽朝的职官设置分为南、北面官。南面官负责以汉人\n为主的农耕民族事务，北面官负责契丹等游牧民族事务。\n皇帝和宫廷依然保持草原习俗，每年随季节转换定期迁徙。\n迁徙中的行营成为国家政治中心。\n辽和西夏与北宋鼎峙，\n都维持了较长时间统治的\n稳定。\n学习聚焦\n契丹……官分南、北，以国制治契丹，以汉制待汉人……北面治宫帐、部族、属国之政，南面\n治汉人州县、租赋、军马之事。因俗而治，得其宜矣。\n——《辽史·百官志一》    \n胡人之官，领番中职事者皆胡服，谓之契丹官，枢密、宰臣则曰北枢密、北宰相。领燕中职事\n者，虽胡人亦汉服，谓之汉官，执政者则曰南宰相、南枢密。 \n——余靖《武溪集》卷18 《契丹官仪》\n第一段材料反映的辽朝职官设置特点是什么？你能否从第二段材料的描述中体会到这一特点？\n学思之窗\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "技术性原始文字层证据块，仅用于覆盖审计；语义整理以本页其他标题、段落、图注和边栏块为准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0066_b999",
+      "page_id": "history_book_01_p0066",
+      "order": 999,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "第10课﻿﻿﻿﻿辽夏金元的统治 59\n金朝入主中原\n金朝的建立者女真族活动于黑龙江、松花江流域，以\n农业、狩猎、畜牧为生。1114年，女真族首领完颜阿骨打举\n兵反辽，次年称皇帝，建立金朝，定都会宁府，会宁府也称\n上京。1125年，金灭辽，两年后又灭北宋，与南宋逐渐形\n成对峙局面。1153年，金迁都燕京，将燕京改名为中都。\n▲ 西夏王陵\n  西夏王陵位于宁夏回族自治区银川市西，贺兰山东麓，是西夏历\n代皇帝的陵墓。\n金朝由东北入主中原 ，\n一度出现治世。\n学习聚焦\n积\n水\n潭\n海\n（\n子\n（\n通\n惠\n河顺承门 丽正门 文明门\n德胜门 安定门\n东直门\n朝阳门\n西直门\n阜成门\n广渠门\n广渠门\n东便门崇文门正阳门\n左安门永定门\n金中都 元大都 明北京\n右安门\n广宁门\n会城门\n明时期的城门\n西便门 宣武门\n齐化门\n崇仁门\n光熙门\n安贞门健德门\n肃清门\n和义门\n平则门\n山川坛 天坛\n河\n河\n河\n长\n梁高\n莲花池\n水\n金\n太\n液\n池\n金、元、明北京城址变迁图\n崇智门\n 金、元、明北京城址变迁图\n  金朝迁都燕京，是北京成为王朝都\n城的开始。后来元朝在金中都东北兴建\n大都。明朝前期迁都北京，位置比元大\n都略微南移。明朝嘉靖年间，又在北京\n城南面加修外城。今天北京的中心区域\n由此形成。\n西夏的建立者党项族是古代\n羌人的分支，唐末在今陕北、宁\n夏一带形成边疆藩镇，宋初仍然\n保持半独立的地位。 1038 年，党\n项首领元昊脱离宋朝称帝，定都\n兴庆府 ，国号大夏 ，史称西夏 。\n其制度基本模仿北宋，中央机构\n除汉式官称外，同时有一套本民\n族称谓的官称。\n北宋灭亡前夕，西夏向金朝称\n臣，此后仍然保持事实上的独立。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "技术性原始文字层证据块，仅用于覆盖审计；语义整理以本页其他标题、段落、图注和边栏块为准。"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "history_book_01_p0058_a001",
+      "page_id": "history_book_01_p0058",
+      "block_id": "history_book_01_p0058_b004",
+      "type": "illustration",
+      "bbox": null,
+      "file_path": null,
+      "caption": null,
+      "visible_text": null,
+      "description": "单元扉页下部的市集和城市生活线描背景，页面无题名和年代。",
+      "claims": [],
+      "notes": [
+        "未导出独立图片，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0059_a001",
+      "page_id": "history_book_01_p0059",
+      "block_id": "history_book_01_p0059_b003",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "《雪夜访普图》",
+      "visible_text": null,
+      "description": "明朝人绘制的《雪夜访普图》局部，教材说明其描绘新政权统治者与谋士筹划统一方略的场景。",
+      "claims": [
+        {
+          "text": "图像说明该画描绘新政权统治者与谋士筹划统一方略的场景。",
+          "evidence_block_ids": [
+            "history_book_01_p0059_b002",
+            "history_book_01_p0059_b004"
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_a001",
+      "page_id": "history_book_01_p0060",
+      "block_id": "history_book_01_p0060_b001",
+      "type": "chart",
+      "bbox": null,
+      "file_path": null,
+      "caption": null,
+      "visible_text": "皇帝；御前会议；三司；中书门下（政事堂）；枢密院；台谏；三司使；同平章事（宰相）；参知政事（执政）；枢密使、枢密副使（执政）；御史中丞；知谏院；财政、行政、军政、监察。",
+      "description": "北宋中央权力分配流程示意图。",
+      "claims": [
+        {
+          "text": "示意图呈现北宋中央机构分权及财政、行政、军政、监察职掌。",
+          "evidence_block_ids": [
+            "history_book_01_p0060_b001",
+            "history_book_01_p0060_b002"
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0060_a002",
+      "page_id": "history_book_01_p0060",
+      "block_id": "history_book_01_p0060_b003",
+      "type": "chart",
+      "bbox": null,
+      "file_path": null,
+      "caption": null,
+      "visible_text": "路；府州军监；县；安抚司（帅司）；转运司（漕司）；提点刑狱司（宪司）；提举常平司（仓司）；知州；通判；知县。",
+      "description": "北宋地方权力分配示意图，显示路级机构、州县及通判层级。",
+      "claims": [
+        {
+          "text": "示意图呈现北宋地方路级机构和州县之间的分权与监控关系。",
+          "evidence_block_ids": [
+            "history_book_01_p0060_b003",
+            "history_book_01_p0060_b004"
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0061_a001",
+      "page_id": "history_book_01_p0061",
+      "block_id": "history_book_01_p0061_b002",
+      "type": "map",
+      "bbox": null,
+      "file_path": null,
+      "caption": "辽、北宋、西夏形势图（1111年）",
+      "visible_text": "东京；澶州（澶渊）；中京；上京；兴庆；北宋；辽；西夏；黑汗（喀喇汗）；黄头回纥；西州回鹘；吐蕃诸部；大理；流求；燕云十六州地区；都城；政权部族界；今国界未定。",
+      "description": "1111年辽、北宋、西夏及周边政权、部族和都城形势图；边界未做空间校准。",
+      "claims": [
+        {
+          "text": "地图图题明确为1111年辽、北宋、西夏形势图，并列出多个政权、部族和都城。",
+          "evidence_block_ids": [
+            "history_book_01_p0061_b003",
+            "history_book_01_p0061_b004"
+          ]
+        }
+      ],
+      "notes": [
+        "地图未导出独立文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0062_a001",
+      "page_id": "history_book_01_p0062",
+      "block_id": "history_book_01_p0062_b005",
+      "type": "illustration",
+      "bbox": null,
+      "file_path": null,
+      "caption": "王安石（1021—1086）",
+      "visible_text": null,
+      "description": "教材人物画像，题注标示王安石及生卒年，未给出画像来源和制作年代。",
+      "claims": [
+        {
+          "text": "题注标示人物为王安石（1021—1086）。",
+          "evidence_block_ids": [
+            "history_book_01_p0062_b006"
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0063_a001",
+      "page_id": "history_book_01_p0063",
+      "block_id": "history_book_01_p0063_b006",
+      "type": "illustration",
+      "bbox": null,
+      "file_path": null,
+      "caption": "岳飞（1103—1142）",
+      "visible_text": null,
+      "description": "教材人物画像，题注说明岳飞及生卒年，并说明教材对其抗金事迹和民族英雄评价。",
+      "claims": [
+        {
+          "text": "题注标示岳飞（1103—1142），并说明教材对其抗金事迹和评价。",
+          "evidence_block_ids": [
+            "history_book_01_p0063_b007"
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0063_a002",
+      "page_id": "history_book_01_p0063",
+      "block_id": "history_book_01_p0063_b008",
+      "type": "map",
+      "bbox": null,
+      "file_path": null,
+      "caption": "金、南宋、西夏形势图（1142年）",
+      "visible_text": "上京（会宁）；燕京；兴庆；郾城；大散关；临安；金；南宋；西夏；西辽；吐蕃等部；蒙古部；大理；都城；路级驻所；政权部族界；今国界未定。",
+      "description": "1142年金、南宋、西夏及周边政权、部族和地点形势图；边界未做空间校准。",
+      "claims": [
+        {
+          "text": "地图图题明确为1142年金、南宋、西夏形势图。",
+          "evidence_block_ids": [
+            "history_book_01_p0063_b009",
+            "history_book_01_p0063_b010"
+          ]
+        }
+      ],
+      "notes": [
+        "地图未导出独立文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0065_a001",
+      "page_id": "history_book_01_p0065",
+      "block_id": "history_book_01_p0065_b003",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "《契丹人引马图》",
+      "visible_text": null,
+      "description": "辽墓壁画局部，画面可见契丹人牵引马匹；教材说明其部分反映契丹人的游牧生活方式，未据画面推断人物身份。",
+      "claims": [
+        {
+          "text": "教材将该图说明为辽墓壁画《契丹人引马图》，部分反映契丹人的游牧生活方式。",
+          "evidence_block_ids": [
+            "history_book_01_p0065_b002",
+            "history_book_01_p0065_b004"
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0066_a001",
+      "page_id": "history_book_01_p0066",
+      "block_id": "history_book_01_p0066_b001",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "西夏王陵",
+      "visible_text": null,
+      "description": "照片显示荒漠中的陵墓遗址；题注说明其位于宁夏银川市西、贺兰山东麓，是西夏历代皇帝陵墓。",
+      "claims": [
+        {
+          "text": "题注说明西夏王陵的地点和性质。",
+          "evidence_block_ids": [
+            "history_book_01_p0066_b002"
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0066_a002",
+      "page_id": "history_book_01_p0066",
+      "block_id": "history_book_01_p0066_b005",
+      "type": "map",
+      "bbox": null,
+      "file_path": null,
+      "caption": "金、元、明北京城址变迁图",
+      "visible_text": "金中都；元大都；明北京；明时期的城门。",
+      "description": "北京城址变迁示意图，以叠合城址和城门表示金中都、元大都、明北京的位置关系。",
+      "claims": [
+        {
+          "text": "图题和正文说明金、元、明北京城址变迁及金迁都燕京、元建大都、明迁都北京的顺序。",
+          "evidence_block_ids": [
+            "history_book_01_p0066_b006",
+            "history_book_01_p0066_b010"
+          ]
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "places": [
+    {
+      "id": "history_book_01_pl001",
+      "name_as_written": "东京",
+      "name_type": "historical",
+      "valid_time_text": "北宋时期",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0059_b006",
+        "history_book_01_p0061_b004"
+      ],
+      "notes": [
+        "教材页未提供可核验坐标，coordinates保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_pl002",
+      "name_as_written": "上京",
+      "name_type": "historical",
+      "valid_time_text": "辽、金时期",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0065_b006",
+        "history_book_01_p0066_b004"
+      ],
+      "notes": [
+        "教材页未提供可核验坐标，coordinates保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_pl003",
+      "name_as_written": "燕云十六州地区",
+      "name_type": "historical",
+      "valid_time_text": "北宋与辽对峙时期",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0060_b012",
+        "history_book_01_p0061_b004"
+      ],
+      "notes": [
+        "教材页未提供可核验坐标，coordinates保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_pl004",
+      "name_as_written": "澶州（澶渊）",
+      "name_type": "historical",
+      "valid_time_text": "北宋与辽对峙时期",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0061_b004"
+      ],
+      "notes": [
+        "教材页未提供可核验坐标，coordinates保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_pl005",
+      "name_as_written": "兴庆（兴庆府）",
+      "name_type": "historical",
+      "valid_time_text": "西夏时期",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0061_b004",
+        "history_book_01_p0066_b007"
+      ],
+      "notes": [
+        "教材页未提供可核验坐标，coordinates保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_pl006",
+      "name_as_written": "应天府",
+      "name_type": "historical",
+      "valid_time_text": "南宋建立时",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0063_b003",
+        "history_book_01_p0063_b011"
+      ],
+      "notes": [
+        "教材页未提供可核验坐标，coordinates保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_pl007",
+      "name_as_written": "临安",
+      "name_type": "historical",
+      "valid_time_text": "南宋时期",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0063_b003",
+        "history_book_01_p0063_b010"
+      ],
+      "notes": [
+        "教材页未提供可核验坐标，coordinates保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_pl008",
+      "name_as_written": "大散关",
+      "name_type": "historical",
+      "valid_time_text": "南宋与金对峙时期",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0063_b004",
+        "history_book_01_p0063_b010"
+      ],
+      "notes": [
+        "教材页未提供可核验坐标，coordinates保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_pl009",
+      "name_as_written": "会宁府（上京）",
+      "name_type": "historical",
+      "valid_time_text": "金朝前期",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0066_b004"
+      ],
+      "notes": [
+        "教材页未提供可核验坐标，coordinates保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_pl010",
+      "name_as_written": "燕京（中都）",
+      "name_type": "historical",
+      "valid_time_text": "金朝时期",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0066_b004",
+        "history_book_01_p0066_b010"
+      ],
+      "notes": [
+        "教材页未提供可核验坐标，coordinates保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_pl011",
+      "name_as_written": "银川",
+      "name_type": "modern",
+      "valid_time_text": "现代地名",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0066_b002"
+      ],
+      "notes": [
+        "教材页未提供可核验坐标，coordinates保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_pl012",
+      "name_as_written": "贺兰山东麓",
+      "name_type": "modern",
+      "valid_time_text": "现代地理表述",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0066_b002"
+      ],
+      "notes": [
+        "教材页未提供可核验坐标，coordinates保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_pl013",
+      "name_as_written": "辽河上游",
+      "name_type": "unknown",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0065_b006"
+      ],
+      "notes": [
+        "教材页未提供可核验坐标，coordinates保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_pl014",
+      "name_as_written": "黑龙江、松花江流域",
+      "name_type": "unknown",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0066_b004"
+      ],
+      "notes": [
+        "教材页未提供可核验坐标，coordinates保持null。"
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": "history_book_01_pe001",
+      "name_as_written": "赵匡胤",
+      "aliases": [
+        "宋太祖"
+      ],
+      "evidence_block_ids": [
+        "history_book_01_p0059_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_pe002",
+      "name_as_written": "赵构",
+      "aliases": [
+        "宋高宗",
+        "北宋康王"
+      ],
+      "evidence_block_ids": [
+        "history_book_01_p0063_b003"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_pe003",
+      "name_as_written": "岳飞",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0063_b004",
+        "history_book_01_p0063_b007"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_pe004",
+      "name_as_written": "秦桧",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0063_b004"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_pe005",
+      "name_as_written": "徽宗",
+      "aliases": [
+        "宋徽宗"
+      ],
+      "evidence_block_ids": [
+        "history_book_01_p0063_b003"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_pe006",
+      "name_as_written": "钦宗",
+      "aliases": [
+        "宋钦宗"
+      ],
+      "evidence_block_ids": [
+        "history_book_01_p0063_b003"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_pe007",
+      "name_as_written": "范仲淹",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0062_b002"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_pe008",
+      "name_as_written": "王安石",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0062_b003",
+        "history_book_01_p0062_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_pe009",
+      "name_as_written": "宋神宗",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0062_b003",
+        "history_book_01_p0065_b002"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_pe010",
+      "name_as_written": "苏洵",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0060_b009"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_pe011",
+      "name_as_written": "范祖禹",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0060_b010"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_pe012",
+      "name_as_written": "叶适",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0064_b003"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_pe013",
+      "name_as_written": "耶律阿保机",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0065_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_pe014",
+      "name_as_written": "元昊",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0066_b007"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_pe015",
+      "name_as_written": "完颜阿骨打",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0066_b004"
+      ],
+      "notes": []
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "history_book_01_p0058_k001",
+      "title": "第三单元辽宋夏金元时期的总体特征",
+      "kind": null,
+      "content_type": "other",
+      "time": {
+        "source_text": "辽宋夏金元时期",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0058_b002"
+        ]
+      },
+      "themes": [
+        "politics",
+        "economy",
+        "culture",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材将辽宋夏金元概括为北方少数民族活跃、政权并立至元朝统一的时期，各民族经济文化联系呈现交融趋势。",
+        "evidence_block_ids": [
+          "history_book_01_p0058_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0058_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0058_inv001"
+      ],
+      "uncertainties": [
+        "教材概述未给出统一精确起止年。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0058_k002",
+      "title": "第三单元学习目标",
+      "kind": null,
+      "content_type": "other",
+      "time": {
+        "source_text": "通过本单元的学习",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0058_b003"
+        ]
+      },
+      "themes": [
+        "politics",
+        "economy",
+        "culture",
+        "society",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "学习目标包括认识两宋新变化、了解辽夏金元政权与制度建设，并认识北方少数民族政权的作用。",
+        "evidence_block_ids": [
+          "history_book_01_p0058_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0058_b003"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0058_inv002"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0059_k001",
+      "title": "北宋建立与五代十国分裂局面结束",
+      "kind": "event",
+      "content_type": "event",
+      "time": {
+        "source_text": "960年",
+        "mode": "point",
+        "start_year": 960,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0059_b006"
+        ]
+      },
+      "themes": [
+        "politics",
+        "war"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_pl001",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0059_b006"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_pe001"
+      ],
+      "summary": {
+        "text": "960年赵匡胤建立宋朝，北宋随后结束五代十国分裂局面。",
+        "evidence_block_ids": [
+          "history_book_01_p0059_b006"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "赵匡胤建立宋朝并定都东京。",
+          "evidence_block_ids": [
+            "history_book_01_p0059_b006"
+          ]
+        },
+        {
+          "text": "北宋相继灭掉南方割据政权和北汉。",
+          "evidence_block_ids": [
+            "history_book_01_p0059_b006"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0059_b006"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0059_inv003"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0059_k002",
+      "title": "宋初加强中央集权的地方措施",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": "宋初",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0059_b007"
+        ]
+      },
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_pe001"
+      ],
+      "summary": {
+        "text": "北宋通过知州、转运司、禁军和换防等措施加强对地方控制。",
+        "evidence_block_ids": [
+          "history_book_01_p0059_b007"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "节度使逐渐变为虚衔，转运司统管地方财政。",
+          "evidence_block_ids": [
+            "history_book_01_p0059_b007"
+          ]
+        },
+        {
+          "text": "地方精锐编入禁军并定期更换驻地。",
+          "evidence_block_ids": [
+            "history_book_01_p0059_b007"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0059_b007"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0059_inv004"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0059_k003",
+      "title": "宋初中央分权措施",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": "宋初",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0059_b008"
+        ]
+      },
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "北宋以枢密院、三司、参知政事等机构分割军政、财政和行政权力，地方设置平行路级机构和通判。",
+        "evidence_block_ids": [
+          "history_book_01_p0059_b008"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "枢密院有调兵权但不统兵，三衙统兵但无调兵权。",
+          "evidence_block_ids": [
+            "history_book_01_p0059_b008"
+          ]
+        },
+        {
+          "text": "地方路级机构从不同方面监控和节制各州。",
+          "evidence_block_ids": [
+            "history_book_01_p0059_b008"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0059_b008"
+      ],
+      "asset_ids": [
+        "history_book_01_p0060_a001",
+        "history_book_01_p0060_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0059_inv005"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0059_k004",
+      "title": "《雪夜访普图》图像证据",
+      "kind": null,
+      "content_type": "culture",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0059_b002",
+          "history_book_01_p0059_b004"
+        ]
+      },
+      "themes": [
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材以明朝人绘制的《雪夜访普图》说明新政权统治者与谋士筹划统一方略的场景。",
+        "evidence_block_ids": [
+          "history_book_01_p0059_b002",
+          "history_book_01_p0059_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0059_b002",
+        "history_book_01_p0059_b004"
+      ],
+      "asset_ids": [
+        "history_book_01_p0059_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0059_inv006"
+      ],
+      "uncertainties": [
+        "页面未说明画中人物身份、原作年代及图像来源。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0060_k001",
+      "title": "崇文抑武与北宋中央集权的效果及局限",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "北宋初期",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0060_b005",
+          "history_book_01_p0060_b006"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "北宋以崇文抑武、扩大科举和提高文官士人地位来抑制武将势力；措施维护统一安定，但造成制度僵化、权力分割过细和行政效率下降。",
+        "evidence_block_ids": [
+          "history_book_01_p0060_b005",
+          "history_book_01_p0060_b006"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "罢免宿将兵权并用文官担任枢密院长官。",
+          "evidence_block_ids": [
+            "history_book_01_p0060_b005",
+            "history_book_01_p0060_b006"
+          ]
+        },
+        {
+          "text": "教材指出制度助长因循保守政治风气。",
+          "evidence_block_ids": [
+            "history_book_01_p0060_b005",
+            "history_book_01_p0060_b006"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0060_b005",
+        "history_book_01_p0060_b006"
+      ],
+      "asset_ids": [
+        "history_book_01_p0060_a001",
+        "history_book_01_p0060_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0060_inv007"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0060_k002",
+      "title": "北宋统治危机的军事与财政表现",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "北宋建立前至北宋时期",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0060_b012",
+          "history_book_01_p0061_b007"
+        ]
+      },
+      "themes": [
+        "politics",
+        "war",
+        "economy"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_pl003",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0060_b012"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "北宋统治危机表现为边防压力、军队数量膨胀和财政负担加重，养兵与养官成为沉重负担。",
+        "evidence_block_ids": [
+          "history_book_01_p0060_b012",
+          "history_book_01_p0061_b007"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0060_b012",
+        "history_book_01_p0061_b007"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0060_inv008"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0061_k001",
+      "title": "澶渊协议与北宋对辽岁币",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "辽宋皇帝以兄弟相称；北宋每年送给辽一笔钱物",
+        "mode": "duration",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0061_b001"
+        ]
+      },
+      "themes": [
+        "foreign_relations",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_pl004",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0061_b004"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "辽宋达成协议后，北宋以岁币换取北部边防基本安定。",
+        "evidence_block_ids": [
+          "history_book_01_p0061_b001"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0061_b001"
+      ],
+      "asset_ids": [
+        "history_book_01_p0061_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0061_inv009"
+      ],
+      "uncertainties": [
+        "正文未写出协议具体年份。",
+        "原提取 content_type=foreign_relations 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0061_k002",
+      "title": "北宋与西夏战争及岁赐协议",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "北宋与西夏发生战争",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0061_b006"
+        ]
+      },
+      "themes": [
+        "foreign_relations",
+        "war"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_pl005",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0061_b006"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "北宋与西夏战争后达成和议，西夏向北宋称臣但保持帝号，北宋每年送给西夏钱物，称为岁赐。",
+        "evidence_block_ids": [
+          "history_book_01_p0061_b006"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0061_b006"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0061_inv012",
+        "history_book_01_p0061_inv010"
+      ],
+      "uncertainties": [
+        "原提取 content_type=foreign_relations 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0061_k003",
+      "title": "北宋募兵政策与财政负担",
+      "kind": "process",
+      "content_type": "war",
+      "time": {
+        "source_text": "北宋时期",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0061_b007",
+          "history_book_01_p0061_b009"
+        ]
+      },
+      "themes": [
+        "war",
+        "economy",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "北宋以募兵和养兵政策稳定治安，但募兵过滥使军队数量和军费恶性膨胀。",
+        "evidence_block_ids": [
+          "history_book_01_p0061_b007",
+          "history_book_01_p0061_b009"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "教材记载军队数量累增至120余万。",
+          "evidence_block_ids": [
+            "history_book_01_p0061_b007",
+            "history_book_01_p0061_b009"
+          ]
+        },
+        {
+          "text": "教材引述天下六分之物，五分养兵说明财政压力。",
+          "evidence_block_ids": [
+            "history_book_01_p0061_b007",
+            "history_book_01_p0061_b009"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0061_b007",
+        "history_book_01_p0061_b009"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0061_inv011"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0062_k001",
+      "title": "庆历新政的失败",
+      "kind": "event",
+      "content_type": "institution",
+      "time": {
+        "source_text": "宋仁宗在位时",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0062_b002"
+        ]
+      },
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_pe007"
+      ],
+      "summary": {
+        "text": "范仲淹发起以整顿官僚队伍为宗旨的庆历新政，因触犯既得利益并遭抵制而失败。",
+        "evidence_block_ids": [
+          "history_book_01_p0062_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0062_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0062_inv012"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0062_k002",
+      "title": "王安石变法",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": "1069年",
+        "mode": "point",
+        "start_year": 1069,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0062_b003"
+        ]
+      },
+      "themes": [
+        "politics",
+        "economy",
+        "war",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_pe009",
+        "history_book_01_pe008"
+      ],
+      "summary": {
+        "text": "1069年宋神宗任用王安石主持变法，改革涉及农业、商业、军事、科举和教育，目标是富国强兵。",
+        "evidence_block_ids": [
+          "history_book_01_p0062_b003"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "富国方面提供农业贷款并开展商业经营。",
+          "evidence_block_ids": [
+            "history_book_01_p0062_b003"
+          ]
+        },
+        {
+          "text": "强兵方面编制管理和训练农民，试图恢复兵农合一。",
+          "evidence_block_ids": [
+            "history_book_01_p0062_b003"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0062_b003"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0062_inv013"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0062_k003",
+      "title": "王安石变法的成效、争议与北宋衰亡",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "王安石变法开始后",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0062_b004",
+          "history_book_01_p0062_b008",
+          "history_book_01_p0062_b009"
+        ]
+      },
+      "themes": [
+        "politics",
+        "economy",
+        "war",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_pe008"
+      ],
+      "summary": {
+        "text": "变法增加了大笔收入但强兵效果不明显，部分措施加重人民负担并引发争议，统治集团分裂加剧，北宋逐渐走向衰亡。",
+        "evidence_block_ids": [
+          "history_book_01_p0062_b004",
+          "history_book_01_p0062_b008",
+          "history_book_01_p0062_b009"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0062_b004",
+        "history_book_01_p0062_b008",
+        "history_book_01_p0062_b009"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0062_inv014"
+      ],
+      "uncertainties": [
+        "反对派材料带有立场，需结合其他资料核验。",
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0062_k004",
+      "title": "王安石人物图像",
+      "kind": null,
+      "content_type": "culture",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0062_b006"
+        ]
+      },
+      "themes": [
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_pe008"
+      ],
+      "summary": {
+        "text": "教材题注标示王安石（1021—1086）。",
+        "evidence_block_ids": [
+          "history_book_01_p0062_b006"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0062_b006"
+      ],
+      "asset_ids": [
+        "history_book_01_p0062_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0062_inv015"
+      ],
+      "uncertainties": [
+        "画像来源及制作年代未说明。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0063_k001",
+      "title": "靖康之变与南宋建立",
+      "kind": "event",
+      "content_type": "war",
+      "time": {
+        "source_text": "1127年",
+        "mode": "point",
+        "start_year": 1127,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0063_b003"
+        ]
+      },
+      "themes": [
+        "war",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_pl006",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0063_b003"
+          ]
+        },
+        {
+          "place_id": "history_book_01_pl007",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0063_b003"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_pe005",
+        "history_book_01_pe006",
+        "history_book_01_pe002"
+      ],
+      "summary": {
+        "text": "1127年金朝攻灭北宋，徽宗、钦宗被俘；赵构称帝并建立南宋，后定都临安。",
+        "evidence_block_ids": [
+          "history_book_01_p0063_b003"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "金朝攻灭北宋并俘虏徽宗、钦宗。",
+          "evidence_block_ids": [
+            "history_book_01_p0063_b003"
+          ]
+        },
+        {
+          "text": "赵构在应天府称帝，后定都临安。",
+          "evidence_block_ids": [
+            "history_book_01_p0063_b003"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0063_b003"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0063_inv016"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0063_k002",
+      "title": "绍兴和议与岳飞抗金",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "1141年",
+        "mode": "point",
+        "start_year": 1141,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0063_b004"
+        ]
+      },
+      "themes": [
+        "foreign_relations",
+        "war",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_pl008",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0063_b004"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_pe002",
+        "history_book_01_pe004",
+        "history_book_01_pe003"
+      ],
+      "summary": {
+        "text": "1141年南宋与金订立绍兴和议，以淮水至大散关一线划界，南宋向金称臣并缴纳岁贡；岳飞被南宋朝廷逮捕杀害。",
+        "evidence_block_ids": [
+          "history_book_01_p0063_b004",
+          "history_book_01_p0063_b005"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "岳飞指挥的岳家军战绩卓著。",
+          "evidence_block_ids": [
+            "history_book_01_p0063_b004",
+            "history_book_01_p0063_b005"
+          ]
+        },
+        {
+          "text": "此后宋金数次战争，继续维持南北对峙。",
+          "evidence_block_ids": [
+            "history_book_01_p0063_b004",
+            "history_book_01_p0063_b005"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0063_b004",
+        "history_book_01_p0063_b005"
+      ],
+      "asset_ids": [
+        "history_book_01_p0063_a001",
+        "history_book_01_p0063_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0063_inv017"
+      ],
+      "uncertainties": [
+        "原提取 content_type=foreign_relations 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0064_k001",
+      "title": "叶适对宋初中央集权的批评",
+      "kind": null,
+      "content_type": "thought",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0064_b003",
+          "history_book_01_p0064_b004",
+          "history_book_01_p0064_b005"
+        ]
+      },
+      "themes": [
+        "politics",
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_pe012"
+      ],
+      "summary": {
+        "text": "叶适批评北宋初期法度过密、人的才志难以施展，并认为宋初削弱内外力量虽能自安却有大不可安者。",
+        "evidence_block_ids": [
+          "history_book_01_p0064_b003",
+          "history_book_01_p0064_b004",
+          "history_book_01_p0064_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0064_b003",
+        "history_book_01_p0064_b004",
+        "history_book_01_p0064_b005"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0064_inv018"
+      ],
+      "uncertainties": [
+        "探究材料的观点不改写为无条件史实。",
+        "原提取筛选主题 thought 不属 themes 枚举；改为 culture，思想类别仍以 content_type 保留。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0064_k002",
+      "title": "王安石变法评价的争议",
+      "kind": null,
+      "content_type": "thought",
+      "time": {
+        "source_text": "近千年来",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0064_b008"
+        ]
+      },
+      "themes": [
+        "culture",
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_pe008"
+      ],
+      "summary": {
+        "text": "教材指出近千年来关于王安石变法评价存在较大争议，并要求查找资料了解争议。",
+        "evidence_block_ids": [
+          "history_book_01_p0064_b008"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0064_b008"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0064_inv019"
+      ],
+      "uncertainties": [
+        "原提取筛选主题 thought 不属 themes 枚举；改为 culture，思想类别仍以 content_type 保留。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0065_k001",
+      "title": "辽朝建立与辽宋长期对峙",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "916年；辽与北宋长期对峙",
+        "mode": "duration",
+        "start_year": 916,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "916年为契丹国建立年份；长期对峙未给结束年份。",
+        "evidence_block_ids": [
+          "history_book_01_p0065_b006"
+        ]
+      },
+      "themes": [
+        "politics",
+        "foreign_relations",
+        "economy"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_pl013",
+          "role": "origin",
+          "evidence_block_ids": [
+            "history_book_01_p0065_b006"
+          ]
+        },
+        {
+          "place_id": "history_book_01_pl002",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0065_b006"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_pe013"
+      ],
+      "summary": {
+        "text": "916年耶律阿保机建立契丹国并定都上京，后改国号为辽；辽与北宋长期对峙，大部分时间维持和平，通使频繁、贸易活跃。",
+        "evidence_block_ids": [
+          "history_book_01_p0065_b006"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0065_b006"
+      ],
+      "asset_ids": [
+        "history_book_01_p0065_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0065_inv020"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0065_k002",
+      "title": "辽朝南北面官制度",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": "辽朝时期",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0065_b007",
+          "history_book_01_p0065_b009",
+          "history_book_01_p0065_b010"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "辽朝职官分为南、北面官，分别处理农耕民族和游牧民族事务，体现因俗而治。",
+        "evidence_block_ids": [
+          "history_book_01_p0065_b007",
+          "history_book_01_p0065_b009",
+          "history_book_01_p0065_b010"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "北面官处理宫帐、部族、属国，南面官处理汉人州县、租赋和军马。",
+          "evidence_block_ids": [
+            "history_book_01_p0065_b007",
+            "history_book_01_p0065_b009",
+            "history_book_01_p0065_b010"
+          ]
+        },
+        {
+          "text": "史料显示契丹官、汉官以及南北枢密和宰相称谓。",
+          "evidence_block_ids": [
+            "history_book_01_p0065_b007",
+            "history_book_01_p0065_b009",
+            "history_book_01_p0065_b010"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0065_b007",
+        "history_book_01_p0065_b009",
+        "history_book_01_p0065_b010"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0065_inv021"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0065_k003",
+      "title": "辽朝行营与草原习俗",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "辽朝时期",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0065_b007"
+        ]
+      },
+      "themes": [
+        "society",
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "辽朝皇帝和宫廷保持草原习俗，随季节迁徙，迁徙中的行营成为国家政治中心。",
+        "evidence_block_ids": [
+          "history_book_01_p0065_b007"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0065_b007"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0065_inv022"
+      ],
+      "uncertainties": [
+        "原提取 content_type=society 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0066_k001",
+      "title": "西夏建立与党项制度建设",
+      "kind": "event",
+      "content_type": "institution",
+      "time": {
+        "source_text": "1038年",
+        "mode": "point",
+        "start_year": 1038,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0066_b007"
+        ]
+      },
+      "themes": [
+        "politics",
+        "foreign_relations"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_pl005",
+          "role": "origin",
+          "evidence_block_ids": [
+            "history_book_01_p0066_b007"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_pe014"
+      ],
+      "summary": {
+        "text": "1038年元昊脱离宋朝称帝，定都兴庆府，国号大夏，史称西夏；制度基本模仿北宋并保留本民族官称。",
+        "evidence_block_ids": [
+          "history_book_01_p0066_b007"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0066_b007"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0066_inv023"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0066_k002",
+      "title": "金朝建立、灭辽与入主中原",
+      "kind": "process",
+      "content_type": "war",
+      "time": {
+        "source_text": "1114年—1127年",
+        "mode": "duration",
+        "start_year": 1114,
+        "end_year": 1127,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0066_b004"
+        ]
+      },
+      "themes": [
+        "war",
+        "politics",
+        "foreign_relations"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_pl009",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0066_b004"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_pe015"
+      ],
+      "summary": {
+        "text": "女真族完颜阿骨打1114年起兵反辽，次年建立金朝；1125年灭辽，1127年灭北宋，与南宋形成对峙。",
+        "evidence_block_ids": [
+          "history_book_01_p0066_b004"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "1114年起兵反辽，1115年建立金朝并定都会宁府。",
+          "evidence_block_ids": [
+            "history_book_01_p0066_b004"
+          ]
+        },
+        {
+          "text": "1125年灭辽，1127年灭北宋。",
+          "evidence_block_ids": [
+            "history_book_01_p0066_b004"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0066_b004"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0066_inv024"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0066_k003",
+      "title": "金迁都燕京与北京城址变迁",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "1153年",
+        "mode": "point",
+        "start_year": 1153,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0066_b004"
+        ]
+      },
+      "themes": [
+        "politics",
+        "culture"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_pl010",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0066_b004"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "1153年金迁都燕京并改名中都；教材以金中都、元大都和明北京城址变迁说明北京成为王朝都城的历史过程。",
+        "evidence_block_ids": [
+          "history_book_01_p0066_b004",
+          "history_book_01_p0066_b010"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0066_b004",
+        "history_book_01_p0066_b010"
+      ],
+      "asset_ids": [
+        "history_book_01_p0066_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0066_inv025"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0066_k004",
+      "title": "西夏王陵图像与地点说明",
+      "kind": null,
+      "content_type": "culture",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0066_b002"
+        ]
+      },
+      "themes": [
+        "culture"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_pl011",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0066_b002"
+          ]
+        },
+        {
+          "place_id": "history_book_01_pl012",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0066_b002"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "教材题注说明西夏王陵位于宁夏银川市西、贺兰山东麓，是西夏历代皇帝的陵墓。",
+        "evidence_block_ids": [
+          "history_book_01_p0066_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0066_b002"
+      ],
+      "asset_ids": [
+        "history_book_01_p0066_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0066_inv026"
+      ],
+      "uncertainties": [
+        "照片来源和拍摄时间未说明。"
+      ],
+      "review_status": "pending_review"
+    }
+  ],
+  "relations": [
+    {
+      "id": "history_book_01_r001",
+      "from_knowledge_id": "history_book_01_p0059_k001",
+      "to_knowledge_id": "history_book_01_p0059_k002",
+      "target_label": null,
+      "type": "other",
+      "person_ids": [],
+      "place_ids": [],
+      "time_text": null,
+      "description": "宋朝建立后采取地方控制措施维护政权稳定",
+      "evidence_block_ids": [
+        "history_book_01_p0059_b006",
+        "history_book_01_p0059_b007"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_r002",
+      "from_knowledge_id": "history_book_01_p0059_k003",
+      "to_knowledge_id": "history_book_01_p0060_k001",
+      "target_label": null,
+      "type": "influence",
+      "person_ids": [],
+      "place_ids": [],
+      "time_text": null,
+      "description": "中央分权与崇文抑武共同强化中央集权并带来制度局限",
+      "evidence_block_ids": [
+        "history_book_01_p0059_b008",
+        "history_book_01_p0060_b005",
+        "history_book_01_p0060_b006"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_r003",
+      "from_knowledge_id": "history_book_01_p0061_k001",
+      "to_knowledge_id": "history_book_01_p0061_k002",
+      "target_label": null,
+      "type": "other",
+      "person_ids": [],
+      "place_ids": [],
+      "time_text": null,
+      "description": "教材连续叙述辽宋协议与北宋同西夏战争、和议及岁币岁赐",
+      "evidence_block_ids": [
+        "history_book_01_p0061_b001",
+        "history_book_01_p0061_b006"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_r004",
+      "from_knowledge_id": "history_book_01_p0062_k002",
+      "to_knowledge_id": "history_book_01_p0062_k003",
+      "target_label": null,
+      "type": "influence",
+      "person_ids": [],
+      "place_ids": [],
+      "time_text": null,
+      "description": "教材明确记载变法增加收入但强兵效果不明显并引发争议",
+      "evidence_block_ids": [
+        "history_book_01_p0062_b003",
+        "history_book_01_p0062_b004"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_r005",
+      "from_knowledge_id": "history_book_01_p0063_k001",
+      "to_knowledge_id": "history_book_01_p0063_k002",
+      "target_label": null,
+      "type": "other",
+      "person_ids": [],
+      "place_ids": [],
+      "time_text": null,
+      "description": "靖康之变后南宋建立，绍兴和议及后续战争维持南北对峙",
+      "evidence_block_ids": [
+        "history_book_01_p0063_b003",
+        "history_book_01_p0063_b004",
+        "history_book_01_p0063_b005"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_r006",
+      "from_knowledge_id": "history_book_01_p0065_k001",
+      "to_knowledge_id": "history_book_01_p0065_k002",
+      "target_label": null,
+      "type": "other",
+      "person_ids": [],
+      "place_ids": [],
+      "time_text": null,
+      "description": "辽朝以南北面官处理农耕和游牧民族事务",
+      "evidence_block_ids": [
+        "history_book_01_p0065_b006",
+        "history_book_01_p0065_b007",
+        "history_book_01_p0065_b009"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_r007",
+      "from_knowledge_id": "history_book_01_p0066_k002",
+      "to_knowledge_id": "history_book_01_p0066_k001",
+      "target_label": null,
+      "type": "influence",
+      "person_ids": [],
+      "place_ids": [],
+      "time_text": null,
+      "description": "金灭辽及西夏向金称臣反映金朝势力扩张",
+      "evidence_block_ids": [
+        "history_book_01_p0066_b004",
+        "history_book_01_p0066_b008"
+      ],
+      "review_status": "pending_review"
+    }
+  ],
+  "map_candidates": [
+    {
+      "id": "history_book_01_m001",
+      "asset_id": "history_book_01_p0061_a001",
+      "reference_time_text": "1111年",
+      "reference_year": 1111,
+      "date_precision": "year",
+      "historical_names": [
+        "辽",
+        "北宋",
+        "西夏",
+        "东京",
+        "澶州（澶渊）",
+        "中京",
+        "上京",
+        "兴庆"
+      ],
+      "legend_text": "都城；政权部族界；今国界未定",
+      "evidence_block_ids": [
+        "history_book_01_p0061_b003",
+        "history_book_01_p0061_b004"
+      ],
+      "geometry": null,
+      "geometry_status": "not_digitized",
+      "notes": [
+        "历史图形未数字化，禁止用像素位置或现代边界代替历史疆域。"
+      ]
+    },
+    {
+      "id": "history_book_01_m002",
+      "asset_id": "history_book_01_p0063_a002",
+      "reference_time_text": "1142年",
+      "reference_year": 1142,
+      "date_precision": "year",
+      "historical_names": [
+        "金",
+        "南宋",
+        "西夏",
+        "上京（会宁）",
+        "燕京",
+        "兴庆",
+        "郾城",
+        "大散关",
+        "临安"
+      ],
+      "legend_text": "都城；路级驻所；政权部族界；今国界未定",
+      "evidence_block_ids": [
+        "history_book_01_p0063_b009",
+        "history_book_01_p0063_b010"
+      ],
+      "geometry": null,
+      "geometry_status": "not_digitized",
+      "notes": [
+        "历史图形未数字化，禁止用像素位置或现代边界代替历史疆域。"
+      ]
+    },
+    {
+      "id": "history_book_01_m003",
+      "asset_id": "history_book_01_p0066_a002",
+      "reference_time_text": "金、元、明北京城址变迁",
+      "reference_year": null,
+      "date_precision": "period",
+      "historical_names": [
+        "金中都",
+        "元大都",
+        "明北京"
+      ],
+      "legend_text": "明时期的城门；金中都；元大都；明北京",
+      "evidence_block_ids": [
+        "history_book_01_p0066_b006",
+        "history_book_01_p0066_b010"
+      ],
+      "geometry": null,
+      "geometry_status": "not_digitized",
+      "notes": [
+        "历史图形未数字化，禁止用像素位置或现代边界代替历史疆域。"
+      ]
+    }
+  ],
+  "inventory": [
+    {
+      "id": "history_book_01_p0058_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0058"
+      ],
+      "block_ids": [
+        "history_book_01_p0058_b002"
+      ],
+      "item_label": "第三单元总体特征概述",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0058_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0058_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0058"
+      ],
+      "block_ids": [
+        "history_book_01_p0058_b003"
+      ],
+      "item_label": "第三单元学习目标",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0058_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0059_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0059"
+      ],
+      "block_ids": [
+        "history_book_01_p0059_b006"
+      ],
+      "item_label": "北宋建立与五代十国分裂结束",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0059_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0059_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0059"
+      ],
+      "block_ids": [
+        "history_book_01_p0059_b007"
+      ],
+      "item_label": "宋初地方控制措施",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0059_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0059_inv005",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0059"
+      ],
+      "block_ids": [
+        "history_book_01_p0059_b008"
+      ],
+      "item_label": "宋初中央分权措施",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0059_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0059_inv006",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0059"
+      ],
+      "block_ids": [
+        "history_book_01_p0059_b002",
+        "history_book_01_p0059_b004"
+      ],
+      "item_label": "雪夜访普图图注",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0059_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "图像、地图或探究材料需要人工核验。"
+    },
+    {
+      "id": "history_book_01_p0060_inv007",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0060"
+      ],
+      "block_ids": [
+        "history_book_01_p0060_b005",
+        "history_book_01_p0060_b006"
+      ],
+      "item_label": "崇文抑武及中央集权效果",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0060_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0060_inv008",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0060"
+      ],
+      "block_ids": [
+        "history_book_01_p0060_b012",
+        "history_book_01_p0061_b007"
+      ],
+      "item_label": "北宋边防压力与财政危机",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0060_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0061_inv009",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0061"
+      ],
+      "block_ids": [
+        "history_book_01_p0061_b001"
+      ],
+      "item_label": "辽宋协议与岁币",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0061_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0061_inv010",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0061"
+      ],
+      "block_ids": [
+        "history_book_01_p0061_b006"
+      ],
+      "item_label": "北宋与西夏战争、岁赐",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0061_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0061_inv011",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0061"
+      ],
+      "block_ids": [
+        "history_book_01_p0061_b007",
+        "history_book_01_p0061_b009"
+      ],
+      "item_label": "北宋募兵政策",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0061_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "图像、地图或探究材料需要人工核验。"
+    },
+    {
+      "id": "history_book_01_p0062_inv012",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0062"
+      ],
+      "block_ids": [
+        "history_book_01_p0062_b002"
+      ],
+      "item_label": "庆历新政",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0062_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0062_inv013",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0062"
+      ],
+      "block_ids": [
+        "history_book_01_p0062_b003"
+      ],
+      "item_label": "王安石变法",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0062_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0062_inv014",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0062"
+      ],
+      "block_ids": [
+        "history_book_01_p0062_b004",
+        "history_book_01_p0062_b008",
+        "history_book_01_p0062_b009"
+      ],
+      "item_label": "王安石变法成效与局限",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0062_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0062_inv015",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0062"
+      ],
+      "block_ids": [
+        "history_book_01_p0062_b006"
+      ],
+      "item_label": "王安石画像",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0062_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "图像、地图或探究材料需要人工核验。"
+    },
+    {
+      "id": "history_book_01_p0063_inv016",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0063"
+      ],
+      "block_ids": [
+        "history_book_01_p0063_b003"
+      ],
+      "item_label": "靖康之变与南宋建立",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0063_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0063_inv017",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0063"
+      ],
+      "block_ids": [
+        "history_book_01_p0063_b004",
+        "history_book_01_p0063_b005"
+      ],
+      "item_label": "绍兴和议与岳飞抗金",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0063_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0064_inv018",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0064"
+      ],
+      "block_ids": [
+        "history_book_01_p0064_b003",
+        "history_book_01_p0064_b004",
+        "history_book_01_p0064_b005"
+      ],
+      "item_label": "叶适批评宋初中央集权探究材料",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0064_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "图像、地图或探究材料需要人工核验。"
+    },
+    {
+      "id": "history_book_01_p0064_inv019",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0064"
+      ],
+      "block_ids": [
+        "history_book_01_p0064_b008"
+      ],
+      "item_label": "王安石变法评价争议",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0064_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "图像、地图或探究材料需要人工核验。"
+    },
+    {
+      "id": "history_book_01_p0065_inv020",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0065"
+      ],
+      "block_ids": [
+        "history_book_01_p0065_b006"
+      ],
+      "item_label": "辽朝建立与辽宋关系",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0065_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0065_inv021",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0065"
+      ],
+      "block_ids": [
+        "history_book_01_p0065_b007",
+        "history_book_01_p0065_b009",
+        "history_book_01_p0065_b010"
+      ],
+      "item_label": "辽朝南北面官制度",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0065_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0065_inv022",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0065"
+      ],
+      "block_ids": [
+        "history_book_01_p0065_b007"
+      ],
+      "item_label": "辽朝行营与草原习俗",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0065_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0066_inv023",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0066"
+      ],
+      "block_ids": [
+        "history_book_01_p0066_b007"
+      ],
+      "item_label": "西夏建立与制度",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0066_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0066_inv024",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0066"
+      ],
+      "block_ids": [
+        "history_book_01_p0066_b004"
+      ],
+      "item_label": "金朝建立灭辽入主中原",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0066_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0066_inv025",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0066"
+      ],
+      "block_ids": [
+        "history_book_01_p0066_b004",
+        "history_book_01_p0066_b010"
+      ],
+      "item_label": "金迁都燕京与北京城址",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0066_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "图像、地图或探究材料需要人工核验。"
+    },
+    {
+      "id": "history_book_01_p0066_inv026",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0066"
+      ],
+      "block_ids": [
+        "history_book_01_p0066_b002"
+      ],
+      "item_label": "西夏王陵图注",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0066_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "图像、地图或探究材料需要人工核验。"
+    },
+    {
+      "id": "history_book_01_p0061_inv012",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0061"
+      ],
+      "block_ids": [
+        "history_book_01_p0061_b002",
+        "history_book_01_p0061_b003",
+        "history_book_01_p0061_b004"
+      ],
+      "item_label": "辽、北宋、西夏形势图（1111年）",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0061_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "历史地图边界未核验。"
+    },
+    {
+      "id": "history_book_01_p0063_inv010",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0063"
+      ],
+      "block_ids": [
+        "history_book_01_p0063_b008",
+        "history_book_01_p0063_b009",
+        "history_book_01_p0063_b010"
+      ],
+      "item_label": "金、南宋、西夏形势图（1142年）",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "历史地图边界未核验。"
+    },
+    {
+      "id": "history_book_01_p0066_inv010",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0066"
+      ],
+      "block_ids": [
+        "history_book_01_p0066_b005",
+        "history_book_01_p0066_b006",
+        "history_book_01_p0066_b010"
+      ],
+      "item_label": "金、元、明北京城址变迁图",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "城址示意图未空间校准。"
+    }
+  ],
+  "review_issues": [
+    {
+      "id": "history_book_01_p0058_issue_001",
+      "record_ids": [
+        "history_book_01_p0058_b002"
+      ],
+      "category": "time",
+      "description": "单元概述未给统一精确起止年。",
+      "evidence_block_ids": [
+        "history_book_01_p0058_b002"
+      ],
+      "suggested_action": "保持period/unknown。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0058_issue_002",
+      "record_ids": [
+        "history_book_01_p0058_a001"
+      ],
+      "category": "image",
+      "description": "扉页背景图无题名、年代和地点。",
+      "evidence_block_ids": [
+        "history_book_01_p0058_b004"
+      ],
+      "suggested_action": "仅作版面插图保留。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0059_issue_001",
+      "record_ids": [
+        "history_book_01_p0059_a001"
+      ],
+      "category": "image",
+      "description": "《雪夜访普图》作者、年代和人物身份未完整说明。",
+      "evidence_block_ids": [
+        "history_book_01_p0059_b002",
+        "history_book_01_p0059_b004"
+      ],
+      "suggested_action": "补可靠图像来源后再发布。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0059_issue_002",
+      "record_ids": [
+        "history_book_01_p0059_k002",
+        "history_book_01_p0059_k003"
+      ],
+      "category": "time",
+      "description": "制度措施仅以宋初概述，未给独立年份。",
+      "evidence_block_ids": [
+        "history_book_01_p0059_b007",
+        "history_book_01_p0059_b008"
+      ],
+      "suggested_action": "不补精确年份。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0060_issue_001",
+      "record_ids": [
+        "history_book_01_p0060_a001",
+        "history_book_01_p0060_a002"
+      ],
+      "category": "ocr",
+      "description": "中央、地方权力分配图的文字层编码异常，机构标签依据渲染图转录。",
+      "evidence_block_ids": [
+        "history_book_01_p0060_b001",
+        "history_book_01_p0060_b003"
+      ],
+      "suggested_action": "人工复核图例和连接。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0061_issue_001",
+      "record_ids": [
+        "history_book_01_p0061_a001"
+      ],
+      "category": "place",
+      "description": "1111年形势图边界和地名未空间校准。",
+      "evidence_block_ids": [
+        "history_book_01_p0061_b003",
+        "history_book_01_p0061_b004"
+      ],
+      "suggested_action": "人工核对后数字化。",
+      "blocking": true,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0061_issue_002",
+      "record_ids": [
+        "history_book_01_p0061_k001",
+        "history_book_01_p0061_k002"
+      ],
+      "category": "time",
+      "description": "辽宋协议及北宋西夏和议未标具体年份。",
+      "evidence_block_ids": [
+        "history_book_01_p0061_b001",
+        "history_book_01_p0061_b006"
+      ],
+      "suggested_action": "保持unknown/period。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0061_issue_003",
+      "record_ids": [
+        "history_book_01_p0061_k003"
+      ],
+      "category": "source",
+      "description": "120余万及募兵引文需核对统计口径和出处。",
+      "evidence_block_ids": [
+        "history_book_01_p0061_b009"
+      ],
+      "suggested_action": "核对原始来源。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0062_issue_001",
+      "record_ids": [
+        "history_book_01_p0062_k002"
+      ],
+      "category": "time",
+      "description": "变法明确起点1069年但无整体结束年份。",
+      "evidence_block_ids": [
+        "history_book_01_p0062_b003",
+        "history_book_01_p0062_b004"
+      ],
+      "suggested_action": "保留起点并保持unknown终点。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0062_issue_002",
+      "record_ids": [
+        "history_book_01_p0062_k003"
+      ],
+      "category": "source",
+      "description": "反对派材料可能有夸大，不能直接当作无条件事实。",
+      "evidence_block_ids": [
+        "history_book_01_p0062_b008",
+        "history_book_01_p0062_b009",
+        "history_book_01_p0062_b010"
+      ],
+      "suggested_action": "与其他资料对照。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0062_issue_003",
+      "record_ids": [
+        "history_book_01_p0062_a001"
+      ],
+      "category": "image",
+      "description": "王安石画像来源和制作年代未说明。",
+      "evidence_block_ids": [
+        "history_book_01_p0062_b005",
+        "history_book_01_p0062_b006"
+      ],
+      "suggested_action": "补图像来源。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0063_issue_001",
+      "record_ids": [
+        "history_book_01_p0063_a002"
+      ],
+      "category": "place",
+      "description": "1142年形势图边界和路级驻所未空间校准。",
+      "evidence_block_ids": [
+        "history_book_01_p0063_b009",
+        "history_book_01_p0063_b010"
+      ],
+      "suggested_action": "人工核对后数字化.",
+      "blocking": true,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0063_issue_002",
+      "record_ids": [
+        "history_book_01_p0063_k002"
+      ],
+      "category": "person",
+      "description": "岳飞民族英雄为教材评价，需与事实叙述区分。",
+      "evidence_block_ids": [
+        "history_book_01_p0063_b007"
+      ],
+      "suggested_action": "保留评价限定。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0064_issue_001",
+      "record_ids": [
+        "history_book_01_p0064_k001",
+        "history_book_01_p0064_k002"
+      ],
+      "category": "scope",
+      "description": "探究页的问题和观点不直接转成确定史实。",
+      "evidence_block_ids": [
+        "history_book_01_p0064_b004",
+        "history_book_01_p0064_b005",
+        "history_book_01_p0064_b006",
+        "history_book_01_p0064_b008"
+      ],
+      "suggested_action": "保留待研究材料。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0065_issue_001",
+      "record_ids": [
+        "history_book_01_p0065_a001"
+      ],
+      "category": "image",
+      "description": "契丹人引马图未给墓葬地点、作者及创作年代。",
+      "evidence_block_ids": [
+        "history_book_01_p0065_b002",
+        "history_book_01_p0065_b004"
+      ],
+      "suggested_action": "仅保留教材说明。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0065_issue_002",
+      "record_ids": [
+        "history_book_01_p0065_k002"
+      ],
+      "category": "source",
+      "description": "南北面官史料需核对原文版本和断句。",
+      "evidence_block_ids": [
+        "history_book_01_p0065_b009",
+        "history_book_01_p0065_b010"
+      ],
+      "suggested_action": "核对原始史料。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0066_issue_001",
+      "record_ids": [
+        "history_book_01_p0066_k002"
+      ],
+      "category": "time",
+      "description": "金灭北宋以两年后承接1125年灭辽，需保留相对时间原话。",
+      "evidence_block_ids": [
+        "history_book_01_p0066_b004"
+      ],
+      "suggested_action": "发布层保留source_text并人工复核。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0066_issue_002",
+      "record_ids": [
+        "history_book_01_p0066_a002"
+      ],
+      "category": "place",
+      "description": "北京城址变迁图为示意图，未空间校准。",
+      "evidence_block_ids": [
+        "history_book_01_p0066_b006",
+        "history_book_01_p0066_b010"
+      ],
+      "suggested_action": "人工核验后数字化。",
+      "blocking": true,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0066_issue_003",
+      "record_ids": [
+        "history_book_01_p0066_a001"
+      ],
+      "category": "image",
+      "description": "西夏王陵照片来源和拍摄时间未说明。",
+      "evidence_block_ids": [
+        "history_book_01_p0066_b001",
+        "history_book_01_p0066_b002"
+      ],
+      "suggested_action": "补图像来源。",
+      "blocking": false,
+      "status": "open"
+    }
+  ],
+  "validation": {
+    "structure_check_status": "passed",
+    "duplicate_ids": [],
+    "dangling_references": [],
+    "page_coverage_issues": [],
+    "time_issues": [],
+    "source_issues": [],
+    "unreadable_blocks": [],
+    "unprocessed_assets": [],
+    "semantic_review_status": "not_performed"
+  }
+}

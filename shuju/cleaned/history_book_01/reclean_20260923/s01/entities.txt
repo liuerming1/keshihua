@@ -1,0 +1,30 @@
+history_book_01_p0009_k002 元谋人 persons [] places [('history_book_01_p0009_place001', '云南省元谋县上那蚌村', 'occurrence')]
+history_book_01_p0009_k003 北京人 persons [] places [('history_book_01_p0009_place002', '北京', 'occurrence')]
+history_book_01_p0010_k002 仰韶文化 persons [] places [('history_book_01_p0010_place001', '黄河中游地区', 'occurrence')]
+history_book_01_p0010_k003 大汶口文化 persons [] places [('history_book_01_p0010_place002', '黄河下游', 'occurrence')]
+history_book_01_p0010_k004 河姆渡文化 persons [] places [('history_book_01_p0010_place003', '长江下游', 'occurrence')]
+history_book_01_p0010_k005 姜寨聚落与母系氏族公社状况 persons [] places [('history_book_01_p0010_place004', '陕西西安临潼姜寨', 'occurrence')]
+history_book_01_p0030_k001 西汉设置西域都护府 persons [] places [('history_book_01_p0030_pl001', '乌垒城', 'occurrence')]
+history_book_01_p0030_k002 王莽改国号为新与西汉灭亡 persons [('history_book_01_p0030_pe002', '王莽')] places []
+history_book_01_p0030_k003 绿林、赤眉起义与王莽政权覆亡 persons [] places [('history_book_01_p0030_pl004', '昆阳', 'occurrence'), ('history_book_01_p0030_pl003', '长安', 'occurrence')]
+history_book_01_p0030_k004 刘秀重建汉朝与光武中兴 persons [('history_book_01_p0030_pe001', '刘秀')] places [('history_book_01_p0030_pl005', '洛阳', 'occurrence')]
+history_book_01_p0031_k002 黄巾起义与东汉政权名存实亡 persons [('history_book_01_p0031_pe001', '张角')] places []
+history_book_01_p0031_k003 《史记》与《汉书》的史学成就 persons [('history_book_01_p0031_pe002', '司马迁'), ('history_book_01_p0031_pe003', '班固')] places []
+history_book_01_p0032_k001 两汉科技成就与蔡伦改进造纸术 persons [('history_book_01_p0032_pe001', '蔡伦')] places []
+history_book_01_p0032_k002 两汉其他重要科技成就 persons [('history_book_01_p0032_pe002', '张衡'), ('history_book_01_p0032_pe003', '张仲景'), ('history_book_01_p0032_pe004', '华佗')] places []
+history_book_01_p0033_k001 两汉杰出人物的家国情怀 persons [('history_book_01_p0031_pe002', '司马迁'), ('history_book_01_p0033_pe001', '霍去病'), ('history_book_01_p0033_pe002', '张骞'), ('history_book_01_p0033_pe003', '苏武'), ('history_book_01_p0033_pe004', '马援'), ('history_book_01_p0033_pe005', '班超')] places []
+history_book_01_p0033_k002 东汉豪强地主势力发展及其与政权衰亡的关系 persons [('history_book_01_p0033_pe006', '仲长统')] places []
+history_book_01_p0035_k001 刘备拜访诸葛亮与三分天下预言 persons [('history_book_01_p0035_pe001', '刘备'), ('history_book_01_p0035_pe002', '诸葛亮'), ('history_book_01_p0035_pe003', '曹操'), ('history_book_01_p0035_pe004', '孙权')] places [('history_book_01_p0035_pl002', '武侯祠', 'related')]
+history_book_01_p0035_k002 三国鼎立 persons [('history_book_01_p0035_pe001', '刘备'), ('history_book_01_p0035_pe004', '孙权'), ('history_book_01_p0035_pe005', '曹丕')] places [('history_book_01_p0035_pl003', '洛阳', 'occurrence'), ('history_book_01_p0035_pl004', '建业', 'occurrence'), ('history_book_01_p0035_pl001', '成都', 'occurrence')]
+history_book_01_p0036_k001 西晋短暂统一 persons [('history_book_01_p0036_pe002', '司马炎')] places [('history_book_01_p0036_pl002', '洛阳', 'related')]
+history_book_01_p0036_k002 西晋少数民族内迁与政权分立 persons [] places [('history_book_01_p0036_pl001', '长安', 'related')]
+history_book_01_p0037_k001 东晋建立与南朝更替 persons [('history_book_01_p0037_pe001', '司马睿'), ('history_book_01_p0037_pe002', '刘裕')] places [('history_book_01_p0037_pl001', '建康', 'occurrence')]
+history_book_01_p0037_k002 士族专权 persons [('history_book_01_p0037_pe001', '司马睿'), ('history_book_01_p0037_pe003', '王导'), ('history_book_01_p0037_pe004', '王敦')] places [('history_book_01_p0037_pl001', '建康', 'related')]
+history_book_01_p0038_k002 前秦统一北方与淝水之战 persons [] places [('history_book_01_p0038_pl001', '淝水', 'occurrence')]
+history_book_01_p0038_k003 北魏统一北方与民族交融 persons [('history_book_01_p0038_pe001', '拓跋宏')] places [('history_book_01_p0038_pl002', '平城', 'occurrence')]
+history_book_01_p0038_k004 嘎仙洞石室祖庙的考古证据 persons [] places [('history_book_01_p0038_pl003', '嘎仙洞', 'occurrence')]
+
+ALL people pages 19-20
+{'id': 'history_book_01_p0019_person001', 'name_as_written': '商鞅', 'aliases': [], 'evidence_block_ids': ['history_book_01_p0019_b003'], 'notes': []}
+{'id': 'history_book_01_p0019_person002', 'name_as_written': '孔子', 'aliases': [], 'evidence_block_ids': ['history_book_01_p0019_b003'], 'notes': []}
+{'id': 'history_book_01_p0019_person003', 'name_as_written': '老子', 'aliases': [], 'evidence_block_ids': ['history_book_01_p0019_b003'], 'notes': []}

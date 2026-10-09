@@ -1,0 +1,143 @@
+## history_book_01_p0221_k001 中国共产党第十六次全国代表大会举行，“三个代表”重要思想被确立为党的指导思想；在中共十六届一中全会上，胡锦涛当选为中共中央总书记
+TIME {"source_text": "2002年11月", "mode": "point", "start_year": 2002, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0221_b002"]}
+SUMMARY {"text": "中国共产党第十六次全国代表大会举行，“三个代表”重要思想被确立为党的指导思想；在中共十六届一中全会上，胡锦涛当选为中共中央总书记", "evidence_block_ids": ["history_book_01_p0221_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_015_b06"]
+EVIDENCE ["history_book_01_p0221_b002"]
+BLOCK history_book_01_p0221_b002 [paragraph] 2002年11月 中国共产党第十六次全国代表大会举行，“三个代表”重要思想被确立为党的指导思想；在中共十六届一中全会上，胡锦涛当选为中共中央总书记
+
+## history_book_01_p0221_k002 十届全国人大三次会议通过《反分裂国家法》
+TIME {"source_text": "2005年3月", "mode": "point", "start_year": 2005, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0221_b003"]}
+SUMMARY {"text": "十届全国人大三次会议通过《反分裂国家法》", "evidence_block_ids": ["history_book_01_p0221_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0221_b003"]
+BLOCK history_book_01_p0221_b003 [paragraph] 2005年3月 十届全国人大三次会议通过《反分裂国家法》
+
+## history_book_01_p0221_k003 取消农业税
+TIME {"source_text": "2006年", "mode": "point", "start_year": 2006, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0221_b004"]}
+SUMMARY {"text": "取消农业税", "evidence_block_ids": ["history_book_01_p0221_b004"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0221_b004"]
+BLOCK history_book_01_p0221_b004 [paragraph] 2006年 取消农业税
+
+## history_book_01_p0221_k004 中国共产党第十七次全国代表大会举行
+TIME {"source_text": "2007年10月", "mode": "point", "start_year": 2007, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0221_b005"]}
+SUMMARY {"text": "中国共产党第十七次全国代表大会举行", "evidence_block_ids": ["history_book_01_p0221_b005"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0221_b005"]
+BLOCK history_book_01_p0221_b005 [paragraph] 2007年10月 中国共产党第十七次全国代表大会举行
+
+## history_book_01_p0221_k005 中国成功举办第29届夏季奥运会
+TIME {"source_text": "2008年", "mode": "point", "start_year": 2008, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0221_b006"]}
+SUMMARY {"text": "中国成功举办第29届夏季奥运会", "evidence_block_ids": ["history_book_01_p0221_b006"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0221_b006"]
+BLOCK history_book_01_p0221_b006 [paragraph] 2008年 中国成功举办第29届夏季奥运会
+
+## history_book_01_p0221_k006 中国共产党第十八次全国代表大会举行，科学发展观被确立为党的指导思想；在中共十八届一中全会上，习近平当选为中共中央总书记
+TIME {"source_text": "2012年11月", "mode": "point", "start_year": 2012, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0221_b007"]}
+SUMMARY {"text": "中国共产党第十八次全国代表大会举行，科学发展观被确立为党的指导思想；在中共十八届一中全会上，习近平当选为中共中央总书记", "evidence_block_ids": ["history_book_01_p0221_b007"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_016_b06"]
+EVIDENCE ["history_book_01_p0221_b007"]
+BLOCK history_book_01_p0221_b007 [paragraph] 2012年11月 中国共产党第十八次全国代表大会举行，科学发展观被确立为党的指导思想；在中共十八届一中全会上，习近平当选为中共中央总书记
+
+## history_book_01_p0221_k007 习近平提出共建“一带一路”倡议
+TIME {"source_text": "2013年", "mode": "point", "start_year": 2013, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0221_b008"]}
+SUMMARY {"text": "习近平提出共建“一带一路”倡议", "evidence_block_ids": ["history_book_01_p0221_b008"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_016_b06"]
+EVIDENCE ["history_book_01_p0221_b008"]
+BLOCK history_book_01_p0221_b008 [paragraph] 2013年 习近平提出共建“一带一路”倡议
+
+## history_book_01_p0221_k008 两岸领导人习近平、马英九在新加坡会面
+TIME {"source_text": "2015年11月7日", "mode": "point", "start_year": 2015, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0221_b009"]}
+SUMMARY {"text": "两岸领导人习近平、马英九在新加坡会面", "evidence_block_ids": ["history_book_01_p0221_b009"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_018_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0221_b009"]}]
+PEOPLE ["history_book_01_person_016_b06", "history_book_01_person_017_b06"]
+EVIDENCE ["history_book_01_p0221_b009"]
+BLOCK history_book_01_p0221_b009 [paragraph] 2015年11月7日 两岸领导人习近平、马英九在新加坡会面
+
+## history_book_01_p0221_k009 中国共产党第十九次全国代表大会举行，习近平新时代中国特色社会主义思想被确立为党的指导思想，在中共十九届一中全会上，习近平当选为中共中央总书记
+TIME {"source_text": "2017年10月", "mode": "point", "start_year": 2017, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0221_b010"]}
+SUMMARY {"text": "中国共产党第十九次全国代表大会举行，习近平新时代中国特色社会主义思想被确立为党的指导思想，在中共十九届一中全会上，习近平当选为中共中央总书记", "evidence_block_ids": ["history_book_01_p0221_b010"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_016_b06"]
+EVIDENCE ["history_book_01_p0221_b010"]
+BLOCK history_book_01_p0221_b010 [paragraph] 2017年10月 中国共产党第十九次全国代表大会举行，习近平新时代中国特色社会主义思想被确立为党的指导思想，在中共十九届一中全会上，习近平当选为中共中央总书记
+
+## history_book_01_p0221_k010 庆祝中国共产党成立100周年大会举行，习近平宣布全面建成小康社会
+TIME {"source_text": "2021年7月1日", "mode": "point", "start_year": 2021, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0221_b011"]}
+SUMMARY {"text": "庆祝中国共产党成立100周年大会举行，习近平宣布全面建成小康社会", "evidence_block_ids": ["history_book_01_p0221_b011"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_016_b06"]
+EVIDENCE ["history_book_01_p0221_b011"]
+BLOCK history_book_01_p0221_b011 [paragraph] 2021年7月1日 庆祝中国共产党成立100周年大会举行，习近平宣布全面建成小康社会
+
+## history_book_01_p0221_k011 中共十九届六中全会召开，通过《中共中央关于党的百年奋斗重大成就和历史经验的决议》
+TIME {"source_text": "2021年11月", "mode": "point", "start_year": 2021, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0221_b012"]}
+SUMMARY {"text": "中共十九届六中全会召开，通过《中共中央关于党的百年奋斗重大成就和历史经验的决议》", "evidence_block_ids": ["history_book_01_p0221_b012"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0221_b012"]
+BLOCK history_book_01_p0221_b012 [paragraph] 2021年11月 中共十九届六中全会召开，通过《中共中央关于党的百年奋斗重大成就和历史经验的决议》
+
+## history_book_01_p0221_k012 中国共产党第二十次全国代表大会举行，在中共二十届一中全会上，习近平当选为中共中央总书记
+TIME {"source_text": "2022年10月", "mode": "point", "start_year": 2022, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0221_b013"]}
+SUMMARY {"text": "中国共产党第二十次全国代表大会举行，在中共二十届一中全会上，习近平当选为中共中央总书记", "evidence_block_ids": ["history_book_01_p0221_b013"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_016_b06"]
+EVIDENCE ["history_book_01_p0221_b013"]
+BLOCK history_book_01_p0221_b013 [paragraph] 2022年10月 中国共产党第二十次全国代表大会举行，在中共二十届一中全会上，习近平当选为中共中央总书记

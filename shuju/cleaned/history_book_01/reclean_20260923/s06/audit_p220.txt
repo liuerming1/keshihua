@@ -1,0 +1,203 @@
+## history_book_01_p0220_k001 中华人民共和国恢复在联合国的一切合法权利
+TIME {"source_text": "1971年", "mode": "point", "start_year": 1971, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b002"]}
+SUMMARY {"text": "中华人民共和国恢复在联合国的一切合法权利", "evidence_block_ids": ["history_book_01_p0220_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_023_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0220_b002"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0220_b002"]
+BLOCK history_book_01_p0220_b002 [paragraph] 1971年 中华人民共和国恢复在联合国的一切合法权利
+
+## history_book_01_p0220_k002 中美关系开始走向正常化，中日正式建交
+TIME {"source_text": "1972年", "mode": "point", "start_year": 1972, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b003"]}
+SUMMARY {"text": "中美关系开始走向正常化，中日正式建交", "evidence_block_ids": ["history_book_01_p0220_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0220_b003"]
+BLOCK history_book_01_p0220_b003 [paragraph] 1972年 中美关系开始走向正常化，中日正式建交
+
+## history_book_01_p0220_k003 中共十一届三中全会召开
+TIME {"source_text": "1978年12月", "mode": "point", "start_year": 1978, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b004"]}
+SUMMARY {"text": "中共十一届三中全会召开", "evidence_block_ids": ["history_book_01_p0220_b004"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0220_b004"]
+BLOCK history_book_01_p0220_b004 [paragraph] 1978年12月 中共十一届三中全会召开
+
+## history_book_01_p0220_k004 中美正式建交
+TIME {"source_text": "1979年", "mode": "point", "start_year": 1979, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b005"]}
+SUMMARY {"text": "中美正式建交", "evidence_block_ids": ["history_book_01_p0220_b005"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0220_b005"]
+BLOCK history_book_01_p0220_b005 [paragraph] 1979年 中美正式建交
+
+## history_book_01_p0220_k005 设立深圳、珠海、汕头、厦门经济特区
+TIME {"source_text": "1980年", "mode": "point", "start_year": 1980, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b006"]}
+SUMMARY {"text": "设立深圳、珠海、汕头、厦门经济特区", "evidence_block_ids": ["history_book_01_p0220_b006"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_019_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0220_b006"]}, {"place_id": "history_book_01_place_020_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0220_b006"]}, {"place_id": "history_book_01_place_021_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0220_b006"]}, {"place_id": "history_book_01_place_022_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0220_b006"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0220_b006"]
+BLOCK history_book_01_p0220_b006 [paragraph] 1980年 设立深圳、珠海、汕头、厦门经济特区
+
+## history_book_01_p0220_k006 中国共产党第十二次全国代表大会举行，邓小平提出“建设有中国特色的社会主义”重大命题
+TIME {"source_text": "1982年9月", "mode": "point", "start_year": 1982, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b007"]}
+SUMMARY {"text": "中国共产党第十二次全国代表大会举行，邓小平提出“建设有中国特色的社会主义”重大命题", "evidence_block_ids": ["history_book_01_p0220_b007"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_013_b06"]
+EVIDENCE ["history_book_01_p0220_b007"]
+BLOCK history_book_01_p0220_b007 [paragraph] 1982年9月 中国共产党第十二次全国代表大会举行，邓小平提出“建设有中国特色的社会主义”重大命题
+
+## history_book_01_p0220_k007 五届全国人大五次会议通过新修改的《中华人民共和国宪法》
+TIME {"source_text": "1982年12月", "mode": "point", "start_year": 1982, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b008"]}
+SUMMARY {"text": "五届全国人大五次会议通过新修改的《中华人民共和国宪法》", "evidence_block_ids": ["history_book_01_p0220_b008"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0220_b008"]
+BLOCK history_book_01_p0220_b008 [paragraph] 1982年12月 五届全国人大五次会议通过新修改的《中华人民共和国宪法》
+
+## history_book_01_p0220_k008 开放14个沿海港口城市
+TIME {"source_text": "1984年", "mode": "point", "start_year": 1984, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b009"]}
+SUMMARY {"text": "开放14个沿海港口城市", "evidence_block_ids": ["history_book_01_p0220_b009"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0220_b009"]
+BLOCK history_book_01_p0220_b009 [paragraph] 1984年 开放14个沿海港口城市
+
+## history_book_01_p0220_k009 中国共产党第十三次全国代表大会举行，确立了“一个中心，两个基本点”的基本路线
+TIME {"source_text": "1987年10月", "mode": "point", "start_year": 1987, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b010"]}
+SUMMARY {"text": "中国共产党第十三次全国代表大会举行，确立了“一个中心，两个基本点”的基本路线", "evidence_block_ids": ["history_book_01_p0220_b010"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0220_b010"]
+BLOCK history_book_01_p0220_b010 [paragraph] 1987年10月 中国共产党第十三次全国代表大会举行，确立了“一个中心，两个基本点”的基本路线
+
+## history_book_01_p0220_k010 中共十三届四中全会召开，江泽民当选为中共中央总书记
+TIME {"source_text": "1989年6月", "mode": "point", "start_year": 1989, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b011"]}
+SUMMARY {"text": "中共十三届四中全会召开，江泽民当选为中共中央总书记", "evidence_block_ids": ["history_book_01_p0220_b011"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_014_b06"]
+EVIDENCE ["history_book_01_p0220_b011"]
+BLOCK history_book_01_p0220_b011 [paragraph] 1989年6月 中共十三届四中全会召开，江泽民当选为中共中央总书记
+
+## history_book_01_p0220_k011 中国共产党第十四次全国代表大会举行
+TIME {"source_text": "1992年10月", "mode": "point", "start_year": 1992, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b012"]}
+SUMMARY {"text": "中国共产党第十四次全国代表大会举行", "evidence_block_ids": ["history_book_01_p0220_b012"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0220_b012"]
+BLOCK history_book_01_p0220_b012 [paragraph] 1992年10月 中国共产党第十四次全国代表大会举行
+
+## history_book_01_p0220_k012 “九二共识”
+TIME {"source_text": "1992年11月", "mode": "point", "start_year": 1992, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b013"]}
+SUMMARY {"text": "“九二共识”", "evidence_block_ids": ["history_book_01_p0220_b013"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0220_b013"]
+BLOCK history_book_01_p0220_b013 [paragraph] 1992年11月 “九二共识”
+
+## history_book_01_p0220_k013 汪辜会谈
+TIME {"source_text": "1993年", "mode": "point", "start_year": 1993, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b014"]}
+SUMMARY {"text": "汪辜会谈", "evidence_block_ids": ["history_book_01_p0220_b014"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0220_b014"]
+BLOCK history_book_01_p0220_b014 [paragraph] 1993年 汪辜会谈
+
+## history_book_01_p0220_k014 中国对香港恢复行使主权，中华人民共和国香港特别行政区正式成立
+TIME {"source_text": "1997年7月1日", "mode": "point", "start_year": 1997, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b015"]}
+SUMMARY {"text": "中国对香港恢复行使主权，中华人民共和国香港特别行政区正式成立", "evidence_block_ids": ["history_book_01_p0220_b015"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_016_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0220_b015"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0220_b015"]
+BLOCK history_book_01_p0220_b015 [paragraph] 1997年7月1日 中国对香港恢复行使主权，中华人民共和国香港特别行政区正式成立
+
+## history_book_01_p0220_k015 中国共产党第十五次全国代表大会举行，邓小平理论被确立为党的指导思想
+TIME {"source_text": "1997年9月", "mode": "point", "start_year": 1997, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b016"]}
+SUMMARY {"text": "中国共产党第十五次全国代表大会举行，邓小平理论被确立为党的指导思想", "evidence_block_ids": ["history_book_01_p0220_b016"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_013_b06"]
+EVIDENCE ["history_book_01_p0220_b016"]
+BLOCK history_book_01_p0220_b016 [paragraph] 1997年9月 中国共产党第十五次全国代表大会举行，邓小平理论被确立为党的指导思想
+
+## history_book_01_p0220_k016 中国对澳门恢复行使主权，中华人民共和国澳门特别行政区正式成立
+TIME {"source_text": "1999年12月20日", "mode": "point", "start_year": 1999, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b017"]}
+SUMMARY {"text": "中国对澳门恢复行使主权，中华人民共和国澳门特别行政区正式成立", "evidence_block_ids": ["history_book_01_p0220_b017"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_017_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0220_b017"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0220_b017"]
+BLOCK history_book_01_p0220_b017 [paragraph] 1999年12月20日 中国对澳门恢复行使主权，中华人民共和国澳门特别行政区正式成立
+
+## history_book_01_p0220_k017 中国正式加入世界贸易组织
+TIME {"source_text": "2001年12月", "mode": "point", "start_year": 2001, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0220_b018"]}
+SUMMARY {"text": "中国正式加入世界贸易组织", "evidence_block_ids": ["history_book_01_p0220_b018"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0220_b018"]
+BLOCK history_book_01_p0220_b018 [paragraph] 2001年12月 中国正式加入世界贸易组织

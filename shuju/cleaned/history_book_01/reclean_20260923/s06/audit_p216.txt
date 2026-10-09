@@ -1,0 +1,251 @@
+## history_book_01_p0216_k001 台湾义勇军和刘永福留台清军武装反抗日本占据台湾
+TIME {"source_text": "1895年5—10月", "mode": "duration", "start_year": 1895, "end_year": 1895, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "known", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b002"]}
+SUMMARY {"text": "台湾义勇军和刘永福留台清军武装反抗日本占据台湾", "evidence_block_ids": ["history_book_01_p0216_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_002_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0216_b002"]}]
+PEOPLE ["history_book_01_person_003_b06"]
+EVIDENCE ["history_book_01_p0216_b002"]
+BLOCK history_book_01_p0216_b002 [paragraph] 1895年5—10月 台湾义勇军和刘永福留台清军武装反抗日本占据台湾
+
+## history_book_01_p0216_k002 “三国干涉还辽”
+TIME {"source_text": "1895年11月", "mode": "point", "start_year": 1895, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b003"]}
+SUMMARY {"text": "“三国干涉还辽”", "evidence_block_ids": ["history_book_01_p0216_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0216_b003"]
+BLOCK history_book_01_p0216_b003 [paragraph] 1895年11月 “三国干涉还辽”
+
+## history_book_01_p0216_k003 戊戌变法运动
+TIME {"source_text": "1898年", "mode": "point", "start_year": 1898, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b004"]}
+SUMMARY {"text": "戊戌变法运动", "evidence_block_ids": ["history_book_01_p0216_b004"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0216_b004"]
+BLOCK history_book_01_p0216_b004 [paragraph] 1898年 戊戌变法运动
+
+## history_book_01_p0216_k004 义和团运动达到高潮；八国联军侵华
+TIME {"source_text": "1900年", "mode": "point", "start_year": 1900, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b005"]}
+SUMMARY {"text": "义和团运动达到高潮；八国联军侵华", "evidence_block_ids": ["history_book_01_p0216_b005"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0216_b005"]
+BLOCK history_book_01_p0216_b005 [paragraph] 1900年 义和团运动达到高潮；八国联军侵华
+
+## history_book_01_p0216_k005 《辛丑条约》签订
+TIME {"source_text": "1901年", "mode": "point", "start_year": 1901, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b006"]}
+SUMMARY {"text": "《辛丑条约》签订", "evidence_block_ids": ["history_book_01_p0216_b006"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0216_b006"]
+BLOCK history_book_01_p0216_b006 [paragraph] 1901年 《辛丑条约》签订
+
+## history_book_01_p0216_k006 中国同盟会成立
+TIME {"source_text": "1905年", "mode": "point", "start_year": 1905, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b007"]}
+SUMMARY {"text": "中国同盟会成立", "evidence_block_ids": ["history_book_01_p0216_b007"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0216_b007"]
+BLOCK history_book_01_p0216_b007 [paragraph] 1905年 中国同盟会成立
+
+## history_book_01_p0216_k007 清政府预备立宪
+TIME {"source_text": "1906年", "mode": "point", "start_year": 1906, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b008"]}
+SUMMARY {"text": "清政府预备立宪", "evidence_block_ids": ["history_book_01_p0216_b008"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0216_b008"]
+BLOCK history_book_01_p0216_b008 [paragraph] 1906年 清政府预备立宪
+
+## history_book_01_p0216_k008 武昌起义，辛亥革命爆发
+TIME {"source_text": "1911年10月10日", "mode": "point", "start_year": 1911, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b009"]}
+SUMMARY {"text": "武昌起义，辛亥革命爆发", "evidence_block_ids": ["history_book_01_p0216_b009"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0216_b009"]
+BLOCK history_book_01_p0216_b009 [paragraph] 1911年10月10日 武昌起义，辛亥革命爆发
+
+## history_book_01_p0216_k009 中华民国临时政府在南京成立，孙中山就任中华民国临时大总统
+TIME {"source_text": "1912年1月1日", "mode": "point", "start_year": 1912, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b010"]}
+SUMMARY {"text": "中华民国临时政府在南京成立，孙中山就任中华民国临时大总统", "evidence_block_ids": ["history_book_01_p0216_b010"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_007_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0216_b010"]}]
+PEOPLE ["history_book_01_person_005_b06"]
+EVIDENCE ["history_book_01_p0216_b010"]
+BLOCK history_book_01_p0216_b010 [paragraph] 1912年1月1日 中华民国临时政府在南京成立，孙中山就任中华民国临时大总统
+
+## history_book_01_p0216_k010 清帝退位
+TIME {"source_text": "1912年2月12日", "mode": "point", "start_year": 1912, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b011"]}
+SUMMARY {"text": "清帝退位", "evidence_block_ids": ["history_book_01_p0216_b011"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0216_b011"]
+BLOCK history_book_01_p0216_b011 [paragraph] 1912年2月12日 清帝退位
+
+## history_book_01_p0216_k011 《中华民国临时约法》颁布
+TIME {"source_text": "1912年3月11日", "mode": "point", "start_year": 1912, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b012"]}
+SUMMARY {"text": "《中华民国临时约法》颁布", "evidence_block_ids": ["history_book_01_p0216_b012"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0216_b012"]
+BLOCK history_book_01_p0216_b012 [paragraph] 1912年3月11日 《中华民国临时约法》颁布
+
+## history_book_01_p0216_k012 陈独秀创办《青年杂志》，新文化运动开始
+TIME {"source_text": "1915年9月", "mode": "point", "start_year": 1915, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b013"]}
+SUMMARY {"text": "陈独秀创办《青年杂志》，新文化运动开始", "evidence_block_ids": ["history_book_01_p0216_b013"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_004_b06"]
+EVIDENCE ["history_book_01_p0216_b013"]
+BLOCK history_book_01_p0216_b013 [paragraph] 1915年9月 陈独秀创办《青年杂志》，新文化运动开始
+
+## history_book_01_p0216_k013 袁世凯复辟帝制，次年失败
+TIME {"source_text": "1915年12月", "mode": "point", "start_year": 1915, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b014"]}
+SUMMARY {"text": "袁世凯复辟帝制，次年失败", "evidence_block_ids": ["history_book_01_p0216_b014"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_006_b06"]
+EVIDENCE ["history_book_01_p0216_b014"]
+BLOCK history_book_01_p0216_b014 [paragraph] 1915年12月 袁世凯复辟帝制，次年失败
+
+## history_book_01_p0216_k014 张勋复辟
+TIME {"source_text": "1917年6月", "mode": "point", "start_year": 1917, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b015"]}
+SUMMARY {"text": "张勋复辟", "evidence_block_ids": ["history_book_01_p0216_b015"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_007_b06"]
+EVIDENCE ["history_book_01_p0216_b015"]
+BLOCK history_book_01_p0216_b015 [paragraph] 1917年6月 张勋复辟
+
+## history_book_01_p0216_k015 护法运动开始
+TIME {"source_text": "1917年8月", "mode": "point", "start_year": 1917, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b016"]}
+SUMMARY {"text": "护法运动开始", "evidence_block_ids": ["history_book_01_p0216_b016"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0216_b016"]
+BLOCK history_book_01_p0216_b016 [paragraph] 1917年8月 护法运动开始
+
+## history_book_01_p0216_k016 中国加入第一次世界大战协约国方面
+TIME {"source_text": "1917年8月14日", "mode": "point", "start_year": 1917, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b017"]}
+SUMMARY {"text": "中国加入第一次世界大战协约国方面", "evidence_block_ids": ["history_book_01_p0216_b017"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0216_b017"]
+BLOCK history_book_01_p0216_b017 [paragraph] 1917年8月14日 中国加入第一次世界大战协约国方面
+
+## history_book_01_p0216_k017 五四运动爆发
+TIME {"source_text": "1919年5月4日", "mode": "point", "start_year": 1919, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b018"]}
+SUMMARY {"text": "五四运动爆发", "evidence_block_ids": ["history_book_01_p0216_b018"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0216_b018"]
+BLOCK history_book_01_p0216_b018 [paragraph] 1919年5月4日 五四运动爆发
+
+## history_book_01_p0216_k018 中国共产党第一次全国代表大会举行，中国共产党成立
+TIME {"source_text": "1921年7月23日", "mode": "point", "start_year": 1921, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b019"]}
+SUMMARY {"text": "中国共产党第一次全国代表大会举行，中国共产党成立", "evidence_block_ids": ["history_book_01_p0216_b019"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0216_b019"]
+BLOCK history_book_01_p0216_b019 [paragraph] 1921年7月23日 中国共产党第一次全国代表大会举行，中国共产党成立
+
+## history_book_01_p0216_k019 中国国民党第一次全国代表大会召开，第一次国共合作正式形成
+TIME {"source_text": "1924年1月", "mode": "point", "start_year": 1924, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b020"]}
+SUMMARY {"text": "中国国民党第一次全国代表大会召开，第一次国共合作正式形成", "evidence_block_ids": ["history_book_01_p0216_b020"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0216_b020"]
+BLOCK history_book_01_p0216_b020 [paragraph] 1924年1月 中国国民党第一次全国代表大会召开，第一次国共合作正式形成
+
+## history_book_01_p0216_k020 国共两党合作北伐，国民革命取得重大进展
+TIME {"source_text": "1926年", "mode": "point", "start_year": 1926, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b021"]}
+SUMMARY {"text": "国共两党合作北伐，国民革命取得重大进展", "evidence_block_ids": ["history_book_01_p0216_b021"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0216_b021"]
+BLOCK history_book_01_p0216_b021 [paragraph] 1926年 国共两党合作北伐，国民革命取得重大进展
+
+## history_book_01_p0216_k021 蒋介石发动四一二反革命政变
+TIME {"source_text": "1927年4月12日", "mode": "point", "start_year": 1927, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0216_b022"]}
+SUMMARY {"text": "蒋介石发动四一二反革命政变", "evidence_block_ids": ["history_book_01_p0216_b022"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_008_b06"]
+EVIDENCE ["history_book_01_p0216_b022"]
+BLOCK history_book_01_p0216_b022 [paragraph] 1927年4月12日 蒋介石发动四一二反革命政变

@@ -1,0 +1,4171 @@
+{
+  "schema_version": "history-pdf-ingest/1.0",
+  "batch": {
+    "id": "history_book_01_b04a",
+    "document_id": "history_book_01",
+    "requested_pdf_pages": [
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122
+    ],
+    "completed_pdf_pages": [
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122
+    ],
+    "partial_pdf_pages": [],
+    "unprocessed_pdf_pages": [],
+    "complete": true,
+    "next_pdf_page": null,
+    "carryover": [
+      {
+        "type": "paragraph",
+        "record_ids": [
+          "history_book_01_p0117_b012",
+          "history_book_01_p0122_b004"
+        ],
+        "description": "p117孙中山生平段落在页末续接p118；p122袁世凯对日交涉叙述在后续页继续。",
+        "next_action": "与相邻批次核对跨页段落后再做完整知识整合。"
+      }
+    ]
+  },
+  "documents": [
+    {
+      "id": "history_book_01",
+      "file_name": "普通高中教科书·历史必修_中外历史纲要（上）.pdf",
+      "title": "普通高中教科书·历史必修 中外历史纲要（上）",
+      "edition": null,
+      "volume": "上",
+      "publisher": "人民教育出版社",
+      "publication_year": null,
+      "total_pdf_pages": 223,
+      "language": "zh-CN",
+      "source_kind": "textbook",
+      "sha256": null
+    }
+  ],
+  "pages": [
+    {
+      "id": "history_book_01_p0113",
+      "document_id": "history_book_01",
+      "pdf_page_number": 113,
+      "printed_page_label": "106",
+      "chapter_path": [
+        "第五单元 晚清时期的内忧外患与救亡图存",
+        "第17课 挽救民族危亡的斗争"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染为PNG并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "图片未导出独立裁剪文件，assets.file_path保持null；地图未做空间校准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0114",
+      "document_id": "history_book_01",
+      "pdf_page_number": 114,
+      "printed_page_label": "107",
+      "chapter_path": [
+        "第五单元 晚清时期的内忧外患与救亡图存",
+        "第17课 挽救民族危亡的斗争"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染为PNG并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "图片未导出独立裁剪文件，assets.file_path保持null；地图未做空间校准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0115",
+      "document_id": "history_book_01",
+      "pdf_page_number": 115,
+      "printed_page_label": "108",
+      "chapter_path": [
+        "第五单元 晚清时期的内忧外患与救亡图存",
+        "第17课 挽救民族危亡的斗争"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染为PNG并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "图片未导出独立裁剪文件，assets.file_path保持null；地图未做空间校准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0116",
+      "document_id": "history_book_01",
+      "pdf_page_number": 116,
+      "printed_page_label": null,
+      "chapter_path": [
+        "第六单元 辛亥革命与中华民国的建立"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染为PNG并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "图片未导出独立裁剪文件，assets.file_path保持null；地图未做空间校准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117",
+      "document_id": "history_book_01",
+      "pdf_page_number": 117,
+      "printed_page_label": "110",
+      "chapter_path": [
+        "第六单元 辛亥革命与中华民国的建立",
+        "第18课 辛亥革命"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染为PNG并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "图片未导出独立裁剪文件，assets.file_path保持null；地图未做空间校准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0118",
+      "document_id": "history_book_01",
+      "pdf_page_number": 118,
+      "printed_page_label": "111",
+      "chapter_path": [
+        "第六单元 辛亥革命与中华民国的建立",
+        "第18课 辛亥革命"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染为PNG并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "图片未导出独立裁剪文件，assets.file_path保持null；地图未做空间校准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0119",
+      "document_id": "history_book_01",
+      "pdf_page_number": 119,
+      "printed_page_label": "112",
+      "chapter_path": [
+        "第六单元 辛亥革命与中华民国的建立",
+        "第18课 辛亥革命"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染为PNG并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "图片未导出独立裁剪文件，assets.file_path保持null；地图未做空间校准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0120",
+      "document_id": "history_book_01",
+      "pdf_page_number": 120,
+      "printed_page_label": "113",
+      "chapter_path": [
+        "第六单元 辛亥革命与中华民国的建立",
+        "第18课 辛亥革命"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染为PNG并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "图片未导出独立裁剪文件，assets.file_path保持null；地图未做空间校准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0121",
+      "document_id": "history_book_01",
+      "pdf_page_number": 121,
+      "printed_page_label": "114",
+      "chapter_path": [
+        "第六单元 辛亥革命与中华民国的建立",
+        "第18课 辛亥革命"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染为PNG并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "图片未导出独立裁剪文件，assets.file_path保持null；地图未做空间校准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0122",
+      "document_id": "history_book_01",
+      "pdf_page_number": 122,
+      "printed_page_label": "115",
+      "chapter_path": [
+        "第六单元 辛亥革命与中华民国的建立",
+        "第19课 北洋军阀统治时期的政治、经济与文化"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染为PNG并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "图片未导出独立裁剪文件，assets.file_path保持null；地图未做空间校准。"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "history_book_01_p0113_b001",
+      "page_id": "history_book_01_p0113",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "106 中外历史纲要 上  第五单元  晚清时期的内忧外患与救亡图存\n",
+      "clean_text": "106 中外历史纲要 上  第五单元  晚清时期的内忧外患与救亡图存\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0113_b002",
+      "page_id": "history_book_01_p0113",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "民族危机的加深\n",
+      "clean_text": "民族危机的加深\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0113_b003",
+      "page_id": "history_book_01_p0113",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1900 年 12 月，列强向清政府提出《议和大纲》 ，后\n又订立详细条款。由于各国利益不同，谈判旷日持久。\n1901 年 9 月 7 日，清政府被迫与组成联军的 8 国及西班牙、\n荷兰、比利时 3 国共 11 国签订丧权辱国的《辛丑条约》 。\n列强通过《辛丑条约》对华制裁，共计 12款，还有19\n个附件。主要内容有：惩办“首祸诸臣” ，涉及中央和地方\n大臣百余人；向各国赔款白银4.5亿两，分39年还清，年息\n4 厘，本息共计白银约9.82亿两；将北京东交民巷划定为使\n馆界，中国人不得居住，各国可派兵驻守；拆除大沽及有碍\n北京至海通道的所有炮台，各国可在自北京至山海关沿铁路\n12个重要地区驻扎军队；禁止华北等地科举考试5 年，禁止\n中国人成立或加入任何“与诸国仇敌之会” ；改总理衙门为\n《辛丑条约》的签订 ，\n标志着中国半殖民地半封建\n社会完全形成。\n",
+      "clean_text": "1900 年 12 月，列强向清政府提出《议和大纲》 ，后\n又订立详细条款。由于各国利益不同，谈判旷日持久。\n1901 年 9 月 7 日，清政府被迫与组成联军的 8 国及西班牙、\n荷兰、比利时 3 国共 11 国签订丧权辱国的《辛丑条约》 。\n列强通过《辛丑条约》对华制裁，共计 12款，还有19\n个附件。主要内容有：惩办“首祸诸臣” ，涉及中央和地方\n大臣百余人；向各国赔款白银4.5亿两，分39年还清，年息\n4 厘，本息共计白银约9.82亿两；将北京东交民巷划定为使\n馆界，中国人不得居住，各国可派兵驻守；拆除大沽及有碍\n北京至海通道的所有炮台，各国可在自北京至山海关沿铁路\n12个重要地区驻扎军队；禁止华北等地科举考试5 年，禁止\n中国人成立或加入任何“与诸国仇敌之会” ；改总理衙门为\n《辛丑条约》的签订 ，\n标志着中国半殖民地半封建\n社会完全形成。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0113_b004",
+      "page_id": "history_book_01_p0113",
+      "order": 4,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "学习聚焦\n▲\n《辛丑条约 》签订现场\n     《辛 丑条约 》签订于光绪二十 七\n年 七 月 二 十五 日， 因 该 年 为 辛 丑 年 而\n得名。 条约签订日为阳历 9 月 7 日 ， 因\n此有 “九七国耻”一说。图 中右一为\n奕劻， 右二为李鸿章。\n",
+      "clean_text": "学习聚焦\n▲\n《辛丑条约 》签订现场\n     《辛 丑条约 》签订于光绪二十 七\n年 七 月 二 十五 日， 因 该 年 为 辛 丑 年 而\n得名。 条约签订日为阳历 9 月 7 日 ， 因\n此有 “九七国耻”一说。图 中右一为\n奕劻， 右二为李鸿章。\n",
+      "asset_ids": [
+        "history_book_01_p0113_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0113_b005",
+      "page_id": "history_book_01_p0113",
+      "order": 5,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "克林德碑\n",
+      "clean_text": "克林德碑\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0113_b006",
+      "page_id": "history_book_01_p0113",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1900 年 6 月，德国驻华公使克林德在前往清政府总理衙门时，途经东单牌楼，与清军发生冲\n突，被当场击毙，这就是“克林德事件” 。1901 年《辛丑条约》签订后，清政府派醇亲王载沣为头\n等专使大臣，代表中国政府就克林德被杀一事赴德国谢罪致歉。清政府在克林德被害处建立牌坊，\n此即“克林德碑” 。1918 年，德国在第一次世界大战中战败，中国成为战胜国之一，11 月 13 日，北\n京城兴奋的人们将象征耻辱的克林德碑改名为“公理战胜碑” ，由东单迁移至中央公园 ①。在 1952\n年召开的亚洲及太平洋区域和平会议上，为表彰中国人民保卫世界和平所作的贡献，会议决定将\n“公理战胜碑”改为“保卫和平碑” 。\n",
+      "clean_text": "1900 年 6 月，德国驻华公使克林德在前往清政府总理衙门时，途经东单牌楼，与清军发生冲\n突，被当场击毙，这就是“克林德事件” 。1901 年《辛丑条约》签订后，清政府派醇亲王载沣为头\n等专使大臣，代表中国政府就克林德被杀一事赴德国谢罪致歉。清政府在克林德被害处建立牌坊，\n此即“克林德碑” 。1918 年，德国在第一次世界大战中战败，中国成为战胜国之一，11 月 13 日，北\n京城兴奋的人们将象征耻辱的克林德碑改名为“公理战胜碑” ，由东单迁移至中央公园 ①。在 1952\n年召开的亚洲及太平洋区域和平会议上，为表彰中国人民保卫世界和平所作的贡献，会议决定将\n“公理战胜碑”改为“保卫和平碑” 。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0113_b007",
+      "page_id": "history_book_01_p0113",
+      "order": 7,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "历史纵横\n① 中央公园，今中山公园。\n",
+      "clean_text": "历史纵横\n① 中央公园，今中山公园。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0113_b008",
+      "page_id": "history_book_01_p0113",
+      "order": 8,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。",
+        "PDF文字层含字体编码异常串，原样保留并待人工核对。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0114_b001",
+      "page_id": "history_book_01_p0114",
+      "order": 1,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "第17课    挽救民族危亡的斗争 107\n本年夏间，拳匪构乱，开衅友邦，朕奉慈驾西巡，京师云\n扰。迭命庆亲王奕劻、大学士李鸿章作为全权大臣，便宜行\n事，与各国使臣止兵议款。昨据奕劻等电呈各国和议十二条大\n纲，业已照允。仍电饬该全权大臣将详细节目悉心酌核。量中\n华之物力，结与国之欢心。\n——《上谕》 （1901年2月14日） ，故宫博物院明清档案\n部编《义和团档案史料》下册\n",
+      "clean_text": "第17课    挽救民族危亡的斗争 107\n本年夏间，拳匪构乱，开衅友邦，朕奉慈驾西巡，京师云\n扰。迭命庆亲王奕劻、大学士李鸿章作为全权大臣，便宜行\n事，与各国使臣止兵议款。昨据奕劻等电呈各国和议十二条大\n纲，业已照允。仍电饬该全权大臣将详细节目悉心酌核。量中\n华之物力，结与国之欢心。\n——《上谕》 （1901年2月14日） ，故宫博物院明清档案\n部编《义和团档案史料》下册\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0114_b002",
+      "page_id": "history_book_01_p0114",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "史料阅读\n",
+      "clean_text": "史料阅读\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0114_b003",
+      "page_id": "history_book_01_p0114",
+      "order": 3,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "中国是如何一步步沦为\n半殖民地半封建社会的？\n",
+      "clean_text": "中国是如何一步步沦为\n半殖民地半封建社会的？\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0114_b004",
+      "page_id": "history_book_01_p0114",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "思考点\n外务部，班列六部之前等。\n《辛丑条约》是中国近代史上主权丧失最严重、赔款\n数目最庞大的不平等条约。巨额赔款，加剧了中国的贫困\n和经济的衰败；外国军队驻扎于中国战略要地，严重破坏\n了中国的主权完整；在北京设立的“使馆界” ，实际成为\n“国中之国” 。 《辛丑条约》的订立，标志着中国完全陷入\n半殖民地半封建社会的深渊。\n",
+      "clean_text": "思考点\n外务部，班列六部之前等。\n《辛丑条约》是中国近代史上主权丧失最严重、赔款\n数目最庞大的不平等条约。巨额赔款，加剧了中国的贫困\n和经济的衰败；外国军队驻扎于中国战略要地，严重破坏\n了中国的主权完整；在北京设立的“使馆界” ，实际成为\n“国中之国” 。 《辛丑条约》的订立，标志着中国完全陷入\n半殖民地半封建社会的深渊。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0114_b005",
+      "page_id": "history_book_01_p0114",
+      "order": 5,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "探究与拓展\n问题探究\n",
+      "clean_text": "探究与拓展\n问题探究\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0114_b006",
+      "page_id": "history_book_01_p0114",
+      "order": 6,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "呜呼！观今日之世变，盖自秦以来未有若斯之亟也。\n夫世之变也，莫知其所由然，强而名之曰运会。运会既成，\n虽圣人无所为力，盖圣人亦运会中之一物。既为其中之一\n物，谓能取运会而转移之，无是理也。彼圣人者，特知运\n会之所由趋，而逆睹其流极。唯知其所由趋，故后天而奉\n天时；唯逆睹其流极，故先天而天不违。于是裁成辅相，\n而置天下于至安。后之人从而观其成功，遂若圣人真能转\n移运会也者，而不知圣人之初无有事也。即如今日中倭之\n构难，究所由来，夫岂一朝一夕之故也哉！\n—严复《论世变之亟》 ， 《直报》1895 年 2 月 4 日\n阅读上述材料，结合所学，谈谈戊戌变法的背景。\n",
+      "clean_text": "呜呼！观今日之世变，盖自秦以来未有若斯之亟也。\n夫世之变也，莫知其所由然，强而名之曰运会。运会既成，\n虽圣人无所为力，盖圣人亦运会中之一物。既为其中之一\n物，谓能取运会而转移之，无是理也。彼圣人者，特知运\n会之所由趋，而逆睹其流极。唯知其所由趋，故后天而奉\n天时；唯逆睹其流极，故先天而天不违。于是裁成辅相，\n而置天下于至安。后之人从而观其成功，遂若圣人真能转\n移运会也者，而不知圣人之初无有事也。即如今日中倭之\n构难，究所由来，夫岂一朝一夕之故也哉！\n—严复《论世变之亟》 ， 《直报》1895 年 2 月 4 日\n阅读上述材料，结合所学，谈谈戊戌变法的背景。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0114_b007",
+      "page_id": "history_book_01_p0114",
+      "order": 7,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。",
+        "PDF文字层含字体编码异常串，原样保留并待人工核对。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0115_b001",
+      "page_id": "history_book_01_p0115",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "108 中外历史纲要 上  第五单元  晚清时期的内忧外患与救亡图存\n义和团运动兴起后，英国担心波及其势力范围长江流\n域，遂策动两江总督刘坤一、湖广总督张之洞等与列强合\n作。后由盛宣怀从中牵线策划，上海道余联沅与各国驻沪\n领事商定“保护东南章程九款” 。清政府向各国宣战后，\n南方更多督抚加入进来，和各参战国商订协议，表示“无\n论北方情形如何，请列国勿进兵长江流域与各省内地；各\n国人民生命财产，凡在辖区之内者，决依条约保护” 。协\n议虽未签字，但在清政府危亡之际，地方大员寻求“自\n保” ，表明中央权威的式微与地方势力的扩张。\n",
+      "clean_text": "108 中外历史纲要 上  第五单元  晚清时期的内忧外患与救亡图存\n义和团运动兴起后，英国担心波及其势力范围长江流\n域，遂策动两江总督刘坤一、湖广总督张之洞等与列强合\n作。后由盛宣怀从中牵线策划，上海道余联沅与各国驻沪\n领事商定“保护东南章程九款” 。清政府向各国宣战后，\n南方更多督抚加入进来，和各参战国商订协议，表示“无\n论北方情形如何，请列国勿进兵长江流域与各省内地；各\n国人民生命财产，凡在辖区之内者，决依条约保护” 。协\n议虽未签字，但在清政府危亡之际，地方大员寻求“自\n保” ，表明中央权威的式微与地方势力的扩张。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0115_b002",
+      "page_id": "history_book_01_p0115",
+      "order": 2,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "查找相关史料，思考此事件的后果。\n学习拓展\n",
+      "clean_text": "查找相关史料，思考此事件的后果。\n学习拓展\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0115_b003",
+      "page_id": "history_book_01_p0115",
+      "order": 3,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。",
+        "PDF文字层含字体编码异常串，原样保留并待人工核对。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0116_b001",
+      "page_id": "history_book_01_p0116",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第六单元\n辛亥革命与中华民国的建立\n",
+      "clean_text": "第六单元\n辛亥革命与中华民国的建立\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0116_b002",
+      "page_id": "history_book_01_p0116",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "随着清政府统治危机的加深，资产阶级领导的民主革\n命运动在全国迅速广泛地开展起来。1911 年 10 月武昌起义\n爆发后，各省纷纷响应。这场革命推翻了清王朝，结束了\n君主专制，建立了资产阶级民主共和国。南京临时政府成\n立后，颁布了一系列有关政治、经济和社会改革的法令。\n其中，以《中华民国临时约法》最为重要。袁世凯夺取革\n命果实后，逐步建立起北洋军阀的独裁统治。以孙中山为\n首的革命党人，为反对袁世凯的倒行逆施进行了不懈斗争。\n这一时期，特殊的内外环境使中国民族资本主义得到短暂\n发展机会。1915 年，以陈独秀等为代表的中国先进知识分\n子发动了反封建、倡导民主与科学的新文化运动。\n",
+      "clean_text": "随着清政府统治危机的加深，资产阶级领导的民主革\n命运动在全国迅速广泛地开展起来。1911 年 10 月武昌起义\n爆发后，各省纷纷响应。这场革命推翻了清王朝，结束了\n君主专制，建立了资产阶级民主共和国。南京临时政府成\n立后，颁布了一系列有关政治、经济和社会改革的法令。\n其中，以《中华民国临时约法》最为重要。袁世凯夺取革\n命果实后，逐步建立起北洋军阀的独裁统治。以孙中山为\n首的革命党人，为反对袁世凯的倒行逆施进行了不懈斗争。\n这一时期，特殊的内外环境使中国民族资本主义得到短暂\n发展机会。1915 年，以陈独秀等为代表的中国先进知识分\n子发动了反封建、倡导民主与科学的新文化运动。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0116_b003",
+      "page_id": "history_book_01_p0116",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "通过本单元的学习，了解孙中山三民主义的基本内容，\n理解辛亥革命对中国结束帝制、建立民国的意义及历史局\n限性；了解北洋军阀的统治及特点；了解新文化运动的主\n要内容，理解其对近代中国思想解放的影响。\n",
+      "clean_text": "通过本单元的学习，了解孙中山三民主义的基本内容，\n理解辛亥革命对中国结束帝制、建立民国的意义及历史局\n限性；了解北洋军阀的统治及特点；了解新文化运动的主\n要内容，理解其对近代中国思想解放的影响。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0116_b004",
+      "page_id": "history_book_01_p0116",
+      "order": 4,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。",
+        "PDF文字层含字体编码异常串，原样保留并待人工核对。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0116_b005",
+      "page_id": "history_book_01_p0116",
+      "order": 5,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [
+        "history_book_01_p0116_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "页面下半部淡色背景图；无图注，bbox未据可靠定位。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117_b001",
+      "page_id": "history_book_01_p0117",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "110 中外历史纲要  上   第六单元  辛亥革命与中华民国的建立\n",
+      "clean_text": "110 中外历史纲要  上   第六单元  辛亥革命与中华民国的建立\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117_b002",
+      "page_id": "history_book_01_p0117",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第1 8课\n辛亥革命\n",
+      "clean_text": "第1 8课\n辛亥革命\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117_b003",
+      "page_id": "history_book_01_p0117",
+      "order": 3,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲  《奏定学堂章程》\n    1904 年 1 月 13 日颁布的《奏定\n学堂章程》 ，即癸卯学制，是近代\n中国第一个由中央政府颁布且由政\n府督导施行的全国性法定学制系统。\n",
+      "clean_text": "▲  《奏定学堂章程》\n    1904 年 1 月 13 日颁布的《奏定\n学堂章程》 ，即癸卯学制，是近代\n中国第一个由中央政府颁布且由政\n府督导施行的全国性法定学制系统。\n",
+      "asset_ids": [
+        "history_book_01_p0117_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117_b004",
+      "page_id": "history_book_01_p0117",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1903 年，青年革命家邹容撰写的《革命军》出版。邹\n容在书中以高昂的激情，论证了推翻清朝统治、实行革命\n的正义性和必然性。他写道： “革命者，天演之公例也；\n革命者，世界之公理也。 ”他还喊出“中华共和国万岁”\n的口号。 《革命军》刚一问世，便迅速传播开来，销售量\n居当时革命书刊的第一位，成为引导仁人志士走上革命道\n路的明灯。\n",
+      "clean_text": "1903 年，青年革命家邹容撰写的《革命军》出版。邹\n容在书中以高昂的激情，论证了推翻清朝统治、实行革命\n的正义性和必然性。他写道： “革命者，天演之公例也；\n革命者，世界之公理也。 ”他还喊出“中华共和国万岁”\n的口号。 《革命军》刚一问世，便迅速传播开来，销售量\n居当时革命书刊的第一位，成为引导仁人志士走上革命道\n路的明灯。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117_b005",
+      "page_id": "history_book_01_p0117",
+      "order": 5,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "资产阶级民主革命的兴起\n",
+      "clean_text": "资产阶级民主革命的兴起\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117_b006",
+      "page_id": "history_book_01_p0117",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1901年初，遭受重挫的清政府也试图通过“新政”进\n行“自救” ，在官制、军事、商业、教育等方面进行了一系\n列改革。 “新政”的内容与戊戌维新时期所颁布的改革举措\n颇多相似，但更为广泛深入。由于政权掌握在极端腐败无能\n的权贵手中，清政府不可能为中国找到真正的出路。这使越\n来越多的人认识到：只有推翻这个政府，中国才有希望。\n",
+      "clean_text": "1901年初，遭受重挫的清政府也试图通过“新政”进\n行“自救” ，在官制、军事、商业、教育等方面进行了一系\n列改革。 “新政”的内容与戊戌维新时期所颁布的改革举措\n颇多相似，但更为广泛深入。由于政权掌握在极端腐败无能\n的权贵手中，清政府不可能为中国找到真正的出路。这使越\n来越多的人认识到：只有推翻这个政府，中国才有希望。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117_b007",
+      "page_id": "history_book_01_p0117",
+      "order": 7,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 《革命军》书影\n",
+      "clean_text": "▲ 《革命军》书影\n",
+      "asset_ids": [
+        "history_book_01_p0117_a002"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117_b008",
+      "page_id": "history_book_01_p0117",
+      "order": 8,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "辛亥革命拉开了中国完\n全意义上的近代民族民主革\n命的序幕。在革命运动高涨\n之际，立宪运动也造成很大\n声势。\n",
+      "clean_text": "辛亥革命拉开了中国完\n全意义上的近代民族民主革\n命的序幕。在革命运动高涨\n之际，立宪运动也造成很大\n声势。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117_b009",
+      "page_id": "history_book_01_p0117",
+      "order": 9,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦\n",
+      "clean_text": "学习聚焦\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117_b010",
+      "page_id": "history_book_01_p0117",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "清末新政内容\n清末新政主要包括下列内容：改革官制，改总理衙门为外\n务部，新设商部、学部和巡警部等中央机构；编练新军，拟在\n全国编练新军 36 镇，并要求各省设立督练公所；倡导创办工商\n企业，颁布了一系列工商业规章和奖励实业办法；推行教育改\n革，废除科举，兴办学堂，建立起一套较为完整的学校制度。\n",
+      "clean_text": "清末新政内容\n清末新政主要包括下列内容：改革官制，改总理衙门为外\n务部，新设商部、学部和巡警部等中央机构；编练新军，拟在\n全国编练新军 36 镇，并要求各省设立督练公所；倡导创办工商\n企业，颁布了一系列工商业规章和奖励实业办法；推行教育改\n革，废除科举，兴办学堂，建立起一套较为完整的学校制度。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117_b011",
+      "page_id": "history_book_01_p0117",
+      "order": 11,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "历史纵横\n",
+      "clean_text": "历史纵横\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117_b012",
+      "page_id": "history_book_01_p0117",
+      "order": 12,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "孙中山首先举起了反清革命的旗帜。孙中山是广东省\n香山县人，出身农民家庭，先后在檀香山、广州、香港等\n",
+      "clean_text": "孙中山首先举起了反清革命的旗帜。孙中山是广东省\n香山县人，出身农民家庭，先后在檀香山、广州、香港等\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117_b013",
+      "page_id": "history_book_01_p0117",
+      "order": 13,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。",
+        "PDF文字层含字体编码异常串，原样保留并待人工核对。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0118_b001",
+      "page_id": "history_book_01_p0118",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "第18课    辛亥革命 111\n",
+      "clean_text": "第18课    辛亥革命 111\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0118_b002",
+      "page_id": "history_book_01_p0118",
+      "order": 2,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 《民报》创刊号\n▲ 孙中山（1866—1925）及其题词\n",
+      "clean_text": "▲ 《民报》创刊号\n▲ 孙中山（1866—1925）及其题词\n",
+      "asset_ids": [
+        "history_book_01_p0118_a001",
+        "history_book_01_p0118_a002"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0118_b003",
+      "page_id": "history_book_01_p0118",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "地比较系统地接受了西式的近代教育。甲午中日战争爆发\n后，孙中山深知改良道路不能挽救国家，于 1894年11月在\n檀香山组织兴中会，走上了革命道路。 1905 年 8 月 20 日，\n孙中山与黄兴等人在日本东京创建全国性的资产阶级革命政\n党中国同盟会，孙中山被推举为总理。孙中山提出的“驱除\n鞑虏，恢复中华，创立民国，平均地权” ，成为中国同盟会\n纲领。在中国同盟会机关报《民报》发刊词中，孙中山首次\n提出民族、民权、民生三大主义，合称“三民主义” 。\n",
+      "clean_text": "地比较系统地接受了西式的近代教育。甲午中日战争爆发\n后，孙中山深知改良道路不能挽救国家，于 1894年11月在\n檀香山组织兴中会，走上了革命道路。 1905 年 8 月 20 日，\n孙中山与黄兴等人在日本东京创建全国性的资产阶级革命政\n党中国同盟会，孙中山被推举为总理。孙中山提出的“驱除\n鞑虏，恢复中华，创立民国，平均地权” ，成为中国同盟会\n纲领。在中国同盟会机关报《民报》发刊词中，孙中山首次\n提出民族、民权、民生三大主义，合称“三民主义” 。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0118_b004",
+      "page_id": "history_book_01_p0118",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "中国同盟会的成立，有力促进了革命运动的发展。除\n继续宣传革命的理论和主张外，孙中山还组织了多次反清\n武装起义。以徐锡麟、秋瑾等为代表的一大批革命党人前\n仆后继，给清政府以沉重打击。 1911年 4 月 27 日的广州黄\n花岗起义引起了巨大震动。\n",
+      "clean_text": "中国同盟会的成立，有力促进了革命运动的发展。除\n继续宣传革命的理论和主张外，孙中山还组织了多次反清\n武装起义。以徐锡麟、秋瑾等为代表的一大批革命党人前\n仆后继，给清政府以沉重打击。 1911年 4 月 27 日的广州黄\n花岗起义引起了巨大震动。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0118_b005",
+      "page_id": "history_book_01_p0118",
+      "order": 5,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "史料阅读\n",
+      "clean_text": "史料阅读\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0118_b006",
+      "page_id": "history_book_01_p0118",
+      "order": 6,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "1911 年春，留学日本的中国革命党人林觉民回国，于 4 月\n24 日写下绝笔《与妻书》 ，随后毅然投入广州的黄花岗起义：\n吾至爱汝，即此爱汝一念，使吾勇于就死也。吾自遇汝以\n来，常愿天下有情人都成眷属；然遍地腥云，满街狼犬，称心\n快意，几家能够？司马春衫\n①\n，吾不能学太上之忘情也。语云：\n仁者 “老吾老，以及人之老；幼吾幼，以及人之幼” 。吾充吾\n爱汝之心，助天下人爱其所爱，所以敢先汝而死，不顾汝也。\n汝体吾此心，于啼泣之余，亦以天下人为念，当亦乐牺牲吾身\n与汝身之福利，为天下人谋永福也。汝其勿悲！\n",
+      "clean_text": "1911 年春，留学日本的中国革命党人林觉民回国，于 4 月\n24 日写下绝笔《与妻书》 ，随后毅然投入广州的黄花岗起义：\n吾至爱汝，即此爱汝一念，使吾勇于就死也。吾自遇汝以\n来，常愿天下有情人都成眷属；然遍地腥云，满街狼犬，称心\n快意，几家能够？司马春衫\n①\n，吾不能学太上之忘情也。语云：\n仁者 “老吾老，以及人之老；幼吾幼，以及人之幼” 。吾充吾\n爱汝之心，助天下人爱其所爱，所以敢先汝而死，不顾汝也。\n汝体吾此心，于啼泣之余，亦以天下人为念，当亦乐牺牲吾身\n与汝身之福利，为天下人谋永福也。汝其勿悲！\n",
+      "asset_ids": [
+        "history_book_01_p0118_a003"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0118_b007",
+      "page_id": "history_book_01_p0118",
+      "order": 7,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 秋瑾（1875—1907）\n",
+      "clean_text": "▲ 秋瑾（1875—1907）\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0118_b008",
+      "page_id": "history_book_01_p0118",
+      "order": 8,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "孙中山在 《民报》发\n刊词中说：\n余维欧美之进化 ，凡\n以三大主义 ：曰民族 ，曰\n民权，曰民生……今者中国\n以千年专制之毒而不解，异\n种残之，外邦逼之，民族主\n义、民权主义殆不可以须臾\n缓。而民生主义，欧美所虑\n积重难返者，中国独受病未\n深，而去之易。\n阅读孙中山这段话，分析\n三民主义的积极意义及局限。\n",
+      "clean_text": "孙中山在 《民报》发\n刊词中说：\n余维欧美之进化 ，凡\n以三大主义 ：曰民族 ，曰\n民权，曰民生……今者中国\n以千年专制之毒而不解，异\n种残之，外邦逼之，民族主\n义、民权主义殆不可以须臾\n缓。而民生主义，欧美所虑\n积重难返者，中国独受病未\n深，而去之易。\n阅读孙中山这段话，分析\n三民主义的积极意义及局限。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0118_b009",
+      "page_id": "history_book_01_p0118",
+      "order": 9,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学思之窗\n",
+      "clean_text": "学思之窗\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0118_b010",
+      "page_id": "history_book_01_p0118",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "① 春衫，应为青衫。\n",
+      "clean_text": "① 春衫，应为青衫。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0118_b011",
+      "page_id": "history_book_01_p0118",
+      "order": 11,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。",
+        "PDF文字层含字体编码异常串，原样保留并待人工核对。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0119_b001",
+      "page_id": "history_book_01_p0119",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "112 中外历史纲要  上   第六单元  辛亥革命与中华民国的建立\n",
+      "clean_text": "112 中外历史纲要  上   第六单元  辛亥革命与中华民国的建立\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0119_b002",
+      "page_id": "history_book_01_p0119",
+      "order": 2,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲\n 中华民国临时大总统选举会合影\n    1911 年 12 月 29 日，17 省 代 表\n在南京举行会议，以 16 票（每省一\n票）选举孙中山为中华民国临时大\n总统。\n",
+      "clean_text": "▲\n 中华民国临时大总统选举会合影\n    1911 年 12 月 29 日，17 省 代 表\n在南京举行会议，以 16 票（每省一\n票）选举孙中山为中华民国临时大\n总统。\n",
+      "asset_ids": [
+        "history_book_01_p0119_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0119_b003",
+      "page_id": "history_book_01_p0119",
+      "order": 3,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "武昌起义成功，中华民\n国建立，但革命成果最终落\n入北洋军阀首领袁世凯手中。\n",
+      "clean_text": "武昌起义成功，中华民\n国建立，但革命成果最终落\n入北洋军阀首领袁世凯手中。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0119_b004",
+      "page_id": "history_book_01_p0119",
+      "order": 4,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦\n",
+      "clean_text": "学习聚焦\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0119_b005",
+      "page_id": "history_book_01_p0119",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "在革命运动高涨之际 ， 1906 年 9 月 ，清政府宣布预\n备立宪。立宪派成立了预备立宪公会，积极推进立宪运\n动。1908 年 8 月，清政府颁布《钦定宪法大纲》 ，作为制\n定“宪法”的准备。为此，立宪派先后发起三次速开国会\n的请愿运动，但很快被证明此路不通。 1911 年 5 月，清政\n府组织“皇族内阁” ，不少立宪派人士认识到清政府实无\n诚意推行立宪，转而支持革命。\n",
+      "clean_text": "在革命运动高涨之际 ， 1906 年 9 月 ，清政府宣布预\n备立宪。立宪派成立了预备立宪公会，积极推进立宪运\n动。1908 年 8 月，清政府颁布《钦定宪法大纲》 ，作为制\n定“宪法”的准备。为此，立宪派先后发起三次速开国会\n的请愿运动，但很快被证明此路不通。 1911 年 5 月，清政\n府组织“皇族内阁” ，不少立宪派人士认识到清政府实无\n诚意推行立宪，转而支持革命。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0119_b006",
+      "page_id": "history_book_01_p0119",
+      "order": 6,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "武昌起义与中华民国的建立\n",
+      "clean_text": "武昌起义与中华民国的建立\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0119_b007",
+      "page_id": "history_book_01_p0119",
+      "order": 7,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1911年 5 月，清政府将已归民间所有的川汉、粤汉铁\n路筑路权收归“国有” ，随即与英、法、德、美四国银行\n团订立借款合同，四国银行团享有这两段铁路的修筑权和\n继续投资的优先权，激起粤、鄂、湘、川等省人民的强烈\n愤慨，引发保路运动。四川保路运动发展成武装起义后，\n革命党人决定在武昌发动起义。\n1911 年 10 月 10 日晚，革命力量雄厚的新军工程第八\n营打响了武昌起义第一枪。随后，新军其他各部的士兵纷\n纷响应，起义军很快控制了武汉三镇，并成立湖北军政\n府，推黎元洪为都督。武昌起义胜利后的两个月内，湖\n南、广东等 13 个省和上海也纷纷宣布脱离清政府独立。\n1912 年 1 月 1 日，中华民国临时政府在南京成立，孙中山\n宣誓就任第一任临时大总统。新的共和政体就此产生。\n",
+      "clean_text": "1911年 5 月，清政府将已归民间所有的川汉、粤汉铁\n路筑路权收归“国有” ，随即与英、法、德、美四国银行\n团订立借款合同，四国银行团享有这两段铁路的修筑权和\n继续投资的优先权，激起粤、鄂、湘、川等省人民的强烈\n愤慨，引发保路运动。四川保路运动发展成武装起义后，\n革命党人决定在武昌发动起义。\n1911 年 10 月 10 日晚，革命力量雄厚的新军工程第八\n营打响了武昌起义第一枪。随后，新军其他各部的士兵纷\n纷响应，起义军很快控制了武汉三镇，并成立湖北军政\n府，推黎元洪为都督。武昌起义胜利后的两个月内，湖\n南、广东等 13 个省和上海也纷纷宣布脱离清政府独立。\n1912 年 1 月 1 日，中华民国临时政府在南京成立，孙中山\n宣誓就任第一任临时大总统。新的共和政体就此产生。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0119_b008",
+      "page_id": "history_book_01_p0119",
+      "order": 8,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "保路运动\n1910 年， 英、 法、 德、\n美四国银行团逼迫清政府订\n立借款修路合同 。 1 9 1 1年\n5月9日，清政府在邮传大\n臣盛宣怀的策动下，宣布\n“铁路国有”政策，将已归\n商办的川汉、粤汉铁路收\n归国有。清政府收回了路\n权，但没有退还补偿先前\n投入的民间资本，因此招\n致了四川各阶层的广泛反\n对，引发了轰轰烈烈的保\n路运动。\n历史纵横\n",
+      "clean_text": "保路运动\n1910 年， 英、 法、 德、\n美四国银行团逼迫清政府订\n立借款修路合同 。 1 9 1 1年\n5月9日，清政府在邮传大\n臣盛宣怀的策动下，宣布\n“铁路国有”政策，将已归\n商办的川汉、粤汉铁路收\n归国有。清政府收回了路\n权，但没有退还补偿先前\n投入的民间资本，因此招\n致了四川各阶层的广泛反\n对，引发了轰轰烈烈的保\n路运动。\n历史纵横\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0119_b009",
+      "page_id": "history_book_01_p0119",
+      "order": 9,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。",
+        "PDF文字层含字体编码异常串，原样保留并待人工核对。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0120_b001",
+      "page_id": "history_book_01_p0120",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "第18课    辛亥革命 113\n",
+      "clean_text": "第18课    辛亥革命 113\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0120_b002",
+      "page_id": "history_book_01_p0120",
+      "order": 2,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "▲ 辛亥革命形势图\n山\n西\n直\n隶\n渤\n海\n浙 江\n江\n江\n苏安\n徽\n湖\n湖\n江\n河\n西\n陕\n长\n黄\n黄    海\n东   海\n西\n建\n广        东\n台\n广       西\n南        海\n贵   州\n四        川\n云\n北\n福\n湾\n南\n南\n太原\n西安\n苏州南京\n（日占）\n上海\n安庆\n杭州\n桂林\n广州\n香港澳门\n（葡占）（英占）\n贵阳\n辛亥革命形势图\n(北京)\n武昌\n成都\n南昌\n长沙\n福州云南\n昆明\n京师\n武昌起义地点\n宣布独立的省份\n中华民国临时政府所在地\n南北和谈时革命军政府控制的地区\n省级界国界未定 地区界\n",
+      "clean_text": "▲ 辛亥革命形势图\n山\n西\n直\n隶\n渤\n海\n浙 江\n江\n江\n苏安\n徽\n湖\n湖\n江\n河\n西\n陕\n长\n黄\n黄    海\n东   海\n西\n建\n广        东\n台\n广       西\n南        海\n贵   州\n四        川\n云\n北\n福\n湾\n南\n南\n太原\n西安\n苏州南京\n（日占）\n上海\n安庆\n杭州\n桂林\n广州\n香港澳门\n（葡占）（英占）\n贵阳\n辛亥革命形势图\n(北京)\n武昌\n成都\n南昌\n长沙\n福州云南\n昆明\n京师\n武昌起义地点\n宣布独立的省份\n中华民国临时政府所在地\n南北和谈时革命军政府控制的地区\n省级界国界未定 地区界\n",
+      "asset_ids": [
+        "history_book_01_p0120_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0120_b003",
+      "page_id": "history_book_01_p0120",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "袁世凯在英国等列强\n支持下 ，奉清政府命率军\n南下攻陷汉口 、汉阳 ，以\n武力威胁革命势力 ，又利\n用革命党人急于完成统一\n的愿望，诱使其展开和议。\n在重重压力之下 ，孙中山\n被迫发表声明 ：只要清帝\n退位 ，袁世凯赞成共和 ，\n即推举他做大总统 。袁世\n凯随后又以南方革命党的\n共和要求 ，对已束手无策\n的清政府施压。1912年2 月\n12 日 ，清政府颁布 《清帝\n逊位诏书》 ，宣告统治中\n国 260 多年的清王朝结束。\n2 月 15 日，南方的临时参议\n院选举袁世凯为临时大总\n统 ，辛亥革命的成果就这\n样落到北洋军阀首领袁世\n凯的手中。\n",
+      "clean_text": "袁世凯在英国等列强\n支持下 ，奉清政府命率军\n南下攻陷汉口 、汉阳 ，以\n武力威胁革命势力 ，又利\n用革命党人急于完成统一\n的愿望，诱使其展开和议。\n在重重压力之下 ，孙中山\n被迫发表声明 ：只要清帝\n退位 ，袁世凯赞成共和 ，\n即推举他做大总统 。袁世\n凯随后又以南方革命党的\n共和要求 ，对已束手无策\n的清政府施压。1912年2 月\n12 日 ，清政府颁布 《清帝\n逊位诏书》 ，宣告统治中\n国 260 多年的清王朝结束。\n2 月 15 日，南方的临时参议\n院选举袁世凯为临时大总\n统 ，辛亥革命的成果就这\n样落到北洋军阀首领袁世\n凯的手中。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0120_b004",
+      "page_id": "history_book_01_p0120",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "为防止袁世凯专权 ，\n3 月 11 日 ，孙中山以临时\n大总统名义颁布了临时参\n议院制定的《中华民国临\n时约法》 。约法规定：中华\n民国的主权属于全体国民；国民不分种族、阶级、宗教信\n仰，一律平等；国民有人身、居住、言论、出版、集会、\n结社、宗教信仰及请愿、考试、选举、参政等自由和权\n利；以参议院、临时大总统、国务员、法院行使其统治\n权，国务员须副署临时大总统公布的法律及命令；等等。\n《中华民国临时约法》实际上确立了责任内阁制，是中国\n历史上第一部具有资产阶级共和国宪法性质的重要文件。\n",
+      "clean_text": "为防止袁世凯专权 ，\n3 月 11 日 ，孙中山以临时\n大总统名义颁布了临时参\n议院制定的《中华民国临\n时约法》 。约法规定：中华\n民国的主权属于全体国民；国民不分种族、阶级、宗教信\n仰，一律平等；国民有人身、居住、言论、出版、集会、\n结社、宗教信仰及请愿、考试、选举、参政等自由和权\n利；以参议院、临时大总统、国务员、法院行使其统治\n权，国务员须副署临时大总统公布的法律及命令；等等。\n《中华民国临时约法》实际上确立了责任内阁制，是中国\n历史上第一部具有资产阶级共和国宪法性质的重要文件。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0120_b005",
+      "page_id": "history_book_01_p0120",
+      "order": 5,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 袁世凯就任临时大总统后与北洋将领合影\n",
+      "clean_text": "▲ 袁世凯就任临时大总统后与北洋将领合影\n",
+      "asset_ids": [
+        "history_book_01_p0120_a002"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0120_b006",
+      "page_id": "history_book_01_p0120",
+      "order": 6,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。",
+        "PDF文字层含字体编码异常串，原样保留并待人工核对。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0121_b001",
+      "page_id": "history_book_01_p0121",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "114 中外历史纲要  上   第六单元  辛亥革命与中华民国的建立\n",
+      "clean_text": "114 中外历史纲要  上   第六单元  辛亥革命与中华民国的建立\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0121_b002",
+      "page_id": "history_book_01_p0121",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "探究与拓展\n",
+      "clean_text": "探究与拓展\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0121_b003",
+      "page_id": "history_book_01_p0121",
+      "order": 3,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "满清王朝可以比作一座即将倒塌的房屋，整个结构已\n从根本上彻底地腐朽了，难道有人只要用几根小柱子斜撑\n住外墙就能够使那座房屋免于倾倒吗？我们恐怕这种支撑\n行为的本身反要加速其颠覆……\n显而易见，要想解决这个紧急的问题，清除妨害世界\n和平的根源，必须以一个新的、开明的、进步的政府来代\n替旧政府。\n—孙中山《中国问题的真解决——向美国人民的呼吁》\n（1904 年 8 月 31 日） ， 《孙中山全集》第1 卷\n阅读上述材料，结合所学知识，谈谈孙中山为什么走\n上推翻清政府的革命之路。\n",
+      "clean_text": "满清王朝可以比作一座即将倒塌的房屋，整个结构已\n从根本上彻底地腐朽了，难道有人只要用几根小柱子斜撑\n住外墙就能够使那座房屋免于倾倒吗？我们恐怕这种支撑\n行为的本身反要加速其颠覆……\n显而易见，要想解决这个紧急的问题，清除妨害世界\n和平的根源，必须以一个新的、开明的、进步的政府来代\n替旧政府。\n—孙中山《中国问题的真解决——向美国人民的呼吁》\n（1904 年 8 月 31 日） ， 《孙中山全集》第1 卷\n阅读上述材料，结合所学知识，谈谈孙中山为什么走\n上推翻清政府的革命之路。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0121_b004",
+      "page_id": "history_book_01_p0121",
+      "order": 4,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "问题探究\n学习拓展\n查找相关资料，说明《中华民国临时约法》是中国法\n制史上的里程碑。\n",
+      "clean_text": "问题探究\n学习拓展\n查找相关资料，说明《中华民国临时约法》是中国法\n制史上的里程碑。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0121_b005",
+      "page_id": "history_book_01_p0121",
+      "order": 5,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "辛亥革命推翻了清王朝\n统治，但没有解决近代中国\n社会的根本问题。\n",
+      "clean_text": "辛亥革命推翻了清王朝\n统治，但没有解决近代中国\n社会的根本问题。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0121_b006",
+      "page_id": "history_book_01_p0121",
+      "order": 6,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "学习聚焦\n如何理解辛亥革命的\n意义？\n",
+      "clean_text": "学习聚焦\n如何理解辛亥革命的\n意义？\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0121_b007",
+      "page_id": "history_book_01_p0121",
+      "order": 7,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "思考点\n",
+      "clean_text": "思考点\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0121_b008",
+      "page_id": "history_book_01_p0121",
+      "order": 8,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "辛亥革命的历史意义\n辛亥革命拉开了中国完全意义上的近代民族民主革\n命的序幕。这次革命推翻了清王朝统治，结束了中国两千\n多年的君主专制制度，建立起中国历史上从来不曾有过的\n共和政体，传播了民主共和理念，推动了中华民族思想解\n放，促使社会经济、思想文化和社会风俗等方面发生新的\n变化，冲破了封建主义的藩篱，打击了帝国主义在华势\n力，为民族资本主义的发展创造了有利条件。\n但是，辛亥革命并没有解决近代中国社会的主要矛\n盾，没有完成民族独立、人民解放的历史任务。它缺乏一\n个能够提出科学的革命纲领、能够发动广大民众，以及组\n织严密的革命政党的领导，这些是辛亥革命的历史局限。\n",
+      "clean_text": "辛亥革命的历史意义\n辛亥革命拉开了中国完全意义上的近代民族民主革\n命的序幕。这次革命推翻了清王朝统治，结束了中国两千\n多年的君主专制制度，建立起中国历史上从来不曾有过的\n共和政体，传播了民主共和理念，推动了中华民族思想解\n放，促使社会经济、思想文化和社会风俗等方面发生新的\n变化，冲破了封建主义的藩篱，打击了帝国主义在华势\n力，为民族资本主义的发展创造了有利条件。\n但是，辛亥革命并没有解决近代中国社会的主要矛\n盾，没有完成民族独立、人民解放的历史任务。它缺乏一\n个能够提出科学的革命纲领、能够发动广大民众，以及组\n织严密的革命政党的领导，这些是辛亥革命的历史局限。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0121_b009",
+      "page_id": "history_book_01_p0121",
+      "order": 9,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。",
+        "PDF文字层含字体编码异常串，原样保留并待人工核对。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0122_b001",
+      "page_id": "history_book_01_p0122",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "第19课    北洋军阀统治时期的政治、经济与文化 115\n",
+      "clean_text": "第19课    北洋军阀统治时期的政治、经济与文化 115\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0122_b002",
+      "page_id": "history_book_01_p0122",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第1 9课\n北洋军阀统治时期的政治、经济与文化\n",
+      "clean_text": "第1 9课\n北洋军阀统治时期的政治、经济与文化\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0122_b003",
+      "page_id": "history_book_01_p0122",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "中华民国建立后，未能在较短的时间里重建社会秩\n序，很快便陷入种种混乱中。对于这段历史，鲁迅曾深\n有感触地说： “见过辛亥革命，见过二次革命，见过袁世\n凯称帝，张勋复辟，看来看去，就看得怀疑起来，于是失\n望，颓唐得很了。 ”\n",
+      "clean_text": "中华民国建立后，未能在较短的时间里重建社会秩\n序，很快便陷入种种混乱中。对于这段历史，鲁迅曾深\n有感触地说： “见过辛亥革命，见过二次革命，见过袁世\n凯称帝，张勋复辟，看来看去，就看得怀疑起来，于是失\n望，颓唐得很了。 ”\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0122_b004",
+      "page_id": "history_book_01_p0122",
+      "order": 4,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "袁世凯复辟帝制与护国战争\n",
+      "clean_text": "袁世凯复辟帝制与护国战争\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0122_b005",
+      "page_id": "history_book_01_p0122",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1912 年 3 月 10 日，袁世凯在北京宣誓就任中华民国\n第二任临时大总统，随后一步步展开了独揽大权的活动。\n1913 年 11 月，袁世凯下令解散国民党。 1914 年 5 月公布\n的《中华民国约法》 ，改责任内阁制为总统制。同年底发\n布的《修正大总统选举法》 ，又规定总统任期十年，可连\n选连任。日本看到袁世凯大权在握， 1915 年 1 月，利用第\n一次世界大战爆发，欧洲列强无暇东顾的时机，向袁世凯\n提出把中国的部分领土以及政治、军事、财政等置于日本\n",
+      "clean_text": "1912 年 3 月 10 日，袁世凯在北京宣誓就任中华民国\n第二任临时大总统，随后一步步展开了独揽大权的活动。\n1913 年 11 月，袁世凯下令解散国民党。 1914 年 5 月公布\n的《中华民国约法》 ，改责任内阁制为总统制。同年底发\n布的《修正大总统选举法》 ，又规定总统任期十年，可连\n选连任。日本看到袁世凯大权在握， 1915 年 1 月，利用第\n一次世界大战爆发，欧洲列强无暇东顾的时机，向袁世凯\n提出把中国的部分领土以及政治、军事、财政等置于日本\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0122_b006",
+      "page_id": "history_book_01_p0122",
+      "order": 6,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "大权独揽的袁世凯走上\n复辟帝制之路，激起全国人\n民的强烈反对。\n",
+      "clean_text": "大权独揽的袁世凯走上\n复辟帝制之路，激起全国人\n民的强烈反对。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0122_b007",
+      "page_id": "history_book_01_p0122",
+      "order": 7,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦\n",
+      "clean_text": "学习聚焦\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0122_b008",
+      "page_id": "history_book_01_p0122",
+      "order": 8,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 北洋军阀统治时期百姓为躲避兵灾四\n处逃亡的情景\n",
+      "clean_text": "▲ 北洋军阀统治时期百姓为躲避兵灾四\n处逃亡的情景\n",
+      "asset_ids": [
+        "history_book_01_p0122_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0122_b009",
+      "page_id": "history_book_01_p0122",
+      "order": 9,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "“宋教仁案”\n",
+      "clean_text": "“宋教仁案”\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0122_b010",
+      "page_id": "history_book_01_p0122",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "1912 年 12 月开始举行的中华民国首次国会选举中，中国同盟会及其他政党组成的国民党，在\n参众两院的初选和复选中获得巨大胜利。接替孙中山代理国民党理事长的宋教仁，准备筹划组织\n第一届责任内阁。1913 年 3 月 20 日夜晚，宋教仁由上海启程前往北京，被刺杀于上海沪宁火车站。\n“宋教仁案”是在临时政府即将向正式政府过渡的背景下发生的，是以宋教仁为代表的主张建立责\n任内阁的国民党，与以袁世凯为首的政治势力激烈斗争导致的结果，对后来的政局发展产生了深\n远影响。 “宋教仁案”后，革命党人发动了“二次革命” 。\n",
+      "clean_text": "1912 年 12 月开始举行的中华民国首次国会选举中，中国同盟会及其他政党组成的国民党，在\n参众两院的初选和复选中获得巨大胜利。接替孙中山代理国民党理事长的宋教仁，准备筹划组织\n第一届责任内阁。1913 年 3 月 20 日夜晚，宋教仁由上海启程前往北京，被刺杀于上海沪宁火车站。\n“宋教仁案”是在临时政府即将向正式政府过渡的背景下发生的，是以宋教仁为代表的主张建立责\n任内阁的国民党，与以袁世凯为首的政治势力激烈斗争导致的结果，对后来的政局发展产生了深\n远影响。 “宋教仁案”后，革命党人发动了“二次革命” 。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0122_b011",
+      "page_id": "history_book_01_p0122",
+      "order": 11,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "历史纵横\n",
+      "clean_text": "历史纵横\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0122_b012",
+      "page_id": "history_book_01_p0122",
+      "order": 12,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\ng*~ÏcgCN\n_SæPZNÖu(\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。",
+        "PDF文字层含字体编码异常串，原样保留并待人工核对。"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "history_book_01_p0113_a001",
+      "page_id": "history_book_01_p0113",
+      "block_id": "history_book_01_p0113_b004",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "《辛丑条约》签订现场",
+      "visible_text": "《辛丑条约》签订现场；图中右一为奕劻，右二为李鸿章。",
+      "description": "黑白历史照片，画面为条约签订现场的多人合影。",
+      "claims": [
+        {
+          "text": "图注说明该照片为《辛丑条约》签订现场，并标出右一奕劻、右二李鸿章。",
+          "evidence_block_ids": [
+            "history_book_01_p0113_b004"
+          ]
+        }
+      ],
+      "notes": [
+        "由逐页渲染图确认存在；未导出独立文件，因此file_path为null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0116_a001",
+      "page_id": "history_book_01_p0116",
+      "block_id": "history_book_01_p0116_b005",
+      "type": "illustration",
+      "bbox": null,
+      "file_path": null,
+      "caption": null,
+      "visible_text": null,
+      "description": "第六单元导语页下半部的淡色建筑背景图；页面未提供图注或可据此确认的历史事实。",
+      "claims": [],
+      "notes": [
+        "由逐页渲染图确认存在；未导出独立文件，因此file_path为null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117_a001",
+      "page_id": "history_book_01_p0117",
+      "block_id": "history_book_01_p0117_b003",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "《奏定学堂章程》",
+      "visible_text": "《奏定学堂章程》",
+      "description": "《奏定学堂章程》书影。",
+      "claims": [
+        {
+          "text": "图注标示图片为《奏定学堂章程》。",
+          "evidence_block_ids": [
+            "history_book_01_p0117_b003"
+          ]
+        }
+      ],
+      "notes": [
+        "由逐页渲染图确认存在；未导出独立文件，因此file_path为null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0117_a002",
+      "page_id": "history_book_01_p0117",
+      "block_id": "history_book_01_p0117_b007",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "《革命军》书影",
+      "visible_text": "《革命军》书影",
+      "description": "《革命军》书影。",
+      "claims": [
+        {
+          "text": "图注标示图片为《革命军》书影。",
+          "evidence_block_ids": [
+            "history_book_01_p0117_b007"
+          ]
+        }
+      ],
+      "notes": [
+        "由逐页渲染图确认存在；未导出独立文件，因此file_path为null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0118_a001",
+      "page_id": "history_book_01_p0118",
+      "block_id": "history_book_01_p0118_b002",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "《民报》创刊号",
+      "visible_text": "《民报》创刊号",
+      "description": "《民报》创刊号书影。",
+      "claims": [
+        {
+          "text": "图注标示图片为《民报》创刊号。",
+          "evidence_block_ids": [
+            "history_book_01_p0118_b002"
+          ]
+        }
+      ],
+      "notes": [
+        "由逐页渲染图确认存在；未导出独立文件，因此file_path为null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0118_a002",
+      "page_id": "history_book_01_p0118",
+      "block_id": "history_book_01_p0118_b002",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "孙中山（1866—1925）及其题词",
+      "visible_text": "孙中山（1866—1925）及其题词",
+      "description": "孙中山肖像与题词照片。",
+      "claims": [
+        {
+          "text": "图注标示人物为孙中山，并给出1866—1925年。",
+          "evidence_block_ids": [
+            "history_book_01_p0118_b002"
+          ]
+        }
+      ],
+      "notes": [
+        "由逐页渲染图确认存在；未导出独立文件，因此file_path为null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0118_a003",
+      "page_id": "history_book_01_p0118",
+      "block_id": "history_book_01_p0118_b006",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "秋瑾（1875—1907）",
+      "visible_text": "秋瑾（1875—1907）",
+      "description": "秋瑾肖像照片。",
+      "claims": [
+        {
+          "text": "图注标示人物为秋瑾，并给出1875—1907年。",
+          "evidence_block_ids": [
+            "history_book_01_p0118_b006"
+          ]
+        }
+      ],
+      "notes": [
+        "由逐页渲染图确认存在；未导出独立文件，因此file_path为null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0119_a001",
+      "page_id": "history_book_01_p0119",
+      "block_id": "history_book_01_p0119_b002",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "中华民国临时大总统选举会合影",
+      "visible_text": "1911年12月29日，17省代表在南京举行会议，以16票选举孙中山为中华民国临时大总统。",
+      "description": "历史照片，画面为选举会合影。",
+      "claims": [
+        {
+          "text": "图注记载1911年12月29日南京选举及孙中山当选临时大总统。",
+          "evidence_block_ids": [
+            "history_book_01_p0119_b002"
+          ]
+        }
+      ],
+      "notes": [
+        "由逐页渲染图确认存在；未导出独立文件，因此file_path为null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0120_a001",
+      "page_id": "history_book_01_p0120",
+      "block_id": "history_book_01_p0120_b002",
+      "type": "map",
+      "bbox": null,
+      "file_path": null,
+      "caption": "辛亥革命形势图",
+      "visible_text": "辛亥革命形势图；图例含武昌起义地点、宣布独立的省份、中华民国临时政府所在地、南北和谈时革命军政府控制的地区等。",
+      "description": "历史地图，展示辛亥革命时期的地点、独立省份和控制区域；未做空间校准。",
+      "claims": [
+        {
+          "text": "地图图例列出武昌起义地点、宣布独立的省份、临时政府所在地及南北和谈时革命军政府控制地区。",
+          "evidence_block_ids": [
+            "history_book_01_p0120_b002"
+          ]
+        }
+      ],
+      "notes": [
+        "由逐页渲染图确认存在；未导出独立文件，因此file_path为null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0120_a002",
+      "page_id": "history_book_01_p0120",
+      "block_id": "history_book_01_p0120_b005",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "袁世凯就任临时大总统后与北洋将领合影",
+      "visible_text": "袁世凯就任临时大总统后与北洋将领合影",
+      "description": "黑白历史照片，画面为袁世凯与北洋将领合影。",
+      "claims": [
+        {
+          "text": "图注标示照片为袁世凯就任临时大总统后与北洋将领合影。",
+          "evidence_block_ids": [
+            "history_book_01_p0120_b005"
+          ]
+        }
+      ],
+      "notes": [
+        "由逐页渲染图确认存在；未导出独立文件，因此file_path为null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0122_a001",
+      "page_id": "history_book_01_p0122",
+      "block_id": "history_book_01_p0122_b008",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "北洋军阀统治时期百姓为躲避兵灾四处逃亡的情景",
+      "visible_text": "北洋军阀统治时期百姓为躲避兵灾四处逃亡的情景",
+      "description": "黑白历史照片，画面表现人员在战乱环境中迁移；身份和地点未由图像单独确认。",
+      "claims": [
+        {
+          "text": "图注将照片说明为北洋军阀统治时期百姓为躲避兵灾四处逃亡的情景。",
+          "evidence_block_ids": [
+            "history_book_01_p0122_b008"
+          ]
+        }
+      ],
+      "notes": [
+        "由逐页渲染图确认存在；未导出独立文件，因此file_path为null。"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "history_book_01_place001",
+      "name_as_written": "北京",
+      "name_type": "historical",
+      "valid_time_text": "1901",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0113_b003",
+        "history_book_01_p0113_b006",
+        "history_book_01_p0114_b004"
+      ],
+      "notes": [
+        "教材页段未给出可核验坐标，未填经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_place002",
+      "name_as_written": "东交民巷",
+      "name_type": "historical",
+      "valid_time_text": "1901",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0113_b003",
+        "history_book_01_p0114_b004"
+      ],
+      "notes": [
+        "教材页段未给出可核验坐标，未填经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_place003",
+      "name_as_written": "大沽",
+      "name_type": "historical",
+      "valid_time_text": "1901",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0113_b003"
+      ],
+      "notes": [
+        "教材页段未给出可核验坐标，未填经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_place004",
+      "name_as_written": "山海关",
+      "name_type": "historical",
+      "valid_time_text": "1901",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0113_b003"
+      ],
+      "notes": [
+        "教材页段未给出可核验坐标，未填经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_place005",
+      "name_as_written": "中央公园",
+      "name_type": "historical",
+      "valid_time_text": "1918—1952",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0113_b006",
+        "history_book_01_p0113_b007"
+      ],
+      "notes": [
+        "原文脚注说明中央公园今为中山公园；未填现代坐标。"
+      ]
+    },
+    {
+      "id": "history_book_01_place006",
+      "name_as_written": "南京",
+      "name_type": "historical",
+      "valid_time_text": "1911—1912",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0119_b002",
+        "history_book_01_p0119_b004",
+        "history_book_01_p0120_b002"
+      ],
+      "notes": [
+        "教材页段未给出可核验坐标，未填经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_place007",
+      "name_as_written": "武昌",
+      "name_type": "historical",
+      "valid_time_text": "1911",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0119_b004",
+        "history_book_01_p0120_b002"
+      ],
+      "notes": [
+        "教材页段未给出可核验坐标，未填经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_place008",
+      "name_as_written": "武汉三镇",
+      "name_type": "historical",
+      "valid_time_text": "1911",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0119_b004"
+      ],
+      "notes": [
+        "教材页段未给出可核验坐标，未填经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_place009",
+      "name_as_written": "四川",
+      "name_type": "historical",
+      "valid_time_text": "1911",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0119_b004",
+        "history_book_01_p0119_b006"
+      ],
+      "notes": [
+        "教材页段未给出可核验坐标，未填经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_place010",
+      "name_as_written": "广州",
+      "name_type": "historical",
+      "valid_time_text": "1911",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0118_b005"
+      ],
+      "notes": [
+        "教材页段未给出可核验坐标，未填经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_place011",
+      "name_as_written": "东京",
+      "name_type": "historical",
+      "valid_time_text": "1905",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0118_b004"
+      ],
+      "notes": [
+        "教材页段未给出可核验坐标，未填经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_place012",
+      "name_as_written": "檀香山",
+      "name_type": "historical",
+      "valid_time_text": "1894",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0118_b004"
+      ],
+      "notes": [
+        "教材页段未给出可核验坐标，未填经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_place013",
+      "name_as_written": "上海沪宁火车站",
+      "name_type": "historical",
+      "valid_time_text": "1913",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0122_b009"
+      ],
+      "notes": [
+        "教材页段未给出可核验坐标，未填经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_place014",
+      "name_as_written": "长江流域",
+      "name_type": "historical",
+      "valid_time_text": "1900",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0115_b001"
+      ],
+      "notes": [
+        "教材页段未给出可核验坐标，未填经纬度。"
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": "history_book_01_person001",
+      "name_as_written": "奕劻",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0113_b004",
+        "history_book_01_p0114_b001"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person002",
+      "name_as_written": "李鸿章",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0113_b004",
+        "history_book_01_p0114_b001"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person003",
+      "name_as_written": "克林德",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0113_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person004",
+      "name_as_written": "载沣",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0113_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person005",
+      "name_as_written": "严复",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0114_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person006",
+      "name_as_written": "刘坤一",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0115_b001"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person007",
+      "name_as_written": "张之洞",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0115_b001"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person008",
+      "name_as_written": "盛宣怀",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0115_b001",
+        "history_book_01_p0119_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person009",
+      "name_as_written": "邹容",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0117_b004"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person010",
+      "name_as_written": "孙中山",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0117_b012",
+        "history_book_01_p0118_b004",
+        "history_book_01_p0119_b004",
+        "history_book_01_p0120_b004",
+        "history_book_01_p0121_b003"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person011",
+      "name_as_written": "黄兴",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0118_b004"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person012",
+      "name_as_written": "徐锡麟",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0118_b005"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person013",
+      "name_as_written": "秋瑾",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0118_b005",
+        "history_book_01_p0118_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person014",
+      "name_as_written": "林觉民",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0118_b007"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person015",
+      "name_as_written": "黎元洪",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0119_b004"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person016",
+      "name_as_written": "袁世凯",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0120_b004",
+        "history_book_01_p0120_b005",
+        "history_book_01_p0122_b004",
+        "history_book_01_p0122_b005"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person017",
+      "name_as_written": "宋教仁",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0122_b008"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_person018",
+      "name_as_written": "鲁迅",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0122_b003"
+      ],
+      "notes": []
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "history_book_01_p0113_k001",
+      "title": "《辛丑条约》的签订",
+      "kind": "event",
+      "content_type": "event",
+      "time": {
+        "source_text": "1901年9月7日签订《辛丑条约》",
+        "mode": "point",
+        "start_year": 1901,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0113_b003",
+          "history_book_01_p0113_b004"
+        ]
+      },
+      "themes": [
+        "war",
+        "foreign_relations",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_place001",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0113_b003"
+          ]
+        },
+        {
+          "place_id": "history_book_01_place002",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0113_b003"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_person001",
+        "history_book_01_person002"
+      ],
+      "summary": {
+        "text": "1900年12月列强提出《议和大纲》，1901年9月7日清政府与组成联军的8国及西班牙、荷兰、比利时共11国签订《辛丑条约》。",
+        "evidence_block_ids": [
+          "history_book_01_p0113_b003"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "条约涉及惩办官员、赔款、使馆界、驻军和禁止结社等内容。",
+          "evidence_block_ids": [
+            "history_book_01_p0113_b003"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": {
+        "text": "教材指出《辛丑条约》的订立标志着中国完全陷入半殖民地半封建社会。",
+        "evidence_block_ids": [
+          "history_book_01_p0114_b004"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0113_b003",
+        "history_book_01_p0113_b004"
+      ],
+      "asset_ids": [
+        "history_book_01_p0113_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0113_inv001"
+      ],
+      "uncertainties": [
+        "条约条款数额、签署者身份及教材概括需人工核对。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0113_k002",
+      "title": "克林德事件与克林德碑的变迁",
+      "kind": "process",
+      "content_type": "event",
+      "time": {
+        "source_text": "1900年6月至1952年",
+        "mode": "duration",
+        "start_year": 1900,
+        "end_year": 1952,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0113_b006",
+          "history_book_01_p0113_b007"
+        ]
+      },
+      "themes": [
+        "foreign_relations",
+        "society"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_place005",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0113_b006"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_person003",
+        "history_book_01_person004"
+      ],
+      "summary": {
+        "text": "1900年6月克林德在东单牌楼附近与清军发生冲突被击毙，之后相关碑牌经历由克林德碑到公理战胜碑、保卫和平碑的名称变迁。",
+        "evidence_block_ids": [
+          "history_book_01_p0113_b006"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "1918年克林德碑改名为公理战胜碑并迁至中央公园；1952年改为保卫和平碑。",
+          "evidence_block_ids": [
+            "history_book_01_p0113_b006"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0113_b006",
+        "history_book_01_p0113_b007"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0113_inv002"
+      ],
+      "uncertainties": [
+        "事件与碑的具体位置、迁移经过需人工核图。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0114_k001",
+      "title": "《辛丑条约》对中国主权与社会的影响",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "《辛丑条约》的订立",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0114_b004"
+        ]
+      },
+      "themes": [
+        "foreign_relations",
+        "economy",
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材概括《辛丑条约》是中国近代史上主权丧失最严重、赔款数目最庞大的不平等条约。",
+        "evidence_block_ids": [
+          "history_book_01_p0114_b004"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "巨额赔款加剧贫困和经济衰败；外国军队驻扎战略要地破坏主权完整；北京使馆界实际成为‘国中之国’。",
+          "evidence_block_ids": [
+            "history_book_01_p0114_b004"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0114_b004"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0114_inv001"
+      ],
+      "uncertainties": [
+        "教材概括性评价需结合条约原文人工核验。",
+        "原提取 content_type=foreign_relations 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0115_k001",
+      "title": "东南互保",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "义和团运动兴起后、清政府向各国宣战后",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": 1900,
+        "latest_year": 1900,
+        "precision": "period",
+        "end_status": "not_applicable",
+        "normalization_note": "原文仅给出事件背景和过程，未提供完整日期。",
+        "evidence_block_ids": [
+          "history_book_01_p0115_b001"
+        ]
+      },
+      "themes": [
+        "politics",
+        "foreign_relations"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_place014",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0115_b001"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_person006",
+        "history_book_01_person007",
+        "history_book_01_person008"
+      ],
+      "summary": {
+        "text": "义和团运动兴起后，英国策动两江总督刘坤一、湖广总督张之洞等与列强合作；南方督抚与各参战国商订保护东南的协议，形成‘东南互保’局面。",
+        "evidence_block_ids": [
+          "history_book_01_p0115_b001"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "教材认为地方大员在清政府危亡之际寻求‘自保’，表明中央权威式微与地方势力扩张。",
+          "evidence_block_ids": [
+            "history_book_01_p0115_b001"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0115_b001"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0115_inv001"
+      ],
+      "uncertainties": [
+        "协议未签字，后果需查找资料，教材要求学习拓展。",
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0116_k001",
+      "title": "第六单元导语：辛亥革命与中华民国的建立",
+      "kind": "process",
+      "content_type": "event",
+      "time": {
+        "source_text": "1911年10月武昌起义至1915年新文化运动发动",
+        "mode": "duration",
+        "start_year": 1911,
+        "end_year": 1915,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0116_b003"
+        ]
+      },
+      "themes": [
+        "politics",
+        "culture",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "单元导语概述武昌起义后各省响应、清王朝被推翻、中华民国建立，以及袁世凯统治和新文化运动的学习范围。",
+        "evidence_block_ids": [
+          "history_book_01_p0116_b003"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "南京临时政府颁布政治、经济和社会改革法令，其中《中华民国临时约法》最为重要。",
+          "evidence_block_ids": [
+            "history_book_01_p0116_b003"
+          ]
+        },
+        {
+          "text": "1915年陈独秀等先进知识分子发动反封建、倡导民主与科学的新文化运动。",
+          "evidence_block_ids": [
+            "history_book_01_p0116_b003"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0116_b002",
+        "history_book_01_p0116_b003"
+      ],
+      "asset_ids": [
+        "history_book_01_p0116_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0116_inv001"
+      ],
+      "uncertainties": [
+        "导语为单元范围概述，不把其中所有判断作为独立史实。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0117_k001",
+      "title": "《革命军》的革命宣传",
+      "kind": "event",
+      "content_type": "thought",
+      "time": {
+        "source_text": "1903年",
+        "mode": "point",
+        "start_year": 1903,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0117_b004"
+        ]
+      },
+      "themes": [
+        "politics",
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_person009"
+      ],
+      "summary": {
+        "text": "1903年邹容撰写的《革命军》出版，论证推翻清朝统治、实行革命的正义性和必然性，并提出‘中华共和国万岁’口号。",
+        "evidence_block_ids": [
+          "history_book_01_p0117_b004"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "教材称《革命军》迅速传播，销售量居当时革命书刊第一位，成为引导仁人志士走上革命道路的明灯。",
+          "evidence_block_ids": [
+            "history_book_01_p0117_b004"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0117_b004"
+      ],
+      "asset_ids": [
+        "history_book_01_p0117_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0117_inv001"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0117_k002",
+      "title": "清末新政",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": "1901年初起的清末新政",
+        "mode": "duration",
+        "start_year": 1901,
+        "end_year": 1901,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0117_b005",
+          "history_book_01_p0117_b009"
+        ]
+      },
+      "themes": [
+        "politics",
+        "economy",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "清政府在1901年初试图通过‘新政’自救，在官制、军事、商业、教育等方面进行改革。",
+        "evidence_block_ids": [
+          "history_book_01_p0117_b005"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "教材列举改革官制、编练新军、倡导创办工商企业、推行教育改革等内容。",
+          "evidence_block_ids": [
+            "history_book_01_p0117_b009"
+          ]
+        },
+        {
+          "text": "教材认为政权掌握在腐败无能的权贵手中，清政府不可能为中国找到真正出路。",
+          "evidence_block_ids": [
+            "history_book_01_p0117_b005"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0117_b005",
+        "history_book_01_p0117_b009"
+      ],
+      "asset_ids": [
+        "history_book_01_p0117_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0117_inv002"
+      ],
+      "uncertainties": [
+        "清末新政的结束时间未在本页段明确给出，不能补写。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0117_k003",
+      "title": "《奏定学堂章程》与癸卯学制",
+      "kind": "event",
+      "content_type": "institution",
+      "time": {
+        "source_text": "1904年1月13日",
+        "mode": "point",
+        "start_year": 1904,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0117_b003"
+        ]
+      },
+      "themes": [
+        "culture",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "《奏定学堂章程》于1904年1月13日颁布，即癸卯学制；教材称其为近代中国第一个由中央政府颁布且由政府督导施行的全国性法定学制系统。",
+        "evidence_block_ids": [
+          "history_book_01_p0117_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0117_b003"
+      ],
+      "asset_ids": [
+        "history_book_01_p0117_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0117_inv003"
+      ],
+      "uncertainties": [
+        "教材对‘第一个’的表述需人工与版本资料核对。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0118_k001",
+      "title": "孙中山组织兴中会并走上革命道路",
+      "kind": "origin",
+      "content_type": "other",
+      "time": {
+        "source_text": "1894年11月",
+        "mode": "point",
+        "start_year": 1894,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "month",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0118_b004"
+        ]
+      },
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_place012",
+          "role": "origin",
+          "evidence_block_ids": [
+            "history_book_01_p0118_b004"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_person010"
+      ],
+      "summary": {
+        "text": "甲午中日战争爆发后，孙中山认识到改良道路不能挽救国家，于1894年11月在檀香山组织兴中会，走上革命道路。",
+        "evidence_block_ids": [
+          "history_book_01_p0118_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0118_b004"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0118_inv001"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0118_k002",
+      "title": "中国同盟会成立与三民主义提出",
+      "kind": "origin",
+      "content_type": "other",
+      "time": {
+        "source_text": "1905年8月20日及《民报》发刊词",
+        "mode": "point",
+        "start_year": 1905,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0118_b004",
+          "history_book_01_p0118_b009"
+        ]
+      },
+      "themes": [
+        "politics",
+        "culture"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_place011",
+          "role": "origin",
+          "evidence_block_ids": [
+            "history_book_01_p0118_b004"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_person010",
+        "history_book_01_person011"
+      ],
+      "summary": {
+        "text": "1905年8月20日孙中山与黄兴等在东京创建中国同盟会；孙中山提出同盟会纲领，并在《民报》发刊词中首次提出民族、民权、民生三大主义。",
+        "evidence_block_ids": [
+          "history_book_01_p0118_b004"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "同盟会纲领为‘驱除鞑虏，恢复中华，创立民国，平均地权’。",
+          "evidence_block_ids": [
+            "history_book_01_p0118_b004"
+          ]
+        },
+        {
+          "text": "三民主义包括民族、民权、民生。",
+          "evidence_block_ids": [
+            "history_book_01_p0118_b009"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0118_b004",
+        "history_book_01_p0118_b009"
+      ],
+      "asset_ids": [
+        "history_book_01_p0118_a001",
+        "history_book_01_p0118_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0118_inv002"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。",
+        "原提取筛选主题 thought 不属 themes 枚举；改为 culture，思想类别仍以 content_type 保留。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0118_k003",
+      "title": "革命党人的反清武装起义与黄花岗起义",
+      "kind": "process",
+      "content_type": "war",
+      "time": {
+        "source_text": "多次反清武装起义；1911年4月27日黄花岗起义",
+        "mode": "duration",
+        "start_year": 1905,
+        "end_year": 1911,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0118_b005"
+        ]
+      },
+      "themes": [
+        "war",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_place010",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0118_b005"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_person010",
+        "history_book_01_person012",
+        "history_book_01_person013"
+      ],
+      "summary": {
+        "text": "中国同盟会成立后，孙中山组织多次反清武装起义；徐锡麟、秋瑾等革命党人前仆后继，1911年4月27日广州黄花岗起义引起巨大震动。",
+        "evidence_block_ids": [
+          "history_book_01_p0118_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0118_b005"
+      ],
+      "asset_ids": [
+        "history_book_01_p0118_a003"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0118_inv003"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0118_k004",
+      "title": "林觉民与《与妻书》",
+      "kind": "event",
+      "content_type": "thought",
+      "time": {
+        "source_text": "1911年4月24日写下《与妻书》",
+        "mode": "point",
+        "start_year": 1911,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0118_b007"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_place010",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0118_b007"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_person014"
+      ],
+      "summary": {
+        "text": "1911年春林觉民回国，4月24日写下绝笔《与妻书》，随后投入广州黄花岗起义。",
+        "evidence_block_ids": [
+          "history_book_01_p0118_b007"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0118_b007"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0118_inv004"
+      ],
+      "uncertainties": [
+        "史料引文及注释保留原文，具体出处和字词需人工核验。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0119_k001",
+      "title": "预备立宪与立宪派转向革命",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "1906年9月至1911年5月",
+        "mode": "duration",
+        "start_year": 1906,
+        "end_year": 1911,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0119_b004"
+        ]
+      },
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "1906年清政府宣布预备立宪，1908年颁布《钦定宪法大纲》，1911年组织皇族内阁；立宪派认识到清政府无诚意推行立宪，转而支持革命。",
+        "evidence_block_ids": [
+          "history_book_01_p0119_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0119_b004"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0119_inv001"
+      ],
+      "uncertainties": [
+        "各阶段具体制度效力需人工结合史料核对。",
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0119_k002",
+      "title": "保路运动",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "1911年5月9日宣布铁路国有后",
+        "mode": "point",
+        "start_year": 1911,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "month",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0119_b006"
+        ]
+      },
+      "themes": [
+        "politics",
+        "economy"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_place009",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0119_b004"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_person008"
+      ],
+      "summary": {
+        "text": "清政府将川汉、粤汉铁路筑路权收归‘国有’，并与四国银行团订立借款合同，激起粤、鄂、湘、川等省人民愤慨，引发保路运动。",
+        "evidence_block_ids": [
+          "history_book_01_p0119_b004"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "教材补充说明清政府收回路权但没有退还民间资本，导致四川各阶层反对。",
+          "evidence_block_ids": [
+            "history_book_01_p0119_b006"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0119_b004",
+        "history_book_01_p0119_b006"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0119_inv002"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0119_k003",
+      "title": "武昌起义与中华民国临时政府成立",
+      "kind": "event",
+      "content_type": "event",
+      "time": {
+        "source_text": "1911年10月10日至1912年1月1日",
+        "mode": "duration",
+        "start_year": 1911,
+        "end_year": 1912,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0119_b004"
+        ]
+      },
+      "themes": [
+        "war",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_place007",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0119_b004"
+          ]
+        },
+        {
+          "place_id": "history_book_01_place006",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0119_b004"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_person015",
+        "history_book_01_person010"
+      ],
+      "summary": {
+        "text": "1911年10月10日晚武昌起义爆发，起义军控制武汉三镇并成立湖北军政府；两个月内多省和上海宣布独立，1912年1月1日中华民国临时政府在南京成立。",
+        "evidence_block_ids": [
+          "history_book_01_p0119_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0119_b004"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0119_inv003"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0119_k004",
+      "title": "孙中山当选中华民国临时大总统",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "1911年12月29日",
+        "mode": "point",
+        "start_year": 1911,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0119_b002"
+        ]
+      },
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_place006",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0119_b002"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_person010"
+      ],
+      "summary": {
+        "text": "1911年12月29日17省代表在南京举行会议，以16票选举孙中山为中华民国临时大总统。",
+        "evidence_block_ids": [
+          "history_book_01_p0119_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0119_b002"
+      ],
+      "asset_ids": [
+        "history_book_01_p0119_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0119_inv004"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0120_k001",
+      "title": "清帝退位与袁世凯接任临时大总统",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "1912年2月12日至2月15日",
+        "mode": "duration",
+        "start_year": 1912,
+        "end_year": 1912,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0120_b004"
+        ]
+      },
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_place006",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0120_b004"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_person016",
+        "history_book_01_person010"
+      ],
+      "summary": {
+        "text": "袁世凯在列强支持下对革命势力施压并展开和议；1912年2月12日清帝逊位，2月15日南方临时参议院选举袁世凯为临时大总统。",
+        "evidence_block_ids": [
+          "history_book_01_p0120_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0120_b004"
+      ],
+      "asset_ids": [
+        "history_book_01_p0120_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0120_inv001",
+        "history_book_01_p0120_inv002"
+      ],
+      "uncertainties": [
+        "地图中的控制地区需另行核图，未作为疆域事实数字化。",
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0120_k002",
+      "title": "《中华民国临时约法》",
+      "kind": "event",
+      "content_type": "institution",
+      "time": {
+        "source_text": "1912年3月11日",
+        "mode": "point",
+        "start_year": 1912,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0120_b005"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_person010"
+      ],
+      "summary": {
+        "text": "1912年3月11日孙中山以临时大总统名义颁布《中华民国临时约法》；约法规定主权属于全体国民、国民平等及多项自由权利，并规定参议院、临时大总统、国务员、法院行使统治权。",
+        "evidence_block_ids": [
+          "history_book_01_p0120_b005"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "教材认为《中华民国临时约法》实际上确立责任内阁制，是中国历史上第一部具有资产阶级共和国宪法性质的重要文件。",
+          "evidence_block_ids": [
+            "history_book_01_p0120_b005"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0120_b005"
+      ],
+      "asset_ids": [
+        "history_book_01_p0120_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0120_inv002",
+        "history_book_01_p0120_inv003"
+      ],
+      "uncertainties": [
+        "地图与法制史评价需人工核验；资产阶级共和国宪法性质为教材表述。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0121_k001",
+      "title": "辛亥革命的历史意义与局限",
+      "kind": "event",
+      "content_type": "event",
+      "time": {
+        "source_text": "辛亥革命",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0121_b008"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society",
+        "culture",
+        "economy"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材指出辛亥革命推翻清王朝统治、结束中国两千多年的君主专制制度、建立共和政体，传播民主共和理念并推动思想解放。",
+        "evidence_block_ids": [
+          "history_book_01_p0121_b008"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "辛亥革命促使社会经济、思想文化和社会风俗变化，打击帝国主义在华势力，为民族资本主义发展创造有利条件。",
+          "evidence_block_ids": [
+            "history_book_01_p0121_b008"
+          ]
+        },
+        {
+          "text": "教材同时指出其没有解决近代中国社会主要矛盾，未完成民族独立、人民解放任务，并存在革命纲领、群众发动和政党领导方面的局限。",
+          "evidence_block_ids": [
+            "history_book_01_p0121_b008"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0121_b008"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0121_inv002"
+      ],
+      "uncertainties": [
+        "意义与局限属于教材综合评价，需人工语义复核。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0122_k001",
+      "title": "袁世凯独揽大权与复辟帝制",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "1912年3月至1915年",
+        "mode": "duration",
+        "start_year": 1912,
+        "end_year": 1915,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0122_b004",
+          "history_book_01_p0122_b005"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_person016"
+      ],
+      "summary": {
+        "text": "袁世凯就任临时大总统后逐步独揽大权：1913年解散国民党，1914年改责任内阁制为总统制并延长总统任期，1915年走上复辟帝制之路。",
+        "evidence_block_ids": [
+          "history_book_01_p0122_b004"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "教材称袁世凯复辟帝制激起全国人民强烈反对。",
+          "evidence_block_ids": [
+            "history_book_01_p0122_b005"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0122_b004",
+        "history_book_01_p0122_b005"
+      ],
+      "asset_ids": [
+        "history_book_01_p0122_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0122_inv001"
+      ],
+      "uncertainties": [
+        "日本提出要求的条款在本页段文字被图像/版面截断，需结合后续页核验。",
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0122_k002",
+      "title": "宋教仁案与二次革命",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "1912年12月至1913年3月20日",
+        "mode": "duration",
+        "start_year": 1912,
+        "end_year": 1913,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0122_b008"
+        ]
+      },
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_place013",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0122_b008"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_person017",
+        "history_book_01_person016"
+      ],
+      "summary": {
+        "text": "1912年12月开始的国会选举中，国民党获胜；宋教仁准备组织责任内阁，1913年3月20日夜在上海沪宁火车站被刺杀，随后革命党人发动二次革命。",
+        "evidence_block_ids": [
+          "history_book_01_p0122_b008"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0122_b008"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0122_inv002"
+      ],
+      "uncertainties": [
+        "教材称案件为政治势力斗争结果，因果解释需人工复核。",
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    }
+  ],
+  "relations": [
+    {
+      "id": "history_book_01_rel001",
+      "from_knowledge_id": "history_book_01_p0113_k001",
+      "to_knowledge_id": "history_book_01_p0114_k001",
+      "target_label": "《辛丑条约》影响",
+      "type": "influence",
+      "person_ids": [],
+      "place_ids": [
+        "history_book_01_place001"
+      ],
+      "time_text": "条约签订后",
+      "description": "条约条款与教材对主权、经济和社会后果的概括相连接。",
+      "evidence_block_ids": [
+        "history_book_01_p0113_b003",
+        "history_book_01_p0114_b004"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_rel002",
+      "from_knowledge_id": "history_book_01_p0118_k002",
+      "to_knowledge_id": "history_book_01_p0118_k003",
+      "target_label": "革命运动发展",
+      "type": "influence",
+      "person_ids": [
+        "history_book_01_person010"
+      ],
+      "place_ids": [],
+      "time_text": "1905年后",
+      "description": "教材明确说中国同盟会成立有力促进革命运动发展，随后组织多次武装起义。",
+      "evidence_block_ids": [
+        "history_book_01_p0118_b004",
+        "history_book_01_p0118_b005"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_rel003",
+      "from_knowledge_id": "history_book_01_p0119_k002",
+      "to_knowledge_id": "history_book_01_p0119_k003",
+      "target_label": "武昌起义",
+      "type": "other",
+      "person_ids": [],
+      "place_ids": [
+        "history_book_01_place009",
+        "history_book_01_place007"
+      ],
+      "time_text": "1911年",
+      "description": "教材叙述四川保路运动发展成武装起义后，革命党人决定在武昌发动起义。",
+      "evidence_block_ids": [
+        "history_book_01_p0119_b004",
+        "history_book_01_p0119_b006"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_rel004",
+      "from_knowledge_id": "history_book_01_p0122_k002",
+      "to_knowledge_id": "history_book_01_p0122_k001",
+      "target_label": "袁世凯独揽大权",
+      "type": "influence",
+      "person_ids": [
+        "history_book_01_person016",
+        "history_book_01_person017"
+      ],
+      "place_ids": [
+        "history_book_01_place013"
+      ],
+      "time_text": "1913年后",
+      "description": "教材称宋教仁案后革命党人发动二次革命，相关政治冲突与袁世凯独揽大权过程相邻。",
+      "evidence_block_ids": [
+        "history_book_01_p0122_b008",
+        "history_book_01_p0122_b004"
+      ],
+      "review_status": "pending_review"
+    }
+  ],
+  "map_candidates": [
+    {
+      "id": "history_book_01_map001",
+      "asset_id": "history_book_01_p0120_a001",
+      "reference_time_text": "辛亥革命时期；图中含武昌起义地点、宣布独立省份及南北和谈时控制地区",
+      "reference_year": 1911,
+      "date_precision": "period",
+      "historical_names": [
+        "武昌",
+        "南京",
+        "北京",
+        "武汉三镇"
+      ],
+      "legend_text": "武昌起义地点；宣布独立的省份；中华民国临时政府所在地；南北和谈时革命军政府控制的地区；省级界、国界未定、地区界。",
+      "evidence_block_ids": [
+        "history_book_01_p0120_b002"
+      ],
+      "geometry": null,
+      "geometry_status": "not_digitized",
+      "notes": [
+        "仅保留图名、图例和图中文字；禁止由像素推算经纬度或边界。"
+      ]
+    }
+  ],
+  "inventory": [
+    {
+      "id": "history_book_01_p0113_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0113"
+      ],
+      "block_ids": [
+        "history_book_01_p0113_b003",
+        "history_book_01_p0113_b004"
+      ],
+      "item_label": "《辛丑条约》的签订及主要条款",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0113_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0113_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0113"
+      ],
+      "block_ids": [
+        "history_book_01_p0113_b006",
+        "history_book_01_p0113_b007"
+      ],
+      "item_label": "克林德事件与克林德碑变迁",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0113_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0113_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0113"
+      ],
+      "block_ids": [
+        "history_book_01_p0113_b004"
+      ],
+      "item_label": "《辛丑条约》签订现场图注",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "图中人物与现场需人工核图。"
+    },
+    {
+      "id": "history_book_01_p0114_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0114"
+      ],
+      "block_ids": [
+        "history_book_01_p0114_b004"
+      ],
+      "item_label": "《辛丑条约》的影响与半殖民地半封建社会完全形成",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0114_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0114_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0114"
+      ],
+      "block_ids": [
+        "history_book_01_p0114_b001"
+      ],
+      "item_label": "1901年《上谕》史料",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "保留史料，不直接改写为无条件史实。"
+    },
+    {
+      "id": "history_book_01_p0114_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0114"
+      ],
+      "block_ids": [
+        "history_book_01_p0114_b006"
+      ],
+      "item_label": "严复《论世变之亟》与戊戌变法背景问题",
+      "scope": "mixed",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "问题探究及史料观点需限定语境并人工核验。"
+    },
+    {
+      "id": "history_book_01_p0115_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0115"
+      ],
+      "block_ids": [
+        "history_book_01_p0115_b001"
+      ],
+      "item_label": "东南互保",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0115_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0116_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0116"
+      ],
+      "block_ids": [
+        "history_book_01_p0116_b002",
+        "history_book_01_p0116_b003"
+      ],
+      "item_label": "第六单元导语范围与学习目标",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0116_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0117_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0117"
+      ],
+      "block_ids": [
+        "history_book_01_p0117_b004",
+        "history_book_01_p0117_b007"
+      ],
+      "item_label": "《革命军》与革命宣传",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0117_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0117_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0117"
+      ],
+      "block_ids": [
+        "history_book_01_p0117_b005",
+        "history_book_01_p0117_b009"
+      ],
+      "item_label": "清末新政",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0117_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0117_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0117"
+      ],
+      "block_ids": [
+        "history_book_01_p0117_b003"
+      ],
+      "item_label": "《奏定学堂章程》与癸卯学制",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0117_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0117_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0117"
+      ],
+      "block_ids": [
+        "history_book_01_p0117_b012"
+      ],
+      "item_label": "孙中山早年经历（跨页续接）",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "本页末段在下一页续接，待相邻页批次核对。"
+    },
+    {
+      "id": "history_book_01_p0118_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0118"
+      ],
+      "block_ids": [
+        "history_book_01_p0118_b004"
+      ],
+      "item_label": "孙中山组织兴中会",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0118_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0118_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0118"
+      ],
+      "block_ids": [
+        "history_book_01_p0118_b004",
+        "history_book_01_p0118_b009"
+      ],
+      "item_label": "中国同盟会成立与三民主义",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0118_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0118_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0118"
+      ],
+      "block_ids": [
+        "history_book_01_p0118_b005",
+        "history_book_01_p0118_b006"
+      ],
+      "item_label": "反清武装起义与黄花岗起义",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0118_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0118_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0118"
+      ],
+      "block_ids": [
+        "history_book_01_p0118_b007"
+      ],
+      "item_label": "林觉民《与妻书》史料",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0118_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0118_inv005",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0118"
+      ],
+      "block_ids": [
+        "history_book_01_p0118_b009"
+      ],
+      "item_label": "孙中山关于三民主义的史料阅读",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "学思之窗要求分析积极意义及局限，不直接生成结论。"
+    },
+    {
+      "id": "history_book_01_p0119_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0119"
+      ],
+      "block_ids": [
+        "history_book_01_p0119_b004"
+      ],
+      "item_label": "预备立宪与立宪派转向革命",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0119_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0119_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0119"
+      ],
+      "block_ids": [
+        "history_book_01_p0119_b004",
+        "history_book_01_p0119_b006"
+      ],
+      "item_label": "保路运动",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0119_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0119_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0119"
+      ],
+      "block_ids": [
+        "history_book_01_p0119_b004"
+      ],
+      "item_label": "武昌起义与中华民国临时政府成立",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0119_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0119_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0119"
+      ],
+      "block_ids": [
+        "history_book_01_p0119_b002"
+      ],
+      "item_label": "中华民国临时大总统选举",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0119_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0120_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0120"
+      ],
+      "block_ids": [
+        "history_book_01_p0120_b002"
+      ],
+      "item_label": "辛亥革命形势图",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0120_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "地图未校准，geometry保持null。"
+    },
+    {
+      "id": "history_book_01_p0120_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0120"
+      ],
+      "block_ids": [
+        "history_book_01_p0120_b004",
+        "history_book_01_p0120_b005"
+      ],
+      "item_label": "清帝退位与袁世凯接任临时大总统",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0120_k001",
+        "history_book_01_p0120_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0120_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0120"
+      ],
+      "block_ids": [
+        "history_book_01_p0120_b005"
+      ],
+      "item_label": "《中华民国临时约法》",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0120_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0121_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0121"
+      ],
+      "block_ids": [
+        "history_book_01_p0121_b003"
+      ],
+      "item_label": "孙中山《中国问题的真解决》史料",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "探究材料保留原文，不直接改写为事实。"
+    },
+    {
+      "id": "history_book_01_p0121_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0121"
+      ],
+      "block_ids": [
+        "history_book_01_p0121_b008"
+      ],
+      "item_label": "辛亥革命历史意义与局限",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0121_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0122_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0122"
+      ],
+      "block_ids": [
+        "history_book_01_p0122_b004",
+        "history_book_01_p0122_b005",
+        "history_book_01_p0122_b008"
+      ],
+      "item_label": "袁世凯复辟帝制与护国战争导入",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0122_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0122_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0122"
+      ],
+      "block_ids": [
+        "history_book_01_p0122_b008"
+      ],
+      "item_label": "宋教仁案与二次革命",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0122_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0122_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0122"
+      ],
+      "block_ids": [
+        "history_book_01_p0122_b008"
+      ],
+      "item_label": "北洋军阀时期百姓逃亡图注",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "照片为视觉证据，具体时间地点需人工核验。"
+    }
+  ],
+  "review_issues": [
+    {
+      "id": "history_book_01_p0113_issue001",
+      "record_ids": [
+        "history_book_01_p0113_b008"
+      ],
+      "category": "ocr",
+      "description": "p113末尾PDF文字层含字体编码异常串，无法作为中文内容可靠读取；正文清洗未据乱码改写。",
+      "evidence_block_ids": [
+        "history_book_01_p0113_b008"
+      ],
+      "suggested_action": "对照渲染图和原始版式确认是否为页脚/水印。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0114_issue001",
+      "record_ids": [
+        "history_book_01_p0114_b007"
+      ],
+      "category": "ocr",
+      "description": "p114末尾PDF文字层含字体编码异常串，保留原值；史料阅读区块需人工核对排版顺序。",
+      "evidence_block_ids": [
+        "history_book_01_p0114_b007"
+      ],
+      "suggested_action": "对照渲染图确认列栏顺序和页脚内容。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0115_issue001",
+      "record_ids": [
+        "history_book_01_p0115_b003"
+      ],
+      "category": "ocr",
+      "description": "p115末尾PDF文字层含字体编码异常串；学习拓展文字已由可读层保留。",
+      "evidence_block_ids": [
+        "history_book_01_p0115_b003"
+      ],
+      "suggested_action": "人工确认乱码是否为页脚/水印。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0116_issue001",
+      "record_ids": [
+        "history_book_01_p0116_a001"
+      ],
+      "category": "image",
+      "description": "第六单元导语页有淡色背景图但无图注，不能据图像推断地点或事件。",
+      "evidence_block_ids": [
+        "history_book_01_p0116_b002"
+      ],
+      "suggested_action": "人工确认背景图来源；如无学习价值可在发布层隐藏。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0117_issue001",
+      "record_ids": [
+        "history_book_01_p0117_b013"
+      ],
+      "category": "ocr",
+      "description": "p117末尾字体编码异常串，且孙中山介绍在下一页续接。",
+      "evidence_block_ids": [
+        "history_book_01_p0117_b012"
+      ],
+      "suggested_action": "与下一页批次拼接并人工检查跨页段落。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0118_issue001",
+      "record_ids": [
+        "history_book_01_p0118_b008",
+        "history_book_01_p0118_b009"
+      ],
+      "category": "source",
+      "description": "《与妻书》引文、孙中山《民报》发刊词及注释需核对史料出处、字词和题目语境。",
+      "evidence_block_ids": [
+        "history_book_01_p0118_b007",
+        "history_book_01_p0118_b009"
+      ],
+      "suggested_action": "保留原文，后续人工复核后再发布结论。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0119_issue001",
+      "record_ids": [
+        "history_book_01_p0119_a001",
+        "history_book_01_p0119_b002"
+      ],
+      "category": "image",
+      "description": "临时大总统选举合影仅登记图注事实，人物逐一身份和图像细节未核验。",
+      "evidence_block_ids": [
+        "history_book_01_p0119_b002"
+      ],
+      "suggested_action": "核对原图说明及17省代表信息。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0120_issue001",
+      "record_ids": [
+        "history_book_01_p0120_a001",
+        "history_book_01_map001"
+      ],
+      "category": "image",
+      "description": "辛亥革命形势图未做空间校准，geometry保持null；图例和历史边界不能直接当作现代GIS边界。",
+      "evidence_block_ids": [
+        "history_book_01_p0120_b002"
+      ],
+      "suggested_action": "后续按历史地图资料核对年代、图例和边界后再数字化。",
+      "blocking": true,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0120_issue002",
+      "record_ids": [
+        "history_book_01_p0120_b004",
+        "history_book_01_p0120_b005"
+      ],
+      "category": "time",
+      "description": "清帝退位、袁世凯接任和《临时约法》的日期已按文字层记录，但政治过程与责任内阁制评价需人工核验。",
+      "evidence_block_ids": [
+        "history_book_01_p0120_b004",
+        "history_book_01_p0120_b005"
+      ],
+      "suggested_action": "对照相关原始文献或教材审核稿。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0121_issue001",
+      "record_ids": [
+        "history_book_01_p0121_b008"
+      ],
+      "category": "source",
+      "description": "辛亥革命历史意义与局限属于教材综合评价，不能仅以结构校验替代语义审查。",
+      "evidence_block_ids": [
+        "history_book_01_p0121_b008"
+      ],
+      "suggested_action": "逐条核对意义、局限与原文边界。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0122_issue001",
+      "record_ids": [
+        "history_book_01_p0122_b004"
+      ],
+      "category": "ocr",
+      "description": "p122正文在‘置于日本’处被版面截断，相关内容可能续接后页；本批不补写。",
+      "evidence_block_ids": [
+        "history_book_01_p0122_b004"
+      ],
+      "suggested_action": "读取后续页并核对《二十一条》相关段落。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0122_issue002",
+      "record_ids": [
+        "history_book_01_p0122_b008"
+      ],
+      "category": "relation",
+      "description": "宋教仁案与二次革命的政治因果按教材概括登记，需人工核验关系强度。",
+      "evidence_block_ids": [
+        "history_book_01_p0122_b008"
+      ],
+      "suggested_action": "对照课文后续段落和史料审阅。",
+      "blocking": false,
+      "status": "open"
+    }
+  ],
+  "validation": {
+    "structure_check_status": "not_run",
+    "duplicate_ids": [],
+    "dangling_references": [],
+    "page_coverage_issues": [],
+    "time_issues": [],
+    "source_issues": [],
+    "unreadable_blocks": [],
+    "unprocessed_assets": [],
+    "semantic_review_status": "not_performed"
+  }
+}

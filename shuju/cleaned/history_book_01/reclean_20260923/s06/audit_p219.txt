@@ -1,0 +1,227 @@
+## history_book_01_p0219_k001 1949年4月23日：人民解放军解放南京
+TIME {"source_text": "1949年4月23日", "mode": "point", "start_year": 1949, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b002"]}
+SUMMARY {"text": "1949年4月23日人民解放军解放南京；教材年表将其表述为国民党反动统治覆灭、中华民国时期结束。", "evidence_block_ids": ["history_book_01_p0219_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_007_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0219_b002"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b002"]
+BLOCK history_book_01_p0219_b002 [paragraph] 1949年4月23日 人民解放军解放南京，国民党反动统治覆灭，中华民国时期结束
+
+## history_book_01_p0219_k002 中国人民政治协商会议第一届全体会议召开，通过《中国人民政治协商会议共同纲领》
+TIME {"source_text": "1949年9月", "mode": "point", "start_year": 1949, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b003"]}
+SUMMARY {"text": "中国人民政治协商会议第一届全体会议召开，通过《中国人民政治协商会议共同纲领》", "evidence_block_ids": ["history_book_01_p0219_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b003"]
+BLOCK history_book_01_p0219_b003 [paragraph] 1949年9月 中国人民政治协商会议第一届全体会议召开，通过《中国人民政治协商会议共同纲领》
+
+## history_book_01_p0219_k003 中华人民共和国成立
+TIME {"source_text": "1949年10月1日", "mode": "point", "start_year": 1949, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b004"]}
+SUMMARY {"text": "中华人民共和国成立", "evidence_block_ids": ["history_book_01_p0219_b004"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b004"]
+BLOCK history_book_01_p0219_b004 [paragraph] 1949年10月1日 中华人民共和国成立
+
+## history_book_01_p0219_k004 《中华人民共和国婚姻法》颁布
+TIME {"source_text": "1950年4月", "mode": "point", "start_year": 1950, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b005"]}
+SUMMARY {"text": "《中华人民共和国婚姻法》颁布", "evidence_block_ids": ["history_book_01_p0219_b005"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b005"]
+BLOCK history_book_01_p0219_b005 [paragraph] 1950年4月 《中华人民共和国婚姻法》颁布
+
+## history_book_01_p0219_k005 《中华人民共和国土地改革法》颁布
+TIME {"source_text": "1950年6月", "mode": "point", "start_year": 1950, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b006"]}
+SUMMARY {"text": "《中华人民共和国土地改革法》颁布", "evidence_block_ids": ["history_book_01_p0219_b006"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b006"]
+BLOCK history_book_01_p0219_b006 [paragraph] 1950年6月 《中华人民共和国土地改革法》颁布
+
+## history_book_01_p0219_k006 中国人民志愿军赴朝作战
+TIME {"source_text": "1950年10月", "mode": "point", "start_year": 1950, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b007"]}
+SUMMARY {"text": "中国人民志愿军赴朝作战", "evidence_block_ids": ["history_book_01_p0219_b007"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b007"]
+BLOCK history_book_01_p0219_b007 [paragraph] 1950年10月 中国人民志愿军赴朝作战
+
+## history_book_01_p0219_k007 第一个五年计划开始实施
+TIME {"source_text": "1953年", "mode": "point", "start_year": 1953, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b008"]}
+SUMMARY {"text": "第一个五年计划开始实施", "evidence_block_ids": ["history_book_01_p0219_b008"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b008"]
+BLOCK history_book_01_p0219_b008 [paragraph] 1953年 第一个五年计划开始实施
+
+## history_book_01_p0219_k008 朝鲜停战协定签署，中国取得抗美援朝战争胜利
+TIME {"source_text": "1953年7月", "mode": "point", "start_year": 1953, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b009"]}
+SUMMARY {"text": "教材年表记载，1953年7月朝鲜停战协定签署，并将其概括为中国取得抗美援朝战争胜利。", "evidence_block_ids": ["history_book_01_p0219_b009"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b009"]
+BLOCK history_book_01_p0219_b009 [paragraph] 1953年7月 朝鲜停战协定签署，中国取得抗美援朝战争胜利
+
+## history_book_01_p0219_k009 中国首次提出和平共处五项原则
+TIME {"source_text": "1953年12月", "mode": "point", "start_year": 1953, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b010"]}
+SUMMARY {"text": "中国首次提出和平共处五项原则", "evidence_block_ids": ["history_book_01_p0219_b010"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b010"]
+BLOCK history_book_01_p0219_b010 [paragraph] 1953年12月 中国首次提出和平共处五项原则
+
+## history_book_01_p0219_k010 中国参加日内瓦会议
+TIME {"source_text": "1954年4月", "mode": "point", "start_year": 1954, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b011"]}
+SUMMARY {"text": "中国参加日内瓦会议", "evidence_block_ids": ["history_book_01_p0219_b011"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_025_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0219_b011"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b011"]
+BLOCK history_book_01_p0219_b011 [paragraph] 1954年4月 中国参加日内瓦会议
+
+## history_book_01_p0219_k011 第一届全国人民代表大会第一次会议召开，通过《中华人民共和国宪法》
+TIME {"source_text": "1954年9月", "mode": "point", "start_year": 1954, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b012"]}
+SUMMARY {"text": "第一届全国人民代表大会第一次会议召开，通过《中华人民共和国宪法》", "evidence_block_ids": ["history_book_01_p0219_b012"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b012"]
+BLOCK history_book_01_p0219_b012 [paragraph] 1954年9月 第一届全国人民代表大会第一次会议召开，通过《中华人民共和国宪法》
+
+## history_book_01_p0219_k012 中国参加万隆会议
+TIME {"source_text": "1955年4月", "mode": "point", "start_year": 1955, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b013"]}
+SUMMARY {"text": "中国参加万隆会议", "evidence_block_ids": ["history_book_01_p0219_b013"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_024_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0219_b013"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b013"]
+BLOCK history_book_01_p0219_b013 [paragraph] 1955年4月 中国参加万隆会议
+
+## history_book_01_p0219_k013 中国共产党第八次全国代表大会举行
+TIME {"source_text": "1956年9月", "mode": "point", "start_year": 1956, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b014"]}
+SUMMARY {"text": "中国共产党第八次全国代表大会举行", "evidence_block_ids": ["history_book_01_p0219_b014"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b014"]
+BLOCK history_book_01_p0219_b014 [paragraph] 1956年9月 中国共产党第八次全国代表大会举行
+
+## history_book_01_p0219_k014 基本完成对农业、手工业和资本主义工商业的社会主义改造
+TIME {"source_text": "1956年", "mode": "point", "start_year": 1956, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b015"]}
+SUMMARY {"text": "基本完成对农业、手工业和资本主义工商业的社会主义改造", "evidence_block_ids": ["history_book_01_p0219_b015"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b015"]
+BLOCK history_book_01_p0219_b015 [paragraph] 1956年 基本完成对农业、手工业和资本主义工商业的社会主义改造
+
+## history_book_01_p0219_k015 “大跃进”和人民公社化运动开始
+TIME {"source_text": "1958年", "mode": "point", "start_year": 1958, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b016"]}
+SUMMARY {"text": "“大跃进”和人民公社化运动开始", "evidence_block_ids": ["history_book_01_p0219_b016"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b016"]
+BLOCK history_book_01_p0219_b016 [paragraph] 1958年 “大跃进”和人民公社化运动开始
+
+## history_book_01_p0219_k016 第一颗原子弹爆炸成功
+TIME {"source_text": "1964年10月16日", "mode": "point", "start_year": 1964, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b017"]}
+SUMMARY {"text": "第一颗原子弹爆炸成功", "evidence_block_ids": ["history_book_01_p0219_b017"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b017"]
+BLOCK history_book_01_p0219_b017 [paragraph] 1964年10月16日 第一颗原子弹爆炸成功
+
+## history_book_01_p0219_k017 三届全国人大一次会议召开，会上提出建设“四个现代化”的伟大目标
+TIME {"source_text": "1964年12月", "mode": "point", "start_year": 1964, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b018"]}
+SUMMARY {"text": "三届全国人大一次会议召开，会上提出建设“四个现代化”的伟大目标", "evidence_block_ids": ["history_book_01_p0219_b018"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b018"]
+BLOCK history_book_01_p0219_b018 [paragraph] 1964年12月 三届全国人大一次会议召开，会上提出建设“四个现代化”的伟大目标
+
+## history_book_01_p0219_k018 “文化大革命”
+TIME {"source_text": "1966—1976年", "mode": "duration", "start_year": 1966, "end_year": 1976, "earliest_year": null, "latest_year": null, "precision": "period", "end_status": "known", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b019"]}
+SUMMARY {"text": "“文化大革命”", "evidence_block_ids": ["history_book_01_p0219_b019"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b019"]
+BLOCK history_book_01_p0219_b019 [paragraph] 1966—1976年 “文化大革命”
+
+## history_book_01_p0219_k019 第一颗人造地球卫星发射成功
+TIME {"source_text": "1970年4月24日", "mode": "point", "start_year": 1970, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0219_b020"]}
+SUMMARY {"text": "第一颗人造地球卫星发射成功", "evidence_block_ids": ["history_book_01_p0219_b020"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0219_b020"]
+BLOCK history_book_01_p0219_b020 [paragraph] 1970年4月24日 第一颗人造地球卫星发射成功

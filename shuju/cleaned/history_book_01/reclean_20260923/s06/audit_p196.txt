@@ -1,0 +1,24 @@
+## history_book_01_p0196_k001 习近平关于中华民族伟大复兴中国梦的论述
+TIME {"source_text": "2012年11月29日", "mode": "point", "start_year": 2012, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0196_b002"]}
+SUMMARY {"text": "习近平参观《复兴之路》展览时指出，实现中华民族伟大复兴是中华民族近代以来最伟大的梦想，凝聚几代中国人的夙愿。", "evidence_block_ids": ["history_book_01_p0196_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_beijing", "role": "occurrence", "evidence_block_ids": ["history_book_01_p0196_b002"]}]
+PEOPLE ["history_book_01_person_xijinping"]
+EVIDENCE ["history_book_01_p0196_b002"]
+BLOCK history_book_01_p0196_b002 [paragraph] 2012年11月29日，习近平在中国国家博物馆参观《复兴之路》展览时指出：“实现中华民族伟大复兴，就是中华民族近代以来最伟大的梦想。这个梦想，凝聚了几代中国人的夙愿，体现了中华民族和中国人民的整体利益，是每一个中华儿女的共同期盼。”
+
+## history_book_01_p0196_k002 中共十八大与全面建成小康社会目标
+TIME {"source_text": "2012年11月", "mode": "point", "start_year": 2012, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0196_b006"]}
+SUMMARY {"text": "2012年11月中共十八大在北京举行，确立坚持和发展中国特色社会主义的主线，提出全面建成小康社会和实现社会主义现代化、中华民族伟大复兴的目标。", "evidence_block_ids": ["history_book_01_p0196_b006"]}
+FLOW []
+POINTS [{"text": "大会提出在中国共产党成立100年时全面建成小康社会，在新中国成立100年时建成富强民主文明和谐的社会主义现代化国家。", "evidence_block_ids": ["history_book_01_p0196_b006"]}]
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_beijing", "role": "occurrence", "evidence_block_ids": ["history_book_01_p0196_b006", "history_book_01_p0196_b007"]}]
+PEOPLE ["history_book_01_person_hujintao", "history_book_01_person_xijinping"]
+EVIDENCE ["history_book_01_p0196_b006", "history_book_01_p0196_b007"]
+BLOCK history_book_01_p0196_b006 [paragraph] 2012年11月，中国共产党第十八次全国代表大会在北京举行，这是在我国进入全面建成小康社会决定性阶段召开的一次十分重要的大会。胡锦涛代表十七届中央委员会作题为《坚定不移沿着中国特色社会主义道路前进，为全面建成小康社会而奋斗》的报告。中共十八大贯穿始终的主线是坚持和发展中国特色社会主义。大会强调，中国特色社会主义道路、中国特色社会主义理论体系、中国特色社会主义制度，是党和人民90多年奋斗、创造、积累的根本成就，必须倍加珍惜、始终坚持、不断发展。建设中国特色社会主义，总依据是社会主义初级阶段，总布局是“五位一体”，总任务是实现社会主义现代化和中华民族伟大复兴。大会提出，在中国共产党成立100年时全面建成小康社会，在新中国成立100年时建成富强民主文明和谐的社会主义现代化国家。大会根据我国经济社会发展实际，确定了全面建成小康社会的目标。中共十八届一中全会选举习近平为中央委员会
+BLOCK history_book_01_p0196_b007 [image] ▲ 中共十八大会场

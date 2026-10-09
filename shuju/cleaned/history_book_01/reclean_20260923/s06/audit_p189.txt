@@ -1,0 +1,49 @@
+## history_book_01_p0189_k001 20世纪90年代至2000年综合国力与科技成就
+TIME {"source_text": "进入20世纪90年代；2000年", "mode": "duration", "start_year": 1990, "end_year": 2000, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0189_b001"]}
+SUMMARY {"text": "改革开放进一步推进，国内生产总值、人民生活、科技事业和重大工程取得发展，社会主义现代化建设第二步战略目标实现。", "evidence_block_ids": ["history_book_01_p0189_b001"]}
+FLOW []
+POINTS [{"text": "2000年“九五”计划主要任务完成或超额完成，国内生产总值达到10多万亿元。", "evidence_block_ids": ["history_book_01_p0189_b001"]}, {"text": "1999年“神舟一号”成功发射，“神威”计算机问世，重大工程建设取得进展。", "evidence_block_ids": ["history_book_01_p0189_b001"]}]
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0189_b001"]
+BLOCK history_book_01_p0189_b001 [paragraph] 进入20世纪90年代，改革开放进一步推进，我国取得应对亚洲金融危机和一系列重大斗争的胜利。2000年，“九五”计划的主要任务完成或超额完成，国内生产总值达到10多万亿元，年均增长8.6%；人均国内生产总值比1980年翻两番的目标在1997年提前3年完成；主要工农业产品产量位居世界前列，商品短缺状况基本结束。城乡居民收入大幅度增加，生活质量显著提升。我国实现了社会主义现代化建设第二步战略目标，人民生活总体上达到小康水平。科技事业取得巨大成就。1999年，第一艘无人实验飞船“神舟一号”的成功发射，标志着我国在载人航天飞行技术上获得重大突破。1999年“神威”计算机的问世，打破了西方国家在高性能计算机技术方面的封锁。长江三峡水利枢纽、西电东送、青藏铁路、西气东输等一批重大工程捷报频传。
+
+## history_book_01_p0189_k002 1998年抗洪抢险与抗洪精神
+TIME {"source_text": "1998年夏", "mode": "uncertain", "start_year": 1998, "end_year": null, "earliest_year": 1998, "latest_year": 1998, "precision": "year", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0189_b004"]}
+SUMMARY {"text": "1998年夏特大洪涝灾害中，党和国家部署抗洪抢险，军民共同夺取全面胜利，并形成教材概括的抗洪精神。", "evidence_block_ids": ["history_book_01_p0189_b004"]}
+FLOW []
+POINTS [{"text": "受灾人口达2.3亿，30余万人民解放军和武警部队官兵参加抗洪斗争。", "evidence_block_ids": ["history_book_01_p0189_b004"]}]
+BACKGROUND null
+IMPACT {"text": "教材将抗洪抢险概括为万众一心、众志成城、不怕困难、顽强拼搏等精神。", "evidence_block_ids": ["history_book_01_p0189_b004"]}
+PLACES [{"place_id": "history_book_01_place_jiujiang", "role": "occurrence", "evidence_block_ids": ["history_book_01_p0189_b002", "history_book_01_p0189_b004"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0189_b002", "history_book_01_p0189_b004"]
+BLOCK history_book_01_p0189_b002 [image] ▲ 1998年8月7日，江西九江城防堤西段发生决口，人民解放军、武警官兵和市民经过五昼夜的奋战，成功封堵了决口
+BLOCK history_book_01_p0189_b004 [paragraph] 1998年抗洪抢险。1998年夏，我国遭遇一场历史罕见的特大洪涝灾害，受灾人口达2.3亿。危急时刻，党中央高度关注灾区群众的生命安全和切身利益，果断决策、周密部署。党和国家领导人亲临抗洪一线指挥；30余万人民解放军和武警部队官兵参加抗洪斗争，用血肉之躯筑起冲不垮的坚强大堤；灾区人民舍小家保大家、舍小局顾大局，全国人民大力支持第一线军民，夺取了抗洪抢险斗争的全面胜利。在同洪水的搏斗中，党和人民铸就了万众一心、众志成城，不怕困难、顽强拼搏，坚韧不拔、敢于胜利的伟大抗洪精神。
+
+## history_book_01_p0189_k003 进入21世纪的经济发展与社会建设成就
+TIME {"source_text": "进入21世纪；2006年至2011年", "mode": "duration", "start_year": 2006, "end_year": 2011, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0189_b005", "history_book_01_p0190_b001"]}
+SUMMARY {"text": "进入21世纪，改革开放深入，国民经济保持较快增长，国家应对重大灾害和危机，社会保障、科技创新和人民生活继续发展。", "evidence_block_ids": ["history_book_01_p0189_b005", "history_book_01_p0190_b001"]}
+FLOW []
+POINTS [{"text": "2010年国内生产总值超过40万亿元，经济总量跃升至世界第二位。", "evidence_block_ids": ["history_book_01_p0189_b005"]}, {"text": "全民医疗保障体系初步形成，最低生活保障制度实现全覆盖。", "evidence_block_ids": ["history_book_01_p0190_b001"]}]
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0189_b005", "history_book_01_p0190_b001"]
+BLOCK history_book_01_p0189_b005 [paragraph] 进入21世纪，改革开放不断深入，国家战胜非典疫情，夺取汶川抗震救灾胜利，成功应对国际金融危机，国民经济保持较快增长。2010年国内生产总值超过40万亿元，经济总量跃升至世界第二位。2006年，国家取消农业
+BLOCK history_book_01_p0190_b001 [paragraph] 税并出台了一系列强农惠农富农政策，粮食产量自2004年起实现8年连续增长。人民生活明显改善，城镇居民人均可支配收入和农村居民人均纯收入年均分别增长9.7%和8.9%。全民医疗保障体系初步形成，覆盖人数超过13亿。最低生活保障制度实现全覆盖，城乡社会救助体系基本建立。重要学科前沿和战略必争领域取得一批重大自主创新成果，“神舟五号”飞船首次实现载人航天飞行，“神舟七号”飞船航天员成功进行中国人的第一次太空漫步，“嫦娥一号”首次完成绕月探测。到2011年，我国已成为世界第一电子信息产品制造大国，计算机等电子产品产量居世界第一位，互联网网民数量居世界第一位。
+
+## history_book_01_p0189_k004 2008年汶川抗震救灾与抗震救灾精神
+TIME {"source_text": "2008年5月12日", "mode": "point", "start_year": 2008, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0189_b007"]}
+SUMMARY {"text": "四川汶川发生特大地震后，党和国家组织抗震救灾，全国人民共同应对，教材概括形成了相应的抗震救灾精神。", "evidence_block_ids": ["history_book_01_p0189_b007"]}
+FLOW []
+POINTS [{"text": "教材记载地震震级为里氏8.0级。", "evidence_block_ids": ["history_book_01_p0189_b007"]}]
+BACKGROUND null
+IMPACT {"text": "教材将抗震救灾精神概括为万众一心、众志成城、不畏艰险、百折不挠、以人为本、尊重科学。", "evidence_block_ids": ["history_book_01_p0189_b007"]}
+PLACES [{"place_id": "history_book_01_place_wenchuan", "role": "occurrence", "evidence_block_ids": ["history_book_01_p0189_b007"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0189_b007"]
+BLOCK history_book_01_p0189_b007 [paragraph] 2008年5月12日，四川汶川发生里氏8.0级特大地震。灾情发生后，党和国家果断决策、沉着应对，全国人民患难与共，夺取了抗震救灾斗争的重大胜利，充分展现了万众一心、众志成城，不畏艰险、百折不挠，以人为本、尊重科学的伟大抗震救灾精神。谈谈你对抗震救灾精神的理解。

@@ -1,0 +1,26 @@
+## history_book_01_p0208_k001 统一多民族国家演进活动的主题与目标
+TIME {"source_text": null, "mode": "unknown", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "unknown", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0208_b002", "history_book_01_p0208_b004", "history_book_01_p0208_b005"]}
+SUMMARY {"text": "活动课要求通过个人学习、小组合作和班级展示了解统一多民族国家演进，并形成时空观念、国家观和民族观。", "evidence_block_ids": ["history_book_01_p0208_b002", "history_book_01_p0208_b004", "history_book_01_p0208_b005"]}
+FLOW []
+POINTS [{"text": "活动目标包含梳理统一多民族国家演进、学习英雄人物事迹和认识疆域变化三个方面。", "evidence_block_ids": ["history_book_01_p0208_b004", "history_book_01_p0208_b005", "history_book_01_p0208_b006"]}]
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0208_b002", "history_book_01_p0208_b004", "history_book_01_p0208_b005", "history_book_01_p0208_b006"]
+BLOCK history_book_01_p0208_b002 [paragraph] 以“家国情怀与统一多民族国家的演进”为主题，通过个人学习、小组合作和班级展示等方式，了解我国统一多民族国家的演进，加深对家国情怀的认识和感悟。
+BLOCK history_book_01_p0208_b004 [paragraph] 1. 以唯物史观为指导，通过对统一多民族国家演进过程的梳理、总结，了解和把握中国历史发展的总趋势，构建起系统的时空观念，加深对历史知识的理解和解释，进一步认识统一多民族国家的发展是中华民族历史发展的主流和必然趋势。认识国家统一、民族团结是中国发展的重要基石。形成对祖国、对中华民族的认同感和正确的国家观、民族观，是实现中华民族伟大复兴的重要保证。增强维护国家统一、铸牢中华民族共同体意识，全面提升历史学科核心素养。
+BLOCK history_book_01_p0208_b005 [paragraph] 2. 通过对统一多民族国家演进过程中涌现出来的英雄人物及其事迹的学习，明确自己的责任与担当，培养与国家民族休戚与共的情怀和以百姓之心为心、以天下为己任的使命感，确立积极进取的人生态度。
+BLOCK history_book_01_p0208_b006 [paragraph] 3. 通过对疆域变化的学习，认识中国版图的形成是中华民族几千年不断开拓进取和巩固发展的结果，各民族共同对边疆治理和开发作出了重要贡献；认识西藏、新疆、南海诸岛、台湾及其附属岛屿钓鱼岛等自古以来就是我国领土不可分割的一部分，强化国家主权意识、海洋意识和国防意识，坚决维护国家主权和领土完整。
+
+## history_book_01_p0208_k002 教材活动课关于疆域、边疆治理和领土表述
+TIME {"source_text": "自古以来", "mode": "unknown", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "period", "end_status": "unknown", "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。", "evidence_block_ids": ["history_book_01_p0208_b006"]}
+SUMMARY {"text": "活动目标要求通过疆域变化学习边疆治理和开发，并在教材原文中列举西藏、新疆、南海诸岛、台湾及其附属岛屿、钓鱼岛等名称。", "evidence_block_ids": ["history_book_01_p0208_b006"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_p0208_place001", "role": "related", "evidence_block_ids": ["history_book_01_p0208_b006"]}, {"place_id": "history_book_01_p0208_place002", "role": "related", "evidence_block_ids": ["history_book_01_p0208_b006"]}, {"place_id": "history_book_01_p0208_place003", "role": "related", "evidence_block_ids": ["history_book_01_p0208_b006"]}, {"place_id": "history_book_01_p0208_place004", "role": "related", "evidence_block_ids": ["history_book_01_p0208_b006"]}, {"place_id": "history_book_01_p0208_place005", "role": "related", "evidence_block_ids": ["history_book_01_p0208_b006"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0208_b006"]
+BLOCK history_book_01_p0208_b006 [paragraph] 3. 通过对疆域变化的学习，认识中国版图的形成是中华民族几千年不断开拓进取和巩固发展的结果，各民族共同对边疆治理和开发作出了重要贡献；认识西藏、新疆、南海诸岛、台湾及其附属岛屿钓鱼岛等自古以来就是我国领土不可分割的一部分，强化国家主权意识、海洋意识和国防意识，坚决维护国家主权和领土完整。

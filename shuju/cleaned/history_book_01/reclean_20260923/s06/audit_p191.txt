@@ -1,0 +1,49 @@
+## history_book_01_p0191_k001 “一国两制”构想
+TIME {"source_text": "20世纪80年代初", "mode": "uncertain", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "period", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0191_b003"]}
+SUMMARY {"text": "邓小平针对台湾问题提出“一个国家，两种制度”的构想，教材说明其首先用于解决香港、澳门问题。", "evidence_block_ids": ["history_book_01_p0191_b003"]}
+FLOW []
+POINTS [{"text": "一个中国前提下，国家主体坚持社会主义制度，香港、澳门、台湾保持原有资本主义制度长期不变。", "evidence_block_ids": ["history_book_01_p0191_b003"]}]
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_taiwan", "role": "origin", "evidence_block_ids": ["history_book_01_p0191_b003"]}]
+PEOPLE ["history_book_01_person_deng_xiaoping"]
+EVIDENCE ["history_book_01_p0191_b003"]
+BLOCK history_book_01_p0191_b003 [paragraph] 20世纪80年代初，针对台湾问题，邓小平提出“一个国家，两种制度”的构想，但首先被运用于解决香港、澳门问题。“一国两制”就是在一个中国的前提下，国家的主体坚持社会主义制度，香港、澳门、台湾保持原有的资本主义制度长期不变。在国际上代表中国的，只能是中华人民共和国。
+
+## history_book_01_p0191_k002 香港回归与香港特别行政区成立
+TIME {"source_text": "1997年7月1日", "mode": "point", "start_year": 1997, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0191_b004"]}
+SUMMARY {"text": "1997年7月1日，中国对香港恢复行使主权，中华人民共和国香港特别行政区正式成立。", "evidence_block_ids": ["history_book_01_p0191_b004"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT {"text": "教材将香港、澳门回归概括为祖国统一大业向前迈出重要一步。", "evidence_block_ids": ["history_book_01_p0191_b004"]}
+PLACES [{"place_id": "history_book_01_place_hongkong", "role": "occurrence", "evidence_block_ids": ["history_book_01_p0191_b004", "history_book_01_p0191_b005"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0191_b004", "history_book_01_p0191_b005"]
+BLOCK history_book_01_p0191_b004 [paragraph] 1984年12月和1987年4月，中国政府分别同英国和葡萄牙政府签署了中英、中葡联合声明。1997年7月1日，中国对香港恢复行使主权，中华人民共和国香港特别行政区正式成立。1999年12月20日，中国对澳门恢复行使主权，中华人民共和国澳门特别行政区正式成立。香港、澳门的回归，标志着祖国统一大业向前迈出重要一步。
+BLOCK history_book_01_p0191_b005 [image] ▲ 中英香港交接仪式
+
+## history_book_01_p0191_k003 澳门回归与澳门特别行政区成立
+TIME {"source_text": "1999年12月20日", "mode": "point", "start_year": 1999, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0191_b004"]}
+SUMMARY {"text": "1999年12月20日，中国对澳门恢复行使主权，中华人民共和国澳门特别行政区正式成立。", "evidence_block_ids": ["history_book_01_p0191_b004"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT {"text": "教材将香港、澳门回归概括为祖国统一大业向前迈出重要一步。", "evidence_block_ids": ["history_book_01_p0191_b004"]}
+PLACES [{"place_id": "history_book_01_place_macau", "role": "occurrence", "evidence_block_ids": ["history_book_01_p0191_b004", "history_book_01_p0191_b006"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0191_b004", "history_book_01_p0191_b006"]
+BLOCK history_book_01_p0191_b004 [paragraph] 1984年12月和1987年4月，中国政府分别同英国和葡萄牙政府签署了中英、中葡联合声明。1997年7月1日，中国对香港恢复行使主权，中华人民共和国香港特别行政区正式成立。1999年12月20日，中国对澳门恢复行使主权，中华人民共和国澳门特别行政区正式成立。香港、澳门的回归，标志着祖国统一大业向前迈出重要一步。
+BLOCK history_book_01_p0191_b006 [image] ▲ 中葡澳门交接仪式
+
+## history_book_01_p0191_k004 香港、澳门不是殖民地的历史纵横材料
+TIME {"source_text": "1972年11月", "mode": "point", "start_year": 1972, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0191_b008"]}
+SUMMARY {"text": "教材材料记载，1972年11月联合国大会以99票对5票通过决议；材料称该决议“认可中国的主张”。", "evidence_block_ids": ["history_book_01_p0191_b008"]}
+FLOW []
+POINTS [{"text": "材料将香港、澳门描述为中国领土的一部分，并将相关问题归为中国主权范围内的问题。", "evidence_block_ids": ["history_book_01_p0191_b008"]}]
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_hongkong", "role": "related", "evidence_block_ids": ["history_book_01_p0191_b008"]}, {"place_id": "history_book_01_place_macau", "role": "related", "evidence_block_ids": ["history_book_01_p0191_b008"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0191_b008"]
+BLOCK history_book_01_p0191_b008 [paragraph] 香港、澳门不是殖民地。中国恢复在联合国合法席位后，中国常驻联合国代表团就提出，香港、澳门问题是历史上遗留下来的帝国主义强加给中国人民一系列不平等条约的结果，香港、澳门是中国领土的一部分。解决香港、澳门问题完全属于中国主权范围内的问题，根本不属于通常的所谓“殖民地”范畴，英国和葡萄牙当局只是在香港、澳门实行殖民统治，香港、澳门不是殖民地。1972年11月，联合国大会以99票对5票通过决议，认可中国的主张。

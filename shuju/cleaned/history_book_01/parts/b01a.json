@@ -1,0 +1,2233 @@
+{
+  "schema_version": "history-pdf-ingest/1.0",
+  "batch": {
+    "id": "history_book_01_b01a",
+    "document_id": "history_book_01",
+    "requested_pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "completed_pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "partial_pdf_pages": [],
+    "unprocessed_pdf_pages": [],
+    "complete": true,
+    "next_pdf_page": null,
+    "carryover": [
+      {
+        "type": "other",
+        "record_ids": [
+          "history_book_01_p0010",
+          "history_book_01_p0010_k005"
+        ],
+        "description": "姜寨聚落明确年代未在本批给出。",
+        "next_action": "后续页段追加证据并复用现有ID。"
+      }
+    ]
+  },
+  "documents": [
+    {
+      "id": "history_book_01",
+      "file_name": "普通高中教科书·历史必修_中外历史纲要（上）.pdf",
+      "title": "历史 必修 中外历史纲要（上）",
+      "edition": null,
+      "volume": "上",
+      "publisher": "人民教育出版社",
+      "publication_year": null,
+      "total_pdf_pages": 223,
+      "language": "zh-CN",
+      "source_kind": "textbook",
+      "sha256": "833DFC015A6E1DB90A744A9B2E94424043149995AE796330A461A922ACB18E27"
+    }
+  ],
+  "pages": [
+    {
+      "id": "history_book_01_p0001",
+      "document_id": "history_book_01",
+      "pdf_page_number": 1,
+      "printed_page_label": null,
+      "chapter_path": [],
+      "page_kind": "front_matter",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "已查看逐页渲染图和文字层。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0002",
+      "document_id": "history_book_01",
+      "pdf_page_number": 2,
+      "printed_page_label": null,
+      "chapter_path": [],
+      "page_kind": "front_matter",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "已查看逐页渲染图和文字层。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0003",
+      "document_id": "history_book_01",
+      "pdf_page_number": 3,
+      "printed_page_label": null,
+      "chapter_path": [],
+      "page_kind": "front_matter",
+      "text_status": "complete",
+      "image_status": "not_applicable",
+      "notes": [
+        "已查看逐页渲染图和文字层。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0004",
+      "document_id": "history_book_01",
+      "pdf_page_number": 4,
+      "printed_page_label": null,
+      "chapter_path": [],
+      "page_kind": "front_matter",
+      "text_status": "complete",
+      "image_status": "not_applicable",
+      "notes": [
+        "已查看逐页渲染图和文字层。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0005",
+      "document_id": "history_book_01",
+      "pdf_page_number": 5,
+      "printed_page_label": null,
+      "chapter_path": [],
+      "page_kind": "front_matter",
+      "text_status": "complete",
+      "image_status": "not_applicable",
+      "notes": [
+        "已查看逐页渲染图和文字层。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0006",
+      "document_id": "history_book_01",
+      "pdf_page_number": 6,
+      "printed_page_label": null,
+      "chapter_path": [],
+      "page_kind": "front_matter",
+      "text_status": "complete",
+      "image_status": "not_applicable",
+      "notes": [
+        "已查看逐页渲染图和文字层。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0007",
+      "document_id": "history_book_01",
+      "pdf_page_number": 7,
+      "printed_page_label": null,
+      "chapter_path": [],
+      "page_kind": "blank",
+      "text_status": "not_applicable",
+      "image_status": "not_applicable",
+      "notes": [
+        "已查看渲染图；无教材正文。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0008",
+      "document_id": "history_book_01",
+      "pdf_page_number": 8,
+      "printed_page_label": "1",
+      "chapter_path": [
+        "第一单元 从中华文明起源到秦汉统一多民族封建国家的建立与巩固"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "已查看逐页渲染图和文字层。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0009",
+      "document_id": "history_book_01",
+      "pdf_page_number": 9,
+      "printed_page_label": "2",
+      "chapter_path": [
+        "第一单元 从中华文明起源到秦汉统一多民族封建国家的建立与巩固",
+        "第1课 中华文明的起源与早期国家"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "已查看逐页渲染图和文字层。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0010",
+      "document_id": "history_book_01",
+      "pdf_page_number": 10,
+      "printed_page_label": "3",
+      "chapter_path": [
+        "第一单元 从中华文明起源到秦汉统一多民族封建国家的建立与巩固",
+        "第1课 中华文明的起源与早期国家"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "已查看逐页渲染图和文字层。"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "history_book_01_p0001_b001",
+      "page_id": "history_book_01_p0001",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "普通高中教科书 历史 必修 中外历史纲要（上）",
+      "clean_text": "普通高中教科书；历史；必修；中外历史纲要（上）",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0001_b002",
+      "page_id": "history_book_01_p0001",
+      "order": 2,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "万里长城封面照片；国家教材委员会2019标识",
+      "clean_text": "封面为长城照片；左上有“国家教材委员会 2019”标识。",
+      "asset_ids": [
+        "history_book_01_p0001_a001",
+        "history_book_01_p0001_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0002_b001",
+      "page_id": "history_book_01_p0002",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "普通高中教科书 历史 必修 中外历史纲要（上）",
+      "clean_text": "普通高中教科书；历史；必修；中外历史纲要（上）",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0002_b002",
+      "page_id": "history_book_01_p0002",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "教育部组织编写；人民教育出版社·北京·仅供个人学习使用，未经授权不得做他用",
+      "clean_text": "教育部组织编写；人民教育出版社；北京；仅供个人学习使用，未经授权不得做他用。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0002_b003",
+      "page_id": "history_book_01_p0002",
+      "order": 3,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "浅橙色几何底纹和书名页设计",
+      "clean_text": "浅橙色几何底纹书名页。",
+      "asset_ids": [
+        "history_book_01_p0002_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0003_b001",
+      "page_id": "history_book_01_p0003",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "普通高中教科书 历史 必修 中外历史纲要（上） 教育部组织编写",
+      "clean_text": "普通高中教科书；历史；必修；中外历史纲要（上）；教育部组织编写。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0003_b002",
+      "page_id": "history_book_01_p0003",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "出版 人民教育出版社（北京市海淀区中关村南大街17号院1号楼 邮编：100081） 网址 http://www.pep.com.cn",
+      "clean_text": "出版：人民教育出版社（北京市海淀区中关村南大街17号院1号楼，邮编100081）；网址：http://www.pep.com.cn",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0003_b003",
+      "page_id": "history_book_01_p0003",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "版权所有·未经许可不得采用任何方式擅自复制或使用本产品任何部分·违者必究；如发现内容质量问题，请登录中小学教材意见反馈平台：jcyjfk.pep.com.cn",
+      "clean_text": "版权所有；未经许可不得采用任何方式擅自复制或使用本产品任何部分；违者必究。质量问题反馈平台：jcyjfk.pep.com.cn",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0003_b004",
+      "page_id": "history_book_01_p0003",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "总主编：张海鹏 徐蓝；本册主编：张帆 李帆；编写人员（以姓氏笔画为序）：卜宪群 刘国新 李帆 李卿 张帆 张海鹏 郑谦 章清；责任编辑：李卿 冯良；美术编辑：于艳",
+      "clean_text": "总主编：张海鹏、徐蓝。本册主编：张帆、李帆。编写人员：卜宪群、刘国新、李帆、李卿、张帆、张海鹏、郑谦、章清。责任编辑：李卿、冯良。美术编辑：于艳。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0004_b001",
+      "page_id": "history_book_01_p0004",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "目录",
+      "clean_text": "目录",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0004_b002",
+      "page_id": "history_book_01_p0004",
+      "order": 2,
+      "type": "table",
+      "bbox": null,
+      "raw_text": "第一至第三单元目录：第一单元 从中华文明起源到秦汉统一多民族封建国家的建立与巩固 1；第1课 中华文明的起源与早期国家 2；第2课 诸侯纷争与变法运动 9；第3课 秦统一多民族封建国家的建立 15；第4课 西汉与东汉——统一多民族封建国家的巩固 21；第二单元 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展 27；第5课 三国两晋南北朝的政权更迭与民族交融 28；第6课 从隋唐盛世到五代十国 34；第7课 隋唐制度的变化与创新 40；第8课 三国至隋唐的文化 45；第三单元 辽宋夏金多民族政权的并立与元朝的统一 51；第9课 两宋的政治和军事 52；第10课 辽夏金元的统治 58；第11课 辽宋夏金元的经济、社会与文化 64",
+      "clean_text": "第一至第三单元及第1—11课目录条目已按视觉顺序整理；目录正文不在本批。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "目录换行按视觉顺序合并；条目待对应正文页段清洗。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0005_b001",
+      "page_id": "history_book_01_p0005",
+      "order": 1,
+      "type": "table",
+      "bbox": null,
+      "raw_text": "第四至第七单元目录：第四单元 明清中国版图的奠定与面临的挑战 70；第12课 从明朝建立到清军入关 71；第13课 清朝前中期的鼎盛与危机 76；第14课 明至清中叶的经济与文化 82；第五单元 晚清时期的内忧外患与救亡图存 89；第15课 两次鸦片战争 90；第16课 国家出路的探索与列强侵略的加剧 96；第17课 挽救民族危亡的斗争 103；第六单元 辛亥革命与中华民国的建立 109；第18课 辛亥革命 110；第19课 北洋军阀统治时期的政治、经济与文化 115；第七单元 中国共产党成立与新民主主义革命兴起 121；第20课 五四运动与中国共产党的诞生 122；第21课 南京国民政府的统治和中国共产党开辟革命新道路 128",
+      "clean_text": "第四至第七单元及第12—21课目录条目已按视觉顺序整理；目录正文不在本批。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "目录换行按视觉顺序合并；条目待对应正文页段清洗。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0006_b001",
+      "page_id": "history_book_01_p0006",
+      "order": 1,
+      "type": "table",
+      "bbox": null,
+      "raw_text": "第八至第十一单元、活动课和附录目录：第八单元 中华民族的抗日战争和人民解放战争 134；第22课 从局部抗战到全国抗战 135；第23课 全民族浴血奋战与抗日战争的胜利 142；第24课 人民解放战争 150；第九单元 中华人民共和国成立和社会主义革命与建设 158；第25课 中华人民共和国成立和向社会主义的过渡 159；第26课 社会主义建设在探索中曲折发展 167；第十单元 改革开放和社会主义现代化建设新时期 174；第27课 中国特色社会主义的开创与发展 175；第28课 改革开放和社会主义现代化建设的巨大成就 181；第十一单元 中国特色社会主义新时代 188；第29课 中国特色社会主义进入新时代 189；第30课 新时代中国特色社会主义的伟大成就 194；活动课 家国情怀与统一多民族国家的演进 200；附录 204",
+      "clean_text": "第八至第十一单元、活动课和附录目录条目已按视觉顺序整理；目录正文不在本批。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "目录换行按视觉顺序合并；条目待对应正文页段清洗。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0008_b001",
+      "page_id": "history_book_01_p0008",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第一单元 从中华文明起源到秦汉统一多民族封建国家的建立与巩固",
+      "clean_text": "第一单元\n从中华文明起源到秦汉统一多民族封建国家的建立与巩固",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0008_b002",
+      "page_id": "history_book_01_p0008",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "中国是远古人类的重要起源地，中华文明是人类最古老的文明之一。中华文明多元一体，源远流长，生生不息，展现了自身发展道路的独特魅力。中国原始文化星罗棋布，多姿多彩，先后经历了旧石器时代与新石器时代。夏、商、西周是中华文明和早期国家的形成与发展时期，也是奴隶制社会的形成、发展与繁荣时期。春秋战国是政治、经济、社会、文化大变动的时期，百家争鸣是这一变动的思想反映。秦汉是中国统一多民族封建国家的形成时期，奠定了大一统中央集权国家治理的基本模式。",
+      "clean_text": "中国是远古人类的重要起源地；中华文明多元一体、源远流长；中国原始文化先后经历旧石器时代与新石器时代；夏商西周是中华文明和早期国家形成发展时期；春秋战国是政治经济社会文化大变动时期，百家争鸣是其思想反映；秦汉是统一多民族封建国家形成时期，奠定大一统中央集权国家治理基本模式。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0008_b003",
+      "page_id": "history_book_01_p0008",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "通过本单元的学习，了解中华文明的起源情况以及早期国家特征；理解战国时期变法运动的必然性，了解孔子、老子学说与百家争鸣局面及其意义；认识秦汉时期统一多民族封建国家的建立、巩固在中国历史上的意义，以及秦朝崩溃和两汉衰亡的原因。",
+      "clean_text": "学习目标：了解中华文明起源及早期国家特征；理解战国变法运动必然性，了解孔子、老子学说与百家争鸣及其意义；认识秦汉统一多民族封建国家建立、巩固的历史意义，以及秦朝崩溃和两汉衰亡原因。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0008_b004",
+      "page_id": "history_book_01_p0008",
+      "order": 4,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "秦始皇陵兵马俑淡化背景图",
+      "clean_text": "页面下半部为兵马俑群淡化背景图。",
+      "asset_ids": [
+        "history_book_01_p0008_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0009_b001",
+      "page_id": "history_book_01_p0009",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第1课 中华文明的起源与早期国家",
+      "clean_text": "第1课\n中华文明的起源与早期国家",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0009_b002",
+      "page_id": "history_book_01_p0009",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1965年5月，中国地质科学院的研究人员在云南省元谋县上那蚌村的一个小山坡上，挖掘到两颗古人类门齿化石。这种形状的牙齿，在人类学中被称为铲形门齿。",
+      "clean_text": "1965年5月，中国地质科学院研究人员在云南省元谋县上那蚌村一个小山坡上挖掘到两颗古人类门齿化石；这种形状的牙齿在人类学中称为铲形门齿。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0009_b003",
+      "page_id": "history_book_01_p0009",
+      "order": 3,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "石器时代的古人类和文化遗存",
+      "clean_text": "石器时代的古人类和文化遗存",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0009_b004",
+      "page_id": "history_book_01_p0009",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "考古发现，人类最早制造的工具是石器。原始社会因石器制作技术的不同而被区分为旧石器时代和新石器时代。旧石器时代是指以打制方法制作石器的时代。中国已发现的旧石器时代人类化石点遗址有数百处，代表性的有距今约170万年的元谋人和距今约70万至20万年的北京人。他们从事渔猎和采集，过着群居生活。北京人已经学会用火。",
+      "clean_text": "考古发现，人类最早制造的工具是石器；原始社会因石器制作技术不同分为旧石器时代和新石器时代；旧石器时代指以打制方法制作石器；中国已发现旧石器时代人类化石点遗址数百处，代表性有距今约170万年的元谋人和距今约70万至20万年的北京人；他们从事渔猎采集、过群居生活，北京人已学会用火。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0009_b005",
+      "page_id": "history_book_01_p0009",
+      "order": 5,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "元谋人门齿化石",
+      "clean_text": "两颗门齿化石实物照片，图注为“元谋人门齿化石”。",
+      "asset_ids": [
+        "history_book_01_p0009_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0009_b006",
+      "page_id": "history_book_01_p0009",
+      "order": 6,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 元谋人门齿化石",
+      "clean_text": "▲ 元谋人门齿化石",
+      "asset_ids": [
+        "history_book_01_p0009_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0009_b007",
+      "page_id": "history_book_01_p0009",
+      "order": 7,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "中国旧石器时代重要人类遗址分布图",
+      "clean_text": "地图图题为“中国旧石器时代重要人类遗址分布图”；图例含早期人类主要遗址、国界、未定；可见北京、金牛山人、丁村人、蓝田人、郧县人、和县人、长阳人、马坝人、左镇人、山顶洞人、元谋人等。",
+      "asset_ids": [
+        "history_book_01_p0009_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0009_b008",
+      "page_id": "history_book_01_p0009",
+      "order": 8,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 中国旧石器时代重要人类遗址分布图",
+      "clean_text": "▲ 中国旧石器时代重要人类遗址分布图",
+      "asset_ids": [
+        "history_book_01_p0009_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0009_b009",
+      "page_id": "history_book_01_p0009",
+      "order": 9,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "学习聚焦：石器时代人类先后以打制和磨制的石器作为工具。",
+      "clean_text": "学习聚焦：石器时代人类先后以打制和磨制的石器作为工具。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0009_b010",
+      "page_id": "history_book_01_p0009",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "思考点：中国是远古人类的重要起源地。观察《中国旧石器时代重要人类遗址分布图》，你能指出中国早期人类分布的基本特点吗？",
+      "clean_text": "思考点：中国是远古人类的重要起源地；观察分布图并思考中国早期人类分布的基本特点。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0010_b001",
+      "page_id": "history_book_01_p0010",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "距今约1万年前，中国进入新石器时代。新石器时代是指以磨制方法制作石器的时代。当时人们已经大量使用陶器，开始从事原始农业，饲养家畜，生活逐渐稳定。目前，中国已发现的新石器时代文化遗存有1万多处，且分布广泛，奠定了多元一体的发展基础。",
+      "clean_text": "距今约1万年前，中国进入新石器时代；新石器时代指以磨制方法制作石器；当时大量使用陶器，开始原始农业、饲养家畜，生活逐渐稳定；中国已发现的新石器时代文化遗存有1万多处且分布广泛，奠定多元一体发展基础。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0010_b002",
+      "page_id": "history_book_01_p0010",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "距今约7000至5000年前，黄河中游地区进入仰韶文化时期，它的典型器物是彩绘陶器，以粟等为主要栽培作物。大致同一时期，黄河下游出现了大汶口文化，长江下游有河姆渡文化。河姆渡文化的居民种植水稻，并且掌握了养蚕缫丝技术。",
+      "clean_text": "距今约7000至5000年前，黄河中游进入仰韶文化时期，典型器物是彩绘陶器，以粟等为主要栽培作物；大致同时期黄河下游出现大汶口文化，长江下游有河姆渡文化；河姆渡文化居民种植水稻并掌握养蚕缫丝技术。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0010_b003",
+      "page_id": "history_book_01_p0010",
+      "order": 3,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "中国新石器时代重要文化遗存分布图",
+      "clean_text": "地图图题为“中国新石器时代重要文化遗存分布图”；可见半坡、姜寨、陶寺、河姆渡、大汶口、龙山、仰韶、贾湖、仙人洞、大溪、玉蟾岩、良渚、上山、马家浜、石家河、高庙、齐家坪、马家窑、宝墩、屈家岭、大地湾、裴李岗、磁山、石峁、红山、牛河梁、北阴阳营、青莲岗等名称。",
+      "asset_ids": [
+        "history_book_01_p0010_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0010_b004",
+      "page_id": "history_book_01_p0010",
+      "order": 4,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 中国新石器时代重要文化遗存分布图",
+      "clean_text": "▲ 中国新石器时代重要文化遗存分布图",
+      "asset_ids": [
+        "history_book_01_p0010_a001"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0010_b005",
+      "page_id": "history_book_01_p0010",
+      "order": 5,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "陕西西安临潼姜寨聚落遗址复原图",
+      "clean_text": "黑白线描聚落复原图，可见房屋、人物、牲畜和水域等。",
+      "asset_ids": [
+        "history_book_01_p0010_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0010_b006",
+      "page_id": "history_book_01_p0010",
+      "order": 6,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "陕西西安临潼姜寨聚落遗址复原图",
+      "clean_text": "陕西西安临潼姜寨聚落遗址复原图",
+      "asset_ids": [
+        "history_book_01_p0010_a002"
+      ],
+      "table_data": null,
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0010_b007",
+      "page_id": "history_book_01_p0010",
+      "order": 7,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "姜寨聚落遗址反映了由五个大家族组成的一个氏族公社。它有氏族公共墓地，但各个墓葬的随葬品不多，差别也不大，反映了尚未产生贫富分化的母系氏族公社状况。姜寨聚落是仰韶文化聚落形态的典型代表。",
+      "clean_text": "姜寨聚落由五个大家族组成氏族公社，有氏族公共墓地；墓葬随葬品不多且差别不大，反映尚未产生贫富分化的母系氏族公社状况；姜寨聚落是仰韶文化聚落形态典型代表。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": []
+    }
+  ],
+  "assets": [
+    {
+      "id": "history_book_01_p0001_a001",
+      "page_id": "history_book_01_p0001",
+      "block_id": "history_book_01_p0001_b002",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "封面长城照片",
+      "visible_text": null,
+      "description": "长城、山地和植被照片。",
+      "claims": [],
+      "notes": [
+        "未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0001_a002",
+      "page_id": "history_book_01_p0001",
+      "block_id": "history_book_01_p0001_b002",
+      "type": "other",
+      "bbox": null,
+      "file_path": null,
+      "caption": "国家教材委员会2019标识",
+      "visible_text": "国家教材委员会 2019",
+      "description": "封面左上圆形标识。",
+      "claims": [],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0002_a001",
+      "page_id": "history_book_01_p0002",
+      "block_id": "history_book_01_p0002_b003",
+      "type": "other",
+      "bbox": null,
+      "file_path": null,
+      "caption": null,
+      "visible_text": null,
+      "description": "书名页浅橙色几何底纹。",
+      "claims": [],
+      "notes": [
+        "装饰性资产。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0008_a001",
+      "page_id": "history_book_01_p0008",
+      "block_id": "history_book_01_p0008_b004",
+      "type": "illustration",
+      "bbox": null,
+      "file_path": null,
+      "caption": null,
+      "visible_text": null,
+      "description": "兵马俑群淡化背景图。",
+      "claims": [],
+      "notes": [
+        "装饰性背景图。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0009_a001",
+      "page_id": "history_book_01_p0009",
+      "block_id": "history_book_01_p0009_b005",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "元谋人门齿化石",
+      "visible_text": null,
+      "description": "两颗门齿化石实物照片。",
+      "claims": [
+        {
+          "text": "图注明确为“元谋人门齿化石”。",
+          "evidence_block_ids": [
+            "history_book_01_p0009_b006"
+          ]
+        }
+      ],
+      "notes": [
+        "未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0009_a002",
+      "page_id": "history_book_01_p0009",
+      "block_id": "history_book_01_p0009_b007",
+      "type": "map",
+      "bbox": null,
+      "file_path": null,
+      "caption": "中国旧石器时代重要人类遗址分布图",
+      "visible_text": "北京；金牛山人；丁村人；蓝田人；郧县人；和县人；长阳人；马坝人；左镇人；山顶洞人；元谋人；早期人类主要遗址；国界；未定",
+      "description": "中国轮廓及早期人类遗址点位分布图。",
+      "claims": [
+        {
+          "text": "图题明确为中国旧石器时代重要人类遗址分布图。",
+          "evidence_block_ids": [
+            "history_book_01_p0009_b007",
+            "history_book_01_p0009_b008"
+          ]
+        }
+      ],
+      "notes": [
+        "未校准空间坐标。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0010_a001",
+      "page_id": "history_book_01_p0010",
+      "block_id": "history_book_01_p0010_b003",
+      "type": "map",
+      "bbox": null,
+      "file_path": null,
+      "caption": "中国新石器时代重要文化遗存分布图",
+      "visible_text": "半坡；姜寨；陶寺；河姆渡；大汶口；龙山；仰韶；贾湖；仙人洞；大溪；玉蟾岩；良渚；上山；马家浜；石家河；高庙；齐家坪；马家窑；宝墩；屈家岭；大地湾；裴李岗；磁山；石峁；红山；牛河梁；北阴阳营；青莲岗",
+      "description": "中国轮廓及新石器时代文化遗存点位分布图。",
+      "claims": [
+        {
+          "text": "图题明确为中国新石器时代重要文化遗存分布图。",
+          "evidence_block_ids": [
+            "history_book_01_p0010_b003",
+            "history_book_01_p0010_b004"
+          ]
+        }
+      ],
+      "notes": [
+        "未校准空间坐标。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0010_a002",
+      "page_id": "history_book_01_p0010",
+      "block_id": "history_book_01_p0010_b005",
+      "type": "illustration",
+      "bbox": null,
+      "file_path": null,
+      "caption": "陕西西安临潼姜寨聚落遗址复原图",
+      "visible_text": null,
+      "description": "黑白线描聚落复原图。",
+      "claims": [
+        {
+          "text": "图注明确为陕西西安临潼姜寨聚落遗址复原图。",
+          "evidence_block_ids": [
+            "history_book_01_p0010_b006"
+          ]
+        }
+      ],
+      "notes": [
+        "未导出独立图片文件。"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "history_book_01_p0009_place001",
+      "name_as_written": "云南省元谋县上那蚌村",
+      "name_type": "modern",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0009_b002"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0009_place002",
+      "name_as_written": "北京",
+      "name_type": "unknown",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0009_b004",
+        "history_book_01_p0009_b007"
+      ],
+      "notes": [
+        "地图标注名称。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0010_place001",
+      "name_as_written": "黄河中游地区",
+      "name_type": "unknown",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0010_b002"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0010_place002",
+      "name_as_written": "黄河下游",
+      "name_type": "unknown",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0010_b002"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0010_place003",
+      "name_as_written": "长江下游",
+      "name_type": "unknown",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0010_b002"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0010_place004",
+      "name_as_written": "陕西西安临潼姜寨",
+      "name_type": "modern",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0010_b005",
+        "history_book_01_p0010_b007"
+      ],
+      "notes": []
+    }
+  ],
+  "people": [],
+  "knowledge": [
+    {
+      "id": "history_book_01_p0008_k001",
+      "title": "中华文明多元一体、源远流长",
+      "kind": null,
+      "content_type": "other",
+      "time": {
+        "source_text": "中华文明多元一体，源远流长，生生不息",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0008_b002"
+        ]
+      },
+      "themes": [
+        "culture",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材导语称中华文明多元一体、源远流长、生生不息。",
+        "evidence_block_ids": [
+          "history_book_01_p0008_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0008_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0008_i001"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0008_k002",
+      "title": "中国原始文化经历旧石器时代与新石器时代",
+      "kind": null,
+      "content_type": "other",
+      "time": {
+        "source_text": "先后经历了旧石器时代与新石器时代",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0008_b002"
+        ]
+      },
+      "themes": [
+        "culture",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材导语称中国原始文化先后经历旧石器时代与新石器时代。",
+        "evidence_block_ids": [
+          "history_book_01_p0008_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0008_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0008_i002"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0008_k003",
+      "title": "夏、商、西周与早期国家的形成发展",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": "夏、商、西周",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "教材仅给出朝代时期，未换算为公历年份。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0008_b002"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材导语称夏、商、西周是中华文明和早期国家的形成与发展时期。",
+        "evidence_block_ids": [
+          "history_book_01_p0008_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0008_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0008_i003"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0008_k004",
+      "title": "春秋战国的政治、经济、社会与文化大变动",
+      "kind": "process",
+      "content_type": "event",
+      "time": {
+        "source_text": "春秋战国",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "教材仅给出时期名称，未换算为公历年份。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0008_b002"
+        ]
+      },
+      "themes": [
+        "politics",
+        "economy",
+        "society",
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材导语称春秋战国是政治、经济、社会、文化大变动时期。",
+        "evidence_block_ids": [
+          "history_book_01_p0008_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0008_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0008_i004"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0008_k005",
+      "title": "百家争鸣",
+      "kind": null,
+      "content_type": "thought",
+      "time": {
+        "source_text": "百家争鸣是这一变动的思想反映",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0008_b002"
+        ]
+      },
+      "themes": [
+        "culture",
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材导语将百家争鸣表述为春秋战国变动的思想反映。",
+        "evidence_block_ids": [
+          "history_book_01_p0008_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0008_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0008_i005"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0008_k006",
+      "title": "秦汉统一多民族封建国家的形成",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": "秦汉",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "教材仅给出时期名称，未换算为公历年份。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0008_b002"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材导语称秦汉是统一多民族封建国家形成时期，并奠定大一统中央集权国家治理基本模式。",
+        "evidence_block_ids": [
+          "history_book_01_p0008_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0008_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0008_i006"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0009_k001",
+      "title": "石器时代人类以打制和磨制石器为工具",
+      "kind": null,
+      "content_type": "other",
+      "time": {
+        "source_text": "石器时代",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0009_b009"
+        ]
+      },
+      "themes": [
+        "science",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "学习聚焦指出石器时代人类先后以打制和磨制石器作为工具。",
+        "evidence_block_ids": [
+          "history_book_01_p0009_b009"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0009_b009"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0009_i001"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0009_k002",
+      "title": "元谋人",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "距今约170万年",
+        "mode": "uncertain",
+        "start_year": -1700000,
+        "end_year": null,
+        "earliest_year": -1800000,
+        "latest_year": -1600000,
+        "precision": "unknown",
+        "end_status": "not_applicable",
+        "normalization_note": "“距今约”保留不确定性；教材未给出公元换算。",
+        "evidence_block_ids": [
+          "history_book_01_p0009_b004"
+        ]
+      },
+      "themes": [
+        "society"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0009_place001",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0009_b002"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "教材将距今约170万年的元谋人列为中国旧石器时代代表性人类之一。",
+        "evidence_block_ids": [
+          "history_book_01_p0009_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0009_b002",
+        "history_book_01_p0009_b004"
+      ],
+      "asset_ids": [
+        "history_book_01_p0009_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0009_i002",
+        "history_book_01_p0009_i003"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0009_k003",
+      "title": "北京人",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "距今约70万至20万年",
+        "mode": "uncertain",
+        "start_year": -700000,
+        "end_year": -200000,
+        "earliest_year": -700000,
+        "latest_year": -200000,
+        "precision": "unknown",
+        "end_status": "known",
+        "normalization_note": "教材以距今范围表述，未进行公元换算。",
+        "evidence_block_ids": [
+          "history_book_01_p0009_b004"
+        ]
+      },
+      "themes": [
+        "society",
+        "science"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0009_place002",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0009_b004",
+            "history_book_01_p0009_b007"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "教材将距今约70万至20万年的北京人列为代表性旧石器时代人类；其从事渔猎采集、过群居生活，已经学会用火。",
+        "evidence_block_ids": [
+          "history_book_01_p0009_b004"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "从事渔猎和采集，过群居生活。",
+          "evidence_block_ids": [
+            "history_book_01_p0009_b004"
+          ]
+        },
+        {
+          "text": "已经学会用火。",
+          "evidence_block_ids": [
+            "history_book_01_p0009_b004"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0009_b004"
+      ],
+      "asset_ids": [
+        "history_book_01_p0009_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0009_i004",
+        "history_book_01_p0009_i005"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0010_k001",
+      "title": "新石器时代",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "距今约1万年前",
+        "mode": "uncertain",
+        "start_year": -10000,
+        "end_year": null,
+        "earliest_year": -11000,
+        "latest_year": -9000,
+        "precision": "unknown",
+        "end_status": "not_applicable",
+        "normalization_note": "教材以距今约1万年前表述进入时间；未进行公元换算。",
+        "evidence_block_ids": [
+          "history_book_01_p0010_b001"
+        ]
+      },
+      "themes": [
+        "science",
+        "agriculture",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材称距今约1万年前中国进入新石器时代；该时代以磨制方法制作石器。",
+        "evidence_block_ids": [
+          "history_book_01_p0010_b001"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "大量使用陶器，开始原始农业，饲养家畜，生活逐渐稳定。",
+          "evidence_block_ids": [
+            "history_book_01_p0010_b001"
+          ]
+        },
+        {
+          "text": "中国已发现的新石器时代文化遗存有1万多处且分布广泛。",
+          "evidence_block_ids": [
+            "history_book_01_p0010_b001"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": {
+        "text": "教材称其分布广泛，奠定了多元一体的发展基础。",
+        "evidence_block_ids": [
+          "history_book_01_p0010_b001"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0010_b001"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0010_i001",
+        "history_book_01_p0010_i002"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0010_k002",
+      "title": "仰韶文化",
+      "kind": "process",
+      "content_type": "culture",
+      "time": {
+        "source_text": "距今约7000至5000年前",
+        "mode": "uncertain",
+        "start_year": -7000,
+        "end_year": -5000,
+        "earliest_year": -7000,
+        "latest_year": -5000,
+        "precision": "unknown",
+        "end_status": "known",
+        "normalization_note": "教材以距今范围表述，未进行公元换算。",
+        "evidence_block_ids": [
+          "history_book_01_p0010_b002"
+        ]
+      },
+      "themes": [
+        "culture",
+        "agriculture"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0010_place001",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0010_b002"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "距今约7000至5000年前，黄河中游地区进入仰韶文化时期。",
+        "evidence_block_ids": [
+          "history_book_01_p0010_b002"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "典型器物是彩绘陶器。",
+          "evidence_block_ids": [
+            "history_book_01_p0010_b002"
+          ]
+        },
+        {
+          "text": "以粟等为主要栽培作物。",
+          "evidence_block_ids": [
+            "history_book_01_p0010_b002"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0010_b002"
+      ],
+      "asset_ids": [
+        "history_book_01_p0010_a001",
+        "history_book_01_p0010_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0010_i003",
+        "history_book_01_p0010_i004"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0010_k003",
+      "title": "大汶口文化",
+      "kind": "process",
+      "content_type": "culture",
+      "time": {
+        "source_text": "大致同一时期",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": "与仰韶文化同一时段的关系由教材“大致同一时期”给出。",
+        "evidence_block_ids": [
+          "history_book_01_p0010_b002"
+        ]
+      },
+      "themes": [
+        "culture",
+        "agriculture"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0010_place002",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0010_b002"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "教材称大致同一时期黄河下游出现大汶口文化。",
+        "evidence_block_ids": [
+          "history_book_01_p0010_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0010_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0010_i005"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0010_k004",
+      "title": "河姆渡文化",
+      "kind": "process",
+      "content_type": "culture",
+      "time": {
+        "source_text": "大致同一时期",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": "与仰韶文化同一时段的关系由教材“大致同一时期”给出。",
+        "evidence_block_ids": [
+          "history_book_01_p0010_b002"
+        ]
+      },
+      "themes": [
+        "culture",
+        "agriculture",
+        "science"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0010_place003",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0010_b002"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "教材称大致同一时期长江下游有河姆渡文化。",
+        "evidence_block_ids": [
+          "history_book_01_p0010_b002"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "河姆渡文化居民种植水稻。",
+          "evidence_block_ids": [
+            "history_book_01_p0010_b002"
+          ]
+        },
+        {
+          "text": "河姆渡文化居民掌握养蚕缫丝技术。",
+          "evidence_block_ids": [
+            "history_book_01_p0010_b002"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0010_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0010_i006"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0010_k005",
+      "title": "姜寨聚落与母系氏族公社状况",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0010_b007"
+        ]
+      },
+      "themes": [
+        "society",
+        "culture"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0010_place004",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0010_b005",
+            "history_book_01_p0010_b007"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "教材称姜寨聚落由五个大家族组成，有氏族公共墓地；墓葬随葬品不多且差别不大，反映尚未产生贫富分化的母系氏族公社状况。",
+        "evidence_block_ids": [
+          "history_book_01_p0010_b007"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "姜寨聚落是仰韶文化聚落形态的典型代表。",
+          "evidence_block_ids": [
+            "history_book_01_p0010_b007"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0010_b007"
+      ],
+      "asset_ids": [
+        "history_book_01_p0010_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0010_i007"
+      ],
+      "uncertainties": [
+        "页面未给出姜寨聚落明确年代，不能据仰韶文化关联补写公历时间。",
+        "原提取 content_type=society 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    }
+  ],
+  "relations": [],
+  "map_candidates": [
+    {
+      "id": "history_book_01_p0009_map001",
+      "asset_id": "history_book_01_p0009_a002",
+      "reference_time_text": "中国旧石器时代",
+      "reference_year": null,
+      "date_precision": "period",
+      "historical_names": [
+        "北京",
+        "金牛山人",
+        "丁村人",
+        "蓝田人",
+        "郧县人",
+        "和县人",
+        "长阳人",
+        "马坝人",
+        "左镇人",
+        "山顶洞人",
+        "元谋人"
+      ],
+      "legend_text": "早期人类主要遗址；国界；未定。",
+      "evidence_block_ids": [
+        "history_book_01_p0009_b007",
+        "history_book_01_p0009_b008"
+      ],
+      "geometry": null,
+      "geometry_status": "not_digitized",
+      "notes": [
+        "未作空间校准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0010_map001",
+      "asset_id": "history_book_01_p0010_a001",
+      "reference_time_text": "中国新石器时代",
+      "reference_year": null,
+      "date_precision": "period",
+      "historical_names": [
+        "半坡",
+        "姜寨",
+        "陶寺",
+        "河姆渡",
+        "大汶口",
+        "龙山",
+        "仰韶",
+        "贾湖",
+        "仙人洞",
+        "大溪",
+        "玉蟾岩",
+        "良渚",
+        "上山",
+        "马家浜",
+        "石家河",
+        "高庙",
+        "齐家坪",
+        "马家窑",
+        "宝墩",
+        "屈家岭",
+        "大地湾",
+        "裴李岗",
+        "磁山",
+        "石峁",
+        "红山",
+        "牛河梁",
+        "北阴阳营",
+        "青莲岗"
+      ],
+      "legend_text": "新石器时代主要文化遗存；国界；省、自治区、直辖市界；特别行政区界；未定。",
+      "evidence_block_ids": [
+        "history_book_01_p0010_b003",
+        "history_book_01_p0010_b004"
+      ],
+      "geometry": null,
+      "geometry_status": "not_digitized",
+      "notes": [
+        "未作空间校准。"
+      ]
+    }
+  ],
+  "inventory": [
+    {
+      "id": "history_book_01_p0008_i001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0008"
+      ],
+      "block_ids": [
+        "history_book_01_p0008_b002"
+      ],
+      "item_label": "中华文明多元一体、源远流长",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0008_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0008_i002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0008"
+      ],
+      "block_ids": [
+        "history_book_01_p0008_b002"
+      ],
+      "item_label": "中国原始文化经历旧石器时代与新石器时代",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0008_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0008_i003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0008"
+      ],
+      "block_ids": [
+        "history_book_01_p0008_b002"
+      ],
+      "item_label": "夏商西周与早期国家形成发展",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0008_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0008_i004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0008"
+      ],
+      "block_ids": [
+        "history_book_01_p0008_b002"
+      ],
+      "item_label": "春秋战国政治经济社会文化大变动",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0008_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0008_i005",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0008"
+      ],
+      "block_ids": [
+        "history_book_01_p0008_b002"
+      ],
+      "item_label": "百家争鸣",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0008_k005"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0008_i006",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0008"
+      ],
+      "block_ids": [
+        "history_book_01_p0008_b002"
+      ],
+      "item_label": "秦汉统一多民族封建国家形成",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0008_k006"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0009_i001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0009"
+      ],
+      "block_ids": [
+        "history_book_01_p0009_b009"
+      ],
+      "item_label": "石器时代打制和磨制石器",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0009_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0009_i002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0009"
+      ],
+      "block_ids": [
+        "history_book_01_p0009_b002"
+      ],
+      "item_label": "元谋人地点与门齿化石",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0009_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0009_i003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0009"
+      ],
+      "block_ids": [
+        "history_book_01_p0009_b004"
+      ],
+      "item_label": "元谋人距今约170万年",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0009_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "与元谋人合并。"
+    },
+    {
+      "id": "history_book_01_p0009_i004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0009"
+      ],
+      "block_ids": [
+        "history_book_01_p0009_b004"
+      ],
+      "item_label": "北京人距今约70万至20万年",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0009_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0009_i005",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0009"
+      ],
+      "block_ids": [
+        "history_book_01_p0009_b004"
+      ],
+      "item_label": "北京人渔猎采集、群居、用火",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0009_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "与北京人合并。"
+    },
+    {
+      "id": "history_book_01_p0009_i006",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0009"
+      ],
+      "block_ids": [
+        "history_book_01_p0009_b007",
+        "history_book_01_p0009_b008"
+      ],
+      "item_label": "中国旧石器时代重要人类遗址分布图",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "地图候选，待空间核验。"
+    },
+    {
+      "id": "history_book_01_p0010_i001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0010"
+      ],
+      "block_ids": [
+        "history_book_01_p0010_b001"
+      ],
+      "item_label": "距今约1万年前进入新石器时代",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0010_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0010_i002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0010"
+      ],
+      "block_ids": [
+        "history_book_01_p0010_b001"
+      ],
+      "item_label": "新石器时代的陶器、农业和家畜",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0010_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "与新石器时代合并。"
+    },
+    {
+      "id": "history_book_01_p0010_i003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0010"
+      ],
+      "block_ids": [
+        "history_book_01_p0010_b002"
+      ],
+      "item_label": "距今约7000至5000年前仰韶文化",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0010_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0010_i004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0010"
+      ],
+      "block_ids": [
+        "history_book_01_p0010_b002"
+      ],
+      "item_label": "仰韶文化彩绘陶器与粟作",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0010_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "与仰韶文化合并。"
+    },
+    {
+      "id": "history_book_01_p0010_i005",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0010"
+      ],
+      "block_ids": [
+        "history_book_01_p0010_b002"
+      ],
+      "item_label": "黄河下游大汶口文化",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0010_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0010_i006",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0010"
+      ],
+      "block_ids": [
+        "history_book_01_p0010_b002"
+      ],
+      "item_label": "河姆渡文化水稻与养蚕缫丝",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0010_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0010_i007",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0010"
+      ],
+      "block_ids": [
+        "history_book_01_p0010_b007"
+      ],
+      "item_label": "姜寨聚落的氏族公社状况",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0010_k005"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0010_i008",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0010"
+      ],
+      "block_ids": [
+        "history_book_01_p0010_b003",
+        "history_book_01_p0010_b004"
+      ],
+      "item_label": "中国新石器时代重要文化遗存分布图",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "地图候选，待空间核验。"
+    },
+    {
+      "id": "history_book_01_p0004_i020",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0004"
+      ],
+      "block_ids": [
+        "history_book_01_p0004_b001"
+      ],
+      "item_label": "第一至第三单元目录",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "仅为目录导航，正文待后续页段清洗。"
+    },
+    {
+      "id": "history_book_01_p0005_i020",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0005"
+      ],
+      "block_ids": [
+        "history_book_01_p0005_b001"
+      ],
+      "item_label": "第四至第七单元目录",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "仅为目录导航，正文待后续页段清洗。"
+    },
+    {
+      "id": "history_book_01_p0006_i020",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0006"
+      ],
+      "block_ids": [
+        "history_book_01_p0006_b001"
+      ],
+      "item_label": "第八至第十一单元、活动课和附录目录",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "仅为目录导航，正文待后续页段清洗。"
+    }
+  ],
+  "review_issues": [
+    {
+      "id": "history_book_01_p0001_ri001",
+      "record_ids": [
+        "history_book_01_p0001"
+      ],
+      "category": "ocr",
+      "description": "第1页文字层末尾有不可解码字符；封面文字已据视觉检查整理。",
+      "evidence_block_ids": [
+        "history_book_01_p0001_b001"
+      ],
+      "suggested_action": "后续用兼容字体或OCR复核。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0002_ri001",
+      "record_ids": [
+        "history_book_01_p0002"
+      ],
+      "category": "ocr",
+      "description": "第2页文字层末尾有不可解码字符；书名页文字已据视觉检查整理。",
+      "evidence_block_ids": [
+        "history_book_01_p0002_b001"
+      ],
+      "suggested_action": "后续复核文字层。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0003_ri001",
+      "record_ids": [
+        "history_book_01_p0003"
+      ],
+      "category": "ocr",
+      "description": "第3页文字层末尾有不可解码字符；版权和编写信息已据视觉检查整理。",
+      "evidence_block_ids": [
+        "history_book_01_p0003_b001",
+        "history_book_01_p0003_b002",
+        "history_book_01_p0003_b003",
+        "history_book_01_p0003_b004"
+      ],
+      "suggested_action": "后续复核姓名和标点。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0009_ri001",
+      "record_ids": [
+        "history_book_01_p0009_a002",
+        "history_book_01_p0009_map001"
+      ],
+      "category": "image",
+      "description": "旧石器时代遗址分布图未作空间校准，不能直接生成经纬度或疆域几何。",
+      "evidence_block_ids": [
+        "history_book_01_p0009_b007",
+        "history_book_01_p0009_b008"
+      ],
+      "suggested_action": "逐点核验地名、年代和空间参考。",
+      "blocking": true,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0010_ri001",
+      "record_ids": [
+        "history_book_01_p0010_a001",
+        "history_book_01_p0010_map001"
+      ],
+      "category": "image",
+      "description": "新石器时代文化遗存分布图未作空间校准，不能直接生成经纬度或疆域几何。",
+      "evidence_block_ids": [
+        "history_book_01_p0010_b003",
+        "history_book_01_p0010_b004"
+      ],
+      "suggested_action": "逐点核验文化遗存名称、年代和空间参考。",
+      "blocking": true,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0010_ri002",
+      "record_ids": [
+        "history_book_01_p0010_k005"
+      ],
+      "category": "time",
+      "description": "姜寨聚落未给出明确年代，不能据仰韶文化关联补写公历时间。",
+      "evidence_block_ids": [
+        "history_book_01_p0010_b007"
+      ],
+      "suggested_action": "后续页段或可靠来源补证后再决定时间字段。",
+      "blocking": false,
+      "status": "open"
+    }
+  ],
+  "validation": {
+    "structure_check_status": "passed",
+    "duplicate_ids": [],
+    "dangling_references": [],
+    "page_coverage_issues": [],
+    "time_issues": [],
+    "source_issues": [],
+    "unreadable_blocks": [],
+    "unprocessed_assets": [],
+    "semantic_review_status": "not_performed"
+  }
+}

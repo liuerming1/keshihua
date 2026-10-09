@@ -1,0 +1,554 @@
+## history_book_01_p0212_k001 元时期
+TIME {"source_text": "1271—1368年", "mode": "duration", "start_year": 1271, "end_year": 1368, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0212_b001"]}
+SUMMARY {"text": "附录朝代表列出元的时间为1271—1368年。", "evidence_block_ids": ["history_book_01_p0212_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b001"]
+BLOCK history_book_01_p0212_b001 [table] 中国古代朝代表（续表）
+元	1271—1368年
+明	1368—1644年
+清	1644—1911年
+
+## history_book_01_p0212_k002 明时期
+TIME {"source_text": "1368—1644年", "mode": "duration", "start_year": 1368, "end_year": 1644, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0212_b001"]}
+SUMMARY {"text": "附录朝代表列出明的时间为1368—1644年。", "evidence_block_ids": ["history_book_01_p0212_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b001"]
+BLOCK history_book_01_p0212_b001 [table] 中国古代朝代表（续表）
+元	1271—1368年
+明	1368—1644年
+清	1644—1911年
+
+## history_book_01_p0212_k003 清时期
+TIME {"source_text": "1644—1911年", "mode": "duration", "start_year": 1644, "end_year": 1911, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0212_b001"]}
+SUMMARY {"text": "附录朝代表列出清的时间为1644—1911年。", "evidence_block_ids": ["history_book_01_p0212_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b001"]
+BLOCK history_book_01_p0212_b001 [table] 中国古代朝代表（续表）
+元	1271—1368年
+明	1368—1644年
+清	1644—1911年
+
+## history_book_01_p0212_k004 距今约170万年：中国境内目前已确认的最早古人类元谋人
+TIME {"source_text": "距今约170万年", "mode": "uncertain", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "unknown", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "教材年表记载，距今约170万年的元谋人是“中国境内目前已确认的最早古人类”。", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k005 距今约70万—20万年：生活在北京周口店一带的北京人
+TIME {"source_text": "距今约70万—20万年", "mode": "uncertain", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "unknown", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "生活在北京周口店一带的北京人", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k006 距今约1万年：中国进入新石器时代
+TIME {"source_text": "距今约1万年", "mode": "uncertain", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "unknown", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "中国进入新石器时代", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k007 距今约7000—5000年：黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+TIME {"source_text": "距今约7000—5000年", "mode": "uncertain", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "unknown", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k008 距今约5000年：中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+TIME {"source_text": "距今约5000年", "mode": "uncertain", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "unknown", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k009 约公元前2070年：禹建立夏朝
+TIME {"source_text": "约公元前2070年", "mode": "uncertain", "start_year": -2070, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": "表格原文时间；约数不视为精确年。", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "禹建立夏朝", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k010 约公元前1600年：汤灭夏，建立商朝
+TIME {"source_text": "约公元前1600年", "mode": "uncertain", "start_year": -1600, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": "表格原文时间；约数不视为精确年。", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "汤灭夏，建立商朝", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k011 公元前1046年：周武王伐纣灭商，建立周朝，史称西周
+TIME {"source_text": "公元前1046年", "mode": "point", "start_year": -1046, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "周武王伐纣灭商，建立周朝，史称西周", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k012 公元前841年：“国人暴动”，共和行政
+TIME {"source_text": "公元前841年", "mode": "point", "start_year": -841, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "“国人暴动”，共和行政", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k013 公元前771年：犬戎攻破镐京，西周灭亡
+TIME {"source_text": "公元前771年", "mode": "point", "start_year": -771, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "犬戎攻破镐京，西周灭亡", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k014 公元前770年：中国历史进入东周时期，分为春秋和战国两个阶段
+TIME {"source_text": "公元前770年", "mode": "point", "start_year": -770, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "中国历史进入东周时期，分为春秋和战国两个阶段", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k015 公元前356年：商鞅变法开始
+TIME {"source_text": "公元前356年", "mode": "point", "start_year": -356, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "商鞅变法开始", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k016 公元前256年：周王室被秦国所灭
+TIME {"source_text": "公元前256年", "mode": "point", "start_year": -256, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "周王室被秦国所灭", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k017 公元前221年：秦朝建立，秦王嬴政号称“始皇帝”
+TIME {"source_text": "公元前221年", "mode": "point", "start_year": -221, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "秦朝建立，秦王嬴政号称“始皇帝”", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k018 公元前209年：秦末农民起义爆发
+TIME {"source_text": "公元前209年", "mode": "point", "start_year": -209, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "秦末农民起义爆发", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k019 公元前207年：刘邦攻入咸阳，秦朝灭亡
+TIME {"source_text": "公元前207年", "mode": "point", "start_year": -207, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "刘邦攻入咸阳，秦朝灭亡", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争
+
+## history_book_01_p0212_k020 公元前206—前202年：楚汉战争
+TIME {"source_text": "公元前206—前202年", "mode": "duration", "start_year": -206, "end_year": -202, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+SUMMARY {"text": "楚汉战争", "evidence_block_ids": ["history_book_01_p0212_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0212_b003"]
+BLOCK history_book_01_p0212_b003 [table] 中国古代史大事年表
+时间	事件
+距今约170万年	中国境内目前已确认的最早古人类元谋人
+距今约70万—20万年	生活在北京周口店一带的北京人
+距今约1万年	中国进入新石器时代
+距今约7000—5000年	黄河中游地区进入仰韶文化时期，黄河下游出现大汶口文化，长江下游有河姆渡文化
+距今约5000年	中国进入新石器时代晚期，黄河中下游有龙山文化，辽河上游有红山文化，长江下游有良渚文化
+约公元前2070年	禹建立夏朝
+约公元前1600年	汤灭夏，建立商朝
+公元前1046年	周武王伐纣灭商，建立周朝，史称西周
+公元前841年	“国人暴动”，共和行政
+公元前771年	犬戎攻破镐京，西周灭亡
+公元前770年	中国历史进入东周时期，分为春秋和战国两个阶段
+公元前356年	商鞅变法开始
+公元前256年	周王室被秦国所灭
+公元前221年	秦朝建立，秦王嬴政号称“始皇帝”
+公元前209年	秦末农民起义爆发
+公元前207年	刘邦攻入咸阳，秦朝灭亡
+公元前206—前202年	楚汉战争

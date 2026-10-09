@@ -1,0 +1,362 @@
+
+PAGE 1
+history_book_01_p0001_b001 heading raw= '普通高中教科书 历史 必修 中外历史纲要（上）' 
+clean= '普通高中教科书；历史；必修；中外历史纲要（上）'
+history_book_01_p0001_b002 image raw= '万里长城封面照片；国家教材委员会2019标识' 
+clean= '封面为长城照片；左上有“国家教材委员会 2019”标识。'
+
+PAGE 2
+history_book_01_p0002_b001 heading raw= '普通高中教科书 历史 必修 中外历史纲要（上）' 
+clean= '普通高中教科书；历史；必修；中外历史纲要（上）'
+history_book_01_p0002_b002 paragraph raw= '教育部组织编写；人民教育出版社·北京·仅供个人学习使用，未经授权不得做他用' 
+clean= '教育部组织编写；人民教育出版社；北京；仅供个人学习使用，未经授权不得做他用。'
+history_book_01_p0002_b003 image raw= '浅橙色几何底纹和书名页设计' 
+clean= '浅橙色几何底纹书名页。'
+
+PAGE 3
+history_book_01_p0003_b001 paragraph raw= '普通高中教科书 历史 必修 中外历史纲要（上） 教育部组织编写' 
+clean= '普通高中教科书；历史；必修；中外历史纲要（上）；教育部组织编写。'
+history_book_01_p0003_b002 paragraph raw= '出版 人民教育出版社（北京市海淀区中关村南大街17号院1号楼 邮编：100081） 网址 http://www.pep.com.cn' 
+clean= '出版：人民教育出版社（北京市海淀区中关村南大街17号院1号楼，邮编100081）；网址：http://www.pep.com.cn'
+history_book_01_p0003_b003 paragraph raw= '版权所有·未经许可不得采用任何方式擅自复制或使用本产品任何部分·违者必究；如发现内容质量问题，请登录中小学教材意见反馈平台：jcyjfk.pep.com.cn' 
+clean= '版权所有；未经许可不得采用任何方式擅自复制或使用本产品任何部分；违者必究。质量问题反馈平台：jcyjfk.pep.com.cn'
+history_book_01_p0003_b004 paragraph raw= '总主编：张海鹏 徐蓝；本册主编：张帆 李帆；编写人员（以姓氏笔画为序）：卜宪群 刘国新 李帆 李卿 张帆 张海鹏 郑谦 章清；责任编辑：李卿 冯良；美术编辑：于艳' 
+clean= '总主编：张海鹏、徐蓝。本册主编：张帆、李帆。编写人员：卜宪群、刘国新、李帆、李卿、张帆、张海鹏、郑谦、章清。责任编辑：李卿、冯良。美术编辑：于艳。'
+
+PAGE 4
+history_book_01_p0004_b001 heading raw= '目录' 
+clean= '目录'
+history_book_01_p0004_b002 table raw= '第一至第三单元目录：第一单元 从中华文明起源到秦汉统一多民族封建国家的建立与巩固 1；第1课 中华文明的起源与早期国家 2；第2课 诸侯纷争与变法运动 9；第3课 秦统一多民族封建国家的建立 15；第4课 西汉与东汉——统一多民族封建国家的巩固 21；第二单元 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展 27；第5课 三国两晋南北朝的政权更迭与民族交融 28；第6课 从隋唐盛世到五代十国 34；第7课 隋唐制度的变化与创新 40；第8课 三国至隋唐的文化 45；第三单元 辽宋夏金多民族政权的并立与元朝的统一 51；第9课 两宋的政治和军事 52；第10课 辽夏金元的统治 58；第11课 辽宋夏金元的经济、社会与文化 64' 
+clean= '第一至第三单元及第1—11课目录条目已按视觉顺序整理；目录正文不在本批。'
+
+PAGE 5
+history_book_01_p0005_b001 table raw= '第四至第七单元目录：第四单元 明清中国版图的奠定与面临的挑战 70；第12课 从明朝建立到清军入关 71；第13课 清朝前中期的鼎盛与危机 76；第14课 明至清中叶的经济与文化 82；第五单元 晚清时期的内忧外患与救亡图存 89；第15课 两次鸦片战争 90；第16课 国家出路的探索与列强侵略的加剧 96；第17课 挽救民族危亡的斗争 103；第六单元 辛亥革命与中华民国的建立 109；第18课 辛亥革命 110；第19课 北洋军阀统治时期的政治、经济与文化 115；第七单元 中国共产党成立与新民主主义革命兴起 121；第20课 五四运动与中国共产党的诞生 122；第21课 南京国民政府的统治和中国共产党开辟革命新道路 128' 
+clean= '第四至第七单元及第12—21课目录条目已按视觉顺序整理；目录正文不在本批。'
+
+PAGE 6
+history_book_01_p0006_b001 table raw= '第八至第十一单元、活动课和附录目录：第八单元 中华民族的抗日战争和人民解放战争 134；第22课 从局部抗战到全国抗战 135；第23课 全民族浴血奋战与抗日战争的胜利 142；第24课 人民解放战争 150；第九单元 中华人民共和国成立和社会主义革命与建设 158；第25课 中华人民共和国成立和向社会主义的过渡 159；第26课 社会主义建设在探索中曲折发展 167；第十单元 改革开放和社会主义现代化建设新时期 174；第27课 中国特色社会主义的开创与发展 175；第28课 改革开放和社会主义现代化建设的巨大成就 181；第十一单元 中国特色社会主义新时代 188；第29课 中国特色社会主义进入新时代 189；第30课 新时代中国特色社会主义的伟大成就 194；活动课 家国情怀与统一多民族国家的演进 200；附录 204' 
+clean= '第八至第十一单元、活动课和附录目录条目已按视觉顺序整理；目录正文不在本批。'
+
+PAGE 7
+
+PAGE 37
+history_book_01_p0037_b001 heading raw= '东晋与南朝' 
+clean= '东晋与南朝'
+history_book_01_p0037_b002 paragraph raw= '317年，西晋宗室司马睿在建康重建晋朝，史称东晋。自三国、西晋以来，一些声名显赫的士大夫家族世代把持官位，享受政治、经济等方面特权，形成一个特殊的社会阶层，称为士族。逃到南方的几家北方高门士族先后执掌朝政，成为东晋政权的主要支柱。他们争权夺利，势力逐渐衰弱。420年，出身低级士族的武将刘裕夺取皇位，改国号宋。此后170年间，南方先后经历了宋、齐、梁、陈四个王朝，合称南朝。四个王朝均定都建康，加上先前在此定都的吴和东晋，又统称为六朝。' 
+clean= '317年，西晋宗室司马睿在建康重建晋朝，史称东晋。自三国、西晋以来，一些声名显赫的士大夫家族世代把持官位，享受政治、经济等方面特权，形成一个特殊的社会阶层，称为士族。逃到南方的几家北方高门士族先后执掌朝政，成为东晋政权的主要支柱。他们争权夺利，势力逐渐衰弱。420年，出身低级士族的武将刘裕夺取皇位，改国号宋。此后170年间，南方先后经历了宋、齐、梁、陈四个王朝，合称南朝。四个王朝均定都建康，加上先前在此定都的吴和东晋，又统称为六朝。'
+history_book_01_p0037_b003 paragraph raw= '从西晋末年起，北方人民为躲避战乱，大批流亡南下，带来了先进的生产工具和技术，也充实了劳动力资源。东晋南朝时期，南方土地大量开垦，农作物品种增加，产量提高。手工业方面，纺织、矿冶、陶瓷、造船、造纸等行业都有明显进步。在江南开发的过程中，许多山区的少数民族也逐步与汉族交融。' 
+clean= '从西晋末年起，北方人民为躲避战乱，大批流亡南下，带来了先进的生产工具和技术，也充实了劳动力资源。东晋南朝时期，南方土地大量开垦，农作物品种增加，产量提高。手工业方面，纺织、矿冶、陶瓷、造船、造纸等行业都有明显进步。在江南开发的过程中，许多山区的少数民族也逐步与汉族交融。'
+history_book_01_p0037_b004 note raw= '东晋的士族专权：东晋建立之初，高门士族琅邪（yá）王氏当权。其代表人物王导在朝中担任宰相，王敦统重兵坐镇长江中游，内外相应。司马睿即位接受百官朝贺时，甚至请王导与他并排上坐，王导坚决推辞，方才作罢，时称“王与马，共天下”。此后，颍川庾氏、谯国桓氏、陈郡谢氏、太原王氏等士族相继掌权。' 
+clean= '历史纵横：东晋士族专权，王导、王敦等高门士族掌握朝政，时称“王与马，共天下”。'
+history_book_01_p0037_b005 note raw= '在东晋和南朝相继统治下，南方经济有了明显发展。' 
+clean= '学习聚焦：在东晋和南朝相继统治下，南方经济有了明显发展。'
+history_book_01_p0037_b006 exercise raw= '《宋书》记载南朝第一个王朝刘宋历史，其中有一段描述：至于元嘉末……兵车勿用，民不外劳，役宽务简，氓庶繁息，至余粮栖亩，户不夜扃（jiōng），盖东西之极盛也……地广野丰，民勤本业，一岁或稔（rěn），则数郡忘饥。会土带海傍湖，良畴亦数十万顷，膏腴上地，亩直一金，鄠（hù）、杜之间，不能比也。荆城跨南楚之富，扬部有全吴之沃，鱼盐杞梓之利，充仞八方，丝绵布帛之饶，覆衣天下。——《宋书》' 
+clean= '材料：据《宋书》描述刘宋元嘉末年南方经济状况。教材保留了注音。'
+history_book_01_p0037_b007 exercise raw= '根据材料，说说当时南方经济发展的成就。' 
+clean= '学思之窗：根据材料说明南方经济发展的成就。'
+history_book_01_p0037_b008 exercise raw= '东晋南朝时期江南得到开发的原因有哪些？' 
+clean= '思考点：东晋南朝时期江南得到开发的原因。'
+
+PAGE 38
+history_book_01_p0038_b001 heading raw= '十六国与北朝' 
+clean= '十六国与北朝'
+history_book_01_p0038_b002 paragraph raw= '西晋末年到东晋时期，北方先后出现了一批割据政权，最主要的有15个，加上西南地区的成汉，合称“十六国”。其中大部分由内迁少数民族建立。它们都采用了中原模式的国号、年号，学习汉族的典章制度。在长期混战中，原有民族布局被打乱，各族之间频繁接触，差异慢慢缩小，但民族隔阂仍然广泛存在。4世纪下半叶，氐族建立的前秦统一北方，随后大举进攻东晋，被击败于淝水。由于内部各族尚未充分交融，统治基础脆弱，强大的前秦政权在淝水之战后迅速崩溃，曾经稍显缓和的民族矛盾又加剧了。' 
+clean= '四世纪下半叶氐族建立的前秦统一北方，进攻东晋后在淝水战败并迅速崩溃；教材解释其与内部民族融合不足、统治基础脆弱有关。'
+history_book_01_p0038_b003 image raw= '东晋十六国形势图；图内标有东晋、十六国、前秦、西凉、西秦、后秦、前赵、后赵、前燕、后燕、南燕、北燕、夏、北凉、前凉、南凉、后凉、成汉、建康、淝水，以及都城、政权部族界、今国界等图例。' 
+clean= '东晋十六国形势图。'
+history_book_01_p0038_b004 caption raw= '▲ 东晋十六国形势图' 
+clean= '东晋十六国形势图'
+history_book_01_p0038_b005 note raw= '从十六国到北朝，北方政权在民族交融的基础上逐渐壮大，为统一全国准备了条件。' 
+clean= '学习聚焦：从十六国到北朝，北方政权在民族交融基础上逐渐壮大，为统一全国准备条件。'
+history_book_01_p0038_b006 image raw= '鲜卑旧墟石室嘎仙洞祝文；黑白石壁文字照片。' 
+clean= '鲜卑旧墟石室嘎仙洞祝文。'
+history_book_01_p0038_b007 caption raw= '▲ 鲜卑旧墟石室嘎仙洞祝文' 
+clean= '鲜卑旧墟石室嘎仙洞祝文'
+history_book_01_p0038_b008 paragraph raw= '1980年，考古工作者在内蒙古鄂伦春自治旗一个山洞——嘎仙洞的石壁上，发现了北魏皇帝祭祖时镌刻的祝文，文字内容与《魏书》相关记载相同，证明嘎仙洞就是《魏书》中提到的鲜卑拓跋部“石室”祖庙。' 
+clean= '1980年，考古工作者在内蒙古鄂伦春自治旗一个山洞——嘎仙洞的石壁上，发现了北魏皇帝祭祖时镌刻的祝文，文字内容与《魏书》相关记载相同，证明嘎仙洞就是《魏书》中提到的鲜卑拓跋部“石室”祖庙。'
+history_book_01_p0038_b009 table raw= '十六国统治者族属表：匈奴：前赵、北凉、夏、后赵；羯：后赵；氐：前秦、后凉、后秦、成汉；羌（表格字样待核）；鲜卑：前燕、后燕、南燕、南凉、西秦；汉：前凉、北燕、西凉。' 
+clean= '十六国统治者族属表。'
+history_book_01_p0038_b010 note raw= '建康…………今江苏南京；夷洲…………今台湾；平城，今山西大同。' 
+clean= '图下注释：建康—今江苏南京；夷洲—今台湾。页脚注释：平城，今山西大同。'
+
+KNOWLEDGE {
+  "id": "history_book_01_p0037_k001",
+  "title": "东晋建立与南朝更替",
+  "kind": "process",
+  "content_type": "other",
+  "themes": [
+    "politics"
+  ],
+  "place_refs": [
+    {
+      "place_id": "history_book_01_p0037_pl001",
+      "role": "occurrence",
+      "evidence_block_ids": [
+        "history_book_01_p0037_b002"
+      ]
+    }
+  ],
+  "person_ids": [
+    "history_book_01_p0037_pe001",
+    "history_book_01_p0037_pe002"
+  ],
+  "summary": {
+    "text": "317年司马睿在建康重建晋朝，史称东晋；420年刘裕建立宋，此后南方经历宋、齐、梁、陈四朝，合称南朝；吴、东晋及南朝四朝又统称六朝。",
+    "evidence_block_ids": [
+      "history_book_01_p0037_b002"
+    ]
+  },
+  "flow": [],
+  "points": [],
+  "background": null,
+  "impact": null,
+  "evidence_block_ids": [
+    "history_book_01_p0037_b002"
+  ],
+  "asset_ids": [],
+  "source_inventory_ids": [
+    "history_book_01_p0037_i001"
+  ],
+  "uncertainties": [
+    "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+  ],
+  "review_status": "pending_review",
+  "time": {
+    "source_text": "317—约589年",
+    "mode": "unknown",
+    "start_year": 317,
+    "end_year": null,
+    "earliest_year": null,
+    "latest_year": null,
+    "precision": "period",
+    "end_status": "unknown",
+    "normalization_note": "教材给出317年、420年和170年间，未给出南朝结束公历年。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+    "evidence_block_ids": [
+      "history_book_01_p0037_b002"
+    ]
+  },
+  "verification": {
+    "review_completed": true,
+    "overall_status": "verified",
+    "historical_status": "verified",
+    "textbook_alignment": "supported",
+    "confidence": "high",
+    "claim_nature": "historical_claim",
+    "verification_note": "未发现实质性史实错误；条目的核心日期、人物、事件与所引教材证据及本文件内部时间线/重复条目相互一致。",
+    "suggested_summary": null,
+    "original_evidence_block_ids": [
+      "history_book_01_p0037_b002"
+    ],
+    "suggested_evidence_block_ids": [
+      "history_book_01_p0037_b002"
+    ],
+    "data_quality_flags": [],
+    "linked_review_issues": [],
+    "external_cross_check": false,
+    "external_source_ids": [],
+    "verification_basis": [
+      "教材原文证据块",
+      "同文件内部时间线与重复条目一致性",
+      "历史知识基线复核"
+    ],
+    "checked_at": "2026-09-21"
+  },
+  "finalization": {
+    "status": "ready",
+    "source_verification_status": "verified",
+    "patch_applied": false,
+    "fact_note": null
+  }
+}
+
+KNOWLEDGE {
+  "id": "history_book_01_p0037_k002",
+  "title": "士族专权",
+  "kind": "process",
+  "content_type": "other",
+  "themes": [
+    "politics",
+    "society"
+  ],
+  "place_refs": [
+    {
+      "place_id": "history_book_01_p0037_pl001",
+      "role": "related",
+      "evidence_block_ids": [
+        "history_book_01_p0037_b004"
+      ]
+    }
+  ],
+  "person_ids": [
+    "history_book_01_p0037_pe001",
+    "history_book_01_p0037_pe003",
+    "history_book_01_p0037_pe004"
+  ],
+  "summary": {
+    "text": "士大夫家族世代把持官位并享有特权，东晋高门士族先后执掌朝政，形成“王与马，共天下”的局面。",
+    "evidence_block_ids": [
+      "history_book_01_p0037_b002",
+      "history_book_01_p0037_b004"
+    ]
+  },
+  "flow": [],
+  "points": [],
+  "background": null,
+  "impact": null,
+  "evidence_block_ids": [
+    "history_book_01_p0037_b002",
+    "history_book_01_p0037_b004"
+  ],
+  "asset_ids": [],
+  "source_inventory_ids": [
+    "history_book_01_p0037_i002"
+  ],
+  "uncertainties": [
+    "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+  ],
+  "review_status": "pending_review",
+  "time": {
+    "source_text": "三国、西晋以来至东晋南朝",
+    "mode": "unknown",
+    "start_year": null,
+    "end_year": null,
+    "earliest_year": null,
+    "latest_year": null,
+    "precision": "period",
+    "end_status": "unknown",
+    "normalization_note": "教材仅给出历史时期，不换算具体年代。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+    "evidence_block_ids": [
+      "history_book_01_p0037_b002",
+      "history_book_01_p0037_b004"
+    ]
+  },
+  "verification": {
+    "review_completed": true,
+    "overall_status": "verified",
+    "historical_status": "verified",
+    "textbook_alignment": "supported",
+    "confidence": "high",
+    "claim_nature": "historical_claim",
+    "verification_note": "未发现实质性史实错误；条目的核心日期、人物、事件与所引教材证据及本文件内部时间线/重复条目相互一致。",
+    "suggested_summary": null,
+    "original_evidence_block_ids": [
+      "history_book_01_p0037_b002",
+      "history_book_01_p0037_b004"
+    ],
+    "suggested_evidence_block_ids": [
+      "history_book_01_p0037_b002",
+      "history_book_01_p0037_b004"
+    ],
+    "data_quality_flags": [],
+    "linked_review_issues": [],
+    "external_cross_check": false,
+    "external_source_ids": [],
+    "verification_basis": [
+      "教材原文证据块",
+      "同文件内部时间线与重复条目一致性",
+      "历史知识基线复核"
+    ],
+    "checked_at": "2026-09-21"
+  },
+  "finalization": {
+    "status": "ready",
+    "source_verification_status": "verified",
+    "patch_applied": false,
+    "fact_note": null
+  }
+}
+
+KNOWLEDGE {
+  "id": "history_book_01_p0037_k003",
+  "title": "东晋南朝时期江南开发",
+  "kind": "process",
+  "content_type": "economy",
+  "themes": [
+    "economy",
+    "agriculture",
+    "society"
+  ],
+  "place_refs": [],
+  "person_ids": [],
+  "summary": {
+    "text": "北方人民南迁带来生产工具、技术和劳动力；南方土地开垦、农作物品种增加、产量提高，纺织、矿冶、陶瓷、造船、造纸等手工业进步，少数民族逐步与汉族交融。",
+    "evidence_block_ids": [
+      "history_book_01_p0037_b003"
+    ]
+  },
+  "flow": [],
+  "points": [
+    {
+      "text": "《宋书》材料描写刘宋元嘉末年南方农业、人口和手工业状况；教材要求据材料说明经济发展成就。",
+      "evidence_block_ids": [
+        "history_book_01_p0037_b006",
+        "history_book_01_p0037_b007"
+      ]
+    }
+  ],
+  "background": null,
+  "impact": null,
+  "evidence_block_ids": [
+    "history_book_01_p0037_b003",
+    "history_book_01_p0037_b006",
+    "history_book_01_p0037_b007"
+  ],
+  "asset_ids": [],
+  "source_inventory_ids": [
+    "history_book_01_p0037_i003"
+  ],
+  "uncertainties": [],
+  "review_status": "pending_review",
+  "time": {
+    "source_text": "东晋南朝时期",
+    "mode": "unknown",
+    "start_year": null,
+    "end_year": null,
+    "earliest_year": null,
+    "latest_year": null,
+    "precision": "period",
+    "end_status": "unknown",
+    "normalization_note": "教材未给出具体起止公历年。；原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+    "evidence_block_ids": [
+      "history_book_01_p0037_b003",
+      "history_book_01_p0037_b006",
+      "history_book_01_p0037_b007"
+    ]
+  },
+  "verification": {
+    "review_completed": true,
+    "overall_status": "verified",
+    "historical_status": "verified",
+    "textbook_alignment": "supported",
+    "confidence": "high",
+    "claim_nature": "historical_claim",
+    "verification_note": "未发现实质性史实错误；条目的核心日期、人物、事件与所引教材证据及本文件内部时间线/重复条目相互一致。",
+    "suggested_summary": null,
+    "original_evidence_block_ids": [
+      "history_book_01_p0037_b003",
+      "history_book_01_p0037_b006",
+      "history_book_01_p0037_b007"
+    ],
+    "suggested_evidence_block_ids": [
+      "history_book_01_p0037_b003",
+      "history_book_01_p0037_b006",
+      "history_book_01_p0037_b007"
+    ],
+    "data_quality_flags": [],
+    "linked_review_issues": [],
+    "external_cross_check": false,
+    "external_source_ids": [],
+    "verification_basis": [
+      "教材原文证据块",
+      "同文件内部时间线与重复条目一致性",
+      "历史知识基线复核"
+    ],
+    "checked_at": "2026-09-21"
+  },
+  "finalization": {
+    "status": "ready",
+    "source_verification_status": "verified",
+    "patch_applied": false,
+    "fact_note": null
+  }
+}

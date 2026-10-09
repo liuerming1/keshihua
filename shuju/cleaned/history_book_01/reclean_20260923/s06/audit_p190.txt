@@ -1,0 +1,51 @@
+## history_book_01_p0190_k001 取消农业税与强农惠农富农政策
+TIME {"source_text": "2006年；粮食产量自2004年起8年连续增长", "mode": "duration", "start_year": 2004, "end_year": 2011, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0190_b001"]}
+SUMMARY {"text": "国家取消农业税并出台强农惠农富农政策，粮食产量自2004年起连续增长，人民生活明显改善。", "evidence_block_ids": ["history_book_01_p0190_b001"]}
+FLOW []
+POINTS [{"text": "2006年国家取消农业税。", "evidence_block_ids": ["history_book_01_p0190_b001"]}, {"text": "教材配图记录河北灵寿农民王三妮自铸“告别田赋鼎”。", "evidence_block_ids": ["history_book_01_p0190_b004"]}]
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_lingshou", "role": "related", "evidence_block_ids": ["history_book_01_p0190_b004"]}]
+PEOPLE ["history_book_01_person_zhang_guimei"]
+EVIDENCE ["history_book_01_p0190_b001", "history_book_01_p0190_b004"]
+BLOCK history_book_01_p0190_b001 [paragraph] 税并出台了一系列强农惠农富农政策，粮食产量自2004年起实现8年连续增长。人民生活明显改善，城镇居民人均可支配收入和农村居民人均纯收入年均分别增长9.7%和8.9%。全民医疗保障体系初步形成，覆盖人数超过13亿。最低生活保障制度实现全覆盖，城乡社会救助体系基本建立。重要学科前沿和战略必争领域取得一批重大自主创新成果，“神舟五号”飞船首次实现载人航天飞行，“神舟七号”飞船航天员成功进行中国人的第一次太空漫步，“嫦娥一号”首次完成绕月探测。到2011年，我国已成为世界第一电子信息产品制造大国，计算机等电子产品产量居世界第一位，互联网网民数量居世界第一位。
+BLOCK history_book_01_p0190_b004 [image] ▲ 河北灵寿农民王三妮自铸“告别田赋鼎”
+铜鼎铭文560字，记农业税废止事：“我是农民的儿子，祖上几代耕织辈辈纳税。今朝告别了田赋，我要代表农民铸鼎刻铭，告知后人，万代歌颂永世不忘。”
+
+## history_book_01_p0190_k002 “两免一补”与农村义务教育保障
+TIME {"source_text": "中共十六大以后；到2008年", "mode": "uncertain", "start_year": null, "end_year": 2008, "earliest_year": null, "latest_year": 2008, "precision": "year", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0190_b006"]}
+SUMMARY {"text": "国家增加财政性教育经费，建立农村义务教育经费保障机制，在西部农村实施“两免一补”，并于2008年实现城乡义务教育全部免除学杂费。", "evidence_block_ids": ["history_book_01_p0190_b006"]}
+FLOW []
+POINTS [{"text": "政策惠及1.6亿学生，减轻家庭经济负担。", "evidence_block_ids": ["history_book_01_p0190_b006"]}, {"text": "2008年全国学龄儿童入学率达99.5%。", "evidence_block_ids": ["history_book_01_p0190_b006"]}]
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0190_b006"]
+BLOCK history_book_01_p0190_b006 [paragraph] “两免一补”。中共十六大以后，国家大幅度增加财政性教育经费，建立农村义务教育经费保障新机制，全面免除农村义务教育学杂费，在西部农村地区实施“两免一补”政策。到2008年，城乡义务教育实现全部免除学杂费，惠及1.6亿学生，减轻了亿万家庭的经济负担，确保了所有义务教育适龄儿童都能“不花钱，有学上”，当年全国学龄儿童入学率达99.5%。
+
+## history_book_01_p0190_k003 张桂梅捐资建设云南华坪民族小学教学楼
+TIME {"source_text": "2006年；2008年3月11日图注", "mode": "point", "start_year": 2006, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0190_b007"]}
+SUMMARY {"text": "图注记载，张桂梅将2006年获得的30万元首届云南省“兴滇人才奖”奖金捐给学校修建教学楼。", "evidence_block_ids": ["history_book_01_p0190_b007"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_zhang_guimei"]
+EVIDENCE ["history_book_01_p0190_b007"]
+BLOCK history_book_01_p0190_b007 [image] ▲ 2008年3月11日，张桂梅与云南华坪民族小学学生在新教学楼前
+2006年，张桂梅把自己获得的30万元首届云南省“兴滇人才奖”奖金捐给了这所教学条件艰苦的学校修建教学楼。
+
+## history_book_01_p0190_k004 神舟七号载人航天飞行与中国人太空漫步
+TIME {"source_text": "2008年9月27日", "mode": "point", "start_year": 2008, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0190_b001", "history_book_01_p0190_b008"]}
+SUMMARY {"text": "教材记载“神舟七号”飞船航天员成功进行中国人的第一次太空漫步，图注记录翟志刚于2008年9月27日出舱。", "evidence_block_ids": ["history_book_01_p0190_b001", "history_book_01_p0190_b008"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_zha_zhigang"]
+EVIDENCE ["history_book_01_p0190_b001", "history_book_01_p0190_b008"]
+BLOCK history_book_01_p0190_b001 [paragraph] 税并出台了一系列强农惠农富农政策，粮食产量自2004年起实现8年连续增长。人民生活明显改善，城镇居民人均可支配收入和农村居民人均纯收入年均分别增长9.7%和8.9%。全民医疗保障体系初步形成，覆盖人数超过13亿。最低生活保障制度实现全覆盖，城乡社会救助体系基本建立。重要学科前沿和战略必争领域取得一批重大自主创新成果，“神舟五号”飞船首次实现载人航天飞行，“神舟七号”飞船航天员成功进行中国人的第一次太空漫步，“嫦娥一号”首次完成绕月探测。到2011年，我国已成为世界第一电子信息产品制造大国，计算机等电子产品产量居世界第一位，互联网网民数量居世界第一位。
+BLOCK history_book_01_p0190_b008 [image] ▲ 2008年9月27日，执行“神舟七号”载人航天飞行出舱活动任务的航天员翟志刚出舱

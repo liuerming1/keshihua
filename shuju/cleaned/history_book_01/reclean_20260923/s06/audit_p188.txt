@@ -1,0 +1,35 @@
+## history_book_01_p0188_k001 改革开放和社会主义现代化建设时期的总体成就
+TIME {"source_text": "改革开放和社会主义现代化建设新时期", "mode": "unknown", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "period", "end_status": "unknown", "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。", "evidence_block_ids": ["history_book_01_p0188_b002"]}
+SUMMARY {"text": "教材概括这一时期取得历史性成就，综合国力增强、科技创新能力提升，对外关系形成全方位多层次新格局。", "evidence_block_ids": ["history_book_01_p0188_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0188_b002"]
+BLOCK history_book_01_p0188_b002 [paragraph] 改革开放和社会主义现代化建设新时期，我国取得历史性成就，综合国力不断增强，科技创新能力持续提升。对外关系形成全方位多层次的新格局，推动建立公正合理的国际政治经济新秩序。
+
+## history_book_01_p0188_k002 1984—1991年综合国力与科技成就
+TIME {"source_text": "1984年至1988年；1990年；1983年、1988年、1991年", "mode": "duration", "start_year": 1983, "end_year": 1991, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "按教材列举的最早与最晚年份组织候选，具体事件可进一步拆分。", "evidence_block_ids": ["history_book_01_p0188_b004"]}
+SUMMARY {"text": "全面改革推动经济加速发展，人民生活向小康社会迈进，巨型计算机、高能加速器和秦山核电站等科技成就相继取得。", "evidence_block_ids": ["history_book_01_p0188_b004"]}
+FLOW []
+POINTS [{"text": "1984年至1988年国内生产总值年均增长12.1%。", "evidence_block_ids": ["history_book_01_p0188_b004"]}, {"text": "1983年“银河-Ⅰ”、1988年北京正负电子对撞机、1991年秦山核电站并网发电。", "evidence_block_ids": ["history_book_01_p0188_b004"]}]
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0188_b004"]
+BLOCK history_book_01_p0188_b004 [paragraph] 在全面改革的推动下，1984年至1988年，我国经济加速发展。五年间，国内生产总值年均增长12.1%，工业总产值达6万多亿元，国家经济实力和综合国力迈上了一个新台阶。1990年，“七五”计划所规定的国民经济和社会发展各项指标绝大部分完成或超额完成，提前实现了第一步战略目标。“七五”期间，人民生活水平进一步提高，全国绝大多数地区解决了温饱问题，开始向小康社会迈进。国家在科学技术多个领域取得新成就。1983年，我国研制成功第一台亿次巨型计算机——“银河-Ⅰ”，填补了国内巨型计算机研制的空白。1988年，我国第一座高能加速器——北京正负电子对撞机对撞成功。1991年，我国自行设计、自行建造的核电站——秦山核电站并网发电。
+
+## history_book_01_p0188_k003 863计划
+TIME {"source_text": "1986年3月提出建议，11月批准；1996年增加海洋技术领域", "mode": "duration", "start_year": 1986, "end_year": 1996, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0188_b009"]}
+SUMMARY {"text": "863计划选择生物、航天、信息、激光、自动化、能源、新材料等高技术领域作为研究发展重点，1996年增加海洋技术领域。", "evidence_block_ids": ["history_book_01_p0188_b009"]}
+FLOW []
+POINTS [{"text": "四位科学家于1986年3月提出发展高技术的建议，邓小平作出批示。", "evidence_block_ids": ["history_book_01_p0188_b009"]}, {"text": "中共中央、国务院于1986年11月批准《高技术研究发展计划纲要》。", "evidence_block_ids": ["history_book_01_p0188_b009"]}]
+BACKGROUND null
+IMPACT {"text": "教材认为863计划对科技发展、科技体制改革和思想观念转变产生重大而深远影响。", "evidence_block_ids": ["history_book_01_p0188_b009"]}
+PLACES []
+PEOPLE ["history_book_01_person_wang_dahang", "history_book_01_person_wang_ganchang", "history_book_01_person_yang_jiachi", "history_book_01_person_chen_fangyun", "history_book_01_person_deng_xiaoping"]
+EVIDENCE ["history_book_01_p0188_b009"]
+BLOCK history_book_01_p0188_b009 [paragraph] 863计划。1986年3月，王大珩、王淦昌、杨嘉墀、陈芳允四位科学家提出要跟踪世界先进水平、发展高技术的建议。邓小平高度重视这一建议并作出批示。11月，中共中央、国务院批准了《高技术研究发展计划纲要》（863计划），选择生物技术、航天技术、信息技术、激光技术、自动化技术、能源技术和新材料7个高技术领域作为我国高技术研究发展的重点。1996年增加了海洋技术领域。863计划的组织实施，对我国科技发展、科技体制改革乃至人们思想观念的转变都产生了重大而深远的影响。

@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-24",
+  "package": "public/data/history_book_01.json",
+  "sha256": "f2b37d6d83facc27f0befefc98d2774813c5aa23ef703ede2f04f79ffabcee3e",
+  "bytes": 8902170,
+  "counts": {
+    "pages": 223,
+    "blocks": 2622,
+    "knowledge": 808,
+    "inventory": 894,
+    "people": 408,
+    "places": 364,
+    "assets": 256,
+    "relations": 88,
+    "map_layers": 45,
+    "archived_knowledge_candidates": 11
+  },
+  "source_candidate_count": 819,
+  "changed_candidate_count": 247,
+  "populated_claims": {
+    "flow": {
+      "before": 6,
+      "after": 57
+    },
+    "points": {
+      "before": 143,
+      "after": 218
+    },
+    "background": {
+      "before": 22,
+      "after": 62
+    },
+    "impact": {
+      "before": 72,
+      "after": 164
+    }
+  },
+  "status_counts": {
+    "qualified": 803,
+    "needs_review": 5
+  },
+  "partial_image_pages": [
+    30,
+    32,
+    38,
+    157,
+    182
+  ],
+  "carryover_remaining": 1,
+  "issue_status_counts": {
+    "resolved": 40,
+    "open": 252
+  },
+  "source_limits": [
+    {
+      "record_ids": [
+        "history_book_01_p0009_k002",
+        "history_book_01_p0009_k003",
+        "history_book_01_p0010_k001",
+        "history_book_01_p0010_k002"
+      ],
+      "reason": "教材使用“距今”考古年代；基线将其直接负号化为公元前年份，但教材没有注明换算历元。本轮已清空不成立的公历年份，保留源语和不确定模式。",
+      "next_action": "后续若页面需要绝对年轴，需明确“距今”的参照年代定义并统一换算；在此之前保留相对时间。"
+    },
+    {
+      "record_ids": [
+        "history_book_01_p0010_k005"
+      ],
+      "reason": "姜寨遗址段只叙述房屋、墓葬与生活遗存，教材未给出姜寨遗址绝对年代；不以相邻段的仰韶文化或父系氏族时期给该遗址定年。现保留源文与不确定时间。",
+      "next_action": "若后续必须放入绝对公历时间轴，需取得教材之外、可核验的姜寨遗址测年来源；仅凭本教材不能补时间。"
+    }
+  ],
+  "asset_metadata_refreshed_count": 174,
+  "status": "delivered",
+  "validation": {
+    "schema": "passed",
+    "contract": "passed",
+    "image_hashes_verified": 256,
+    "playwright_passed": 19,
+    "typecheck": "passed",
+    "build": "passed"
+  }
+}

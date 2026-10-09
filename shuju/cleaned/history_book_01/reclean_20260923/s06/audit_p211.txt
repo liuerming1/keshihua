@@ -1,0 +1,713 @@
+## history_book_01_p0211_k001 夏时期
+TIME {"source_text": "约公元前2070—约前1600年", "mode": "uncertain", "start_year": -2070, "end_year": -1600, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出夏的时间为约公元前2070—约前1600年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k002 商时期
+TIME {"source_text": "约公元前1600—前1046年", "mode": "uncertain", "start_year": -1600, "end_year": -1046, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出商的时间为约公元前1600—前1046年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k003 西周时期
+TIME {"source_text": "公元前1046—前771年", "mode": "duration", "start_year": -1046, "end_year": -771, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出西周的时间为公元前1046—前771年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k004 春秋时期
+TIME {"source_text": "公元前770—前476年", "mode": "duration", "start_year": -770, "end_year": -476, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出春秋的时间为公元前770—前476年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k005 战国时期
+TIME {"source_text": "公元前475—前221年", "mode": "duration", "start_year": -475, "end_year": -221, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出战国的时间为公元前475—前221年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k006 秦时期
+TIME {"source_text": "公元前221—前207年", "mode": "duration", "start_year": -221, "end_year": -207, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出秦的时间为公元前221—前207年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k007 西汉时期
+TIME {"source_text": "公元前202—公元9年", "mode": "duration", "start_year": -202, "end_year": 9, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出西汉的时间为公元前202—公元9年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k008 东汉时期
+TIME {"source_text": "25—220年", "mode": "duration", "start_year": 25, "end_year": 220, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出东汉的时间为25—220年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k009 三国时期
+TIME {"source_text": "220—280年", "mode": "duration", "start_year": 220, "end_year": 280, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出三国的时间为220—280年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k010 西晋时期
+TIME {"source_text": "266—316年", "mode": "duration", "start_year": 266, "end_year": 316, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出西晋的时间为266—316年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k011 东晋时期
+TIME {"source_text": "317—420年", "mode": "duration", "start_year": 317, "end_year": 420, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出东晋的时间为317—420年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k012 南朝时期
+TIME {"source_text": "420—589年", "mode": "duration", "start_year": 420, "end_year": 589, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出南朝的时间为420—589年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k013 北朝时期
+TIME {"source_text": "439—581年", "mode": "duration", "start_year": 439, "end_year": 581, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出北朝的时间为439—581年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k014 隋时期
+TIME {"source_text": "581—618年", "mode": "duration", "start_year": 581, "end_year": 618, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出隋的时间为581—618年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k015 唐时期
+TIME {"source_text": "618—907年", "mode": "duration", "start_year": 618, "end_year": 907, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出唐的时间为618—907年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k016 五代时期
+TIME {"source_text": "907—960年", "mode": "duration", "start_year": 907, "end_year": 960, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出五代的时间为907—960年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k017 辽时期
+TIME {"source_text": "916—1125年", "mode": "duration", "start_year": 916, "end_year": 1125, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出辽的时间为916—1125年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k018 北宋时期
+TIME {"source_text": "960—1127年", "mode": "duration", "start_year": 960, "end_year": 1127, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出北宋的时间为960—1127年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k019 西夏时期
+TIME {"source_text": "1038—1227年", "mode": "duration", "start_year": 1038, "end_year": 1227, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出西夏的时间为1038—1227年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k020 金时期
+TIME {"source_text": "1115—1234年", "mode": "duration", "start_year": 1115, "end_year": 1234, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "由附录表格显式年份转录；约数或区间仍需人工核验。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+SUMMARY {"text": "附录朝代表列出金的时间为1115—1234年。", "evidence_block_ids": ["history_book_01_p0211_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年
+
+## history_book_01_p0211_k021 南宋时期
+TIME {"source_text": "1127—1276年", "mode": "duration", "start_year": 1127, "end_year": 1279, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "known", "normalization_note": "教材附录列1276；外部宋史资料以1279为终年，教材原值保存在source_text。", "evidence_block_ids": ["history_book_01_p0211_b002"], "external_source_ids": ["SRC_SOUTHERN_SONG", "SRC_SOUTHERN_SONG_1276"]}
+SUMMARY {"text": "教材附录将南宋列为1127—1276年；1276年是临安陷落的节点，南宋余部仍继续抵抗，通常以1279年作为南宋终结年份。", "evidence_block_ids": ["history_book_01_p0211_b002"], "external_source_ids": ["SRC_SOUTHERN_SONG", "SRC_SOUTHERN_SONG_1276"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0211_b002"]
+BLOCK history_book_01_p0211_b002 [table] 中国古代朝代表
+朝代	时间
+夏	约公元前2070—约前1600年
+商	约公元前1600—前1046年
+西周	公元前1046—前771年
+春秋	公元前770—前476年
+战国	公元前475—前221年
+秦	公元前221—前207年
+西汉	公元前202—公元9年
+东汉	25—220年
+三国	220—280年
+西晋	266—316年
+东晋	317—420年
+南朝	420—589年
+北朝	439—581年
+隋	581—618年
+唐	618—907年
+五代	907—960年
+辽	916—1125年
+北宋	960—1127年
+西夏	1038—1227年
+金	1115—1234年
+南宋	1127—1276年

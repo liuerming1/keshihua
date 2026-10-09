@@ -1,0 +1,501 @@
+{
+  "range": [
+    113,
+    223
+  ],
+  "patches": [
+    {
+      "id": "history_book_01_p0118_k003",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0118_b004"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "原链指向“史料阅读”标题；b004才包含反清起义与黄花岗起义摘要的全部事实。"
+    },
+    {
+      "id": "history_book_01_p0118_k004",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0118_b006"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "原链指向秋瑾图片图注；b006包含林觉民、日期、《与妻书》和黄花岗起义。"
+    },
+    {
+      "id": "history_book_01_p0119_k001",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0119_b005"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "原链指向“学习聚焦”标题；b005逐项记载预备立宪、宪法大纲、皇族内阁及立宪派转向。"
+    },
+    {
+      "id": "history_book_01_p0119_k002",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0119_b007",
+        "history_book_01_p0119_b008"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "b007和b008分别提供铁路国有、四国银行团及保路运动事实；原链为标题块。"
+    },
+    {
+      "id": "history_book_01_p0119_k003",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0119_b007"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "b007连续记载武昌起义、湖北军政府、多省独立及1912年临时政府成立；原链为标题块。"
+    },
+    {
+      "id": "history_book_01_p0120_k002",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0120_b004"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "原链指向袁世凯合影图注；b004逐项记载临时约法日期、内容及教材评价。"
+    },
+    {
+      "id": "history_book_01_p0122_k002",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0122_b010"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "原链指向百姓逃亡图片图注；b010逐项记载国会选举、宋教仁被刺及二次革命。"
+    },
+    {
+      "id": "history_book_01_p0171_k002",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0171_b004"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "原链指向过渡时期总路线；b004才记载1955年万隆会议与求同存异。"
+    },
+    {
+      "id": "history_book_01_p0174_k002",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0174_b006"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "原链指向中共八大会场图片；b006明确记载1956年4月28日方针提出及其教材作用概括。"
+    },
+    {
+      "id": "history_book_01_p0176_k001",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0176_b003"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "原链指向周恩来视察图片；b003明确记载1964年三届全国人大一次会议与四个现代化目标。"
+    },
+    {
+      "id": "history_book_01_p0176_k003",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0176_b001",
+        "history_book_01_p0176_b006"
+      ],
+      "uncertainties_append": [
+        "教材将1971年事件概括为林彪集团策动武装政变；具体计划、参与者与过程仍需另有来源核对。"
+      ],
+      "disposition": "apply",
+      "reason": "b006是条目摘要，但毛泽东、周恩来及事件完整叙述在整页正文b001；两块共同覆盖当前summary，原链b005不相关。"
+    },
+    {
+      "id": "history_book_01_p0177_k002",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0177_b006"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "原链指向“伟大的建设成就”标题；b006逐项支持改革开放前各领域成就及工业、国民经济体系。"
+    },
+    {
+      "id": "history_book_01_p0177_k003",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0177_b001",
+        "history_book_01_p0177_b006"
+      ],
+      "uncertainties_append": [
+        "教材将“一五”至“四五”及两弹一星作为建设成就概括；具体项目、年份和统计口径仍应按正文核对。"
+      ],
+      "disposition": "apply",
+      "reason": "b006支持工业体系，原summary中的“两弹一星”仅由整页正文b001覆盖；补入b001避免用不完整b006支撑整条摘要。"
+    },
+    {
+      "id": "history_book_01_p0211_k021",
+      "summary": null,
+      "evidence_block_ids": null,
+      "uncertainties_append": [
+        "现有年表证据块只载1127—1276，不能由该块支持1279；需补充教材正文或外部权威来源后再改写南宋终结年份。"
+      ],
+      "disposition": "needs_source",
+      "reason": "suggested_summary加入1279及崖山之战，但suggested_evidence_block仅记1127—1276，当前证据不足以应用该改写。"
+    },
+    {
+      "id": "history_book_01_p0214_k018",
+      "summary": null,
+      "evidence_block_ids": null,
+      "uncertainties_append": [
+        "现有年表证据块只载“1276年南宋灭亡”，不能由该块支持1279及崖山之战；需补充后续年表/正文或外部权威来源后修订。"
+      ],
+      "disposition": "needs_source",
+      "reason": "suggested_summary把1276改为1279并加入崖山之战，但当前唯一证据块未记载这些事实。"
+    },
+    {
+      "id": "history_book_01_p0219_k001",
+      "summary": {
+        "text": "1949年4月23日人民解放军解放南京；教材年表将其表述为国民党反动统治覆灭、中华民国时期结束。",
+        "evidence_block_ids": [
+          "history_book_01_p0219_b002"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0219_b002"
+      ],
+      "uncertainties_append": [
+        "本块没有1949年后政权迁移或整体政权延续资料；涉及“中华民国时期/政权结束”的更宽结论需补来源并限定范围。"
+      ],
+      "disposition": "apply",
+      "reason": "suggested_summary中关于迁台继续运作的补充超出本块；保留有证据的日期并改为教材归属表述，避免无范围断言。"
+    },
+    {
+      "id": "history_book_01_p0146_k001",
+      "summary": null,
+      "evidence_block_ids": null,
+      "uncertainties_append": [
+        "“30万人以上”应明确为南京审判战犯军事法庭所载统计口径，不作为无争议的精确总数。"
+      ],
+      "disposition": "apply",
+      "reason": "事件事实有b002支持；数字属于特定审判统计口径，需在摘要使用处保留限定。"
+    },
+    {
+      "id": "history_book_01_p0147_k003",
+      "summary": null,
+      "evidence_block_ids": null,
+      "uncertainties_append": [
+        "“至少20万”是教材中的估算性数字，受资料缺失和统计口径影响，不能当作精确计数。"
+      ],
+      "disposition": "apply",
+      "reason": "制度与强制性事实有b004支持；人数需要保留教材估算性质。"
+    },
+    {
+      "id": "history_book_01_p0149_k003",
+      "summary": null,
+      "evidence_block_ids": null,
+      "uncertainties_append": [
+        "“抗战以来正面战场最大胜利”是教材比较性评价，应注明比较时段和衡量标准。"
+      ],
+      "disposition": "apply",
+      "reason": "战役、日期、指挥及一万余人均由b009支持；“最大”属于比较评价。"
+    },
+    {
+      "id": "history_book_01_p0152_k001",
+      "summary": null,
+      "evidence_block_ids": null,
+      "uncertainties_append": [
+        "“敌后战场逐渐成为全国抗战的主战场”是综合性历史判断，应限定阶段和统计口径。"
+      ],
+      "disposition": "apply",
+      "reason": "战果及教材原判断均在b001；需防止将阶段性评价读作无条件事实。"
+    },
+    {
+      "id": "history_book_01_p0153_k002",
+      "summary": null,
+      "evidence_block_ids": null,
+      "uncertainties_append": [
+        "“东方主战场”是教材/官方史学的综合定位；兵力比较应明确时段和统计对象。"
+      ],
+      "disposition": "apply",
+      "reason": "b005—b006支持战争时点、兵力比较和援助事实；定位属于综合评价。"
+    },
+    {
+      "id": "history_book_01_p0155_k001",
+      "summary": null,
+      "evidence_block_ids": null,
+      "uncertainties_append": [
+        "“台湾光复”是教材和特定政治法理语境中的术语；详情应同时保留1945年10月25日及教材来源归属。"
+      ],
+      "disposition": "apply",
+      "reason": "b003支持日期及教材术语；不能把术语脱离来源当作无争议法理结论。"
+    },
+    {
+      "id": "history_book_01_p0169_k001",
+      "summary": {
+        "text": "1950年10月中国人民志愿军入朝作战，经过五次战役和边谈边打；1953年7月美国在停战协定上签字，教材据此概括为取得抗美援朝战争胜利。",
+        "evidence_block_ids": [
+          "history_book_01_p0169_b002"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0169_b002"
+      ],
+      "uncertainties_append": [
+        "停战协定终止大规模战斗，但当前教材块未提供最终和平条约信息；“取得胜利”应标为教材/官方评价。"
+      ],
+      "disposition": "apply",
+      "reason": "原summary把“停战协定签字”直接改写成无归属的“取得胜利”；b002支持停战事实及教材语境，需拆开事实与评价。"
+    },
+    {
+      "id": "history_book_01_p0191_k004",
+      "summary": {
+        "text": "教材材料记载，1972年11月联合国大会以99票对5票通过决议；材料称该决议“认可中国的主张”。",
+        "evidence_block_ids": [
+          "history_book_01_p0191_b008"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0191_b008"
+      ],
+      "uncertainties_append": [
+        "“认可中国的主张”是教材材料对决议结果的概括，具体决议内容和“殖民地”法理概念仍需人工核对，不能扩展为对全部相关法理主张的裁定。"
+      ],
+      "disposition": "apply",
+      "reason": "原summary将材料概括直接作为宽泛事实；改为明确的教材材料归属并保留原文范围。"
+    },
+    {
+      "id": "history_book_01_p0192_k002",
+      "summary": {
+        "text": "教材记载，1992年海协会与海基会在事务性商谈中各自以口头方式表述“海峡两岸均坚持一个中国原则”，并称为“九二共识”；1993年汪辜会谈标志两岸关系发展迈出重要一步。",
+        "evidence_block_ids": [
+          "history_book_01_p0192_b004"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0192_b004"
+      ],
+      "uncertainties_append": [
+        "“九二共识”的名称、是否形成及其核心含义在不同政治主体和时期存在公开争议；本摘要按教材归属表述，不作无争议共识断言。"
+      ],
+      "disposition": "apply",
+      "reason": "原summary使用“1992年形成”这一无争议语气；b004支持教材所述过程，但不支持抹去争议的扩展表述。"
+    },
+    {
+      "id": "history_book_01_p0194_k003",
+      "summary": {
+        "text": "教材记载，2012年9月针对日本政府对钓鱼岛实施所谓“国有化”，中国政府发表领海基线声明并发布《钓鱼岛是中国的固有领土》白皮书。",
+        "evidence_block_ids": [
+          "history_book_01_p0194_b004"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0194_b004"
+      ],
+      "uncertainties_append": [
+        "“钓鱼岛是中国的固有领土”是中华人民共和国政府的主权主张，应保持来源归属，不作为无归属的中立事实断言。"
+      ],
+      "disposition": "apply",
+      "reason": "b004明确记载中国政府发布的文件及其标题；改为教材归属以符合来源边界。"
+    },
+    {
+      "id": "history_book_01_p0205_k004",
+      "summary": null,
+      "evidence_block_ids": null,
+      "uncertainties_append": [
+        "“得到国际社会广泛认同”是范围较宽的评价性概括，应限定具体国家、组织或文件，避免理解为所有主体一致接受。"
+      ],
+      "disposition": "apply",
+      "reason": "b001支持提出理念及写入宪法序言；“广泛认同”需保留范围不确定性。"
+    },
+    {
+      "id": "history_book_01_p0211_k001",
+      "summary": null,
+      "evidence_block_ids": null,
+      "uncertainties_append": [
+        "“约公元前2070—约前1600年”属于教材/传统断代框架；夏与二里头文化的对应及具体年代仍有学术争议。"
+      ],
+      "disposition": "apply",
+      "reason": "b002支持年表转录；现有条目不应被呈现为无争议年代考订。"
+    },
+    {
+      "id": "history_book_01_p0212_k004",
+      "summary": {
+        "text": "教材年表记载，距今约170万年的元谋人是“中国境内目前已确认的最早古人类”。",
+        "evidence_block_ids": [
+          "history_book_01_p0212_b003"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0212_b003"
+      ],
+      "uncertainties_append": [
+        "“目前已确认的最早古人类”是教材年表的时代性表述；“最早”需随考古新证据复核，当前不扩展为无条件学术结论。"
+      ],
+      "disposition": "apply",
+      "reason": "改为教材年表归属，避免将年表口径直接当作不受更新影响的绝对结论。"
+    },
+    {
+      "id": "history_book_01_p0212_k009",
+      "summary": null,
+      "evidence_block_ids": null,
+      "uncertainties_append": [
+        "“约公元前2070年禹建立夏朝”属于传世文献和教材采用的年代框架；夏与二里头文化对应及具体年代仍有学术争议。"
+      ],
+      "disposition": "apply",
+      "reason": "b003支持年表转录；需把传统纪年与考古对应的不确定性保留。"
+    },
+    {
+      "id": "history_book_01_p0212_k010",
+      "summary": null,
+      "evidence_block_ids": null,
+      "uncertainties_append": [
+        "“约公元前1600年汤灭夏、建立商朝”属于传统王朝纪年和传世文献叙事；夏商早期与考古文化的精确对应仍有学术讨论。"
+      ],
+      "disposition": "apply",
+      "reason": "b003支持年表转录；需把传统纪年与考古对应的不确定性保留。"
+    },
+    {
+      "id": "history_book_01_p0218_k015",
+      "summary": null,
+      "evidence_block_ids": null,
+      "uncertainties_append": [
+        "当前页级证据只有“1945年10月25日 台湾光复”这一压缩术语，未支持受降地点、接管过程等扩展描述；需补来源后再扩展。"
+      ],
+      "disposition": "apply",
+      "reason": "b016支持日期与教材术语，但年表条目过于压缩，不能凭空补写背景。"
+    },
+    {
+      "id": "history_book_01_p0219_k008",
+      "summary": {
+        "text": "教材年表记载，1953年7月朝鲜停战协定签署，并将其概括为中国取得抗美援朝战争胜利。",
+        "evidence_block_ids": [
+          "history_book_01_p0219_b009"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0219_b009"
+      ],
+      "uncertainties_append": [
+        "停战协定签署是事件事实；“中国取得抗美援朝战争胜利”是教材/官方评价，二者需分开标注。"
+      ],
+      "disposition": "apply",
+      "reason": "b009同时含签署日期和教材评价；改为来源归属，避免把评价写成无争议中立事实。"
+    },
+    {
+      "id": "history_book_01_p0220_k012",
+      "summary": null,
+      "evidence_block_ids": null,
+      "uncertainties_append": [
+        "当前页级证据只有“1992年11月‘九二共识’”的压缩条目；该名称及其核心含义存在公开争议，需补来源后再扩展。"
+      ],
+      "disposition": "apply",
+      "reason": "b013支持日期与术语转录，不支持补写商谈过程或无争议定义。"
+    }
+  ],
+  "issue_resolutions": [
+    {
+      "id": "history_book_01_p0118_issue001",
+      "status": "open",
+      "reason": "《与妻书》引文、注释及《民报》引文仍需按原始史料核对；本补丁只重连林觉民摘要证据。"
+    },
+    {
+      "id": "history_book_01_p0120_issue002",
+      "status": "open",
+      "reason": "《临时约法》日期与内容已重连b004，但责任内阁制等法制史评价仍待人工核验。"
+    },
+    {
+      "id": "history_book_01_p0122_issue002",
+      "status": "open",
+      "reason": "宋教仁案与二次革命的因果强度仍需人工复核，本补丁仅重连教材段落b010。"
+    },
+    {
+      "id": "history_book_01_issue007",
+      "status": "open",
+      "reason": "人数及拉贝材料引用边界仍需人工核查；本补丁追加统计口径不确定性。"
+    },
+    {
+      "id": "history_book_01_issue010",
+      "status": "open",
+      "reason": "台儿庄战役所属会战时段的精确边界仍待核对，本补丁未补具体结束日。"
+    },
+    {
+      "id": "history_book_01_p0152_issue001",
+      "status": "open",
+      "reason": "百团大战战果跨页，后续引用仍须同时保留前页与b001；本补丁未把跨页数字拆分。"
+    },
+    {
+      "id": "history_book_01_p0155_issue002",
+      "status": "open",
+      "reason": "1945年多日期事件的表述边界仍待人工核对，本补丁只保留原日期并追加术语来源限定。"
+    },
+    {
+      "id": "history_book_01_p0169_issue001",
+      "status": "open",
+      "reason": "抗美援朝战争与战役范围仍需按原页图像及前后页核对。"
+    },
+    {
+      "id": "history_book_01_p0174_issue001",
+      "status": "open",
+      "reason": "百花方针提出场合与中共八大节点仍需人工核对。"
+    },
+    {
+      "id": "history_book_01_p0176_issue001",
+      "status": "open",
+      "reason": "文化大革命相关人物、集团和事件关系仍需人工核对；本补丁只重连正文证据并保留限定。"
+    },
+    {
+      "id": "history_book_01_p0177_issue001",
+      "status": "open",
+      "reason": "一五至四五及改革开放前的时期边界、页面图片仍待核对。"
+    },
+    {
+      "id": "history_book_01_p0191_q002",
+      "status": "open",
+      "reason": "已将“认可中国主张”改为教材材料归属，但具体决议与国际法概念仍需人工复核。"
+    },
+    {
+      "id": "history_book_01_p0192_q002",
+      "status": "open",
+      "reason": "已把“九二共识”改为教材归属表述，但名称、形成与核心含义争议仍需人工审阅。"
+    },
+    {
+      "id": "history_book_01_p0194_q003",
+      "status": "open",
+      "reason": "已明确钓鱼岛主权表述属于中国政府主张，发布边界仍需人工确认。"
+    },
+    {
+      "id": "history_book_01_p0205_q001",
+      "status": "open",
+      "reason": "跨页关系与候选内容仍需原页渲染图人工复核。"
+    },
+    {
+      "id": "history_book_01_p0211_issue001",
+      "status": "open",
+      "reason": "朝代表的“约”、公元前及分期仍需人工核对；本补丁未换算精确年代。"
+    },
+    {
+      "id": "history_book_01_p0212_issue001",
+      "status": "open",
+      "reason": "大事年表的距今、约数及年代精度仍需人工复核；本补丁保留教材归属。"
+    },
+    {
+      "id": "history_book_01_p0214_issue001",
+      "status": "open",
+      "reason": "第214页表格跨页续接仍需读取第215页核对。"
+    },
+    {
+      "id": "history_book_01_b06d_r002",
+      "status": "open",
+      "reason": "附录压缩条目的日期精度、事件边界与教材表述仍需逐条人工审阅。"
+    }
+  ]
+}

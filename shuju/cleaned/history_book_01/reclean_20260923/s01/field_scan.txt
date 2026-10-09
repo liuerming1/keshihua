@@ -1,0 +1,89 @@
+08 history_book_01_p0008_k001 中华文明多元一体、源远流长 | time=中华文明多元一体，源远流长，生生不息 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+08 history_book_01_p0008_k002 中国原始文化经历旧石器时代与新石器时代 | time=先后经历了旧石器时代与新石器时代 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+08 history_book_01_p0008_k003 夏、商、西周与早期国家的形成发展 | time=夏、商、西周 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+08 history_book_01_p0008_k004 春秋战国的政治、经济、社会与文化大变动 | time=春秋战国 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+08 history_book_01_p0008_k005 百家争鸣 | time=百家争鸣是这一变动的思想反映 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+08 history_book_01_p0008_k006 秦汉统一多民族封建国家的形成 | time=秦汉 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+09 history_book_01_p0009_k001 石器时代人类以打制和磨制石器为工具 | time=石器时代 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+09 history_book_01_p0009_k002 元谋人 | time=距今约170万年 (uncertain -1700000,None not_applicable) | s=True fl=0 pt=0 bg=False im=False refs=1 pers=0
+09 history_book_01_p0009_k003 北京人 | time=距今约70万至20万年 (uncertain -700000,-200000 known) | s=True fl=0 pt=2 bg=False im=False refs=1 pers=0
+ pts: 从事渔猎和采集，过群居生活。 / 已经学会用火。
+10 history_book_01_p0010_k001 新石器时代 | time=距今约1万年前 (uncertain -10000,None not_applicable) | s=True fl=0 pt=2 bg=False im=True refs=0 pers=0
+ pts: 大量使用陶器，开始原始农业，饲养家畜，生活逐渐稳定。 / 中国已发现的新石器时代文化遗存有1万多处且分布广泛。
+10 history_book_01_p0010_k002 仰韶文化 | time=距今约7000至5000年前 (uncertain -7000,-5000 known) | s=True fl=0 pt=2 bg=False im=False refs=1 pers=0
+ pts: 典型器物是彩绘陶器。 / 以粟等为主要栽培作物。
+10 history_book_01_p0010_k003 大汶口文化 | time=大致同一时期 (uncertain None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=1 pers=0
+10 history_book_01_p0010_k004 河姆渡文化 | time=大致同一时期 (uncertain None,None unknown) | s=True fl=0 pt=2 bg=False im=False refs=1 pers=0
+ pts: 河姆渡文化居民种植水稻。 / 河姆渡文化居民掌握养蚕缫丝技术。
+10 history_book_01_p0010_k005 姜寨聚落与母系氏族公社状况 | time=None (unknown None,None unknown) | s=True fl=0 pt=1 bg=False im=False refs=1 pers=0
+ pts: 姜寨聚落是仰韶文化聚落形态的典型代表。
+11 history_book_01_p0011_k001 新石器时代晚期多元文化与龙山文化 | time=距今约5000年的新石器时代晚期 (uncertain None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+11 history_book_01_p0011_k002 原始社会阶段与父系氏族社会阶级分化 | time=约200万年原始社会至新石器时代晚期 (uncertain None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+11 history_book_01_p0011_k003 从部落到国家与万邦时代 | time=五帝后期龙山文化时代 (uncertain None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+11 history_book_01_p0011_k004 炎黄部落联盟与禅让传说 | time=古史传说时代 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+12 history_book_01_p0012_k001 夏朝建立与世袭制取代禅让制 | time=约公元前2070年 (uncertain -2070,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+12 history_book_01_p0012_k002 夏商更替与商汤灭夏 | time=约公元前1600年 (uncertain -1600,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+12 history_book_01_p0012_k003 夏商时期历法与干支纪日法 | time=夏商时期 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+12 history_book_01_p0012_k004 启继位记载的差异 | time=禹晚年至启继位时期 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+12 history_book_01_p0012_k005 商朝前期迁都与殷墟 | time=商朝前期至商朝 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+13 history_book_01_p0013_k001 甲骨文与商朝国家机构 | time=商朝 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+13 history_book_01_p0013_k002 商朝灭亡与西周建立 | time=公元前1046年 (point -1046,None not_applicable) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+13 history_book_01_p0013_k003 西周分封制与宗法制 | time=西周时期 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+13 history_book_01_p0013_k004 何尊铭文与“中国”实物见证 | time=西周早期周成王时 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+14 history_book_01_p0014_k001 宗法制与政权族权结合 | time=西周时期 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+14 history_book_01_p0014_k002 国人暴动、共和行政与西周灭亡 | time=公元前841年至公元前770年 (duration -841,-770 known) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+14 history_book_01_p0014_k003 商周时期井田制与青铜文化 | time=商和西周时期 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+14 history_book_01_p0014_k004 商周时期奴隶买卖 | time=商周时期 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+15 history_book_01_p0015_k001 商周民本思想材料 | time=商周时期文献材料 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+15 history_book_01_p0015_k002 中华文明多源性与统一性讨论 | time=史前文化至中华文明形成时期 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+16 history_book_01_p0016_k001 东周建立与诸侯纷争 | time=周平王东迁后至东周时期 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+16 history_book_01_p0016_k002 春秋诸侯争霸与春秋五霸 | time=春秋时期 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+17 history_book_01_p0017_k001 战国七雄与周王室被秦吞并 | time=公元前256年及此前战国时期 (uncertain -256,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+17 history_book_01_p0017_k002 春秋战国华夏认同与民族交融 | time=春秋至战国时期 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+18 history_book_01_p0018_k001 春秋战国经济发展 | time=春秋战国时期 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+18 history_book_01_p0018_k002 战国变法运动与社会转型 | time=战国时期 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+19 history_book_01_p0019_k001 商鞅变法 | time=公元前356年开始 (point -356,None not_applicable) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+19 history_book_01_p0019_k002 孔子思想与私学教育 | time=春秋后期；孔子公元前551—前479年 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+19 history_book_01_p0019_k003 老子与道家思想 | time=春秋后期 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+20 history_book_01_p0020_k001 百家争鸣 | time=春秋战国时期 (uncertain None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+21 history_book_01_p0021_k001 战国变法运动 | time=战国时期 (uncertain None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+21 history_book_01_p0021_k002 《诗经》与楚辞 | time=春秋时期；战国后期 (uncertain None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+22 history_book_01_p0022_k001 秦统一的条件 | time=战国中后期至秦统一前 (uncertain None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+23 history_book_01_p0023_k001 秦统一与秦朝疆域扩展 | time=公元前230—前221年；公元前214年 (duration -230,-221 known) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+23 history_book_01_p0023_k002 秦朝中央集权制度与统一措施 | time=秦朝 (uncertain None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+24 history_book_01_p0024_k001 秦朝的暴政 | time=秦统一后至秦亡前 (uncertain None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+25 history_book_01_p0025_k001 焚书坑儒与秦朝统治危机 | time=秦始皇统治时期；公元前210年 (uncertain None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+25 history_book_01_p0025_k002 秦末农民起义与秦的速亡 | time=公元前209—前207年 (duration -209,-207 known) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+26 history_book_01_p0026_k001 楚汉战争与刘邦胜利 | time=楚汉战争；长达四年 (duration None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+27 history_book_01_p0027_k001 秦律与出土文献价值 | time=1975年 (point 1975,None not_applicable) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+28 history_book_01_p0028_k001 西汉建立与文景之治 | time=公元前202年至汉文帝、汉景帝时期 (duration -202,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+29 history_book_01_p0029_k001 汉武帝加强中央集权 | time=汉武帝时期 (uncertain None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+29 history_book_01_p0029_k002 汉武帝反击匈奴与丝绸之路 | time=汉武帝时期 (uncertain None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+30 history_book_01_p0030_k001 西汉设置西域都护府 | time=元前60年 (point -60,None not_applicable) | s=True fl=0 pt=0 bg=False im=True refs=1 pers=0
+30 history_book_01_p0030_k002 王莽改国号为新与西汉灭亡 | time=公元9年 (point 9,None not_applicable) | s=True fl=0 pt=0 bg=True im=False refs=0 pers=1
+30 history_book_01_p0030_k003 绿林、赤眉起义与王莽政权覆亡 | time=23年 (point 23,None not_applicable) | s=True fl=0 pt=0 bg=True im=False refs=2 pers=0
+30 history_book_01_p0030_k004 刘秀重建汉朝与光武中兴 | time=25年，东汉初年 (duration 25,None unknown) | s=True fl=1 pt=0 bg=False im=True refs=1 pers=1
+31 history_book_01_p0031_k001 东汉外戚宦官交替专权与党锢之祸 | time=东汉中期以后 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+31 history_book_01_p0031_k002 黄巾起义与东汉政权名存实亡 | time=184年 (point 184,None not_applicable) | s=True fl=0 pt=0 bg=True im=True refs=0 pers=1
+31 history_book_01_p0031_k003 《史记》与《汉书》的史学成就 | time=西汉至东汉 (unknown None,None unknown) | s=True fl=0 pt=1 bg=False im=False refs=0 pers=2
+ pts: 《史记》叙述上起黄帝、下至汉武帝年间的历史，兼具史学和文学特色。
+31 history_book_01_p0031_k004 汉赋、乐府诗与五言诗 | time=两汉 (unknown None,None unknown) | s=True fl=0 pt=1 bg=False im=False refs=0 pers=0
+ pts: 汉赋介于韵文和散文之间，乐府诗由乐府采集民歌修改而成。
+32 history_book_01_p0032_k001 两汉科技成就与蔡伦改进造纸术 | time=两汉 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=True refs=0 pers=1
+32 history_book_01_p0032_k002 两汉其他重要科技成就 | time=两汉 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=3
+33 history_book_01_p0033_k001 两汉杰出人物的家国情怀 | time=两汉 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=6
+33 history_book_01_p0033_k002 东汉豪强地主势力发展及其与政权衰亡的关系 | time=东汉末年 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=1
+34 history_book_01_p0034_k001 三国两晋南北朝至五代十国的阶段概述 | time=三国至五代十国 (unknown None,None unknown) | s=True fl=0 pt=1 bg=False im=False refs=0 pers=0
+ pts: 单元强调制度演进、民族交融、区域开发和思想文化发展。
+35 history_book_01_p0035_k001 刘备拜访诸葛亮与三分天下预言 | time=207年 (point 207,None not_applicable) | s=True fl=0 pt=0 bg=False im=False refs=1 pers=4
+35 history_book_01_p0035_k002 三国鼎立 | time=220年后 (unknown 220,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=3 pers=3
+36 history_book_01_p0036_k001 西晋短暂统一 | time=280年 (point 280,None not_applicable) | s=True fl=0 pt=0 bg=False im=False refs=1 pers=1
+36 history_book_01_p0036_k002 西晋少数民族内迁与政权分立 | time=东汉以来至316年 (duration None,316 known) | s=True fl=0 pt=0 bg=False im=False refs=1 pers=0
+37 history_book_01_p0037_k001 东晋建立与南朝更替 | time=317—约589年 (unknown 317,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=1 pers=2
+37 history_book_01_p0037_k002 士族专权 | time=三国、西晋以来至东晋南朝 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=1 pers=3
+37 history_book_01_p0037_k003 东晋南朝时期江南开发 | time=东晋南朝时期 (unknown None,None unknown) | s=True fl=0 pt=1 bg=False im=False refs=0 pers=0
+ pts: 《宋书》材料描写刘宋元嘉末年南方农业、人口和手工业状况；教材要求据材料说明经济发展成就。
+38 history_book_01_p0038_k001 十六国与民族交融 | time=西晋末年到东晋时期 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=0 pers=0
+38 history_book_01_p0038_k002 前秦统一北方与淝水之战 | time=4世纪下半叶 (uncertain None,None unknown) | s=True fl=0 pt=0 bg=False im=True refs=1 pers=0
+38 history_book_01_p0038_k003 北魏统一北方与民族交融 | time=4世纪末至5世纪后期 (unknown None,None unknown) | s=True fl=0 pt=0 bg=False im=False refs=1 pers=1
+38 history_book_01_p0038_k004 嘎仙洞石室祖庙的考古证据 | time=1980年 (point 1980,None not_applicable) | s=True fl=0 pt=0 bg=False im=False refs=1 pers=0

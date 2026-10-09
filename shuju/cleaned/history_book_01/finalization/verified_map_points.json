@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "coordinate_reference_system": "EPSG:4326",
+  "source_url": "https://whc.unesco.org/en/list/1592/maps/",
+  "source_title": "UNESCO World Heritage Centre: Archaeological Ruins of Liangzhu City — Maps",
+  "source_accessed_at": "2026-09-21",
+  "license_note": "UNESCO 页面文字标注 CC-BY-SA IGO 3.0；这些坐标作为带来源的事实点引用，不复制其地图图像或多边形。",
+  "scope_note": "以下是 UNESCO 2019 世界遗产四个组成区的公布坐标点，不是新石器时代良渚文化边界、遗址完整外廓或教材地图的地理配准点。",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "liangzhu_wh_1592_001",
+      "geometry": {"type": "Point", "coordinates": [120.011942, 30.426108]},
+      "properties": {"name": "瑶山遗址区", "unesco_id": "1592-001", "source_dms": "N30 25 33.99 E120 0 42.99", "map_candidate_id": "history_book_01_p0011_map001", "temporal_basis": "2019_world_heritage_property", "historical_geometry": false}
+    },
+    {
+      "type": "Feature",
+      "id": "liangzhu_wh_1592_002",
+      "geometry": {"type": "Point", "coordinates": [119.903606, 30.420278]},
+      "properties": {"name": "谷口高坝区", "unesco_id": "1592-002", "source_dms": "N30 25 13 E119 54 12.98", "map_candidate_id": "history_book_01_p0011_map001", "temporal_basis": "2019_world_heritage_property", "historical_geometry": false}
+    },
+    {
+      "type": "Feature",
+      "id": "liangzhu_wh_1592_003",
+      "geometry": {"type": "Point", "coordinates": [119.94955, 30.403581]},
+      "properties": {"name": "平原低坝区—山前长堤", "unesco_id": "1592-003", "source_dms": "N30 24 12.89 E119 56 58.38", "map_candidate_id": "history_book_01_p0011_map001", "temporal_basis": "2019_world_heritage_property", "historical_geometry": false}
+    },
+    {
+      "type": "Feature",
+      "id": "liangzhu_wh_1592_004",
+      "geometry": {"type": "Point", "coordinates": [119.990825, 30.395547]},
+      "properties": {"name": "城址区", "unesco_id": "1592-004", "source_dms": "N30 23 43.97 E119 59 26.97", "map_candidate_id": "history_book_01_p0011_map001", "temporal_basis": "2019_world_heritage_property", "historical_geometry": false}
+    }
+  ]
+}

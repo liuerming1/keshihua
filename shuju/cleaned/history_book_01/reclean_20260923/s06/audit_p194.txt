@@ -1,0 +1,36 @@
+## history_book_01_p0194_k001 21世纪和平发展道路与全球治理参与
+TIME {"source_text": "进入21世纪", "mode": "unknown", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "period", "end_status": "unknown", "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。", "evidence_block_ids": ["history_book_01_p0194_b001"]}
+SUMMARY {"text": "进入21世纪，中国坚持和平发展，提出外交总体布局，开展周边、欧盟、金砖国家和全球治理等方面的外交合作。", "evidence_block_ids": ["history_book_01_p0194_b001"]}
+FLOW []
+POINTS [{"text": "2002年签署《南海各方行为宣言》，2003年与欧盟建立全面战略伙伴关系。", "evidence_block_ids": ["history_book_01_p0194_b001"]}, {"text": "2009年起金砖国家领导人建立定期会晤机制。", "evidence_block_ids": ["history_book_01_p0194_b001"]}]
+BACKGROUND null
+IMPACT {"text": "教材认为中国参与安全、反恐和全球性问题合作，展示负责任大国形象。", "evidence_block_ids": ["history_book_01_p0194_b001"]}
+PLACES [{"place_id": "history_book_01_place_south_china_sea", "role": "related", "evidence_block_ids": ["history_book_01_p0194_b001"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0194_b001"]
+BLOCK history_book_01_p0194_b001 [paragraph] 进入21世纪，我国始终不渝走和平发展道路，致力于维护世界和平，促进各国共同发展，提出“大国是关键、周边是首要、发展中国家是基础、多边是重要舞台”的外交总体布局，积极开展一系列富有成效的外交活动。中美关系总体稳定，中俄关系高水平发展，周边关系取得突破。2002年11月，中国同东盟国家签署《南海各方行为宣言》，为相关国家在南海开展务实合作奠定了政治基础。2003年，中国与欧盟确定建立全面战略伙伴关系，双方经贸合作迅速发展。2008年国际金融危机爆发后，中国致力于推动全球经济治理体系改革。从2009年开始，中国和其他金砖国家领导人建立定期会晤机制，增强了新兴市场国家和发展中国家在全球治理中的代表性和发言权。中国还积极参与安全与反恐等全球性问题的国际合作，充分展示负责任大国的形象。
+
+## history_book_01_p0194_k002 2011年利比亚撤侨
+TIME {"source_text": "2011年2月22日至3月5日", "mode": "duration", "start_year": 2011, "end_year": 2011, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "known", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0194_b002"]}
+SUMMARY {"text": "利比亚安全形势变化后，中国政府组织撤离海外中国公民，教材图注记载35860名同胞安全撤离。", "evidence_block_ids": ["history_book_01_p0194_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_libya", "role": "occurrence", "evidence_block_ids": ["history_book_01_p0194_b002"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0194_b002"]
+BLOCK history_book_01_p0194_b002 [image] ▲ 利比亚撤侨
+2011年2月，利比亚安全形势发生重大变化，中国政府迅速有序地组织了一次新中国成立以来最大规模的撤离海外中国公民（包括港澳台同胞）行动，从2月22日至3月5日，35860名同胞被安全撤离。
+
+## history_book_01_p0194_k003 2012年钓鱼岛主权维护
+TIME {"source_text": "2012年9月", "mode": "point", "start_year": 2012, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0194_b004"]}
+SUMMARY {"text": "教材记载，2012年9月针对日本政府对钓鱼岛实施所谓“国有化”，中国政府发表领海基线声明并发布《钓鱼岛是中国的固有领土》白皮书。", "evidence_block_ids": ["history_book_01_p0194_b004"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT {"text": "教材记载中国政府采取措施捍卫国家主权。", "evidence_block_ids": ["history_book_01_p0194_b004"]}
+PLACES [{"place_id": "history_book_01_place_diaoyu", "role": "occurrence", "evidence_block_ids": ["history_book_01_p0194_b004"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0194_b004"]
+BLOCK history_book_01_p0194_b004 [paragraph] 坚决捍卫钓鱼岛主权。2012年9月，针对日本政府对钓鱼岛实施所谓“国有化”，中国政府发表《中华人民共和国政府关于钓鱼岛及其附属岛屿领海基线的声明》，并由国务院新闻办公室发布《钓鱼岛是中国的固有领土》白皮书。中国政府采取一系列坚决有力措施，坚定捍卫国家主权。

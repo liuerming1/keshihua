@@ -1,0 +1,600 @@
+{
+  "source_pdf_sha256": "833dfc015a6e1db90a744a9b2e94424043149995ae796330a461a922acb18e27",
+  "dpi": 180,
+  "asset_crops": [
+    {
+      "asset_id": "history_book_01_p0049_a001",
+      "pdf_page_number": 49,
+      "bbox": [
+        0.488,
+        0.083,
+        0.901,
+        0.414
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0049_a001.png",
+      "sha256": "93876311a8433d5ca371af9ab6ebab4dd2842fd61e07db7464440bc6357728f3",
+      "pixel_size": [
+        615,
+        696
+      ],
+      "notes": [
+        "取唐朝三省位置图的完整示意区域，包含上方横线、图框内宫城布局、图例性标注及图框外沿的蓝色线条；下方图题未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0049_a002",
+      "pdf_page_number": 49,
+      "bbox": [
+        0.129,
+        0.197,
+        0.419,
+        0.349
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0049_a002.png",
+      "sha256": "2811c42d165b04762cc9e7781fb3a469ea1363f85373b66613b52cd09c715266",
+      "pixel_size": [
+        432,
+        320
+      ],
+      "notes": [
+        "按《大唐六典》书影可见画面外沿裁切，保留展开的多册书影及卷轴末端；下方图注与正文未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0049_a003",
+      "pdf_page_number": 49,
+      "bbox": [
+        0.133,
+        0.674,
+        0.313,
+        0.802
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0049_a003.png",
+      "sha256": "b35bb721a96153a0ce7c353af4e74d64f654a89e0356f473d84a16b911bc83b2",
+      "pixel_size": [
+        268,
+        269
+      ],
+      "notes": [
+        "按怀集庸调银饼圆形照片的可见画面外沿裁切；下方图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0051_a001",
+      "pdf_page_number": 51,
+      "bbox": [
+        0.117,
+        0.59,
+        0.872,
+        0.751
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0051_a001.png",
+      "sha256": "2091aa131906962be12055c39c4ed5d0885b0c931804a7609131f50c4bca8759",
+      "pixel_size": [
+        1124,
+        339
+      ],
+      "notes": [
+        "取敦煌《唐律疏议》残卷横向照片的完整矩形画面；照片跨出左侧浅色学习拓展框，右端白边保留，图题未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0052_a001",
+      "pdf_page_number": 52,
+      "bbox": [
+        0.654,
+        0.232,
+        0.941,
+        0.365
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0052_a001.png",
+      "sha256": "b754366c5f779f7ef8f520eed9c44fa18ff44b2fe8e07a4e5d475d735e20b568",
+      "pixel_size": [
+        427,
+        280
+      ],
+      "notes": [
+        "按白马寺照片的圆角矩形画面裁切，保留四角圆角和照片内建筑、白马；下方图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0053_a001",
+      "pdf_page_number": 53,
+      "bbox": [
+        0.1,
+        0.675,
+        0.239,
+        0.877
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0053_a001.png",
+      "sha256": "609ad0fef1f36f7e05d1963324360091c533c85188024fb01fc1baeaca0c6bca",
+      "pixel_size": [
+        207,
+        425
+      ],
+      "notes": [
+        "按左下龙门石刻北魏《杨大眼造像记》照片本体裁切；下方图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0053_a002",
+      "pdf_page_number": 53,
+      "bbox": [
+        0.247,
+        0.675,
+        0.447,
+        0.877
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0053_a002.png",
+      "sha256": "cbe7a3ec72616b17ca7ae2b3af88f6584f5473b8ce170ee79b54d003e6e84e56",
+      "pixel_size": [
+        297,
+        425
+      ],
+      "notes": [
+        "按左下第二幅王羲之《姨母帖》（摹本）照片本体裁切；下方图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0054_a001",
+      "pdf_page_number": 54,
+      "bbox": [
+        0.111,
+        0.07,
+        0.262,
+        0.256
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0054_a001.png",
+      "sha256": "ee6759e3c4233393bf1c7d1e765fba70696ea7ddf66719bbbc649fbdd0b764f3",
+      "pixel_size": [
+        225,
+        392
+      ],
+      "notes": [
+        "按顶部左侧颜真卿《多宝塔感应碑》照片矩形边界裁切；下方图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0054_a002",
+      "pdf_page_number": 54,
+      "bbox": [
+        0.271,
+        0.07,
+        0.456,
+        0.256
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0054_a002.png",
+      "sha256": "99fc5c96867b7966ab2b2837617bb3987f4992309bdcaad510162d218b3f831f",
+      "pixel_size": [
+        276,
+        392
+      ],
+      "notes": [
+        "按顶部中部柳公权《金刚经碑》照片矩形边界裁切；下方图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0054_a003",
+      "pdf_page_number": 54,
+      "bbox": [
+        0.465,
+        0.07,
+        0.9,
+        0.258
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0054_a003.png",
+      "sha256": "bda16ec7c8b0bd4239ee5fb2d3865065cd59d18b33bfbf5b0474f78f67d38fc8",
+      "pixel_size": [
+        647,
+        396
+      ],
+      "notes": [
+        "按顶部右侧怀素《自叙帖》照片矩形边界裁切；下方图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0054_a004",
+      "pdf_page_number": 54,
+      "bbox": [
+        0.653,
+        0.315,
+        0.9,
+        0.551
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0054_a004.png",
+      "sha256": "2bdc98bf92cb48456d84c51054b3b4198b20a11e8dc26ce3dd52269b3042ef06",
+      "pixel_size": [
+        367,
+        497
+      ],
+      "notes": [
+        "按右侧顾恺之《洛神赋图》（摹本）照片矩形边界裁切；左侧正文、下方图注和右下思考点未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0054_a005",
+      "pdf_page_number": 54,
+      "bbox": [
+        0.109,
+        0.546,
+        0.391,
+        0.781
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0054_a005.png",
+      "sha256": "5172c39fea927f7d323f46a2a8965735ede6cb379e11525a88ef746336f8fc94",
+      "pixel_size": [
+        420,
+        495
+      ],
+      "notes": [
+        "按左下龙门石窟宾阳中洞佛像照片矩形边界裁切；下方图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0054_a006",
+      "pdf_page_number": 54,
+      "bbox": [
+        0.4,
+        0.546,
+        0.63,
+        0.781
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0054_a006.png",
+      "sha256": "0683fca811494ccce26de640197b5c0fb857813d8249bfcc8df9dfecb6174ded",
+      "pixel_size": [
+        343,
+        495
+      ],
+      "notes": [
+        "按中下敦煌莫高窟壁画《胡旋舞》照片矩形边界裁切；下方图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0055_a001",
+      "pdf_page_number": 55,
+      "bbox": [
+        0.369,
+        0.461,
+        0.89,
+        0.693
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0055_a001.png",
+      "sha256": "24d6e918aabcad464f9ee11e4c6e0ff81e6ebba8fd46f1107c6366c4bc50bbeb",
+      "pixel_size": [
+        775,
+        489
+      ],
+      "notes": [
+        "按雕版印刷《金刚经》卷子横向照片的完整画面裁切；左侧图题和说明文字、下方章节标题未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0056_a001",
+      "pdf_page_number": 56,
+      "bbox": [
+        0.519,
+        0.143,
+        0.9,
+        0.297
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0056_a001.png",
+      "sha256": "53eff724bf6d9e24b46954fea178a0cec9d672cc4f5dfa62b8325c278138da0b",
+      "pixel_size": [
+        567,
+        324
+      ],
+      "notes": [
+        "按唐招提寺照片矩形边界裁切，保留建筑和前景；下方图注及右侧思考点未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0056_a002",
+      "pdf_page_number": 56,
+      "bbox": [
+        0.111,
+        0.493,
+        0.958,
+        0.778
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0056_a002.png",
+      "sha256": "e2979432e067dbf017372c49eb03900f1358aa0bab21e39315d07a5ddf5f11df",
+      "pixel_size": [
+        1261,
+        599
+      ],
+      "notes": [
+        "复合图：取唐朝对外主要交通路线示意图的地图本体及右侧同图地名对照栏并集，保留地图内路网、图例和地名；下方图题与说明文字未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    }
+  ],
+  "missing_asset_ids": [
+    "history_book_01_p0001_a001",
+    "history_book_01_p0001_a002",
+    "history_book_01_p0002_a001",
+    "history_book_01_p0008_a001",
+    "history_book_01_p0009_a001",
+    "history_book_01_p0009_a002",
+    "history_book_01_p0010_a001",
+    "history_book_01_p0010_a002",
+    "history_book_01_p0011_a001",
+    "history_book_01_p0011_a002",
+    "history_book_01_p0012_a001",
+    "history_book_01_p0013_a001",
+    "history_book_01_p0013_a002",
+    "history_book_01_p0013_a003",
+    "history_book_01_p0013_a004",
+    "history_book_01_p0016_a001",
+    "history_book_01_p0016_a002",
+    "history_book_01_p0017_a001",
+    "history_book_01_p0018_a001",
+    "history_book_01_p0018_a002",
+    "history_book_01_p0018_a003",
+    "history_book_01_p0018_a004",
+    "history_book_01_p0018_a005",
+    "history_book_01_p0018_a006",
+    "history_book_01_p0018_a007",
+    "history_book_01_p0018_a008",
+    "history_book_01_p0019_a001",
+    "history_book_01_p0022_a001",
+    "history_book_01_p0023_a001",
+    "history_book_01_p0023_a002",
+    "history_book_01_p0024_a001",
+    "history_book_01_p0025_a001",
+    "history_book_01_p0026_a001",
+    "history_book_01_p0026_a002",
+    "history_book_01_p0027_a001",
+    "history_book_01_p0028_a001",
+    "history_book_01_p0029_a001",
+    "history_book_01_p0030_a001",
+    "history_book_01_p0031_a001",
+    "history_book_01_p0032_a001",
+    "history_book_01_p0034_a001",
+    "history_book_01_p0035_a001",
+    "history_book_01_p0035_a002",
+    "history_book_01_p0036_a001",
+    "history_book_01_p0036_a002",
+    "history_book_01_p0038_a001",
+    "history_book_01_p0038_a002",
+    "history_book_01_p0039_a001",
+    "history_book_01_p0039_a002",
+    "history_book_01_p0041_a001",
+    "history_book_01_p0042_a001",
+    "history_book_01_p0042_a002",
+    "history_book_01_p0042_a003",
+    "history_book_01_p0043_a001",
+    "history_book_01_p0043_a002",
+    "history_book_01_p0044_a001",
+    "history_book_01_p0044_a002",
+    "history_book_01_p0045_a001",
+    "history_book_01_p0047_a001",
+    "history_book_01_p0048_a001",
+    "history_book_01_p0058_a001",
+    "history_book_01_p0059_a001",
+    "history_book_01_p0060_a001",
+    "history_book_01_p0060_a002",
+    "history_book_01_p0061_a001",
+    "history_book_01_p0062_a001",
+    "history_book_01_p0063_a001",
+    "history_book_01_p0063_a002",
+    "history_book_01_p0065_a001",
+    "history_book_01_p0066_a001",
+    "history_book_01_p0066_a002",
+    "history_book_01_p0067_a001",
+    "history_book_01_p0068_a001",
+    "history_book_01_p0071_a001",
+    "history_book_01_p0071_a002",
+    "history_book_01_p0071_a003",
+    "history_book_01_p0072_a001",
+    "history_book_01_p0072_a002",
+    "history_book_01_p0073_a001",
+    "history_book_01_p0074_a001",
+    "history_book_01_p0074_a002",
+    "history_book_01_p0075_a001",
+    "history_book_01_p0077_a001",
+    "history_book_01_p0078_a001",
+    "history_book_01_p0078_a002",
+    "history_book_01_p0079_a001",
+    "history_book_01_p0080_a001",
+    "history_book_01_p0081_a001",
+    "history_book_01_p0083_a001",
+    "history_book_01_p0083_a002",
+    "history_book_01_p0084_a001",
+    "history_book_01_p0084_a002",
+    "history_book_01_p0085_a001",
+    "history_book_01_p0086_a001",
+    "history_book_01_p0089_a001",
+    "history_book_01_p0089_a002",
+    "history_book_01_p0090_a001",
+    "history_book_01_p0091_a001",
+    "history_book_01_p0092_a001",
+    "history_book_01_p0093_a001",
+    "history_book_01_p0094_a001",
+    "history_book_01_p0096_a001",
+    "history_book_01_p0097_a001",
+    "history_book_01_p0097_a002",
+    "history_book_01_p0098_a001",
+    "history_book_01_p0098_a002",
+    "history_book_01_p0099_a001",
+    "history_book_01_p0099_a002",
+    "history_book_01_p0100_a001",
+    "history_book_01_p0101_a001",
+    "history_book_01_p0103_a001",
+    "history_book_01_p0103_a002",
+    "history_book_01_p0104_a001",
+    "history_book_01_p0104_a002",
+    "history_book_01_p0104_a003",
+    "history_book_01_p0105_a001",
+    "history_book_01_p0107_a001",
+    "history_book_01_p0107_a002",
+    "history_book_01_p0107_a003",
+    "history_book_01_p0108_a001",
+    "history_book_01_p0110_a001",
+    "history_book_01_p0110_a002",
+    "history_book_01_p0111_a001",
+    "history_book_01_p0112_a001",
+    "history_book_01_p0112_a002",
+    "history_book_01_p0112_a003",
+    "history_book_01_p0113_a001",
+    "history_book_01_p0116_a001",
+    "history_book_01_p0117_a001",
+    "history_book_01_p0117_a002",
+    "history_book_01_p0118_a001",
+    "history_book_01_p0118_a002",
+    "history_book_01_p0118_a003",
+    "history_book_01_p0119_a001",
+    "history_book_01_p0120_a001",
+    "history_book_01_p0120_a002",
+    "history_book_01_p0122_a001",
+    "history_book_01_p0123_a001",
+    "history_book_01_p0124_a001",
+    "history_book_01_p0124_a002",
+    "history_book_01_p0125_a001",
+    "history_book_01_p0126_a001",
+    "history_book_01_p0126_a002",
+    "history_book_01_p0128_a001",
+    "history_book_01_p0129_a001",
+    "history_book_01_p0129_a002",
+    "history_book_01_p0130_a001",
+    "history_book_01_p0131_a001",
+    "history_book_01_p0131_a002",
+    "history_book_01_p0133_a001",
+    "history_book_01_p0133_a002",
+    "history_book_01_p0135_a001",
+    "history_book_01_p0136_a001",
+    "history_book_01_p0136_a002",
+    "history_book_01_p0137_a001",
+    "history_book_01_p0138_a001",
+    "history_book_01_p0138_a002",
+    "history_book_01_p0139_a001",
+    "history_book_01_p0139_a002",
+    "history_book_01_p0139_a003",
+    "history_book_01_p0141_a001",
+    "history_book_01_p0142_a001",
+    "history_book_01_p0142_a002",
+    "history_book_01_p0143_a001",
+    "history_book_01_p0143_a002",
+    "history_book_01_p0144_a001",
+    "history_book_01_p0145_a001",
+    "history_book_01_p0145_a002",
+    "history_book_01_p0146_a001",
+    "history_book_01_p0146_a002",
+    "history_book_01_p0147_a001",
+    "history_book_01_p0149_a001",
+    "history_book_01_p0150_a001",
+    "history_book_01_p0150_a002",
+    "history_book_01_p0151_a001",
+    "history_book_01_p0152_a001",
+    "history_book_01_p0152_a002",
+    "history_book_01_p0152_a003",
+    "history_book_01_p0153_a001",
+    "history_book_01_p0153_a002",
+    "history_book_01_p0154_a001",
+    "history_book_01_p0155_a001",
+    "history_book_01_p0157_a001",
+    "history_book_01_p0157_a002",
+    "history_book_01_p0158_a001",
+    "history_book_01_p0158_a002",
+    "history_book_01_p0159_a001",
+    "history_book_01_p0160_a007",
+    "history_book_01_p0161_a004",
+    "history_book_01_p0162_a006",
+    "history_book_01_p0162_a007",
+    "history_book_01_p0162_a008",
+    "history_book_01_p0165_a005",
+    "history_book_01_p0166_a007",
+    "history_book_01_p0166_a008",
+    "history_book_01_p0167_a004",
+    "history_book_01_p0167_a005",
+    "history_book_01_p0167_a006",
+    "history_book_01_p0168_a004",
+    "history_book_01_p0169_a001",
+    "history_book_01_p0170_a001",
+    "history_book_01_p0172_a001",
+    "history_book_01_p0172_a002",
+    "history_book_01_p0172_a003",
+    "history_book_01_p0174_a001",
+    "history_book_01_p0175_a001",
+    "history_book_01_p0177_a001",
+    "history_book_01_p0178_a001",
+    "history_book_01_p0178_a002",
+    "history_book_01_p0178_a003",
+    "history_book_01_p0179_a001",
+    "history_book_01_p0181_a001",
+    "history_book_01_p0182_a001",
+    "history_book_01_p0182_a002",
+    "history_book_01_p0183_a001",
+    "history_book_01_p0185_a001",
+    "history_book_01_p0186_a001",
+    "history_book_01_p0186_a002",
+    "history_book_01_p0188_a005",
+    "history_book_01_p0189_a002",
+    "history_book_01_p0190_a004",
+    "history_book_01_p0190_a007",
+    "history_book_01_p0190_a008",
+    "history_book_01_p0191_a001",
+    "history_book_01_p0191_a005",
+    "history_book_01_p0191_a006",
+    "history_book_01_p0192_a005",
+    "history_book_01_p0194_a002",
+    "history_book_01_p0195_a004",
+    "history_book_01_p0196_a007",
+    "history_book_01_p0198_a001",
+    "history_book_01_p0199_a002",
+    "history_book_01_p0199_a003",
+    "history_book_01_p0201_a004",
+    "history_book_01_p0202_a005",
+    "history_book_01_p0202_a006",
+    "history_book_01_p0204_a007",
+    "history_book_01_p0206_a001",
+    "history_book_01_p0206_a002",
+    "history_book_01_p0223_a001"
+  ]
+}

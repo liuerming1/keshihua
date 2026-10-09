@@ -1,0 +1,41 @@
+.textbook-app { min-height: 100vh; background: #f5f2ea; color: #27302f; font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif; }
+.textbook-header { display: flex; justify-content: space-between; align-items: center; gap: 1rem; padding: 1.1rem 2rem; background: #173b3a; color: #fff; }
+.textbook-header h1 { margin: .1rem 0; font-size: 1.6rem; }
+.textbook-header p { margin: .2rem 0; }
+.textbook-header a { color: #f6dca3; }
+.textbook-eyebrow { letter-spacing: .12em; font-size: .72rem; opacity: .8; }
+.textbook-disclaimer { padding: .6rem 2rem; background: #e7dec8; font-size: .85rem; }
+.textbook-controls { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between; align-items: center; padding: 1rem 2rem; border-bottom: 1px solid #d5d0c3; }
+.textbook-controls strong { font-size: 1.2rem; }
+.textbook-controls p { margin: .2rem 0 0; font-size: .85rem; }
+.textbook-control-row { display: flex; align-items: center; flex-wrap: wrap; gap: .4rem; margin-bottom: .7rem; }
+.textbook-control-row form { display: flex; gap: .4rem; }
+.textbook-app button, .textbook-app select, .textbook-app input { font: inherit; }
+.textbook-app button { border: 1px solid #b8b6a9; background: #fff; color: #27302f; border-radius: .35rem; padding: .35rem .6rem; cursor: pointer; }
+.textbook-app button:hover, .textbook-app button.active, .textbook-app button.selected { border-color: #315e5a; background: #e1eeea; }
+.textbook-app input, .textbook-app select { border: 1px solid #b8b6a9; border-radius: .25rem; padding: .3rem; max-width: 10rem; }
+.textbook-columns { display: grid; grid-template-columns: minmax(240px, 27%) minmax(300px, 1fr) minmax(240px, 27%); min-height: calc(100vh - 165px); }
+.textbook-columns > section { padding: 1rem; border-right: 1px solid #d5d0c3; min-width: 0; }
+.textbook-columns h2 { margin: .1rem 0 .8rem; font-size: 1.15rem; }
+.textbook-columns h3 { margin: 1.2rem 0 .35rem; font-size: 1rem; }
+.textbook-hint { color: #5d6662; font-size: .82rem; line-height: 1.55; }
+.textbook-scroll { max-height: 68vh; overflow-y: auto; }
+.textbook-row { display: block; width: 100%; text-align: left; margin: .25rem 0; }
+.textbook-row span, .textbook-map-list button { display: block; }
+.textbook-row small, .textbook-map-list small { display: block; margin-top: .2rem; color: #56615e; }
+.textbook-detail { line-height: 1.7; overflow-wrap: anywhere; }
+.textbook-detail details { border-top: 1px solid #d5d0c3; padding: .5rem 0; }
+.textbook-detail summary { cursor: pointer; }
+.textbook-qualified { background: #fff1d5; padding: .5rem; border-left: 3px solid #b1792f; }
+.textbook-asset-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: .5rem; }
+.textbook-asset-grid figure, .textbook-maps figure { margin: .3rem 0; }
+.textbook-asset-grid img, .textbook-maps img { max-width: 100%; height: auto; display: block; }
+.textbook-asset-grid figcaption, .textbook-maps figcaption { font-size: .78rem; color: #56615e; line-height: 1.5; }
+.textbook-map-list { max-height: 28vh; overflow-y: auto; }
+.textbook-map-list button { width: 100%; text-align: left; margin: .2rem 0; }
+.textbook-maps figure { max-height: 44vh; overflow: auto; }
+.textbook-map-image { position: relative; width: fit-content; }
+.textbook-map-label { position: absolute; width: .45rem; height: .45rem; border-radius: 50%; background: #d14b32; border: 1px solid #fff; transform: translate(-50%, -50%); box-shadow: 0 0 0 1px #633; }
+.textbook-loading { padding: 3rem; font-family: "Microsoft YaHei", sans-serif; }
+@media (max-width: 1050px) { .textbook-columns { grid-template-columns: 35% 65%; } .textbook-maps { grid-column: 1 / -1; border-top: 1px solid #d5d0c3; } }
+@media (max-width: 660px) { .textbook-columns { display: block; } .textbook-scroll { max-height: 35vh; } .textbook-header, .textbook-controls { padding: 1rem; } }

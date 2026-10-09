@@ -1,0 +1,35 @@
+## history_book_01_p0193_k001 两岸“三通”与交流深化
+TIME {"source_text": "2008年12月及以后", "mode": "uncertain", "start_year": 2008, "end_year": null, "earliest_year": 2008, "latest_year": null, "precision": "year", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0193_b001"]}
+SUMMARY {"text": "两岸海、空直航及直接通邮正式启动，全面直接双向通邮、通商、通航迈开实质性步伐，两岸多领域交流继续深化。", "evidence_block_ids": ["history_book_01_p0193_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_taiwan", "role": "related", "evidence_block_ids": ["history_book_01_p0193_b001"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0193_b001"]
+BLOCK history_book_01_p0193_b001 [paragraph] 及直接通邮正式启动，两岸全面直接双向通邮、通商、通航的“三通”迈开实质性步伐。大陆方面还实施多项对台惠民政策措施，两岸在学术、文化、教育、体育等方面的交流交往不断深化。
+
+## history_book_01_p0193_k002 1978年以来外交政策调整与全方位外交发展
+TIME {"source_text": "中共十一届三中全会以后；1978—1992年", "mode": "duration", "start_year": 1978, "end_year": 1992, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0193_b003"]}
+SUMMARY {"text": "外交政策转向服务改革开放和现代化建设，提出和平与发展是当代世界两大问题，并通过建交和关系正常化形成有利外部环境。", "evidence_block_ids": ["history_book_01_p0193_b003"]}
+FLOW []
+POINTS [{"text": "1978年同日本签订《中日和平友好条约》，1979年中美建交，1989年中苏关系正常化。", "evidence_block_ids": ["history_book_01_p0193_b003"]}, {"text": "到1992年，同中国建交的国家达154个。", "evidence_block_ids": ["history_book_01_p0193_b003"]}]
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_deng_xiaoping"]
+EVIDENCE ["history_book_01_p0193_b003"]
+BLOCK history_book_01_p0193_b003 [paragraph] 中共十一届三中全会以后，我国的外交政策朝着为改革开放和现代化建设服务的方向进行战略性调整。根据国际形势变化，邓小平明确提出“和平和发展是当代世界的两大问题”的论断，主张世界上所有国家不论大小、富贫、强弱一律平等；中国决不称霸，也坚决反对任何霸权主义。中国始终坚持独立自主，对一切国际问题都根据其本身的是非曲直决定自己的态度和对策，坚决反对任何国家以社会制度和意识形态为借口，占领别国领土、干涉别国内政。1978年8月，中国同日本签订《中日和平友好条约》。1979年1月，中美两国正式建交。1989年，中苏两国实现关系正常化。随着外交方针政策的调整，中国外交得到全方位发展，一个有利于中国改革开放和现代化建设的外部环境初步形成。到1992年，同中国建交的国家达154个。
+
+## history_book_01_p0193_k003 20世纪90年代至世纪之交的多边外交与国际影响力
+TIME {"source_text": "20世纪90年代；2001年", "mode": "duration", "start_year": 1990, "end_year": 2001, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0193_b004"]}
+SUMMARY {"text": "中国发展新型大国关系、周边睦邻友好关系和多边外交，推动中国—东盟自由贸易区、上海合作组织，并参与亚太经合组织等活动，国际影响力提高。", "evidence_block_ids": ["history_book_01_p0193_b004"]}
+FLOW []
+POINTS [{"text": "1999年北约轰炸中国驻南斯拉夫联盟共和国大使馆，2001年发生南海撞机事件。", "evidence_block_ids": ["history_book_01_p0193_b004"]}, {"text": "2001年中国在上海举办亚太经合组织第九次领导人非正式会议。", "evidence_block_ids": ["history_book_01_p0193_b004"]}]
+BACKGROUND null
+IMPACT {"text": "世纪之交建立起全方位多层次的对外关系新格局。", "evidence_block_ids": ["history_book_01_p0193_b004"]}
+PLACES [{"place_id": "history_book_01_place_south_china_sea", "role": "related", "evidence_block_ids": ["history_book_01_p0193_b004"]}, {"place_id": "history_book_01_place_shanghai", "role": "related", "evidence_block_ids": ["history_book_01_p0193_b004"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0193_b004"]
+BLOCK history_book_01_p0193_b004 [paragraph] 20世纪90年代，我国积极发展新型大国关系，分别同俄罗斯、美国、法国、英国、日本及欧盟等建立了发展面向21世纪双边关系的基本框架。1999年，以美国为首的北约轰炸中国驻南斯拉夫联盟共和国大使馆。2001年，美国战机在中国南海空域挑衅，发生了撞机事件。面对美国侵犯中国主权的野蛮暴行和在双边关系中挑起的种种事端，中国进行针锋相对的斗争，维护了国家主权和民族尊严。中国积极发展同周边国家和地区的睦邻友好关系，倡导并推动建立“中国—东盟自由贸易区”，成立上海合作组织。中国以更加开放的姿态积极参与以联合国为中心的多边外交活动。2001年，中国在上海成功举办亚太经合组织第九次领导人非正式会议，为促进亚太地区经济的恢复和发展产生积极影响。世纪之交，我国建立起全方位多层次的对外关系新格局，国际影响力显著提高。

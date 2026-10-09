@@ -1,0 +1,863 @@
+## history_book_01_p0213_k001 公元前202年：刘邦建立汉朝，史称西汉
+TIME {"source_text": "公元前202年", "mode": "point", "start_year": -202, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "刘邦建立汉朝，史称西汉", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k002 公元前2世纪前期：“文景之治”
+TIME {"source_text": "公元前2世纪前期", "mode": "uncertain", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "unknown", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "“文景之治”", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k003 公元前138年：张骞首次出使西域
+TIME {"source_text": "公元前138年", "mode": "point", "start_year": -138, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "张骞首次出使西域", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k004 公元前119年：汉武帝派卫青、霍去病出击匈奴
+TIME {"source_text": "公元前119年", "mode": "point", "start_year": -119, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "汉武帝派卫青、霍去病出击匈奴", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k005 公元前60年：西域都护府设立
+TIME {"source_text": "公元前60年", "mode": "point", "start_year": -60, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "西域都护府设立", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k006 公元9年：外戚王莽夺取皇位，改国号为新，西汉灭亡
+TIME {"source_text": "公元9年", "mode": "point", "start_year": 9, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "外戚王莽夺取皇位，改国号为新，西汉灭亡", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k007 23年：绿林军攻入长安，王莽政权被推翻
+TIME {"source_text": "23年", "mode": "point", "start_year": 23, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "绿林军攻入长安，王莽政权被推翻", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k008 25年：刘秀重建汉朝，史称东汉
+TIME {"source_text": "25年", "mode": "point", "start_year": 25, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "刘秀重建汉朝，史称东汉", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k009 105年：东汉蔡伦改进造纸术
+TIME {"source_text": "105年", "mode": "point", "start_year": 105, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "东汉蔡伦改进造纸术", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k010 184年：黄巾大起义爆发
+TIME {"source_text": "184年", "mode": "point", "start_year": 184, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "黄巾大起义爆发", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k011 220年：曹丕称帝，魏国建立，东汉灭亡
+TIME {"source_text": "220年", "mode": "point", "start_year": 220, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "曹丕称帝，魏国建立，东汉灭亡", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k012 221年：刘备称帝，蜀国建立
+TIME {"source_text": "221年", "mode": "point", "start_year": 221, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "刘备称帝，蜀国建立", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k013 229年：孙权称帝，吴国建立
+TIME {"source_text": "229年", "mode": "point", "start_year": 229, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "孙权称帝，吴国建立", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k014 263年：曹魏灭蜀
+TIME {"source_text": "263年", "mode": "point", "start_year": 263, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "曹魏灭蜀", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k015 266年：司马炎代魏称帝，建立晋，史称西晋
+TIME {"source_text": "266年", "mode": "point", "start_year": 266, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "司马炎代魏称帝，建立晋，史称西晋", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k016 280年：西晋灭吴，统一全国
+TIME {"source_text": "280年", "mode": "point", "start_year": 280, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "西晋灭吴，统一全国", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k017 316年：西晋被匈奴灭亡
+TIME {"source_text": "316年", "mode": "point", "start_year": 316, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "西晋被匈奴灭亡", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k018 317年：司马睿重建晋，史称东晋
+TIME {"source_text": "317年", "mode": "point", "start_year": 317, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "司马睿重建晋，史称东晋", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k019 4世纪下半叶：氐族建立的前秦统一北方
+TIME {"source_text": "4世纪下半叶", "mode": "uncertain", "start_year": null, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "unknown", "end_status": "unknown", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "氐族建立的前秦统一北方", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k020 383年：淝水之战
+TIME {"source_text": "383年", "mode": "point", "start_year": 383, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "淝水之战", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k021 420年：刘裕夺取皇位，建立宋，南朝开始
+TIME {"source_text": "420年", "mode": "point", "start_year": 420, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "刘裕夺取皇位，建立宋，南朝开始", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k022 439年：鲜卑拓跋部建立的北魏统一北方
+TIME {"source_text": "439年", "mode": "point", "start_year": 439, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "鲜卑拓跋部建立的北魏统一北方", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k023 494年：北魏孝文帝迁都洛阳
+TIME {"source_text": "494年", "mode": "point", "start_year": 494, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "北魏孝文帝迁都洛阳", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝
+
+## history_book_01_p0213_k024 581年：北周外戚杨坚代周称帝，建立隋朝
+TIME {"source_text": "581年", "mode": "point", "start_year": 581, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0213_b001"]}
+SUMMARY {"text": "北周外戚杨坚代周称帝，建立隋朝", "evidence_block_ids": ["history_book_01_p0213_b001"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0213_b001"]
+BLOCK history_book_01_p0213_b001 [table] 中国古代史大事年表（续表）
+公元前202年	刘邦建立汉朝，史称西汉
+公元前2世纪前期	“文景之治”
+公元前138年	张骞首次出使西域
+公元前119年	汉武帝派卫青、霍去病出击匈奴
+公元前60年	西域都护府设立
+公元9年	外戚王莽夺取皇位，改国号为新，西汉灭亡
+23年	绿林军攻入长安，王莽政权被推翻
+25年	刘秀重建汉朝，史称东汉
+105年	东汉蔡伦改进造纸术
+184年	黄巾大起义爆发
+220年	曹丕称帝，魏国建立，东汉灭亡
+221年	刘备称帝，蜀国建立
+229年	孙权称帝，吴国建立
+263年	曹魏灭蜀
+266年	司马炎代魏称帝，建立晋，史称西晋
+280年	西晋灭吴，统一全国
+316年	西晋被匈奴灭亡
+317年	司马睿重建晋，史称东晋
+4世纪下半叶	氐族建立的前秦统一北方
+383年	淝水之战
+420年	刘裕夺取皇位，建立宋，南朝开始
+439年	鲜卑拓跋部建立的北魏统一北方
+494年	北魏孝文帝迁都洛阳
+581年	北周外戚杨坚代周称帝，建立隋朝

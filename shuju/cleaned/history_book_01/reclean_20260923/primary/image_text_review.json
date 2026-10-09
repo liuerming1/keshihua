@@ -1,0 +1,285 @@
+[
+  {
+    "id": "history_book_01_p0030_a001",
+    "page_id": "history_book_01_p0030",
+    "block_id": "history_book_01_p0030_b002",
+    "type": "map",
+    "bbox": [
+      0.113499,
+      0.158195,
+      0.687038,
+      0.457957
+    ],
+    "file_path": "/textbook-assets/history_book_01_p0030_a001.png",
+    "caption": "西汉形势图",
+    "visible_text": "西汉；匈奴；乌孙；羌；鲜卑；龟兹；焉耆；葱岭；西域都护府；敦煌郡；酒泉郡；张掖郡；武威郡；河西四郡；长安；黄河；长江；东海；南海；图例：都城、郡级驻所、河西四郡、长城、政权部族界、今国界。",
+    "description": "教材历史地图，展示西汉版图、政权部族界、河西四郡和相关地名；不把像素边界当作几何。",
+    "claims": [],
+    "notes": [
+      "地图内小字按原页600dpi图像读取可辨部分并列在visible_text；边缘与密集标注仍有未辨清处，地名清单不声称完整。"
+    ],
+    "export": {
+      "sha256": "361b4a68e4f4c51b1f2300f245f74ca7c6bc9ea742b9afbbcd40742fc4a01b64",
+      "pixel_size": [
+        853,
+        631
+      ],
+      "pdf_page_number": 30,
+      "dpi": 180,
+      "crop_review_notes": [
+        "按西汉形势图黑色外框裁切完整地图区域，保留地图内图例、南海诸岛插图和地图标注；排除下方图题。"
+      ],
+      "method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    "text_review": {
+      "status": "partial",
+      "evidence": [
+        "public/textbook-assets/history_book_01_p0030_a001.png",
+        "primary/ocr/history_book_01_p0030_a001_pdf600.png",
+        "primary/ocr/p0030_map_tl.png",
+        "primary/ocr/p0030_map_tr.png",
+        "primary/ocr/p0030_map_bl.png",
+        "primary/ocr/p0030_map_br.png"
+      ],
+      "note": "已核对导出地图PNG和原PDF第30页600dpi裁切。西汉、主要部族/地名及图例中可辨项目与visible_text所列相符；边缘密集小字和局部模糊地名未逐一可靠确认，因此只保留已辨认项目，不宣称完整转录。"
+    }
+  },
+  {
+    "id": "history_book_01_p0032_a001",
+    "page_id": "history_book_01_p0032",
+    "block_id": "history_book_01_p0032_b009",
+    "type": "photo",
+    "bbox": [
+      0.684842,
+      0.368801,
+      0.888169,
+      0.590624
+    ],
+    "file_path": "/textbook-assets/history_book_01_p0032_a001.png",
+    "caption": "《九章算术》书影",
+    "visible_text": "九章算术；书影封面竖排文字（部分字样不清）",
+    "description": "古籍书影，部分封面字样细小或模糊，未据书影推定版本。",
+    "claims": [],
+    "notes": [
+      "已检查导出书影及原页600dpi裁切；题名《九章算术》可确认，封面其余细字未能可靠逐字识读，未推定版本。"
+    ],
+    "export": {
+      "sha256": "cc05beef2b637dce17294cc9be4dff05e1fdf66cc5ce87f2348757daee3b2f7d",
+      "pixel_size": [
+        303,
+        467
+      ],
+      "pdf_page_number": 32,
+      "dpi": 180,
+      "crop_review_notes": [
+        "按《九章算术》书影的嵌入图像边界裁切，保留书影本体及其细小封面文字；排除左侧正文和下方图题。"
+      ],
+      "method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    "text_review": {
+      "status": "partial",
+      "evidence": [
+        "public/textbook-assets/history_book_01_p0032_a001.png",
+        "primary/ocr/history_book_01_p0032_a001_pdf600.png"
+      ],
+      "note": "已核对导出书影和原PDF第32页600dpi裁切。可确认书影为《九章算术》；封面其余竖排小字因原图颗粒、磨损和分辨率限制不能逐字可靠辨认，不据此判断版本。"
+    }
+  },
+  {
+    "id": "history_book_01_p0038_a002",
+    "page_id": "history_book_01_p0038",
+    "block_id": "history_book_01_p0038_b006",
+    "type": "photo",
+    "bbox": [
+      0.685101,
+      0.525253,
+      0.870932,
+      0.743561
+    ],
+    "file_path": "/textbook-assets/history_book_01_p0038_a002.png",
+    "caption": "鲜卑旧墟石室嘎仙洞祝文",
+    "visible_text": null,
+    "description": "嘎仙洞石壁祝文黑白照片，历史含义以旁正文和图注为依据。",
+    "claims": [],
+    "notes": [
+      "已核对导出图与原页600dpi裁切；石壁刻文具体字词不可辨，题注可确认其为“鲜卑旧墟石室嘎仙洞祝文”，未转录刻文。"
+    ],
+    "export": {
+      "sha256": "d1dc1bbb382e3e35a0846615d414808c7227816ae343b802a59d85f24974164d",
+      "pixel_size": [
+        276,
+        459
+      ],
+      "pdf_page_number": 38,
+      "dpi": 180,
+      "crop_review_notes": [
+        "按鲜卑旧墟石室嘎仙洞祝文照片的嵌入图像边界裁切，保留石壁文字照片本体；排除下方图注和正文。"
+      ],
+      "method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    "text_review": {
+      "status": "unreadable",
+      "evidence": [
+        "public/textbook-assets/history_book_01_p0038_a002.png",
+        "primary/ocr/history_book_01_p0038_a002_pdf600.png"
+      ],
+      "note": "已核对导出照片和原PDF第38页600dpi裁切。石壁表面确为题注所指祝文照片，但刻字在导出图和原页扫描中均无法辨认成可确认的字词；题注只确认地点/内容类型，不把题注当作祝文转录。"
+    }
+  },
+  {
+    "id": "history_book_01_p0157_a001",
+    "page_id": "history_book_01_p0157",
+    "block_id": "history_book_01_p0157_b006",
+    "type": "photo",
+    "bbox": [
+      0.062853,
+      0.252566,
+      0.334408,
+      0.359179
+    ],
+    "file_path": "/textbook-assets/history_book_01_p0157_a001.png",
+    "caption": "当时报纸关于接收的报道",
+    "visible_text": "广州“接收”一片混乱；北平情况非常混乱。（按原图可辨标题转为简体；其余文字未完整识读。）",
+    "description": "报纸照片；上述两条大标题可辨认，栏内密集正文和其他标题无法完整可靠转录。",
+    "claims": [
+      {
+        "text": "图注为“当时报纸关于接收的报道”。",
+        "evidence_block_ids": [
+          "history_book_01_p0157_b006"
+        ]
+      }
+    ],
+    "notes": [
+      "本包已导出独立PNG；可辨标题按原图记录，不以图注代替报纸正文。"
+    ],
+    "export": {
+      "sha256": "6a909afaa04a6fbbf0391f8881db99dd68cdc2cafb9fcd24bceacdee654197fe",
+      "pixel_size": [
+        404,
+        224
+      ],
+      "pdf_page_number": 157,
+      "dpi": 180,
+      "crop_review_notes": [
+        "按当时报纸关于接收的报道照片外沿裁切，保留圆角边界；下方图注未纳入。"
+      ],
+      "method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    "text_review": {
+      "status": "partial",
+      "evidence": [
+        "public/textbook-assets/history_book_01_p0157_a001.png",
+        "primary/ocr/history_book_01_p0157_a001_pdf600.png"
+      ],
+      "note": "主代理复核原图与600dpi裁切，可读两条大标题，已补录并注明简体转写；其余正文仍保留不可可靠识读的限制。"
+    }
+  },
+  {
+    "id": "history_book_01_p0178_a003",
+    "page_id": "history_book_01_p0178",
+    "block_id": "history_book_01_p0178_b023",
+    "type": "other",
+    "bbox": [
+      0.656596,
+      0.726496,
+      0.897281,
+      0.885328
+    ],
+    "file_path": "/textbook-assets/history_book_01_p0178_a003.png",
+    "caption": "王进喜日记",
+    "visible_text": "我是个普通工人没啥\n本事就是为国家打了几\n口井一切成绩和荣誉都\n是党和人民的我自己的\n小本本上只能记差距。",
+    "description": "手写日记影像；主代理按原图逐行转录所示五行文字，保留行序。",
+    "claims": [
+      {
+        "text": "王进喜日记",
+        "evidence_block_ids": [
+          "history_book_01_p0178_b023"
+        ]
+      }
+    ],
+    "notes": [
+      "本包已导出独立PNG；主代理复核原图与600dpi裁切，可辨认所示五行文字。"
+    ],
+    "export": {
+      "sha256": "d05c5478b40aa6969bafb45aa434d52dbd7f2b8c1059b086d3ac26030aef9413",
+      "pixel_size": [
+        358,
+        334
+      ],
+      "pdf_page_number": 178,
+      "dpi": 180,
+      "crop_review_notes": [
+        "按王进喜日记手写影像外框裁切，保留阴影和边框；下方图注未纳入，手写细字不作逐字转录。"
+      ],
+      "method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    "text_review": {
+      "status": "complete",
+      "evidence": [
+        "public/textbook-assets/history_book_01_p0178_a003.png",
+        "primary/ocr/history_book_01_p0178_a003_pdf600.png"
+      ],
+      "note": "主代理二次目视复核600dpi原页裁切，五行内容可辨认，已逐行转录。此前只保留首句过于保守，现修正为所示文字完整识读；不推断图片外的日记内容。"
+    }
+  },
+  {
+    "id": "history_book_01_p0182_a001",
+    "page_id": "history_book_01_p0182",
+    "block_id": "history_book_01_p0182_b021",
+    "type": "photo",
+    "bbox": [
+      0.659618,
+      0.253561,
+      0.937563,
+      0.361111
+    ],
+    "file_path": "/textbook-assets/history_book_01_p0182_a001.png",
+    "caption": "《光明日报》发表《实践是检验真理的唯一标准》特约评论员文章",
+    "visible_text": "实践是检验真理的唯一标准",
+    "description": "报纸版面照片；标题可见，正文小字未逐字识别。",
+    "claims": [
+      {
+        "text": "《光明日报》发表《实践是检验真理的唯一标准》特约评论员文章",
+        "evidence_block_ids": [
+          "history_book_01_p0182_b021"
+        ]
+      }
+    ],
+    "notes": [
+      "报纸PNG已导出；原页600dpi裁切可核读标题“实践是检验真理的唯一标准”，栏内正文小字仍不可可靠逐字识读。"
+    ],
+    "export": {
+      "sha256": "6d6a8832fc3a8e02efcd663de29830b22b16ca0243a7d894c6265a98969aea9c",
+      "pixel_size": [
+        413,
+        226
+      ],
+      "pdf_page_number": 182,
+      "dpi": 180,
+      "crop_review_notes": [
+        "按《光明日报》报纸版面照片的可见矩形边界裁切；下方图注未纳入，报纸正文小字不作逐字转录。"
+      ],
+      "method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    "text_review": {
+      "status": "partial",
+      "evidence": [
+        "public/textbook-assets/history_book_01_p0182_a001.png",
+        "primary/ocr/history_book_01_p0182_a001_pdf600.png"
+      ],
+      "note": "已核对报纸导出图和原PDF第182页600dpi裁切。报头照片中的标题“实践是检验真理的唯一标准”可辨；报纸栏内正文小字不具备可靠逐字识读条件，因此visible_text只保留标题。"
+    }
+  }
+]

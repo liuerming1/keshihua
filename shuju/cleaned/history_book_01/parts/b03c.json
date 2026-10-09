@@ -1,0 +1,3765 @@
+{
+  "schema_version": "history-pdf-ingest/1.0",
+  "batch": {
+    "id": "history_book_01_b03c",
+    "document_id": "history_book_01",
+    "requested_pdf_pages": [
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "completed_pdf_pages": [
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "partial_pdf_pages": [],
+    "unprocessed_pdf_pages": [],
+    "complete": true,
+    "next_pdf_page": null,
+    "carryover": [
+      {
+        "type": "paragraph",
+        "record_ids": [
+          "history_book_01_p0095_b002"
+        ],
+        "description": "前批第94页‘良知/童心’材料在‘全’字处截断；本页开头从‘不复有初矣。’继续，正文接续按PDF原文保留，不从截断处补写。第96页开启第五单元；第102页收束第15课并承接第103页第16课。",
+        "next_action": "与相邻批次核对跨页段落和章节路径，不据页首页尾补写史实。"
+      }
+    ]
+  },
+  "documents": [
+    {
+      "id": "history_book_01",
+      "file_name": "普通高中教科书·历史必修_中外历史纲要（上）.pdf",
+      "title": "普通高中教科书·历史必修 中外历史纲要（上）",
+      "edition": null,
+      "volume": "上",
+      "publisher": "人民教育出版社",
+      "publication_year": null,
+      "total_pdf_pages": 223,
+      "language": "zh-CN",
+      "source_kind": "textbook",
+      "sha256": null
+    }
+  ],
+  "pages": [
+    {
+      "id": "history_book_01_p0095",
+      "document_id": "history_book_01",
+      "pdf_page_number": 95,
+      "printed_page_label": "88",
+      "chapter_path": [
+        "第四单元 明清中国版图的奠定与面临的挑战"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查；图片未导出独立裁剪文件，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0096",
+      "document_id": "history_book_01",
+      "pdf_page_number": 96,
+      "printed_page_label": null,
+      "chapter_path": [
+        "第五单元 晚清时期的内忧外患与救亡图存"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查；图片未导出独立裁剪文件，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0097",
+      "document_id": "history_book_01",
+      "pdf_page_number": 97,
+      "printed_page_label": "90",
+      "chapter_path": [
+        "第五单元 晚清时期的内忧外患与救亡图存",
+        "第15课 两次鸦片战争"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查；图片未导出独立裁剪文件，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098",
+      "document_id": "history_book_01",
+      "pdf_page_number": 98,
+      "printed_page_label": "91",
+      "chapter_path": [
+        "第五单元 晚清时期的内忧外患与救亡图存",
+        "第15课 两次鸦片战争"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查；图片未导出独立裁剪文件，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0099",
+      "document_id": "history_book_01",
+      "pdf_page_number": 99,
+      "printed_page_label": "92",
+      "chapter_path": [
+        "第五单元 晚清时期的内忧外患与救亡图存",
+        "第15课 两次鸦片战争"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查；图片未导出独立裁剪文件，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100",
+      "document_id": "history_book_01",
+      "pdf_page_number": 100,
+      "printed_page_label": "93",
+      "chapter_path": [
+        "第五单元 晚清时期的内忧外患与救亡图存",
+        "第15课 两次鸦片战争"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查；图片未导出独立裁剪文件，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0101",
+      "document_id": "history_book_01",
+      "pdf_page_number": 101,
+      "printed_page_label": "94",
+      "chapter_path": [
+        "第五单元 晚清时期的内忧外患与救亡图存",
+        "第15课 两次鸦片战争"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查；图片未导出独立裁剪文件，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0102",
+      "document_id": "history_book_01",
+      "pdf_page_number": 102,
+      "printed_page_label": "95",
+      "chapter_path": [
+        "第五单元 晚清时期的内忧外患与救亡图存",
+        "第15课 两次鸦片战争"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查；图片未导出独立裁剪文件，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103",
+      "document_id": "history_book_01",
+      "pdf_page_number": 103,
+      "printed_page_label": "96",
+      "chapter_path": [
+        "第五单元 晚清时期的内忧外患与救亡图存",
+        "第16课 国家出路的探索与列强侵略的加剧"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查；图片未导出独立裁剪文件，assets.file_path保持null。"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "history_book_01_p0095_b001",
+      "page_id": "history_book_01_p0095",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "88 中外历史纲要 上  第四单元  明清中国版图的奠定与面临的挑战\n",
+      "clean_text": "88 中外历史纲要 上  第四单元  明清中国版图的奠定与面临的挑战\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0095_b002",
+      "page_id": "history_book_01_p0095",
+      "order": 2,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "不复有初矣。\n…………\n夫既以闻见道理为心矣，则所言者皆闻见道理之言，\n非童心自出之言也。言虽工，于我何与，岂非以假人言假\n言，而事假事文假文乎？盖其人既假，则无所不假矣。由\n是而以假言与假人言，则假人喜；以假事与假人道，则假\n人喜；以假文与假人谈，则假人喜。无所不假，则无所不\n喜……更说什么“六经” ，更说什么《语》 《孟》乎？\n夫“六经” 、 《语》 、 《孟》 ，非其史官过为褒崇之词，则\n其臣子极为赞美之语。又不然，则其迂阔门徒、懵懂弟子，\n记忆师说，有头无尾，得后遗前，随其所见，笔之于书。后\n学不察，便谓出自圣人之口也，决定目之为经矣，孰知其\n大半非圣人之言乎？纵出自圣人，要亦有为而发，不过因\n病发药，随时处方，以救此一等懵懂弟子、迂阔门徒云耳。\n药医假病，方难定执，是岂可遽以为万世之至论乎？然则\n“六经” 、 《语》 、 《孟》 ，乃道学之口实、假人之渊薮（sGu）\n也，断断乎其不可以语于童心之言明矣。    \n—《焚书》卷 3《童心说》\n",
+      "clean_text": "不复有初矣。\n…………\n夫既以闻见道理为心矣，则所言者皆闻见道理之言，\n非童心自出之言也。言虽工，于我何与，岂非以假人言假\n言，而事假事文假文乎？盖其人既假，则无所不假矣。由\n是而以假言与假人言，则假人喜；以假事与假人道，则假\n人喜；以假文与假人谈，则假人喜。无所不假，则无所不\n喜……更说什么“六经” ，更说什么《语》 《孟》乎？\n夫“六经” 、 《语》 、 《孟》 ，非其史官过为褒崇之词，则\n其臣子极为赞美之语。又不然，则其迂阔门徒、懵懂弟子，\n记忆师说，有头无尾，得后遗前，随其所见，笔之于书。后\n学不察，便谓出自圣人之口也，决定目之为经矣，孰知其\n大半非圣人之言乎？纵出自圣人，要亦有为而发，不过因\n病发药，随时处方，以救此一等懵懂弟子、迂阔门徒云耳。\n药医假病，方难定执，是岂可遽以为万世之至论乎？然则\n“六经” 、 《语》 、 《孟》 ，乃道学之口实、假人之渊薮（sGu）\n也，断断乎其不可以语于童心之言明矣。    \n—《焚书》卷 3《童心说》\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0095_b003",
+      "page_id": "history_book_01_p0095",
+      "order": 3,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "阅读上述材料，结合课文内容，体会陆王心学衍生出\n的思想解放倾向及其对封建传统思想的冲击。\n",
+      "clean_text": "阅读上述材料，结合课文内容，体会陆王心学衍生出\n的思想解放倾向及其对封建传统思想的冲击。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0095_b004",
+      "page_id": "history_book_01_p0095",
+      "order": 4,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习拓展\n",
+      "clean_text": "学习拓展\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0095_b005",
+      "page_id": "history_book_01_p0095",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "从明朝后期到清朝前期，欧洲传教士不仅在中国传教并\n介绍西方科技知识，也将中国文化介绍到西方，用拉丁文翻\n译了“四书” “五经”等著作。多位18世纪的欧洲启蒙思想\n家曾从儒家经书译本中汲取思想因素。\n查阅相关资料，了解这一时期“中学西渐”的进程及\n其历史影响。\n",
+      "clean_text": "从明朝后期到清朝前期，欧洲传教士不仅在中国传教并\n介绍西方科技知识，也将中国文化介绍到西方，用拉丁文翻\n译了“四书” “五经”等著作。多位18世纪的欧洲启蒙思想\n家曾从儒家经书译本中汲取思想因素。\n查阅相关资料，了解这一时期“中学西渐”的进程及\n其历史影响。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0095_b006",
+      "page_id": "history_book_01_p0095",
+      "order": 6,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0096_b001",
+      "page_id": "history_book_01_p0096",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第五单元\n晚清时期的内忧外患与救亡图存\n",
+      "clean_text": "第五单元\n晚清时期的内忧外患与救亡图存\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0096_b002",
+      "page_id": "history_book_01_p0096",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "鸦片战争后的数十年间，清政府被迫签订了一系列不\n平等条约，国家陷入内忧外患的严重局面，逐步沦为半殖\n民地半封建社会。中国历史进入饱经磨难的近代时期。边\n疆不断出现危机，中国面临“数千年未有之大变局” 。洪\n秀全发动太平天国农民起义，试图推翻清朝，建立“地上\n天国” 。继而，清政府推行洋务新政，试图解决国弱民贫\n问题。这些都未能挽救国家落后挨打的局面。甲午中日战\n争后，帝国主义对中国的侵略日益加深，中国的民族危机\n不断加剧，维新派掀起了一场旨在救亡图存的戊戌变法运\n动。1900 年，义和团运动高涨，八国联军趁机侵略中国。\n清政府被迫与侵略者签订了《辛丑条约》 ，中国的民族危\n机全面加深。\n",
+      "clean_text": "鸦片战争后的数十年间，清政府被迫签订了一系列不\n平等条约，国家陷入内忧外患的严重局面，逐步沦为半殖\n民地半封建社会。中国历史进入饱经磨难的近代时期。边\n疆不断出现危机，中国面临“数千年未有之大变局” 。洪\n秀全发动太平天国农民起义，试图推翻清朝，建立“地上\n天国” 。继而，清政府推行洋务新政，试图解决国弱民贫\n问题。这些都未能挽救国家落后挨打的局面。甲午中日战\n争后，帝国主义对中国的侵略日益加深，中国的民族危机\n不断加剧，维新派掀起了一场旨在救亡图存的戊戌变法运\n动。1900 年，义和团运动高涨，八国联军趁机侵略中国。\n清政府被迫与侵略者签订了《辛丑条约》 ，中国的民族危\n机全面加深。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0096_b003",
+      "page_id": "history_book_01_p0096",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "通过本单元的学习，认识列强侵华对中国社会的影\n响；了解中国人民反抗外来侵略的斗争事迹，理解其性质\n和意义；认识社会各阶级为挽救危局所作的努力及存在的\n局限性。\n",
+      "clean_text": "通过本单元的学习，认识列强侵华对中国社会的影\n响；了解中国人民反抗外来侵略的斗争事迹，理解其性质\n和意义；认识社会各阶级为挽救危局所作的努力及存在的\n局限性。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0096_b004",
+      "page_id": "history_book_01_p0096",
+      "order": 4,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0096_b005",
+      "page_id": "history_book_01_p0096",
+      "order": 5,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0097_b001",
+      "page_id": "history_book_01_p0097",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "90 中外历史纲要 上  第五单元  晚清时期的内忧外患与救亡图存\n",
+      "clean_text": "90 中外历史纲要 上  第五单元  晚清时期的内忧外患与救亡图存\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0097_b002",
+      "page_id": "history_book_01_p0097",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第1 5课\n两次鸦片战争\n",
+      "clean_text": "第1 5课\n两次鸦片战争\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0097_b003",
+      "page_id": "history_book_01_p0097",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "19世纪初，英国从中国大量输入茶叶和生丝，而销往\n中国市场的棉纺织品有限，对华贸易出现逆差，便借助鸦\n片走私寻求贸易平衡。英国商人从鸦片贸易中获得极高利\n润，不顾清政府禁令，向中国走私鸦片愈演愈烈。 1800年\n走私鸦片 4570 箱，1838 年超过了 4 万箱。在中国珠江口外\n伶仃洋面停留的鸦片走私船有 30 多艘。图为 1824 年活动\n在伶仃洋面的英国走私鸦片的飞剪船。\n",
+      "clean_text": "19世纪初，英国从中国大量输入茶叶和生丝，而销往\n中国市场的棉纺织品有限，对华贸易出现逆差，便借助鸦\n片走私寻求贸易平衡。英国商人从鸦片贸易中获得极高利\n润，不顾清政府禁令，向中国走私鸦片愈演愈烈。 1800年\n走私鸦片 4570 箱，1838 年超过了 4 万箱。在中国珠江口外\n伶仃洋面停留的鸦片走私船有 30 多艘。图为 1824 年活动\n在伶仃洋面的英国走私鸦片的飞剪船。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0097_b004",
+      "page_id": "history_book_01_p0097",
+      "order": 4,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "19世纪中期的世界与中国\n",
+      "clean_text": "19世纪中期的世界与中国\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0097_b005",
+      "page_id": "history_book_01_p0097",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "工业革命后半个多世纪，资本主义生产方式在英、\n法、美等国逐渐占据主导地位。英国社会生产力飞速增\n长，对市场和原料的需求越来越强烈。各国争夺殖民地的\n斗争日趋激烈。当时，英国掌握着资本主义世界的霸权。\n英国在美洲、非洲夺取殖民地的同时，把目标对准了亚\n洲。法国从越南打开侵入亚洲的缺口。19 世纪 40 年代，俄\n国势力侵入中国东北和新疆地区，美\n国也积极参与到侵华活动中。世界主\n要殖民主义国家都把矛头指向了中国。\n",
+      "clean_text": "工业革命后半个多世纪，资本主义生产方式在英、\n法、美等国逐渐占据主导地位。英国社会生产力飞速增\n长，对市场和原料的需求越来越强烈。各国争夺殖民地的\n斗争日趋激烈。当时，英国掌握着资本主义世界的霸权。\n英国在美洲、非洲夺取殖民地的同时，把目标对准了亚\n洲。法国从越南打开侵入亚洲的缺口。19 世纪 40 年代，俄\n国势力侵入中国东北和新疆地区，美\n国也积极参与到侵华活动中。世界主\n要殖民主义国家都把矛头指向了中国。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0097_b006",
+      "page_id": "history_book_01_p0097",
+      "order": 6,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 英国东印度公司设在印度的鸦片仓库\n    走私到中国的鸦片大多来自英国殖民地印\n度的孟加拉。\n",
+      "clean_text": "▲ 英国东印度公司设在印度的鸦片仓库\n    走私到中国的鸦片大多来自英国殖民地印\n度的孟加拉。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0097_b007",
+      "page_id": "history_book_01_p0097",
+      "order": 7,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0097_b008",
+      "page_id": "history_book_01_p0097",
+      "order": 8,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 英国走私鸦片的飞剪船\n",
+      "clean_text": "▲ 英国走私鸦片的飞剪船\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0097_b009",
+      "page_id": "history_book_01_p0097",
+      "order": 9,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0097_b010",
+      "page_id": "history_book_01_p0097",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "鸦片战争前夕，英国和\n其他殖民主义国家都把侵略的\n矛头指向了中国，但清政府\n对世界形势变化浑然不觉。\n",
+      "clean_text": "鸦片战争前夕，英国和\n其他殖民主义国家都把侵略的\n矛头指向了中国，但清政府\n对世界形势变化浑然不觉。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0097_b011",
+      "page_id": "history_book_01_p0097",
+      "order": 11,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦\n",
+      "clean_text": "学习聚焦\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0097_b012",
+      "page_id": "history_book_01_p0097",
+      "order": 12,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098_b001",
+      "page_id": "history_book_01_p0098",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "第15课    两次鸦片战争 91\n",
+      "clean_text": "第15课    两次鸦片战争 91\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098_b002",
+      "page_id": "history_book_01_p0098",
+      "order": 2,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 1840 年前的中国和世界形势图\n",
+      "clean_text": "▲ 1840 年前的中国和世界形势图\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098_b003",
+      "page_id": "history_book_01_p0098",
+      "order": 3,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098_b004",
+      "page_id": "history_book_01_p0098",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "欧洲资本主义不断发展，而清政府对世界形势的变化\n浑然不觉，中国仍然停留在封建社会，君主专制统治依旧\n顽固。自给自足的小农经济是主要的生产方式，科技落后。\n八旗和绿营作战能力低下，使用的武器主要是冷兵器，远\n远落后于英国的热兵器。社会阶级矛盾激化，各地农民起\n义此起彼伏。\n",
+      "clean_text": "欧洲资本主义不断发展，而清政府对世界形势的变化\n浑然不觉，中国仍然停留在封建社会，君主专制统治依旧\n顽固。自给自足的小农经济是主要的生产方式，科技落后。\n八旗和绿营作战能力低下，使用的武器主要是冷兵器，远\n远落后于英国的热兵器。社会阶级矛盾激化，各地农民起\n义此起彼伏。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098_b005",
+      "page_id": "history_book_01_p0098",
+      "order": 5,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "两次鸦片战争\n",
+      "clean_text": "两次鸦片战争\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098_b006",
+      "page_id": "history_book_01_p0098",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "鸦片战争前，外国鸦片商人逐年扩大对华鸦片走私，\n使中国一年流失的白银超过 1000万两。鸦片烟毒损害了中\n国人的健康，加剧了政治腐败，削弱了军队战斗力，加重\n了劳动人民负担。面对广州外海的鸦片走私，道光皇帝特\n命湖广总督林则徐为钦差大臣，前往广州禁烟。林则徐将\n英美鸦片商人呈缴的走私鸦片烟土两万多箱，在虎门海滩\n公开销毁，向世界表明了清政府禁烟的决心。英国大鸦片\n贩子认为中国禁烟措施损害了英国的利益，英国政府宣布\n对华发动战争。\n",
+      "clean_text": "鸦片战争前，外国鸦片商人逐年扩大对华鸦片走私，\n使中国一年流失的白银超过 1000万两。鸦片烟毒损害了中\n国人的健康，加剧了政治腐败，削弱了军队战斗力，加重\n了劳动人民负担。面对广州外海的鸦片走私，道光皇帝特\n命湖广总督林则徐为钦差大臣，前往广州禁烟。林则徐将\n英美鸦片商人呈缴的走私鸦片烟土两万多箱，在虎门海滩\n公开销毁，向世界表明了清政府禁烟的决心。英国大鸦片\n贩子认为中国禁烟措施损害了英国的利益，英国政府宣布\n对华发动战争。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098_b007",
+      "page_id": "history_book_01_p0098",
+      "order": 7,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "分析鸦片战争前中国的\n社会状况，思考中国在当时\n国际格局中的处境。\n",
+      "clean_text": "分析鸦片战争前中国的\n社会状况，思考中国在当时\n国际格局中的处境。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098_b008",
+      "page_id": "history_book_01_p0098",
+      "order": 8,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "思考点\n",
+      "clean_text": "思考点\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098_b009",
+      "page_id": "history_book_01_p0098",
+      "order": 9,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "两 次 鸦 片战 争 的 失 败，\n使清政 府被 迫签订一系列不\n平 等条约，中国开 始沦为半殖\n民 地 半 封建社会。\n",
+      "clean_text": "两 次 鸦 片战 争 的 失 败，\n使清政 府被 迫签订一系列不\n平 等条约，中国开 始沦为半殖\n民 地 半 封建社会。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098_b010",
+      "page_id": "history_book_01_p0098",
+      "order": 10,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦\n",
+      "clean_text": "学习聚焦\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098_b011",
+      "page_id": "history_book_01_p0098",
+      "order": 11,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 林则徐（1785—1850）\n",
+      "clean_text": "▲ 林则徐（1785—1850）\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098_b012",
+      "page_id": "history_book_01_p0098",
+      "order": 12,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098_b013",
+      "page_id": "history_book_01_p0098",
+      "order": 13,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0099_b001",
+      "page_id": "history_book_01_p0099",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "92 中外历史纲要 上  第五单元  晚清时期的内忧外患与救亡图存\n",
+      "clean_text": "92 中外历史纲要 上  第五单元  晚清时期的内忧外患与救亡图存\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0099_b002",
+      "page_id": "history_book_01_p0099",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "史料阅读\n",
+      "clean_text": "史料阅读\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0099_b003",
+      "page_id": "history_book_01_p0099",
+      "order": 3,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "当时英国人马尔丁说： “鸦片贩卖者腐化了、降低了和毁坏了不幸福的人底精神生活，而且还\n毒杀了他们的身体。鸦片贩卖者时时刻刻向贪欲无厌的吃人神贡献新的牺牲品，而充当凶手的英\n人和服毒自杀的华人，就彼此竞争，向吃人神的祭台上贡献牺牲品。 ”\n        —范文澜《中国近代史》上册\n",
+      "clean_text": "当时英国人马尔丁说： “鸦片贩卖者腐化了、降低了和毁坏了不幸福的人底精神生活，而且还\n毒杀了他们的身体。鸦片贩卖者时时刻刻向贪欲无厌的吃人神贡献新的牺牲品，而充当凶手的英\n人和服毒自杀的华人，就彼此竞争，向吃人神的祭台上贡献牺牲品。 ”\n        —范文澜《中国近代史》上册\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0099_b004",
+      "page_id": "history_book_01_p0099",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1840 年 6 月，英国远征军总司令懿律率军舰 40 余艘，\n士兵 4000多名，开进广州海口，发动侵略战争。清政府组\n织了抵抗。这场反击英国侵略的战争，以 1842年8 月 29 日\n清政府被迫签订中英《南京条约》而结束。 《南京条约》\n是中国近代史上第一个丧权辱国的不平等条约，中国被迫\n割让香港岛、赔款 2100 万银元、接受协定关税以及开放五\n口通商等。 1843 年，清政府又与英国签订《虎门条约》 。\n1844 年 ，美国 、法国分别迫使清政府签订 《望厦条约》\n《黄埔条约》 。通过这些条约，英、美、法三国从中国获得\n了协定关税、领事裁判权、片面最惠国待遇以及通商口岸\n传教权等。 《南京条约》等一批不平等条约的签订，长期\n影响了近代中国历史的进程，鸦片战争由此成为中国近代\n史的开端。\n",
+      "clean_text": "1840 年 6 月，英国远征军总司令懿律率军舰 40 余艘，\n士兵 4000多名，开进广州海口，发动侵略战争。清政府组\n织了抵抗。这场反击英国侵略的战争，以 1842年8 月 29 日\n清政府被迫签订中英《南京条约》而结束。 《南京条约》\n是中国近代史上第一个丧权辱国的不平等条约，中国被迫\n割让香港岛、赔款 2100 万银元、接受协定关税以及开放五\n口通商等。 1843 年，清政府又与英国签订《虎门条约》 。\n1844 年 ，美国 、法国分别迫使清政府签订 《望厦条约》\n《黄埔条约》 。通过这些条约，英、美、法三国从中国获得\n了协定关税、领事裁判权、片面最惠国待遇以及通商口岸\n传教权等。 《南京条约》等一批不平等条约的签订，长期\n影响了近代中国历史的进程，鸦片战争由此成为中国近代\n史的开端。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0099_b005",
+      "page_id": "history_book_01_p0099",
+      "order": 5,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 中国水师与英国海军在穿鼻洋面上激战的画面\n",
+      "clean_text": "▲ 中国水师与英国海军在穿鼻洋面上激战的画面\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0099_b006",
+      "page_id": "history_book_01_p0099",
+      "order": 6,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0099_b007",
+      "page_id": "history_book_01_p0099",
+      "order": 7,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 英军占领广州期间到乡下劫掠的情形\n    此图出自 1845 年伦敦出版\n的《复仇神号亲历记》 。\n",
+      "clean_text": "▲ 英军占领广州期间到乡下劫掠的情形\n    此图出自 1845 年伦敦出版\n的《复仇神号亲历记》 。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0099_b008",
+      "page_id": "history_book_01_p0099",
+      "order": 8,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0099_b009",
+      "page_id": "history_book_01_p0099",
+      "order": 9,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "历史纵横\n",
+      "clean_text": "历史纵横\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0099_b010",
+      "page_id": "history_book_01_p0099",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "“亚罗号”事件\n“亚罗号”是一艘中国\n的走私船，在香港的注册已\n过 期。 1856 年 10 月， 广 东\n水师在黄埔逮捕了船上几\n名海盗和涉嫌船员 。英国\n驻广州代理领事巴夏礼在\n英国驻华公使、香港总督\n包令指使下，硬指此船为英\n国所有，并且捏造船上悬挂的\n英国国旗曾被中国兵勇侮辱，\n要求中国送回被捕者并公开道歉。两广总督\n叶名琛据实驳斥，将人犯送到英国领事馆，但巴夏礼拒\n绝接受。所谓“亚罗号”事件，成为英国发动第二次鸦\n片战争的借口。\n",
+      "clean_text": "“亚罗号”事件\n“亚罗号”是一艘中国\n的走私船，在香港的注册已\n过 期。 1856 年 10 月， 广 东\n水师在黄埔逮捕了船上几\n名海盗和涉嫌船员 。英国\n驻广州代理领事巴夏礼在\n英国驻华公使、香港总督\n包令指使下，硬指此船为英\n国所有，并且捏造船上悬挂的\n英国国旗曾被中国兵勇侮辱，\n要求中国送回被捕者并公开道歉。两广总督\n叶名琛据实驳斥，将人犯送到英国领事馆，但巴夏礼拒\n绝接受。所谓“亚罗号”事件，成为英国发动第二次鸦\n片战争的借口。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0099_b011",
+      "page_id": "history_book_01_p0099",
+      "order": 11,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "英国等侵略者从鸦片战争中获得了种种特权，但是未\n能达到鸦片贸易合法化的目的。为进一步打开中国市场，\n它们要求修约，被清政府拒绝。 1856 年，英、法两国对中\n国发动了第二次鸦片战争，美、俄两国以调停人面目出现。\n",
+      "clean_text": "英国等侵略者从鸦片战争中获得了种种特权，但是未\n能达到鸦片贸易合法化的目的。为进一步打开中国市场，\n它们要求修约，被清政府拒绝。 1856 年，英、法两国对中\n国发动了第二次鸦片战争，美、俄两国以调停人面目出现。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0099_b012",
+      "page_id": "history_book_01_p0099",
+      "order": 12,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b001",
+      "page_id": "history_book_01_p0100",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "第15课    两次鸦片战争 93\n",
+      "clean_text": "第15课    两次鸦片战争 93\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b002",
+      "page_id": "history_book_01_p0100",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "各地民众自发抵抗侵略军\n",
+      "clean_text": "各地民众自发抵抗侵略军\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b003",
+      "page_id": "history_book_01_p0100",
+      "order": 3,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "第二次鸦片战争期间，\n侵略军所到之处，人民群\n众都进行了抵抗。广州城\n厢内外民众组织团练，用\n游击战术袭击敌人。在香\n港、澳门为外国人雇佣的\n工人 ，纷纷返乡 。天津 、\n烟台、旅顺乃至北京附近，\n都有民众自发起来袭击侵\n略军 。恩格斯当年指出 ：\n“这是一场维护中华民族生\n存的人民战争。 ”\n",
+      "clean_text": "第二次鸦片战争期间，\n侵略军所到之处，人民群\n众都进行了抵抗。广州城\n厢内外民众组织团练，用\n游击战术袭击敌人。在香\n港、澳门为外国人雇佣的\n工人 ，纷纷返乡 。天津 、\n烟台、旅顺乃至北京附近，\n都有民众自发起来袭击侵\n略军 。恩格斯当年指出 ：\n“这是一场维护中华民族生\n存的人民战争。 ”\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b004",
+      "page_id": "history_book_01_p0100",
+      "order": 4,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "历史纵横\n",
+      "clean_text": "历史纵横\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b005",
+      "page_id": "history_book_01_p0100",
+      "order": 5,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 中英《北京条约》签字页\n    原件藏于英国国家档案馆。\n",
+      "clean_text": "▲ 中英《北京条约》签字页\n    原件藏于英国国家档案馆。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b006",
+      "page_id": "history_book_01_p0100",
+      "order": 6,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b007",
+      "page_id": "history_book_01_p0100",
+      "order": 7,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "大沽战后，为了报复中国，英法联军军舰百余艘、陆\n军近三万人，于 1860 年 8 月占领天津。 10 月，英法联军抢\n劫、焚毁圆明园后，进入北京城，迫使清政府签订《北京\n条约》 。 通过《天津条约》 《北京条约》 ，英、法获取了割\n地、赔款、开放通商口岸以及内河航行权等大量权益。鸦\n片以“洋药”名义纳税进口，实现了鸦片贸易合法化。俄\n国借机迫使清政府签订《北京条约》 ，并承认此前签订的\n《瑷珲条约》 ，抢占黑龙江以北、乌苏里江以东100 余万平\n方千米的中国土地，还把俄方提出的边界走向强加给中\n国，为此后大规模侵占中国领土制造根据。\n",
+      "clean_text": "大沽战后，为了报复中国，英法联军军舰百余艘、陆\n军近三万人，于 1860 年 8 月占领天津。 10 月，英法联军抢\n劫、焚毁圆明园后，进入北京城，迫使清政府签订《北京\n条约》 。 通过《天津条约》 《北京条约》 ，英、法获取了割\n地、赔款、开放通商口岸以及内河航行权等大量权益。鸦\n片以“洋药”名义纳税进口，实现了鸦片贸易合法化。俄\n国借机迫使清政府签订《北京条约》 ，并承认此前签订的\n《瑷珲条约》 ，抢占黑龙江以北、乌苏里江以东100 余万平\n方千米的中国土地，还把俄方提出的边界走向强加给中\n国，为此后大规模侵占中国领土制造根据。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b008",
+      "page_id": "history_book_01_p0100",
+      "order": 8,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "从《南京条约》到《北京条约》 ，外国侵略者把不平\n等条约体系强加在中国身上，中国的独立、主权和领土完\n整受到了严重侵犯，中国从一个独立的封建社会逐渐沦为\n半殖民地半封建社会。\n",
+      "clean_text": "从《南京条约》到《北京条约》 ，外国侵略者把不平\n等条约体系强加在中国身上，中国的独立、主权和领土完\n整受到了严重侵犯，中国从一个独立的封建社会逐渐沦为\n半殖民地半封建社会。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b009",
+      "page_id": "history_book_01_p0100",
+      "order": 9,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "开眼看世界\n",
+      "clean_text": "开眼看世界\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b010",
+      "page_id": "history_book_01_p0100",
+      "order": 10,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "《南京条约》签订后，道光皇帝仍不知道英国位于何\n方，充分反映了清朝统治阶级高层的封闭、愚昧与腐朽。\n",
+      "clean_text": "《南京条约》签订后，道光皇帝仍不知道英国位于何\n方，充分反映了清朝统治阶级高层的封闭、愚昧与腐朽。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b011",
+      "page_id": "history_book_01_p0100",
+      "order": 11,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "林则徐、魏源、徐继 畬\n是近代中国第一批开眼看世\n界的人，初步提出了向西方\n学习的主张。\n",
+      "clean_text": "林则徐、魏源、徐继 畬\n是近代中国第一批开眼看世\n界的人，初步提出了向西方\n学习的主张。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b012",
+      "page_id": "history_book_01_p0100",
+      "order": 12,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦\n",
+      "clean_text": "学习聚焦\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b013",
+      "page_id": "history_book_01_p0100",
+      "order": 13,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学思之窗\n",
+      "clean_text": "学思之窗\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b014",
+      "page_id": "history_book_01_p0100",
+      "order": 14,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "1857年3月，马克思在《英人在华的残暴行动》一文中\n写道：\n广州城的无辜居民和安居乐业的商人惨遭屠杀，他们的住\n宅被炮火夷为平地，人权横遭侵犯，这一切都是在“中国人的\n挑衅行为危及英国人的生命和财产”这种站不住脚的借口下发\n生的！……英国人控告中国人一桩，中国人至少可以控告英国\n人九十九桩。\n阅读以上材料，思考第二次鸦片战争中中国抵抗英国侵略\n的正当性。\n",
+      "clean_text": "1857年3月，马克思在《英人在华的残暴行动》一文中\n写道：\n广州城的无辜居民和安居乐业的商人惨遭屠杀，他们的住\n宅被炮火夷为平地，人权横遭侵犯，这一切都是在“中国人的\n挑衅行为危及英国人的生命和财产”这种站不住脚的借口下发\n生的！……英国人控告中国人一桩，中国人至少可以控告英国\n人九十九桩。\n阅读以上材料，思考第二次鸦片战争中中国抵抗英国侵略\n的正当性。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b015",
+      "page_id": "history_book_01_p0100",
+      "order": 15,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1858 年，清政府被迫分别与俄、美、英、法四国签订《天\n津条约》 。次年，英、法拒绝按照清政府指定路线进京换约，\n进攻大沽炮台，遭到清军反击，英法兵舰损失很大。\n",
+      "clean_text": "1858 年，清政府被迫分别与俄、美、英、法四国签订《天\n津条约》 。次年，英、法拒绝按照清政府指定路线进京换约，\n进攻大沽炮台，遭到清军反击，英法兵舰损失很大。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_b016",
+      "page_id": "history_book_01_p0100",
+      "order": 16,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0101_b001",
+      "page_id": "history_book_01_p0101",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "94 中外历史纲要 上  第五单元  晚清时期的内忧外患与救亡图存\n",
+      "clean_text": "94 中外历史纲要 上  第五单元  晚清时期的内忧外患与救亡图存\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0101_b002",
+      "page_id": "history_book_01_p0101",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "林则徐、魏源是近代中国最早开眼看世界的人。林则\n徐面对英美官员交涉鸦片烟土需要国际知识，便在广州开\n办译馆，罗致译员，收集有关西洋各国的消息情报和国际\n知识，包括国际法知识，汇译成《四洲志》等书稿，供对\n外交涉时参考。\n",
+      "clean_text": "林则徐、魏源是近代中国最早开眼看世界的人。林则\n徐面对英美官员交涉鸦片烟土需要国际知识，便在广州开\n办译馆，罗致译员，收集有关西洋各国的消息情报和国际\n知识，包括国际法知识，汇译成《四洲志》等书稿，供对\n外交涉时参考。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0101_b003",
+      "page_id": "history_book_01_p0101",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "林则徐被贬后，把《四洲志》交给他的朋友魏源。魏\n源注意收集外国史地知识，在《四洲志》基础上编成《海\n国图志》一书。这部书按照世界五大洲介绍各国历史、地\n理、社会现状以及军事、科技等，是近代中国最早介绍外\n国历史地理的书籍之一，被誉为了解外国知识的“百科全\n书” 。魏源在书中提出了“师夷之长技以制夷”的思想。\n",
+      "clean_text": "林则徐被贬后，把《四洲志》交给他的朋友魏源。魏\n源注意收集外国史地知识，在《四洲志》基础上编成《海\n国图志》一书。这部书按照世界五大洲介绍各国历史、地\n理、社会现状以及军事、科技等，是近代中国最早介绍外\n国历史地理的书籍之一，被誉为了解外国知识的“百科全\n书” 。魏源在书中提出了“师夷之长技以制夷”的思想。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0101_b004",
+      "page_id": "history_book_01_p0101",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "福建布政使徐继畬（yP）是又一位开眼看世界的人。\n他在福建处理对外交涉事务，留心搜集外国事物和西人著\n述，撰成《瀛寰志略》一书。 《瀛寰志略》系统介绍了当\n时世界上近 80 个国家和地区的地理位置、历史变迁、经济\n文化、风土人情，内容丰富，叙述完备，尤重对欧美各国\n的考察和介绍，是中国近代第一部世界地理著作。\n",
+      "clean_text": "福建布政使徐继畬（yP）是又一位开眼看世界的人。\n他在福建处理对外交涉事务，留心搜集外国事物和西人著\n述，撰成《瀛寰志略》一书。 《瀛寰志略》系统介绍了当\n时世界上近 80 个国家和地区的地理位置、历史变迁、经济\n文化、风土人情，内容丰富，叙述完备，尤重对欧美各国\n的考察和介绍，是中国近代第一部世界地理著作。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0101_b005",
+      "page_id": "history_book_01_p0101",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "这些开眼看世界的仁人志士，初步提出了向西方学习\n以求自强的主张。\n",
+      "clean_text": "这些开眼看世界的仁人志士，初步提出了向西方学习\n以求自强的主张。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0101_b006",
+      "page_id": "history_book_01_p0101",
+      "order": 6,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 魏 源（1794—1857）\n",
+      "clean_text": "▲ 魏 源（1794—1857）\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0101_b007",
+      "page_id": "history_book_01_p0101",
+      "order": 7,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0101_b008",
+      "page_id": "history_book_01_p0101",
+      "order": 8,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "探究与拓展\n",
+      "clean_text": "探究与拓展\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0101_b009",
+      "page_id": "history_book_01_p0101",
+      "order": 9,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "问题探究\n",
+      "clean_text": "问题探究\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0101_b010",
+      "page_id": "history_book_01_p0101",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "和约一经议定，两国各宜遵守，不得轻有更改；至各\n口情形不一，所有贸易及海面各款恐不无稍有变通之处，\n应俟十二年后，两国派员公平酌办。又和约既经批准后，\n两国官民人等均应恪遵；至合众国中各国均不得遣员到来，\n另有异议。\n—《望厦条约》 ，王铁崖编《中外旧约章汇编》第1册\n阅读以上材料，分析清政府拒绝修约的合理性。\n",
+      "clean_text": "和约一经议定，两国各宜遵守，不得轻有更改；至各\n口情形不一，所有贸易及海面各款恐不无稍有变通之处，\n应俟十二年后，两国派员公平酌办。又和约既经批准后，\n两国官民人等均应恪遵；至合众国中各国均不得遣员到来，\n另有异议。\n—《望厦条约》 ，王铁崖编《中外旧约章汇编》第1册\n阅读以上材料，分析清政府拒绝修约的合理性。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0101_b011",
+      "page_id": "history_book_01_p0101",
+      "order": 11,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0102_b001",
+      "page_id": "history_book_01_p0102",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "第15课    两次鸦片战争 95\n",
+      "clean_text": "第15课    两次鸦片战争 95\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0102_b002",
+      "page_id": "history_book_01_p0102",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习拓展\n",
+      "clean_text": "学习拓展\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0102_b003",
+      "page_id": "history_book_01_p0102",
+      "order": 3,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "初九、初十日，逆夷又往三元里及萧冈各乡，复行扰\n害。由是乡民共愤，鸣锣聚众，杀死逆夷六、七人，余逆\n脱回。因率众而下，约数百人。乡民复鸣锣会集各乡，约\n数千人，与夷决战。……\n十一日，乡民仍鸣锣传递，富者捐资，贫者出力，备乃\n器械，持乃糗粮，响应风从，不谋而合者遥遥百有余里，聚\n至百有余乡。将方、圆两炮台四面围住，各处设伏，奋呼攻\n打，昼夜不息。逆夷各狐凭鼠伏，潜避两炮台中，不敢出入。\n  —《广东军务记》 ，载《三元里人民抗英斗争史料》\n",
+      "clean_text": "初九、初十日，逆夷又往三元里及萧冈各乡，复行扰\n害。由是乡民共愤，鸣锣聚众，杀死逆夷六、七人，余逆\n脱回。因率众而下，约数百人。乡民复鸣锣会集各乡，约\n数千人，与夷决战。……\n十一日，乡民仍鸣锣传递，富者捐资，贫者出力，备乃\n器械，持乃糗粮，响应风从，不谋而合者遥遥百有余里，聚\n至百有余乡。将方、圆两炮台四面围住，各处设伏，奋呼攻\n打，昼夜不息。逆夷各狐凭鼠伏，潜避两炮台中，不敢出入。\n  —《广东军务记》 ，载《三元里人民抗英斗争史料》\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0102_b004",
+      "page_id": "history_book_01_p0102",
+      "order": 4,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "阅读上述史料，了解三元里人民抗英斗争史实。\n",
+      "clean_text": "阅读上述史料，了解三元里人民抗英斗争史实。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0102_b005",
+      "page_id": "history_book_01_p0102",
+      "order": 5,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103_b001",
+      "page_id": "history_book_01_p0103",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "96 中外历史纲要 上  第五单元  晚清时期的内忧外患与救亡图存\n",
+      "clean_text": "96 中外历史纲要 上  第五单元  晚清时期的内忧外患与救亡图存\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103_b002",
+      "page_id": "history_book_01_p0103",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第1 6课\n国家出路的探索与列强侵略的加剧\n",
+      "clean_text": "第1 6课\n国家出路的探索与列强侵略的加剧\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103_b003",
+      "page_id": "history_book_01_p0103",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "图为北京天安门广场人民英雄纪念碑上的金田起义浮\n雕。人民英雄纪念碑上为什么刻上了这样一幅浮雕？因为\n以金田起义为开端的太平天国运动，是近代中国规模最大\n的一次农民起义。这次起义在鸦片战争十年后爆发，代表\n了近代中国人民寻求国家出路的早期探索。\n",
+      "clean_text": "图为北京天安门广场人民英雄纪念碑上的金田起义浮\n雕。人民英雄纪念碑上为什么刻上了这样一幅浮雕？因为\n以金田起义为开端的太平天国运动，是近代中国规模最大\n的一次农民起义。这次起义在鸦片战争十年后爆发，代表\n了近代中国人民寻求国家出路的早期探索。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103_b004",
+      "page_id": "history_book_01_p0103",
+      "order": 4,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "太平天国运动\n",
+      "clean_text": "太平天国运动\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103_b005",
+      "page_id": "history_book_01_p0103",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "广东花县人洪秀全在多次科举考试落第后极端失望，\n吸收了在广州得到的基督教布道书的一些思想，提出了\n“拜上帝”的主张。他的同乡冯云山到广西紫荆山号召民众\n加入拜上帝会，团结了许多穷苦农民。1851年1 月11日，洪\n秀全、杨秀清等在广西桂平金田村发动起义，建号太平天\n国。不久，洪秀全称天王。太平军一路北上，出广西，经\n湖南，占领湖北省城武昌。 1853 年，太平军沿长江东下，\n经九江、安庆，占领南京，改南京为天京，定都于此。然\n后，太平军北伐、西征，占领湖北、江西、安徽的许多地\n方，军事上达到鼎盛，但领导集团日渐腐败。\n",
+      "clean_text": "广东花县人洪秀全在多次科举考试落第后极端失望，\n吸收了在广州得到的基督教布道书的一些思想，提出了\n“拜上帝”的主张。他的同乡冯云山到广西紫荆山号召民众\n加入拜上帝会，团结了许多穷苦农民。1851年1 月11日，洪\n秀全、杨秀清等在广西桂平金田村发动起义，建号太平天\n国。不久，洪秀全称天王。太平军一路北上，出广西，经\n湖南，占领湖北省城武昌。 1853 年，太平军沿长江东下，\n经九江、安庆，占领南京，改南京为天京，定都于此。然\n后，太平军北伐、西征，占领湖北、江西、安徽的许多地\n方，军事上达到鼎盛，但领导集团日渐腐败。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103_b006",
+      "page_id": "history_book_01_p0103",
+      "order": 6,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 金田起义浮雕\n",
+      "clean_text": "▲ 金田起义浮雕\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103_b007",
+      "page_id": "history_book_01_p0103",
+      "order": 7,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103_b008",
+      "page_id": "history_book_01_p0103",
+      "order": 8,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "太平天国提出了一系列\n社会政治主张。由于领导集\n团内讧，不能突破封建秩序，\n太平天国运动最终失败。\n",
+      "clean_text": "太平天国提出了一系列\n社会政治主张。由于领导集\n团内讧，不能突破封建秩序，\n太平天国运动最终失败。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103_b009",
+      "page_id": "history_book_01_p0103",
+      "order": 9,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦\n",
+      "clean_text": "学习聚焦\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103_b010",
+      "page_id": "history_book_01_p0103",
+      "order": 10,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 外国人当时画的太平军在九江湖\n口与清军作战图\n",
+      "clean_text": "▲ 外国人当时画的太平军在九江湖\n口与清军作战图\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103_b011",
+      "page_id": "history_book_01_p0103",
+      "order": 11,
+      "type": "image",
+      "bbox": null,
+      "raw_text": null,
+      "clean_text": null,
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103_b012",
+      "page_id": "history_book_01_p0103",
+      "order": 12,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "NÅON*Nº[fN`Ou(ÿ\\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "history_book_01_p0096_a001",
+      "page_id": "history_book_01_p0096",
+      "block_id": "history_book_01_p0096_b004",
+      "type": "illustration",
+      "bbox": null,
+      "file_path": null,
+      "caption": null,
+      "visible_text": null,
+      "description": "单元导语页底部可见战争场景背景插图；图中人物、事件和年代未由图像单独确认。",
+      "claims": [],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0097_a001",
+      "page_id": "history_book_01_p0097",
+      "block_id": "history_book_01_p0097_b007",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "英国走私鸦片的飞剪船",
+      "visible_text": null,
+      "description": "页面照片展示帆船；图注说明其为1824年活动在伶仃洋面的英国走私鸦片飞剪船。",
+      "claims": [],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0097_a002",
+      "page_id": "history_book_01_p0097",
+      "block_id": "history_book_01_p0097_b009",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "英国东印度公司设在印度的鸦片仓库",
+      "visible_text": "英国东印度公司设在印度的鸦片仓库",
+      "description": "页面黑白图像展示仓库内部货架和人员；图注说明走私到中国的鸦片大多来自英国殖民地印度的孟加拉。",
+      "claims": [],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098_a001",
+      "page_id": "history_book_01_p0098",
+      "block_id": "history_book_01_p0098_b003",
+      "type": "map",
+      "bbox": null,
+      "file_path": null,
+      "caption": "1840年前的中国和世界形势图",
+      "visible_text": "北美洲\n非洲\n南极洲\n欧洲\n亚洲\n英国 荷兰 法国 葡萄牙 西班牙 俄 罗 斯 (清) 中 国 印度 菲 律 宾 荷属东印度 大洋 洲 澳大利亚 新 西 兰 太平洋 北 冰 洋 印度洋 大 西 洋 阿拉斯加 加拿大 美国 巴西 南 美 洲\n1840年前的中国和世界形势图\n葡萄牙及其殖民地 国界 荷兰及其殖民地 至十九世纪初俄罗斯及其扩张所获得的领土 法国及其殖民地 西班牙及其殖民地 英国及其殖民地 美国及其殖民地 1846年前英美争议地区 独立国家及地区 今国界 洲界 未定",
+      "description": "历史地图展示1840年前中国与世界的殖民地、国界和争议地区图例；未做空间校准。",
+      "claims": [],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0098_a002",
+      "page_id": "history_book_01_p0098",
+      "block_id": "history_book_01_p0098_b012",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "林则徐（1785—1850）",
+      "visible_text": null,
+      "description": "页面肖像图配有林则徐姓名及生卒年；未依据画面补充其他身份信息。",
+      "claims": [],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0099_a001",
+      "page_id": "history_book_01_p0099",
+      "block_id": "history_book_01_p0099_b006",
+      "type": "illustration",
+      "bbox": null,
+      "file_path": null,
+      "caption": "中国水师与英国海军在穿鼻洋面上激战的画面",
+      "visible_text": null,
+      "description": "页面图像展示海战场景；图注仅确认其为穿鼻洋面激战画面。",
+      "claims": [],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0099_a002",
+      "page_id": "history_book_01_p0099",
+      "block_id": "history_book_01_p0099_b008",
+      "type": "illustration",
+      "bbox": null,
+      "file_path": null,
+      "caption": "英军占领广州期间到乡下劫掠的情形",
+      "visible_text": null,
+      "description": "页面图像配图注说明其出自1845年伦敦出版的《复仇神号亲历记》。",
+      "claims": [],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0100_a001",
+      "page_id": "history_book_01_p0100",
+      "block_id": "history_book_01_p0100_b006",
+      "type": "other",
+      "bbox": null,
+      "file_path": null,
+      "caption": "中英《北京条约》签字页",
+      "visible_text": null,
+      "description": "页面图像为《北京条约》签字页，图注说明原件藏于英国国家档案馆。",
+      "claims": [],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0101_a001",
+      "page_id": "history_book_01_p0101",
+      "block_id": "history_book_01_p0101_b007",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "魏源（1794—1857）",
+      "visible_text": null,
+      "description": "页面肖像图配有魏源姓名及生卒年；未依据画面补充其他身份信息。",
+      "claims": [],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103_a001",
+      "page_id": "history_book_01_p0103",
+      "block_id": "history_book_01_p0103_b007",
+      "type": "illustration",
+      "bbox": null,
+      "file_path": null,
+      "caption": "金田起义浮雕",
+      "visible_text": null,
+      "description": "页面照片为人民英雄纪念碑金田起义浮雕；图注确认图像主题。",
+      "claims": [],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103_a002",
+      "page_id": "history_book_01_p0103",
+      "block_id": "history_book_01_p0103_b011",
+      "type": "illustration",
+      "bbox": null,
+      "file_path": null,
+      "caption": "外国人当时画的太平军在九江湖口与清军作战图",
+      "visible_text": null,
+      "description": "页面图像展示太平军与清军作战场景；图注说明为外国人当时所画。",
+      "claims": [],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "history_book_01_p0103_place_jintian",
+      "name_as_written": "金田村",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0103_b005"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0103_place_nanjing",
+      "name_as_written": "南京（天京）",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0103_b005"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0103_place_guiping",
+      "name_as_written": "广西桂平",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0103_b005"
+      ],
+      "notes": []
+    }
+  ],
+  "people": [
+    {
+      "id": "history_book_01_p0098_person_lin_zexu",
+      "name_as_written": "林则徐",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0098_b006",
+        "history_book_01_p0098_b011"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0101_person_lin_zexu",
+      "name_as_written": "林则徐",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0101_b002"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0101_person_wei_yuan",
+      "name_as_written": "魏源",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0101_b002",
+        "history_book_01_p0101_b003",
+        "history_book_01_p0101_b006"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0101_person_xu_jiyu",
+      "name_as_written": "徐继畬",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0101_b004"
+      ],
+      "notes": [
+        "PDF文字层将姓名拼音标记提取为yP，需人工核对。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0103_person_hong_xiuquan",
+      "name_as_written": "洪秀全",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0103_b003",
+        "history_book_01_p0103_b005"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0103_person_feng_yunshan",
+      "name_as_written": "冯云山",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0103_b005"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0103_person_yang_xiuqing",
+      "name_as_written": "杨秀清",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0103_b005"
+      ],
+      "notes": []
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "history_book_01_p0095_k001",
+      "title": "《童心说》所见思想解放倾向",
+      "kind": "origin",
+      "content_type": "thought",
+      "time": {
+        "source_text": "《焚书》卷3《童心说》",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0095_b002"
+        ]
+      },
+      "themes": [
+        "culture",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "材料批评以闻见道理和经书权威压制真实思想，教材要求体会其思想解放倾向及对封建传统思想的冲击。",
+        "evidence_block_ids": [
+          "history_book_01_p0095_b002",
+          "history_book_01_p0095_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0095_b002",
+        "history_book_01_p0095_b003"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0095_inv001"
+      ],
+      "uncertainties": [
+        "材料为史料阅读与问题提示，思想史定位和影响范围需人工核验。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0095_k002",
+      "title": "明清之际中学西渐",
+      "kind": "process",
+      "content_type": "culture",
+      "time": {
+        "source_text": "从明朝后期到清朝前期",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0095_b005"
+        ]
+      },
+      "themes": [
+        "culture",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "欧洲传教士在中国传教并介绍西方科技知识，也把中国文化译介到西方；18世纪欧洲启蒙思想家曾从儒家经书译本中汲取思想因素。",
+        "evidence_block_ids": [
+          "history_book_01_p0095_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0095_b005"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0095_inv002"
+      ],
+      "uncertainties": [
+        "教材要求查阅相关资料，但本批不联网补充其进程和影响。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0096_k001",
+      "title": "第五单元晚清内忧外患与救亡图存总述",
+      "kind": null,
+      "content_type": "other",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0096_b002",
+          "history_book_01_p0096_b003"
+        ]
+      },
+      "themes": [
+        "war",
+        "foreign_relations",
+        "politics",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "单元导语概述鸦片战争后不平等条约、内忧外患、民族危机及各阶级救亡图存努力的总体脉络。",
+        "evidence_block_ids": [
+          "history_book_01_p0096_b002",
+          "history_book_01_p0096_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0096_b002",
+        "history_book_01_p0096_b003"
+      ],
+      "asset_ids": [
+        "history_book_01_p0096_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0096_inv001"
+      ],
+      "uncertainties": [
+        "导语为单元范围概述，不应替代各课的逐项史实核验。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0097_k001",
+      "title": "英国对华鸦片走私与贸易逆差",
+      "kind": "process",
+      "content_type": "economy",
+      "time": {
+        "source_text": "19世纪初；1800年、1838年",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": 1800,
+        "latest_year": 1838,
+        "precision": "year",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0097_b003"
+        ]
+      },
+      "themes": [
+        "economy",
+        "foreign_relations",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "英国输入茶叶和生丝而对华棉纺织品有限，转而借助鸦片走私寻求贸易平衡；教材列出1800年4570箱、1838年超过4万箱。",
+        "evidence_block_ids": [
+          "history_book_01_p0097_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0097_b003"
+      ],
+      "asset_ids": [
+        "history_book_01_p0097_a001",
+        "history_book_01_p0097_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0097_inv001"
+      ],
+      "uncertainties": [
+        "段落同时列举多个时间点，不能据此视作完整连续起止区间。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0097_k002",
+      "title": "19世纪中期殖民主义国家把侵略矛头指向中国",
+      "kind": "process",
+      "content_type": "war",
+      "time": {
+        "source_text": "工业革命后半个多世纪；19世纪40年代",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0097_b005"
+        ]
+      },
+      "themes": [
+        "war",
+        "foreign_relations",
+        "economy"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "工业革命后资本主义生产方式在英、法、美等国占主导，殖民主义国家争夺市场和原料，英国、法国、俄国、美国从不同方向参与侵华活动。",
+        "evidence_block_ids": [
+          "history_book_01_p0097_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0097_b005"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0097_inv001"
+      ],
+      "uncertainties": [
+        "“后半个多世纪”和“19世纪40年代”是教材时间表述，具体范围需人工核验。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0097_k003",
+      "title": "鸦片战争前夕清政府对世界形势变化浑然不觉",
+      "kind": null,
+      "content_type": "other",
+      "time": {
+        "source_text": "鸦片战争前夕",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0097_b010"
+        ]
+      },
+      "themes": [
+        "politics",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "学习聚焦指出英国及其他殖民主义国家将侵略矛头指向中国，而清政府对世界形势变化浑然不觉。",
+        "evidence_block_ids": [
+          "history_book_01_p0097_b010",
+          "history_book_01_p0097_b011"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0097_b010"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0097_inv002"
+      ],
+      "uncertainties": [
+        "学习聚焦是教材概括，需与正文和相关史实一并核验。",
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0098_k001",
+      "title": "1840年前中国与世界形势",
+      "kind": null,
+      "content_type": "war",
+      "time": {
+        "source_text": "1840年前",
+        "mode": "point",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0098_b002",
+          "history_book_01_p0098_b004"
+        ]
+      },
+      "themes": [
+        "war",
+        "foreign_relations",
+        "politics",
+        "economy"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "地图及正文对比欧洲资本主义发展与清政府封建统治、小农经济、科技和军事落后、社会矛盾激化等状况。",
+        "evidence_block_ids": [
+          "history_book_01_p0098_b002",
+          "history_book_01_p0098_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0098_b002",
+        "history_book_01_p0098_b004"
+      ],
+      "asset_ids": [
+        "history_book_01_p0098_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0098_inv001"
+      ],
+      "uncertainties": [
+        "地图未数字化；地图所示边界和图例需人工核验。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0098_k002",
+      "title": "鸦片走私危害与林则徐虎门销烟",
+      "kind": "event",
+      "content_type": "war",
+      "time": {
+        "source_text": "鸦片战争前；虎门海滩销烟，年份未在本页给出",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0098_b006"
+        ]
+      },
+      "themes": [
+        "war",
+        "society",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0098_person_lin_zexu"
+      ],
+      "summary": {
+        "text": "教材指出鸦片走私造成白银外流、健康损害、政治腐败、军队战斗力下降和劳动人民负担加重；林则徐赴广州禁烟并在虎门公开销毁走私鸦片。",
+        "evidence_block_ids": [
+          "history_book_01_p0098_b006"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0098_b006"
+      ],
+      "asset_ids": [
+        "history_book_01_p0098_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0098_inv002"
+      ],
+      "uncertainties": [
+        "本页未给出虎门销烟具体年份，不补年份。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0098_k003",
+      "title": "两次鸦片战争失败与半殖民地半封建社会",
+      "kind": "process",
+      "content_type": "war",
+      "time": {
+        "source_text": "两次鸦片战争",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0098_b009"
+        ]
+      },
+      "themes": [
+        "war",
+        "foreign_relations",
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "思考点概括两次鸦片战争失败导致清政府被迫签订一系列不平等条约，中国开始沦为半殖民地半封建社会。",
+        "evidence_block_ids": [
+          "history_book_01_p0098_b009"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0098_b009"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0098_inv003"
+      ],
+      "uncertainties": [
+        "此处为教材学习聚焦式概括，需与条约正文和历史解释核验。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0099_k001",
+      "title": "第一次鸦片战争与《南京条约》等不平等条约",
+      "kind": "event",
+      "content_type": "war",
+      "time": {
+        "source_text": "1840年6月—1842年8月29日",
+        "mode": "duration",
+        "start_year": 1840,
+        "end_year": 1842,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0099_b004"
+        ]
+      },
+      "themes": [
+        "war",
+        "foreign_relations",
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "英国远征军于1840年6月发动侵略战争，清政府抵抗后于1842年8月29日被迫签订《南京条约》；随后又签订《虎门条约》《望厦条约》《黄埔条约》，英、美、法取得多项特权。",
+        "evidence_block_ids": [
+          "history_book_01_p0099_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0099_b004"
+      ],
+      "asset_ids": [
+        "history_book_01_p0099_a001",
+        "history_book_01_p0099_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0099_inv002"
+      ],
+      "uncertainties": [
+        "条约影响和画面来源需人工核验。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0099_k002",
+      "title": "“亚罗号”事件成为第二次鸦片战争借口",
+      "kind": "event",
+      "content_type": "war",
+      "time": {
+        "source_text": "1856年10月",
+        "mode": "point",
+        "start_year": 1856,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "month",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0099_b010"
+        ]
+      },
+      "themes": [
+        "war",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材叙述广东水师在黄埔逮捕涉嫌船员，英国方面以船旗和注册为由提出要求；教材称所谓“亚罗号”事件成为英国发动第二次鸦片战争的借口。",
+        "evidence_block_ids": [
+          "history_book_01_p0099_b010"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0099_b010"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0099_inv003"
+      ],
+      "uncertainties": [
+        "历史纵横材料的责任归因与事件细节需人工核对。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0099_k003",
+      "title": "第二次鸦片战争发动",
+      "kind": "event",
+      "content_type": "war",
+      "time": {
+        "source_text": "1856年",
+        "mode": "point",
+        "start_year": 1856,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0099_b011"
+        ]
+      },
+      "themes": [
+        "war",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "英国等侵略者未达到鸦片贸易合法化目的，要求修约遭清政府拒绝；1856年英、法发动第二次鸦片战争，美、俄以调停人面目出现。",
+        "evidence_block_ids": [
+          "history_book_01_p0099_b011"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0099_b011"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0099_inv004"
+      ],
+      "uncertainties": [
+        "本页为事件开端叙述，战争结束及后续条约见后页。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0100_k001",
+      "title": "第二次鸦片战争期间各地民众抵抗侵略军",
+      "kind": "process",
+      "content_type": "war",
+      "time": {
+        "source_text": "第二次鸦片战争期间",
+        "mode": "duration",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0100_b002",
+          "history_book_01_p0100_b003"
+        ]
+      },
+      "themes": [
+        "war",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材称侵略军所到之处人民群众都进行了抵抗，列举广州团练、港澳雇工返乡及多地民众袭击侵略军，并引恩格斯称其为维护中华民族生存的人民战争。",
+        "evidence_block_ids": [
+          "history_book_01_p0100_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0100_b002",
+        "history_book_01_p0100_b003"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0100_inv001"
+      ],
+      "uncertainties": [
+        "“各地”“都”属于教材概括，需人工核对具体范围。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0100_k002",
+      "title": "英法联军占领天津、北京与《北京条约》",
+      "kind": "event",
+      "content_type": "war",
+      "time": {
+        "source_text": "1860年8月—10月",
+        "mode": "duration",
+        "start_year": 1860,
+        "end_year": 1860,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "month",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0100_b007"
+        ]
+      },
+      "themes": [
+        "war",
+        "foreign_relations",
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "英法联军于1860年8月占领天津，10月抢劫、焚毁圆明园并进入北京，迫使清政府签订《北京条约》；英法取得多项权益，鸦片贸易实现合法化。",
+        "evidence_block_ids": [
+          "history_book_01_p0100_b007"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0100_b007"
+      ],
+      "asset_ids": [
+        "history_book_01_p0100_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0100_inv002"
+      ],
+      "uncertainties": [
+        "“10月”未指明日；俄国相关领土条款需对照条约原文。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0100_k003",
+      "title": "不平等条约体系与中国半殖民地半封建化",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "从《南京条约》到《北京条约》",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。；原提取标记已知结束年，但未提供 end_year；改为 unknown 待核验。",
+        "evidence_block_ids": [
+          "history_book_01_p0100_b008"
+        ]
+      },
+      "themes": [
+        "politics",
+        "foreign_relations",
+        "war"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材概括外国侵略者把不平等条约体系强加于中国，严重侵犯独立、主权和领土完整，中国逐渐沦为半殖民地半封建社会。",
+        "evidence_block_ids": [
+          "history_book_01_p0100_b008"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0100_b008"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0100_inv003"
+      ],
+      "uncertainties": [
+        "概括性结论需结合条约原文和历史解释核验。",
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0100_k004",
+      "title": "林则徐、魏源、徐继畬初步提出向西方学习",
+      "kind": "origin",
+      "content_type": "thought",
+      "time": {
+        "source_text": "鸦片战争后",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0100_b009",
+          "history_book_01_p0100_b010",
+          "history_book_01_p0100_b011"
+        ]
+      },
+      "themes": [
+        "culture",
+        "science",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材将林则徐、魏源、徐继畬列为近代中国第一批开眼看世界的人，指出他们初步提出向西方学习的主张。",
+        "evidence_block_ids": [
+          "history_book_01_p0100_b010",
+          "history_book_01_p0100_b011"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0100_b010",
+        "history_book_01_p0100_b011"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0100_inv004"
+      ],
+      "uncertainties": [
+        "人物贡献和“第一批”表述需人工逐项核验。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0100_k005",
+      "title": "1858年《天津条约》与1859年大沽炮台冲突",
+      "kind": "event",
+      "content_type": "war",
+      "time": {
+        "source_text": "1858—1859年",
+        "mode": "duration",
+        "start_year": 1858,
+        "end_year": 1859,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0100_b015"
+        ]
+      },
+      "themes": [
+        "war",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "1858年清政府被迫分别与俄、美、英、法签订《天津条约》；次年英、法进攻大沽炮台，遭清军反击。",
+        "evidence_block_ids": [
+          "history_book_01_p0100_b015"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0100_b015"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0100_inv006"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0101_k001",
+      "title": "林则徐译馆与《四洲志》",
+      "kind": "origin",
+      "content_type": "culture",
+      "time": {
+        "source_text": "鸦片战争时期前后",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0101_b002"
+        ]
+      },
+      "themes": [
+        "culture",
+        "foreign_relations",
+        "science"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0101_person_lin_zexu"
+      ],
+      "summary": {
+        "text": "林则徐因交涉鸦片烟土需要国际知识，在广州开办译馆，收集西洋各国情报和国际法知识，汇译成《四洲志》等书稿供对外交涉参考。",
+        "evidence_block_ids": [
+          "history_book_01_p0101_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0101_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0101_inv001"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0101_k002",
+      "title": "魏源《海国图志》与“师夷之长技以制夷”",
+      "kind": "origin",
+      "content_type": "thought",
+      "time": {
+        "source_text": "《四洲志》基础上编纂，具体年份未在本页给出",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0101_b003"
+        ]
+      },
+      "themes": [
+        "culture",
+        "science",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0101_person_wei_yuan"
+      ],
+      "summary": {
+        "text": "魏源在《四洲志》基础上编成《海国图志》，介绍各国历史地理、社会现状、军事和科技，提出“师夷之长技以制夷”的思想。",
+        "evidence_block_ids": [
+          "history_book_01_p0101_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0101_b003"
+      ],
+      "asset_ids": [
+        "history_book_01_p0101_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0101_inv002"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0101_k003",
+      "title": "徐继畬《瀛寰志略》",
+      "kind": "origin",
+      "content_type": "culture",
+      "time": {
+        "source_text": "具体年份未在本页给出",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0101_b004"
+        ]
+      },
+      "themes": [
+        "culture",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0101_person_xu_jiyu"
+      ],
+      "summary": {
+        "text": "徐继畬搜集外国事物和西人著述，撰成《瀛寰志略》，系统介绍近80个国家和地区的地理、历史、经济文化和风土人情。",
+        "evidence_block_ids": [
+          "history_book_01_p0101_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0101_b004"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0101_inv003"
+      ],
+      "uncertainties": [
+        "PDF文字层中的徐继畬拼音标记疑似乱码，姓名及著作评价需人工核验。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0101_k004",
+      "title": "开眼看世界与向西方学习以求自强",
+      "kind": "origin",
+      "content_type": "thought",
+      "time": {
+        "source_text": "鸦片战争后",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0101_b005"
+        ]
+      },
+      "themes": [
+        "culture",
+        "science",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0101_person_lin_zexu",
+        "history_book_01_p0101_person_wei_yuan",
+        "history_book_01_p0101_person_xu_jiyu"
+      ],
+      "summary": {
+        "text": "教材总结这些开眼看世界的仁人志士初步提出向西方学习以求自强的主张。",
+        "evidence_block_ids": [
+          "history_book_01_p0101_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0101_b005"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0101_inv004"
+      ],
+      "uncertainties": [
+        "总结性概括需与前述人物各自证据核验。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0102_k001",
+      "title": "三元里人民抗英斗争史料",
+      "kind": "event",
+      "content_type": "war",
+      "time": {
+        "source_text": "鸦片战争时期；史料记“初九、初十、十一日”，未给具体月份年份",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0102_b003"
+        ]
+      },
+      "themes": [
+        "war",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "《广东军务记》记载三元里及周边乡民鸣锣聚众、捐资出力、组织武器粮食并围攻炮台，教材要求据史料了解三元里人民抗英斗争史实。",
+        "evidence_block_ids": [
+          "history_book_01_p0102_b003",
+          "history_book_01_p0102_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0102_b003",
+        "history_book_01_p0102_b004"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0102_inv001"
+      ],
+      "uncertainties": [
+        "史料日期缺少月份和年份；引文中的人数、地名和动作需人工核对。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0103_k001",
+      "title": "金田起义与太平天国运动",
+      "kind": "process",
+      "content_type": "war",
+      "time": {
+        "source_text": "1851年1月11日起；鸦片战争十年后",
+        "mode": "duration",
+        "start_year": 1851,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0103_b003",
+          "history_book_01_p0103_b005"
+        ]
+      },
+      "themes": [
+        "war",
+        "society",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0103_place_guiping",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0103_b005"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0103_place_jintian",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0103_b005"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0103_place_nanjing",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0103_b005"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0103_person_hong_xiuquan",
+        "history_book_01_p0103_person_feng_yunshan",
+        "history_book_01_p0103_person_yang_xiuqing"
+      ],
+      "summary": {
+        "text": "金田起义是太平天国运动的开端；教材将其概括为近代中国规模最大的一次农民起义和近代中国人民寻求国家出路的早期探索。",
+        "evidence_block_ids": [
+          "history_book_01_p0103_b003",
+          "history_book_01_p0103_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0103_b003",
+        "history_book_01_p0103_b005"
+      ],
+      "asset_ids": [
+        "history_book_01_p0103_a001",
+        "history_book_01_p0103_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0103_inv001"
+      ],
+      "uncertainties": [
+        "运动结束年份未在本页给出；“规模最大”及纪念碑意义需人工核验。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0103_k002",
+      "title": "太平军北上、定都天京及北伐西征",
+      "kind": "process",
+      "content_type": "war",
+      "time": {
+        "source_text": "1851年起；1853年占领南京并定都",
+        "mode": "duration",
+        "start_year": 1851,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0103_b005"
+        ]
+      },
+      "themes": [
+        "war",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0103_place_guiping",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0103_b005"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0103_place_jintian",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0103_b005"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0103_place_nanjing",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0103_b005"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0103_person_hong_xiuquan",
+        "history_book_01_p0103_person_yang_xiuqing"
+      ],
+      "summary": {
+        "text": "太平军由广西北上，经湖南占领武昌；1853年沿长江东下占领南京，改南京为天京并定都，随后北伐、西征，占领多地并达到军事鼎盛。",
+        "evidence_block_ids": [
+          "history_book_01_p0103_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0103_b005"
+      ],
+      "asset_ids": [
+        "history_book_01_p0103_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0103_inv002"
+      ],
+      "uncertainties": [
+        "“达到鼎盛”是阶段性判断，后续领导集团变化见本页结尾。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0103_k003",
+      "title": "太平天国领导集团内讧与运动失败",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "太平天国运动后期，具体年份未在本页给出",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0103_b008"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0103_person_hong_xiuquan",
+        "history_book_01_p0103_person_yang_xiuqing"
+      ],
+      "summary": {
+        "text": "教材学习聚焦指出太平天国提出一系列社会政治主张，但由于领导集团内讧、不能突破封建秩序，运动最终失败。",
+        "evidence_block_ids": [
+          "history_book_01_p0103_b008",
+          "history_book_01_p0103_b009"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0103_b008"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0103_inv003"
+      ],
+      "uncertainties": [
+        "未在本页展开具体主张和内讧过程。",
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    }
+  ],
+  "relations": [
+    {
+      "id": "history_book_01_p0099_rel001",
+      "from_knowledge_id": "history_book_01_p0099_k002",
+      "to_knowledge_id": "history_book_01_p0099_k003",
+      "target_label": null,
+      "type": "causes",
+      "person_ids": [],
+      "place_ids": [],
+      "time_text": "1856年",
+      "description": "教材明确称“亚罗号”事件成为英国发动第二次鸦片战争的借口。",
+      "evidence_block_ids": [
+        "history_book_01_p0099_b010"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0100_rel001",
+      "from_knowledge_id": "history_book_01_p0100_k002",
+      "to_knowledge_id": "history_book_01_p0100_k003",
+      "target_label": null,
+      "type": "influence",
+      "person_ids": [],
+      "place_ids": [],
+      "time_text": "从《南京条约》到《北京条约》",
+      "description": "条约及侵略行为导致独立、主权和领土完整受到侵犯，教材据此概括社会性质变化。",
+      "evidence_block_ids": [
+        "history_book_01_p0100_b007",
+        "history_book_01_p0100_b008"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0103_rel001",
+      "from_knowledge_id": "history_book_01_p0103_k001",
+      "to_knowledge_id": "history_book_01_p0103_k002",
+      "target_label": null,
+      "type": "other",
+      "person_ids": [
+        "history_book_01_p0103_person_hong_xiuquan",
+        "history_book_01_p0103_person_yang_xiuqing"
+      ],
+      "place_ids": [
+        "history_book_01_p0103_place_jintian",
+        "history_book_01_p0103_place_nanjing"
+      ],
+      "time_text": "1851年—1853年",
+      "description": "教材按时间顺序叙述金田起义、北上、占领武昌以及1853年定都天京。",
+      "evidence_block_ids": [
+        "history_book_01_p0103_b005"
+      ],
+      "review_status": "pending_review"
+    }
+  ],
+  "map_candidates": [
+    {
+      "id": "history_book_01_p0098_map001",
+      "asset_id": "history_book_01_p0098_a001",
+      "reference_time_text": "1840年前",
+      "reference_year": null,
+      "date_precision": "period",
+      "historical_names": [
+        "中国",
+        "清",
+        "英国及其殖民地",
+        "俄国及其扩张所获得的领土"
+      ],
+      "legend_text": "葡萄牙及其殖民地；荷兰及其殖民地；法国及其殖民地；西班牙及其殖民地；英国及其殖民地；美国及其殖民地；1846年前英美争议地区；独立国家及地区；今国界；洲界。",
+      "evidence_block_ids": [
+        "history_book_01_p0098_b002",
+        "history_book_01_p0098_b003"
+      ],
+      "geometry": null,
+      "geometry_status": "not_digitized",
+      "notes": [
+        "地图未做空间校准，geometry保持null。"
+      ]
+    }
+  ],
+  "inventory": [
+    {
+      "id": "history_book_01_p0095_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0095"
+      ],
+      "block_ids": [
+        "history_book_01_p0095_b002",
+        "history_book_01_p0095_b003"
+      ],
+      "item_label": "《焚书·童心说》史料及思想解放问题",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0095_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "史料阅读与教材问题，需人工核对引文和思想史解释。"
+    },
+    {
+      "id": "history_book_01_p0095_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0095"
+      ],
+      "block_ids": [
+        "history_book_01_p0095_b005"
+      ],
+      "item_label": "明清之际中学西渐学习拓展",
+      "scope": "mixed",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0095_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "学习拓展要求查阅资料；本批仅保留教材明确内容。"
+    },
+    {
+      "id": "history_book_01_p0096_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0096"
+      ],
+      "block_ids": [
+        "history_book_01_p0096_b001",
+        "history_book_01_p0096_b002",
+        "history_book_01_p0096_b003"
+      ],
+      "item_label": "第五单元导语与学习目标",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0096_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "单元导语需与后续课文逐项核对；背景插图不据图像补写史实。"
+    },
+    {
+      "id": "history_book_01_p0097_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0097"
+      ],
+      "block_ids": [
+        "history_book_01_p0097_b003",
+        "history_book_01_p0097_b005",
+        "history_book_01_p0097_b006",
+        "history_book_01_p0097_b008"
+      ],
+      "item_label": "英国对华鸦片走私及鸦片战争前国际背景",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0097_k001",
+        "history_book_01_p0097_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0097_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0097"
+      ],
+      "block_ids": [
+        "history_book_01_p0097_b010",
+        "history_book_01_p0097_b011"
+      ],
+      "item_label": "鸦片战争前夕清政府对世界形势的认识",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0097_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "学习聚焦概括需人工核对。"
+    },
+    {
+      "id": "history_book_01_p0098_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0098"
+      ],
+      "block_ids": [
+        "history_book_01_p0098_b002",
+        "history_book_01_p0098_b004"
+      ],
+      "item_label": "1840年前中国与世界形势图及清朝社会状况",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0098_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "地图候选不做空间数字化。"
+    },
+    {
+      "id": "history_book_01_p0098_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0098"
+      ],
+      "block_ids": [
+        "history_book_01_p0098_b006"
+      ],
+      "item_label": "鸦片走私危害与虎门销烟",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0098_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0098_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0098"
+      ],
+      "block_ids": [
+        "history_book_01_p0098_b007",
+        "history_book_01_p0098_b009",
+        "history_book_01_p0098_b010"
+      ],
+      "item_label": "两次鸦片战争失败的教材概括",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0098_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "学习问题和概括需人工核验。"
+    },
+    {
+      "id": "history_book_01_p0099_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0099"
+      ],
+      "block_ids": [
+        "history_book_01_p0099_b002",
+        "history_book_01_p0099_b003"
+      ],
+      "item_label": "鸦片贸易批判史料",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "史料引文保留，未直接改写为独立事实。"
+    },
+    {
+      "id": "history_book_01_p0099_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0099"
+      ],
+      "block_ids": [
+        "history_book_01_p0099_b004",
+        "history_book_01_p0099_b005",
+        "history_book_01_p0099_b007"
+      ],
+      "item_label": "第一次鸦片战争及不平等条约",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0099_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0099_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0099"
+      ],
+      "block_ids": [
+        "history_book_01_p0099_b009",
+        "history_book_01_p0099_b010"
+      ],
+      "item_label": "亚罗号事件",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0099_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "历史纵横叙述需核验。"
+    },
+    {
+      "id": "history_book_01_p0099_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0099"
+      ],
+      "block_ids": [
+        "history_book_01_p0099_b011"
+      ],
+      "item_label": "第二次鸦片战争发动",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0099_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0100_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0100"
+      ],
+      "block_ids": [
+        "history_book_01_p0100_b002",
+        "history_book_01_p0100_b003"
+      ],
+      "item_label": "第二次鸦片战争期间民众抵抗",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0100_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0100_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0100"
+      ],
+      "block_ids": [
+        "history_book_01_p0100_b005",
+        "history_book_01_p0100_b007"
+      ],
+      "item_label": "英法联军进攻天津北京及北京条约",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0100_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0100_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0100"
+      ],
+      "block_ids": [
+        "history_book_01_p0100_b008"
+      ],
+      "item_label": "不平等条约体系影响",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0100_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材总结性判断需人工核验。"
+    },
+    {
+      "id": "history_book_01_p0100_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0100"
+      ],
+      "block_ids": [
+        "history_book_01_p0100_b009",
+        "history_book_01_p0100_b010",
+        "history_book_01_p0100_b011"
+      ],
+      "item_label": "开眼看世界学习聚焦",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0100_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "人物和贡献需逐项核对。"
+    },
+    {
+      "id": "history_book_01_p0100_inv005",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0100"
+      ],
+      "block_ids": [
+        "history_book_01_p0100_b013",
+        "history_book_01_p0100_b014"
+      ],
+      "item_label": "马克思材料与中国抵抗正当性问题",
+      "scope": "mixed",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "学思之窗材料和问题不直接改写为既定事实。"
+    },
+    {
+      "id": "history_book_01_p0100_inv006",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0100"
+      ],
+      "block_ids": [
+        "history_book_01_p0100_b015"
+      ],
+      "item_label": "天津条约与大沽炮台冲突",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0100_k005"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0101_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0101"
+      ],
+      "block_ids": [
+        "history_book_01_p0101_b002"
+      ],
+      "item_label": "林则徐与《四洲志》",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0101_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0101_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0101"
+      ],
+      "block_ids": [
+        "history_book_01_p0101_b003",
+        "history_book_01_p0101_b006"
+      ],
+      "item_label": "魏源与《海国图志》",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0101_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0101_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0101"
+      ],
+      "block_ids": [
+        "history_book_01_p0101_b004"
+      ],
+      "item_label": "徐继畬与《瀛寰志略》",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0101_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "姓名拼音乱码，需人工校对。"
+    },
+    {
+      "id": "history_book_01_p0101_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0101"
+      ],
+      "block_ids": [
+        "history_book_01_p0101_b005"
+      ],
+      "item_label": "开眼看世界的向西方学习主张",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0101_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "总结项需核验。"
+    },
+    {
+      "id": "history_book_01_p0101_inv005",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0101"
+      ],
+      "block_ids": [
+        "history_book_01_p0101_b008",
+        "history_book_01_p0101_b009",
+        "history_book_01_p0101_b010"
+      ],
+      "item_label": "《望厦条约》与拒绝修约问题探究",
+      "scope": "mixed",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材问题和史料不直接改写为既定结论。"
+    },
+    {
+      "id": "history_book_01_p0102_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0102"
+      ],
+      "block_ids": [
+        "history_book_01_p0102_b002",
+        "history_book_01_p0102_b003",
+        "history_book_01_p0102_b004"
+      ],
+      "item_label": "三元里人民抗英斗争学习拓展史料",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0102_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "保留史料原文，待人工核验史料出处和事件细节。"
+    },
+    {
+      "id": "history_book_01_p0103_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0103"
+      ],
+      "block_ids": [
+        "history_book_01_p0103_b003",
+        "history_book_01_p0103_b005",
+        "history_book_01_p0103_b006"
+      ],
+      "item_label": "金田起义与太平天国运动导入",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0103_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0103_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0103"
+      ],
+      "block_ids": [
+        "history_book_01_p0103_b005",
+        "history_book_01_p0103_b010"
+      ],
+      "item_label": "太平军进军、定都与军事鼎盛",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0103_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0103_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0103"
+      ],
+      "block_ids": [
+        "history_book_01_p0103_b008",
+        "history_book_01_p0103_b009"
+      ],
+      "item_label": "太平天国社会政治主张、内讧与失败",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0103_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "学习聚焦为概括性结论，需待后续页段补全。"
+    }
+  ],
+  "review_issues": [
+    {
+      "id": "history_book_01_p0095_issue001",
+      "record_ids": [
+        "history_book_01_p0095_b002"
+      ],
+      "category": "ocr",
+      "description": "《童心说》引文末尾的拼音提取为sGu，正文保留原提取值，需人工按渲染图核对。",
+      "evidence_block_ids": [
+        "history_book_01_p0095_b002"
+      ],
+      "suggested_action": "核对引文中的括注读音和原版文字。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0098_issue001",
+      "record_ids": [
+        "history_book_01_p0098_a001",
+        "history_book_01_p0098_map001"
+      ],
+      "category": "image",
+      "description": "1840年前中国和世界形势图未做空间校准，geometry保持null。",
+      "evidence_block_ids": [
+        "history_book_01_p0098_b002",
+        "history_book_01_p0098_b003"
+      ],
+      "suggested_action": "后续核对图例、历史地名和年代后再数字化。",
+      "blocking": true,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0101_issue001",
+      "record_ids": [
+        "history_book_01_p0101_b004",
+        "history_book_01_p0101_person_xu_jiyu"
+      ],
+      "category": "ocr",
+      "description": "徐继畬姓名后的拼音在文字层提取为yP，疑似字体解码异常。",
+      "evidence_block_ids": [
+        "history_book_01_p0101_b004"
+      ],
+      "suggested_action": "按页面图像核对拼音，不据乱码改写史实。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0103_issue001",
+      "record_ids": [
+        "history_book_01_p0103_k001",
+        "history_book_01_p0103_k003"
+      ],
+      "category": "source",
+      "description": "太平天国运动的规模、早期探索意义及失败概括需与后续课文和史料逐项核验。",
+      "evidence_block_ids": [
+        "history_book_01_p0103_b003",
+        "history_book_01_p0103_b008"
+      ],
+      "suggested_action": "完成第16课后续页段清洗后人工复核。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0095_issue002",
+      "record_ids": [
+        "history_book_01_p0095_b002"
+      ],
+      "category": "source",
+      "description": "前批第94页同一史料在‘全’字处截断；本页开头实际文字为‘不复有初矣。’，已按原文接续，未推测截断处缺字。",
+      "evidence_block_ids": [
+        "history_book_01_p0095_b002"
+      ],
+      "suggested_action": "与b03b第94页原块人工对照跨页接续和引文完整性。",
+      "blocking": false,
+      "status": "open"
+    }
+  ],
+  "validation": {
+    "structure_check_status": "passed",
+    "duplicate_ids": [],
+    "dangling_references": [],
+    "page_coverage_issues": [],
+    "time_issues": [],
+    "source_issues": [],
+    "unreadable_blocks": [],
+    "unprocessed_assets": [],
+    "semantic_review_status": "not_performed"
+  }
+}

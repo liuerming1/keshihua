@@ -1,0 +1,663 @@
+{
+  "source_pdf_sha256": "833dfc015a6e1db90a744a9b2e94424043149995ae796330a461a922acb18e27",
+  "dpi": 180,
+  "asset_crops": [
+    {
+      "asset_id": "history_book_01_p0011_a001",
+      "pdf_page_number": 11,
+      "bbox": [
+        0.100529,
+        0.071085,
+        0.52381,
+        0.252806
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0011_a001.png",
+      "sha256": "1914ed123affceecf1ecfdd11706a5d6c087544d1ff3a097b4ff0279e23042a1",
+      "pixel_size": [
+        630,
+        382
+      ],
+      "notes": [
+        "页11左上航拍照片本体；下方图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0011_a002",
+      "pdf_page_number": 11,
+      "bbox": [
+        0.099773,
+        0.286478,
+        0.525321,
+        0.540353
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0011_a002.png",
+      "sha256": "14504e5daec32a9ad1cc384637165ebd805fa114217f65b0a118b763ea59b408",
+      "pixel_size": [
+        634,
+        534
+      ],
+      "notes": [
+        "页11左中良渚古城示意图本体；下方图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0012_a001",
+      "pdf_page_number": 12,
+      "bbox": [
+        0.112623,
+        0.056654,
+        0.627362,
+        0.243721
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0012_a001.png",
+      "sha256": "f472bfb2dc46367a33b04c575844262dbcc81bfe2b4ef00c50faa03350decf5c",
+      "pixel_size": [
+        766,
+        394
+      ],
+      "notes": [
+        "页12顶部考古照片及其圆形局部图为同一复合图片，取两部分并集；下方图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0013_a001",
+      "pdf_page_number": 13,
+      "bbox": [
+        0.099017,
+        0.058792,
+        0.33938,
+        0.197221
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0013_a001.png",
+      "sha256": "ea700bfcc2a4380755d8dfe12408ca0f29e881b3451c62dc40885bd0006c6e5c",
+      "pixel_size": [
+        358,
+        291
+      ],
+      "notes": [
+        "页13左上龟甲正反面复合图片，取两块龟甲并集；图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0013_a002",
+      "pdf_page_number": 13,
+      "bbox": [
+        0.098262,
+        0.324213,
+        0.29025,
+        0.480492
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0013_a002.png",
+      "sha256": "00e832c92385323842707f0c60d0780f3f5d5e9a5c00fde60b85e3ef5d2f4130",
+      "pixel_size": [
+        286,
+        329
+      ],
+      "notes": [
+        "页13左下何尊图片本体；图注及说明文字未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0013_a003",
+      "pdf_page_number": 13,
+      "bbox": [
+        0.323507,
+        0.322821,
+        0.542706,
+        0.481026
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0013_a003.png",
+      "sha256": "e7aa4887397323a208c9004d35c4a62ac5a60129b5197b9234ec62e052eeb906",
+      "pixel_size": [
+        327,
+        333
+      ],
+      "notes": [
+        "页13中下何尊铭文局部图片本体；图注及说明文字未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0013_a004",
+      "pdf_page_number": 13,
+      "bbox": [
+        0.099773,
+        0.597541,
+        0.575965,
+        0.900588
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0013_a004.png",
+      "sha256": "b229d49e5ee74e5e2f8b007817922fe276fddca850d55d9342a37ffceec1a05e",
+      "pixel_size": [
+        709,
+        637
+      ],
+      "notes": [
+        "页13下方西周分封地图，保留地图内图例；地图标题未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0016_a001",
+      "pdf_page_number": 16,
+      "bbox": [
+        0.656084,
+        0.220203,
+        0.899471,
+        0.35008
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0016_a001.png",
+      "sha256": "b6e1d940eb534e8775a4657874f1ce5f8da029e46916d4d87ee2cf37f25d1f68",
+      "pixel_size": [
+        363,
+        274
+      ],
+      "notes": [
+        "页16右上青铜戈图片本体；下方图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0016_a002",
+      "pdf_page_number": 16,
+      "bbox": [
+        0.114135,
+        0.606627,
+        0.543462,
+        0.875468
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0016_a002.png",
+      "sha256": "04e0954e304b4f61d3a69c341f09d0086f3ddbf3d49491c9da48c12595bdc271",
+      "pixel_size": [
+        639,
+        566
+      ],
+      "notes": [
+        "页16下方春秋列国地图，保留左上图例；右侧地图说明表与地图标题未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0017_a001",
+      "pdf_page_number": 17,
+      "bbox": [
+        0.376417,
+        0.237306,
+        0.853364,
+        0.537146
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0017_a001.png",
+      "sha256": "e3931d53313bbe20f52d8b0038bdb2011acc30fd8151a05f196b7c97bf38dd33",
+      "pixel_size": [
+        710,
+        632
+      ],
+      "notes": [
+        "页17中部战国形势地图，保留右下图例和长城线；下方地图标题未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0018_a001",
+      "pdf_page_number": 18,
+      "bbox": [
+        0.111867,
+        0.301443,
+        0.222222,
+        0.470872
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0018_a001.png",
+      "sha256": "d0896d7a0c5d13456789cec838d0a01a7f3178d69c7f29f95631ff98589636ef",
+      "pixel_size": [
+        165,
+        357
+      ],
+      "notes": [
+        "页18第一行左侧春秋晋国空首布币图像本体；图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0018_a002",
+      "pdf_page_number": 18,
+      "bbox": [
+        0.261527,
+        0.35008,
+        0.353734,
+        0.471406
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0018_a002.png",
+      "sha256": "8c20fa59960d275e389ed9f4f876372916d23e8523eee164be5a1ecd31ca5e70",
+      "pixel_size": [
+        137,
+        255
+      ],
+      "notes": [
+        "页18第一行第二枚战国赵国三孔布币图像本体；图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0018_a003",
+      "pdf_page_number": 18,
+      "bbox": [
+        0.417989,
+        0.284874,
+        0.495087,
+        0.474612
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0018_a003.png",
+      "sha256": "9425ecdaa92c6fe80815b39dc8830a571a57688a60d5660e5ae0fe1d8c225d6c",
+      "pixel_size": [
+        115,
+        399
+      ],
+      "notes": [
+        "页18第一行第三枚战国齐国刀币图像本体；图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0018_a004",
+      "pdf_page_number": 18,
+      "bbox": [
+        0.517763,
+        0.280599,
+        0.63492,
+        0.481561
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0018_a004.png",
+      "sha256": "e829a7ea57ca2285c260bc5b699d2dd3a7172726fb5c82d9374d1b19300a2c05",
+      "pixel_size": [
+        174,
+        423
+      ],
+      "notes": [
+        "页18第一行右侧战国燕国刀币图像本体；图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0018_a005",
+      "pdf_page_number": 18,
+      "bbox": [
+        0.132275,
+        0.593265,
+        0.218443,
+        0.654195
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0018_a005.png",
+      "sha256": "773e0f2a866803115173223eb252b98f02dc8233c88f7edf26be1d008d77474b",
+      "pixel_size": [
+        128,
+        128
+      ],
+      "notes": [
+        "页18第二行左侧战国秦国半两钱图像本体；图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0018_a006",
+      "pdf_page_number": 18,
+      "bbox": [
+        0.267574,
+        0.595403,
+        0.325019,
+        0.653661
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0018_a006.png",
+      "sha256": "d14f4ef5ba90b66cda9736f2b65ae6c35a8e8ef967b9dadf8bdd191d3e7966ea",
+      "pixel_size": [
+        86,
+        123
+      ],
+      "notes": [
+        "页18第二行第二枚战国楚国蚁鼻钱图像本体；图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0018_a007",
+      "pdf_page_number": 18,
+      "bbox": [
+        0.396825,
+        0.548637,
+        0.502645,
+        0.660074
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0018_a007.png",
+      "sha256": "2c7fb4a911bb616c08b32247630544a823b422fb5c3724fd11a7daec7a59500e",
+      "pixel_size": [
+        157,
+        234
+      ],
+      "notes": [
+        "页18第二行第三枚战国魏国布币图像本体；图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0018_a008",
+      "pdf_page_number": 18,
+      "bbox": [
+        0.520786,
+        0.508284,
+        0.678761,
+        0.659005
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0018_a008.png",
+      "sha256": "50ea7a6ed2d8ec73b584ccdef97f430f5862066a589037682d3d4b73a0357cda",
+      "pixel_size": [
+        235,
+        317
+      ],
+      "notes": [
+        "页18第二行右侧战国楚国卢金图像本体；图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    },
+    {
+      "asset_id": "history_book_01_p0019_a001",
+      "pdf_page_number": 19,
+      "bbox": [
+        0.099017,
+        0.533404,
+        0.344671,
+        0.87814
+      ],
+      "file_path": "/textbook-assets/history_book_01_p0019_a001.png",
+      "sha256": "f578f80fc538856b5c7acc95dd74b809ad3ff4183df714938236c8bddd2e4384",
+      "pixel_size": [
+        366,
+        725
+      ],
+      "notes": [
+        "页19左下孔子画像本体；下方生卒年图注未纳入。"
+      ],
+      "export_method": "page_crop",
+      "source_image_name": null,
+      "export_reason": null
+    }
+  ],
+  "missing_asset_ids": [
+    "history_book_01_p0001_a001",
+    "history_book_01_p0001_a002",
+    "history_book_01_p0002_a001",
+    "history_book_01_p0008_a001",
+    "history_book_01_p0009_a001",
+    "history_book_01_p0009_a002",
+    "history_book_01_p0010_a001",
+    "history_book_01_p0010_a002",
+    "history_book_01_p0022_a001",
+    "history_book_01_p0023_a001",
+    "history_book_01_p0023_a002",
+    "history_book_01_p0024_a001",
+    "history_book_01_p0025_a001",
+    "history_book_01_p0026_a001",
+    "history_book_01_p0026_a002",
+    "history_book_01_p0027_a001",
+    "history_book_01_p0028_a001",
+    "history_book_01_p0029_a001",
+    "history_book_01_p0030_a001",
+    "history_book_01_p0031_a001",
+    "history_book_01_p0032_a001",
+    "history_book_01_p0034_a001",
+    "history_book_01_p0035_a001",
+    "history_book_01_p0035_a002",
+    "history_book_01_p0036_a001",
+    "history_book_01_p0036_a002",
+    "history_book_01_p0038_a001",
+    "history_book_01_p0038_a002",
+    "history_book_01_p0039_a001",
+    "history_book_01_p0039_a002",
+    "history_book_01_p0041_a001",
+    "history_book_01_p0042_a001",
+    "history_book_01_p0042_a002",
+    "history_book_01_p0042_a003",
+    "history_book_01_p0043_a001",
+    "history_book_01_p0043_a002",
+    "history_book_01_p0044_a001",
+    "history_book_01_p0044_a002",
+    "history_book_01_p0045_a001",
+    "history_book_01_p0047_a001",
+    "history_book_01_p0048_a001",
+    "history_book_01_p0049_a001",
+    "history_book_01_p0049_a002",
+    "history_book_01_p0049_a003",
+    "history_book_01_p0051_a001",
+    "history_book_01_p0052_a001",
+    "history_book_01_p0053_a001",
+    "history_book_01_p0053_a002",
+    "history_book_01_p0054_a001",
+    "history_book_01_p0054_a002",
+    "history_book_01_p0054_a003",
+    "history_book_01_p0054_a004",
+    "history_book_01_p0054_a005",
+    "history_book_01_p0054_a006",
+    "history_book_01_p0055_a001",
+    "history_book_01_p0056_a001",
+    "history_book_01_p0056_a002",
+    "history_book_01_p0058_a001",
+    "history_book_01_p0059_a001",
+    "history_book_01_p0060_a001",
+    "history_book_01_p0060_a002",
+    "history_book_01_p0061_a001",
+    "history_book_01_p0062_a001",
+    "history_book_01_p0063_a001",
+    "history_book_01_p0063_a002",
+    "history_book_01_p0065_a001",
+    "history_book_01_p0066_a001",
+    "history_book_01_p0066_a002",
+    "history_book_01_p0067_a001",
+    "history_book_01_p0068_a001",
+    "history_book_01_p0071_a001",
+    "history_book_01_p0071_a002",
+    "history_book_01_p0071_a003",
+    "history_book_01_p0072_a001",
+    "history_book_01_p0072_a002",
+    "history_book_01_p0073_a001",
+    "history_book_01_p0074_a001",
+    "history_book_01_p0074_a002",
+    "history_book_01_p0075_a001",
+    "history_book_01_p0077_a001",
+    "history_book_01_p0078_a001",
+    "history_book_01_p0078_a002",
+    "history_book_01_p0079_a001",
+    "history_book_01_p0080_a001",
+    "history_book_01_p0081_a001",
+    "history_book_01_p0083_a001",
+    "history_book_01_p0083_a002",
+    "history_book_01_p0084_a001",
+    "history_book_01_p0084_a002",
+    "history_book_01_p0085_a001",
+    "history_book_01_p0086_a001",
+    "history_book_01_p0089_a001",
+    "history_book_01_p0089_a002",
+    "history_book_01_p0090_a001",
+    "history_book_01_p0091_a001",
+    "history_book_01_p0092_a001",
+    "history_book_01_p0093_a001",
+    "history_book_01_p0094_a001",
+    "history_book_01_p0096_a001",
+    "history_book_01_p0097_a001",
+    "history_book_01_p0097_a002",
+    "history_book_01_p0098_a001",
+    "history_book_01_p0098_a002",
+    "history_book_01_p0099_a001",
+    "history_book_01_p0099_a002",
+    "history_book_01_p0100_a001",
+    "history_book_01_p0101_a001",
+    "history_book_01_p0103_a001",
+    "history_book_01_p0103_a002",
+    "history_book_01_p0104_a001",
+    "history_book_01_p0104_a002",
+    "history_book_01_p0104_a003",
+    "history_book_01_p0105_a001",
+    "history_book_01_p0107_a001",
+    "history_book_01_p0107_a002",
+    "history_book_01_p0107_a003",
+    "history_book_01_p0108_a001",
+    "history_book_01_p0110_a001",
+    "history_book_01_p0110_a002",
+    "history_book_01_p0111_a001",
+    "history_book_01_p0112_a001",
+    "history_book_01_p0112_a002",
+    "history_book_01_p0112_a003",
+    "history_book_01_p0113_a001",
+    "history_book_01_p0116_a001",
+    "history_book_01_p0117_a001",
+    "history_book_01_p0117_a002",
+    "history_book_01_p0118_a001",
+    "history_book_01_p0118_a002",
+    "history_book_01_p0118_a003",
+    "history_book_01_p0119_a001",
+    "history_book_01_p0120_a001",
+    "history_book_01_p0120_a002",
+    "history_book_01_p0122_a001",
+    "history_book_01_p0123_a001",
+    "history_book_01_p0124_a001",
+    "history_book_01_p0124_a002",
+    "history_book_01_p0125_a001",
+    "history_book_01_p0126_a001",
+    "history_book_01_p0126_a002",
+    "history_book_01_p0128_a001",
+    "history_book_01_p0129_a001",
+    "history_book_01_p0129_a002",
+    "history_book_01_p0130_a001",
+    "history_book_01_p0131_a001",
+    "history_book_01_p0131_a002",
+    "history_book_01_p0133_a001",
+    "history_book_01_p0133_a002",
+    "history_book_01_p0135_a001",
+    "history_book_01_p0136_a001",
+    "history_book_01_p0136_a002",
+    "history_book_01_p0137_a001",
+    "history_book_01_p0138_a001",
+    "history_book_01_p0138_a002",
+    "history_book_01_p0139_a001",
+    "history_book_01_p0139_a002",
+    "history_book_01_p0139_a003",
+    "history_book_01_p0141_a001",
+    "history_book_01_p0142_a001",
+    "history_book_01_p0142_a002",
+    "history_book_01_p0143_a001",
+    "history_book_01_p0143_a002",
+    "history_book_01_p0144_a001",
+    "history_book_01_p0145_a001",
+    "history_book_01_p0145_a002",
+    "history_book_01_p0146_a001",
+    "history_book_01_p0146_a002",
+    "history_book_01_p0147_a001",
+    "history_book_01_p0149_a001",
+    "history_book_01_p0150_a001",
+    "history_book_01_p0150_a002",
+    "history_book_01_p0151_a001",
+    "history_book_01_p0152_a001",
+    "history_book_01_p0152_a002",
+    "history_book_01_p0152_a003",
+    "history_book_01_p0153_a001",
+    "history_book_01_p0153_a002",
+    "history_book_01_p0154_a001",
+    "history_book_01_p0155_a001",
+    "history_book_01_p0157_a001",
+    "history_book_01_p0157_a002",
+    "history_book_01_p0158_a001",
+    "history_book_01_p0158_a002",
+    "history_book_01_p0159_a001",
+    "history_book_01_p0160_a007",
+    "history_book_01_p0161_a004",
+    "history_book_01_p0162_a006",
+    "history_book_01_p0162_a007",
+    "history_book_01_p0162_a008",
+    "history_book_01_p0165_a005",
+    "history_book_01_p0166_a007",
+    "history_book_01_p0166_a008",
+    "history_book_01_p0167_a004",
+    "history_book_01_p0167_a005",
+    "history_book_01_p0167_a006",
+    "history_book_01_p0168_a004",
+    "history_book_01_p0169_a001",
+    "history_book_01_p0170_a001",
+    "history_book_01_p0172_a001",
+    "history_book_01_p0172_a002",
+    "history_book_01_p0172_a003",
+    "history_book_01_p0174_a001",
+    "history_book_01_p0175_a001",
+    "history_book_01_p0177_a001",
+    "history_book_01_p0178_a001",
+    "history_book_01_p0178_a002",
+    "history_book_01_p0178_a003",
+    "history_book_01_p0179_a001",
+    "history_book_01_p0181_a001",
+    "history_book_01_p0182_a001",
+    "history_book_01_p0182_a002",
+    "history_book_01_p0183_a001",
+    "history_book_01_p0185_a001",
+    "history_book_01_p0186_a001",
+    "history_book_01_p0186_a002",
+    "history_book_01_p0188_a005",
+    "history_book_01_p0189_a002",
+    "history_book_01_p0190_a004",
+    "history_book_01_p0190_a007",
+    "history_book_01_p0190_a008",
+    "history_book_01_p0191_a001",
+    "history_book_01_p0191_a005",
+    "history_book_01_p0191_a006",
+    "history_book_01_p0192_a005",
+    "history_book_01_p0194_a002",
+    "history_book_01_p0195_a004",
+    "history_book_01_p0196_a007",
+    "history_book_01_p0198_a001",
+    "history_book_01_p0199_a002",
+    "history_book_01_p0199_a003",
+    "history_book_01_p0201_a004",
+    "history_book_01_p0202_a005",
+    "history_book_01_p0202_a006",
+    "history_book_01_p0204_a007",
+    "history_book_01_p0206_a001",
+    "history_book_01_p0206_a002",
+    "history_book_01_p0223_a001"
+  ]
+}

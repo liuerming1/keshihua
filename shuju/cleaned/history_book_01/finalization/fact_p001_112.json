@@ -1,0 +1,793 @@
+{
+  "range": [
+    1,
+    112
+  ],
+  "patches": [
+    {
+      "id": "history_book_01_p0104_k001",
+      "summary": "1856年太平天国领导集团内讧后开始衰落；1864年在湘军、淮军和洋枪队等进攻下天京失守，太平天国运动失败。",
+      "evidence_block_ids": [
+        "history_book_01_p0104_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0104_k002",
+      "summary": "太平天国前期颁布《天朝田亩制度》，提出平均土地和社会财富的理想，否定封建地主土地所有制；受历史条件限制未能真正实施。",
+      "evidence_block_ids": [
+        "history_book_01_p0104_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0104_k003",
+      "summary": "太平天国后期颁布《资政新篇》，提出发展近代工商业等新的社会经济政策，但未能实施。",
+      "evidence_block_ids": [
+        "history_book_01_p0104_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0105_k001",
+      "summary": "太平天国运动虽失败，但沉重打击清王朝统治；湘淮系官僚集团崛起，中央权力下移，清朝政治与权力结构发生变化。",
+      "evidence_block_ids": [
+        "history_book_01_p0105_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0105_k002",
+      "summary": "两次鸦片战争后，洋务派以“自强”“求富”为目标推行洋务新政，创办军事工业、民用企业、新式学校和海军。",
+      "evidence_block_ids": [
+        "history_book_01_p0105_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0106_k001",
+      "summary": "洋务新政引进西方机器生产技术，是中国早期现代化尝试；但未改变封建统治基础，也未达到保障国家安全、抵抗外敌的目标。",
+      "evidence_block_ids": [
+        "history_book_01_p0106_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0106_k002",
+      "summary": "19世纪60年代新疆陷入危机；1875年左宗棠督办新疆军务，至1878年前后收复新疆大部；清政府后收回伊犁大部，1884年新疆建省。",
+      "evidence_block_ids": [
+        "history_book_01_p0106_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0106_k003",
+      "summary": "1883年底中法战争爆发；1884年法军进攻福建、台湾，1885年清军取得镇南关大捷；战后清政府在台湾建省。",
+      "evidence_block_ids": [
+        "history_book_01_p0106_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0106_k004",
+      "summary": "朝鲜农民起义与清朝出兵后，日本借机出兵朝鲜并袭击清军运兵船，1894年甲午中日战争爆发。",
+      "evidence_block_ids": [
+        "history_book_01_p0106_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0106_k005",
+      "summary": "明清与周边部分国家形成宗藩关系，相关国家朝贡并接受册封；19世纪后期这一体系逐步解体。",
+      "evidence_block_ids": [
+        "history_book_01_p0106_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0107_k001",
+      "summary": "黄海海战后北洋舰队受重创，日军侵入辽东和山东，1895年北洋舰队覆灭；清政府随后与日本签订《马关条约》。",
+      "evidence_block_ids": [
+        "history_book_01_p0107_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0107_k002",
+      "summary": "日军占领旅顺后实施大规模屠杀。教材记载暴行持续4天并称杀害2万多中国人；具体死亡数字在不同史料和研究中存在差异。",
+      "evidence_block_ids": [
+        "history_book_01_p0107_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0108_k001",
+      "summary": "1895年5月至10月，台湾义勇军和刘永福所率留台清军武装反抗日军占领。",
+      "evidence_block_ids": [
+        "history_book_01_p0108_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0108_k002",
+      "summary": "《马关条约》后，列强在华强租租借地、划分势力范围并争夺铁路矿山权益，形成瓜分中国的狂潮。",
+      "evidence_block_ids": [
+        "history_book_01_p0108_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0109_k001",
+      "summary": "问题探究引用毛泽东《中国革命和中国共产党》，要求结合列强在华势力范围图讨论帝国主义侵华目的及其社会影响。",
+      "evidence_block_ids": [
+        "history_book_01_p0109_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0109_k002",
+      "summary": "洋务运动中后期出现早期民族资本主义企业；甲午战后民族资本主义进一步发展，早期民族资产阶级形成；近代产业工人的产生早于此时期。",
+      "evidence_block_ids": [
+        "history_book_01_p0109_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0110_k001",
+      "summary": "甲午战后维新思想发展；康有为、梁启超等组织公车上书，成为维新运动发展的重要事件。",
+      "evidence_block_ids": [
+        "history_book_01_p0110_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0110_k002",
+      "summary": "1898年6月11日光绪帝颁布“明定国是”诏书，百日维新开始。",
+      "evidence_block_ids": [
+        "history_book_01_p0110_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0111_k001",
+      "summary": "1898年9月21日慈禧太后发动政变，光绪帝被囚、维新派遭镇压；除京师大学堂等少数措施外，多项改革被废，戊戌维新失败。",
+      "evidence_block_ids": [
+        "history_book_01_p0111_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0111_k002",
+      "summary": "《马关条约》后民族危机加深，义和团在反洋教斗争中兴起；1900年八国联军出兵，义和团最终在中外势力镇压下失败。",
+      "evidence_block_ids": [
+        "history_book_01_p0111_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0112_k001",
+      "summary": "1900年6月八国联军侵华，7月天津陷落，8月中旬北京失陷，慈禧太后和光绪帝西逃。",
+      "evidence_block_ids": [
+        "history_book_01_p0112_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0112_k002",
+      "summary": "八国联军侵华时，罗荣光驻守大沽炮台，率部坚守拒降，后殉国。",
+      "evidence_block_ids": [
+        "history_book_01_p0112_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0112_k003",
+      "summary": "八国联军占领北京后继续烧杀抢掠，俄军侵占东北；南方督抚与列强洽商“东南互保”，使清政府中央权威受到进一步削弱。",
+      "evidence_block_ids": [
+        "history_book_01_p0112_b001"
+      ],
+      "uncertainties_append": [
+        "该摘要仅据教材证据块整理，未扩展本批资料之外的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "原 summary 为占位文本；建议摘要与建议证据块逐字核对后可直接替换。"
+    },
+    {
+      "id": "history_book_01_p0041_k001",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0041_b008"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0041_k002",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0041_b006",
+        "history_book_01_p0041_b009"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0041_k003",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0041_b009",
+        "history_book_01_p0041_b010"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0042_k003",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0042_b007"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0042_k004",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0042_b010"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0042_k005",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0042_b009"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0044_k003",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0044_b005"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0047_k001",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0047_b005"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0047_k002",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0047_b008"
+      ],
+      "uncertainties_append": [
+        "‘隋炀帝始建进士科即科举制度形成’是传统分期，科举形成过程和统一终点仍需来源核验。"
+      ],
+      "disposition": "needs_source",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0047_k003",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0047_b003"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0048_k003",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0048_b007"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0049_k006",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0049_b001",
+        "history_book_01_p0049_b010"
+      ],
+      "uncertainties_append": [
+        "银饼图注及庸调折纳说明属于教材物证/赋税制度解释，应与文物原始记录分层。"
+      ],
+      "disposition": "apply",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0050_k001",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0050_b001"
+      ],
+      "uncertainties_append": [
+        "史料引文含异文、删改说明或难辨字符，需对照原典后再作发布级引用。"
+      ],
+      "disposition": "needs_source",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0052_k003",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0052_b001"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0052_k004",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0052_b001",
+        "history_book_01_p0052_b005"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0053_k002",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0053_b001",
+        "history_book_01_p0053_b004"
+      ],
+      "uncertainties_append": [],
+      "disposition": "apply",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0073_k005",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0073_b008",
+        "history_book_01_p0073_b010"
+      ],
+      "uncertainties_append": [
+        "‘程朱理学对后世影响最大’是教材学习聚焦中的评价性概括，不是单一史料可独立证明的事实。"
+      ],
+      "disposition": "apply",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0084_k005",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0084_b017",
+        "history_book_01_p0084_b018",
+        "history_book_01_p0084_b019"
+      ],
+      "uncertainties_append": [
+        "教材将条约法律效果概括为相关广大地区属中国；应与条约具体边界条款、当时地理认知及后续边界问题区分。"
+      ],
+      "disposition": "needs_source",
+      "reason": "核心摘要未发现明显史实错误；按 verifier 建议将摘要证据改链到实际覆盖该摘要的原文块，并保留必要的解释/来源限定。"
+    },
+    {
+      "id": "history_book_01_p0055_k005",
+      "summary": "隋朝工匠李春设计并主持建造赵州桥。教材称其为世界上现存最古老的石拱桥；若作全球性表述，应限定为世界现存最古老的敞肩式坦弧石拱桥之一/代表性实例。",
+      "evidence_block_ids": [
+        "history_book_01_p0055_b001"
+      ],
+      "uncertainties_append": [
+        "教材的‘世界上现存最古老’属于概括性表述；全球桥梁先后判断需限定类型和资料范围。"
+      ],
+      "disposition": "needs_source",
+      "reason": "原 summary 将教材的绝对表述直接当作无条件全球事实；改为保留教材归属并收窄可支持的桥型表述。"
+    },
+    {
+      "id": "history_book_01_p0009_k003",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0009_b004"
+      ],
+      "uncertainties_append": [
+        "‘北京人已经学会用火’是教材结论；周口店原地控制用火的直接考古证据存在争议。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0010_k005",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0010_b007"
+      ],
+      "uncertainties_append": [
+        "‘母系氏族公社’及由随葬品差异推断社会结构属于教材解释框架，不等同于考古事实本身；页面未给出明确年代。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0011_k002",
+      "summary": "教材把中国原始社会概括为原始人群、母系氏族社会和父系氏族社会三个阶段，并称父系氏族社会出现贫富分化、私有制和权贵阶层。",
+      "evidence_block_ids": [
+        "history_book_01_p0011_b003"
+      ],
+      "uncertainties_append": [
+        "三阶段线性模式属于传统教材社会进化叙事，不宜套用于所有地区和社会。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0012_k001",
+      "summary": "教材叙述禹建立夏朝，启继位后世袭制代替禅让制。",
+      "evidence_block_ids": [
+        "history_book_01_p0012_b003"
+      ],
+      "uncertainties_append": [
+        "约前2070年及夏与二里头的对应属于传世文献/教材年代框架，考古对应仍有争议。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0012_k002",
+      "summary": "教材叙述汤率商部族讨伐桀，夏朝灭亡并建立商朝。",
+      "evidence_block_ids": [
+        "history_book_01_p0012_b003"
+      ],
+      "uncertainties_append": [
+        "汤灭夏及约前1600年的边界属于传世文献传统年代，夏商考古对应并非无争议。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0025_k001",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0025_b001"
+      ],
+      "uncertainties_append": [
+        "焚书及坑杀‘460余名儒生方士’的身份、人数和细节主要依赖《史记》等后世传世文本，应注明史料性质。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0025_k002",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0025_b001"
+      ],
+      "uncertainties_append": [
+        "‘因雨误期依法将被处死’来自《史记》叙事，不宜直接概括为秦律普遍规则；传世叙事与出土秦律需区分。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0052_k001",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0052_b002"
+      ],
+      "uncertainties_append": [
+        "佛教两汉之际传入可作教材概括；汉明帝遣使、白马驮经和白马寺故事的具体时间与细节带有传统史传性质。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0055_k006",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0055_b004",
+        "history_book_01_p0055_b005"
+      ],
+      "uncertainties_append": [
+        "‘火箭是最早的火药武器’属于全球性先后判断，需限定史料范围，不宜作为无条件绝对事实。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0067_k006",
+      "summary": "1247年阔端与萨迦班智达在凉州会谈，就吐蕃地区归附达成协议；教材据此概括此后西藏开始处于中央政府管辖之下。",
+      "evidence_block_ids": [
+        "history_book_01_p0067_b011"
+      ],
+      "uncertainties_append": [
+        "‘开始接受中央政府管辖’是现代中国史学概括；蒙古帝国/元朝的统治方式与地方自治范围需另据来源核验。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0068_k002",
+      "summary": "1271年忽必烈定国号为大元；教材概括此前后蒙古其他统治区形成四大汗国，并名义上尊元朝为宗主国。",
+      "evidence_block_ids": [
+        "history_book_01_p0068_b003"
+      ],
+      "uncertainties_append": [
+        "四大汗国形成时间为‘此前后’而非单一日期；各汗国与元朝/大汗的实际政治关系随时期而变。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0068_k006",
+      "summary": "元朝由宣政院管理吐蕃地区，设置北庭都元帅府、宣慰司等管理军政事务，并在澎湖设置巡检司。",
+      "evidence_block_ids": [
+        "history_book_01_p0068_b007"
+      ],
+      "uncertainties_append": [
+        "现有教材块支持澎湖巡检机构；不能仅据此扩大为元朝已对台湾本岛实施完整行政管辖，台湾本岛相关称谓和行动需另证。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0070_k003",
+      "summary": "教材将元朝时意大利旅行家马可·波罗来华列为中外关系史学习材料，并要求查找相关记载及其他中欧交往史实。",
+      "evidence_block_ids": [
+        "history_book_01_p0070_b007"
+      ],
+      "uncertainties_append": [
+        "马可·波罗是否亲自到访中国、到访范围及《马可·波罗行纪》部分细节存在史学争议；本批不补外部史实。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0072_k005",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0072_b003"
+      ],
+      "uncertainties_append": [
+        "‘北宋末实际人口可能超过一亿’是由户籍数据推算的人口史估计，依赖户均人口和漏登等假设，不是精确统计值。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0090_k003",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0090_b008",
+        "history_book_01_p0090_b009",
+        "history_book_01_p0090_b010"
+      ],
+      "uncertainties_append": [
+        "‘资本主义萌芽’是特定经济史理论框架下的学者解释，须与机户出资、织工出力等史料事实分层展示。"
+      ],
+      "disposition": "apply",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0091_k003",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0091_b005"
+      ],
+      "uncertainties_append": [
+        "‘主观唯心主义倾向’是哲学史分类和教材评价，不是由单一史料直接证明的事件事实；思想史起源与传播范围仍需核验。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0098_k003",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0098_b009"
+      ],
+      "uncertainties_append": [
+        "‘开始沦为半殖民地半封建社会’属于特定近代史分期和社会性质解释，应与具体条约及主权损失事实分层。"
+      ],
+      "disposition": "apply",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0100_k003",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0100_b008"
+      ],
+      "uncertainties_append": [
+        "‘半殖民地半封建化’属于特定史学解释框架；条约条款与主权、关税、司法限制应与该解释分层。"
+      ],
+      "disposition": "apply",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    },
+    {
+      "id": "history_book_01_p0103_k001",
+      "summary": null,
+      "evidence_block_ids": [
+        "history_book_01_p0103_b003",
+        "history_book_01_p0103_b005"
+      ],
+      "uncertainties_append": [
+        "‘近代中国规模最大的一次农民起义’是教材/中国近代史常用概括，属于带有分类和最高级判断的解释性表述；本页未给运动结束年。"
+      ],
+      "disposition": "needs_source",
+      "reason": "verification 标为 verified_with_qualification；保留原教材证据，仅追加可见的史料或解释边界。"
+    }
+  ],
+  "issue_resolutions": [
+    {
+      "id": "history_book_01_p0010_ri002",
+      "status": "open",
+      "reason": "现有证据未给姜寨公历年代；补充了不得据仰韶文化推算的限定，仍需可靠年代来源。"
+    },
+    {
+      "id": "history_book_01_p0041_issue_001",
+      "status": "open",
+      "reason": "大运河工程为历代累积、教材按隋朝概述；已改链相关正文，但没有单一工程起止年证据。"
+    },
+    {
+      "id": "history_book_01_p0041_issue_002",
+      "status": "open",
+      "reason": "隋朝建设、征伐和灭亡是不同过程；已改链建设/灭亡正文，阶段边界仍需分拆或补源。"
+    },
+    {
+      "id": "history_book_01_p0047_issue_001",
+      "status": "open",
+      "reason": "教材未给科举统一精确终点；已保留时期性表述，不能据此补写终年。"
+    },
+    {
+      "id": "history_book_01_p0050_issue001",
+      "status": "open",
+      "reason": "已改链含史料正文和异文脚注的证据块，但原典校对尚未完成。"
+    },
+    {
+      "id": "history_book_01_p0052_issue001",
+      "status": "open",
+      "reason": "两汉之际、东汉初年是教材时期表述；未发现本批证据可支持的公历边界。"
+    },
+    {
+      "id": "history_book_01_p0053_issue001",
+      "status": "open",
+      "reason": "已改链书法正文证据，但人物、作品和称号的同名/语义核验仍需人工复核。"
+    },
+    {
+      "id": "history_book_01_p0055_issue001",
+      "status": "open",
+      "reason": "已追加火药先后判断的限定；唐中期、唐末等时期和《唐本草》全球最早断言仍需来源核验。"
+    },
+    {
+      "id": "history_book_01_b02d_issue006",
+      "status": "open",
+      "reason": "已明确四大汗国时间为‘此前后’；本批无统一精确形成日期。"
+    },
+    {
+      "id": "history_book_01_b02d_issue010",
+      "status": "resolved",
+      "reason": "已将条目限定为教材学习材料，并明确本批不补充马可·波罗外部史实。"
+    },
+    {
+      "id": "history_book_01_b03b_issue008",
+      "status": "resolved",
+      "reason": "已明确‘资本主义萌芽’为学者解释，并要求与史料事实分层展示。"
+    },
+    {
+      "id": "history_book_01_b03b_issue010",
+      "status": "open",
+      "reason": "已追加思想评价边界，但思想家观点及教材评价的语义核验仍未完成。"
+    },
+    {
+      "id": "history_book_01_p0103_issue001",
+      "status": "open",
+      "reason": "已限定‘规模最大’为教材/史学概括；运动规模、意义和失败过程仍需后续页段与史料逐项核对。"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "status": "primary_evidence_checked_pending_slice_merge",
+  "merges": [
+    {
+      "canonical_id": "history_book_01_p0020_k001",
+      "duplicate_ids": [
+        "history_book_01_p0008_k005"
+      ],
+      "reason": "导语与正文都描述同一百家争鸣现象，正文保留详细内容，导语并为出处。"
+    },
+    {
+      "canonical_id": "history_book_01_p0124_k002",
+      "duplicate_ids": [
+        "history_book_01_p0216_k016"
+      ],
+      "reason": "同题同日1917年8月14日，附录年表与正文同一事件。"
+    },
+    {
+      "canonical_id": "history_book_01_p0129_k001",
+      "duplicate_ids": [
+        "history_book_01_p0216_k017"
+      ],
+      "reason": "同题同日1919年5月4日，年表简略表项并入正文。"
+    },
+    {
+      "canonical_id": "history_book_01_p0144_k001",
+      "duplicate_ids": [
+        "history_book_01_p0217_k020"
+      ],
+      "reason": "同题同日1936年12月12日，西安事变的年表与正文合并出处。"
+    },
+    {
+      "canonical_id": "history_book_01_p0146_k001",
+      "duplicate_ids": [
+        "history_book_01_p0218_k001"
+      ],
+      "reason": "同一南京大屠杀，保留正文持续过程性质，年表按月条目作为额外出处，不改成单点。"
+    },
+    {
+      "canonical_id": "history_book_01_p0179_k002",
+      "duplicate_ids": [
+        "history_book_01_p0220_k001"
+      ],
+      "reason": "同题同年，恢复联合国合法权利的正文和年表条目。"
+    },
+    {
+      "canonical_id": "history_book_01_p0182_k002",
+      "duplicate_ids": [
+        "history_book_01_p0181_k001",
+        "history_book_01_p0220_k003"
+      ],
+      "reason": "同一1978年12月十一届三中全会，整合单元导语与正文及年表，独立公报史料条目不合并。"
+    },
+    {
+      "canonical_id": "history_book_01_p0191_k002",
+      "duplicate_ids": [
+        "history_book_01_p0220_k014"
+      ],
+      "reason": "同一1997年7月1日香港回归事件，合并正文与年表出处。"
+    },
+    {
+      "canonical_id": "history_book_01_p0191_k003",
+      "duplicate_ids": [
+        "history_book_01_p0220_k016"
+      ],
+      "reason": "同一1999年12月20日澳门回归事件，合并正文与年表出处。"
+    }
+  ],
+  "redistributions": [
+    {
+      "source_id": "history_book_01_p0181_k003",
+      "target_ids": [
+        "history_book_01_p0191_k002",
+        "history_book_01_p0191_k003"
+      ],
+      "reason": "单元导语把1997和1999两个回归事件放在一起；已有两条正文精确事件，分别关联导语出处，移除无法归年的合并候选。"
+    }
+  ],
+  "approved_additions": [
+    {
+      "slice": "s01",
+      "collection": "blocks",
+      "id": "history_book_01_p0037_b009",
+      "raw_text_sha256": "529c6c74ab8b0968daef9b21e327819d2cfb201ca9532efde31e646ba3579301",
+      "reason": "主代理目视第37页疆域段截图，原文与逐字提取对应；补回基线遗漏独立正文。"
+    },
+    {
+      "slice": "s05",
+      "collection": "places",
+      "id": "history_book_01_p0150_place005",
+      "record_sha256": "f27b4ee7afa47c0cfcbe6f942314d028e35b4425931b666a8e1a5708c556c248",
+      "reason": "主审回读p0150_b004明确西迁昆明；基线无昆明实体，新增无经纬度来源实体。"
+    }
+  ],
+  "resolved_issues": {
+    "history_book_01_p0001_ri001": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_p0002_ri001": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_p0003_ri001": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_b02d_issue001": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_b03b_issue001": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_p0113_issue001": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_p0115_issue001": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_p0132_b001_issue": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_p0133_b001_issue": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_p0134_b001_issue": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_p0135_b001_issue": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_p0136_b001_issue": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_p0137_b001_issue": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_p0138_b001_issue": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_p0139_b001_issue": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_p0140_b001_issue": "本轮按页图清理已识别的页底版权水印编码，原raw_text保留，最终clean_text经过残留控制字符检查；关闭此项编码污染问题。",
+    "history_book_01_p0030_ri001": "本轮跨页复核 2：第29页正文以“丝绸之路。公”截断，第30页首段以“元前60年”续成“公元前60年”，内容是西汉设西域都护府。已按两页顺序核实并在p29相关知识补入第30页证据；原块不拼接。",
+    "history_book_01_p0031_ri001": "本轮跨页复核 4：第31页“真实情”与第32页“况”明确组成“真实情况”；文学知识k004已同时引用两块，clean_text原有文字保留跨页语义。",
+    "history_book_01_b03b_issue015": "本轮跨页复核 12：高分辨率核读PDF第94—95页：第94页李贽引文止于“人而非真，全”，第95页开头接“不复有初矣”，句义与原文连续；本补丁knowledge p0094_k002同时引用两页块。",
+    "history_book_01_p0117_issue001": "本轮跨页复核 15：p117正文末句“先后在檀香山、广州、香港等”由p118 b003接为“地比较系统地接受…”；p122 b005关于二十一条的句子由p123 b002续完。前后页实际文字连续，且原carryover对p122块号指向标题而非正文。",
+    "history_book_01_p0122_issue001": "本轮跨页复核 16：p123 b002以“控制之下的‘二十一条’要求”承接p122 b005末尾，构成连续句并继续交涉结果。",
+    "history_book_01_p0129_issue001": "本轮跨页复核 17：p129五四运动意义句在p130 b002连续；马克思学说研究会叙述在p130 b003和p131 b002接续，内容与页面段落相符。",
+    "history_book_01_p0130_issue001": "本轮跨页复核 17：p129五四运动意义句在p130 b002连续；马克思学说研究会叙述在p130 b003和p131 b002接续，内容与页面段落相符。",
+    "history_book_01_issue_cross_001": "本轮跨页复核 18：p132国共合作叙述跨页进入p133，后页继续合作成果与广州国民党一大；两页内容连续。",
+    "history_book_01_issue_cross_002": "本轮跨页复核 19：p136 b001秋收起义段末说明毛泽东改向山区；p137 b001续写进军井冈山及建立根据地，语义与句序衔接。",
+    "history_book_01_p0150_issue001": "本轮跨页复核 22：第149页整页文字块（b090）在“会战前，毛泽东在”处跨页；p0150_b001接“延安发表《论持久战》的演讲”，版面图像与文字层相互印证。句法及事件连续。",
+    "history_book_01_p0151_issue001": "本轮跨页复核 23：百团大战统计在p0151以“破坏铁路474千米、”结束，p0152接“公路1500多千米”，句子和统计连续。",
+    "history_book_01_p0152_issue001": "本轮跨页复核 23：百团大战统计在p0151以“破坏铁路474千米、”结束，p0152接“公路1500多千米”，句子和统计连续。",
+    "history_book_01_p0153_issue001": "本轮跨页复核 24：p0152末句“共产党坚持抗战、团结、进步的方针，一面从政治上坚决打退……”在p0153接“针，一面从政治上……”，同时转入根据地建设。",
+    "history_book_01_p0190_q001": "本轮跨页复核 32：已接续到p190正文块，农业税词组语义连续。",
+    "history_book_01_p0196_q002": "本轮跨页复核 34：相邻页实际文字完成句法，非仅据下一页存在判断。",
+    "history_book_01_p0214_issue001": "本轮跨页复核 42：两页图像和可读文本的表格边界已检查，续表不是错列行。",
+    "history_book_01_b06d_r001": "本轮跨页复核 43：已对照前一页表末1636年和本页表头/首行，而非仅据页码判断解决。",
+    "history_book_01_b03b_issue006": "主审回读p0087_b007以“念”结束、p0088_b002以“尔国”续接；p0087_k002同时关联两页，保留引文完整来源。",
+    "history_book_01_p0038_ri001": "主代理放大原表逐格确认：羌对应后秦，賨（cóng）另列一格对应成汉；clean_text与table_data均按原图修正，raw_text作为初提取记录保留。",
+    "history_book_01_p0181_reclean_s05_q003": "1997香港与1999澳门概述已分别归并到p0191_k002和k003，两条精确事件各自关联p0181_b002；原候选归档，保留一对多别名。",
+    "history_book_01_p0095_issue001": "主代理与OCR子代理分别目视原PDF放大图，渊薮注音为sǒu；对应clean_text已纠正，raw_text保留初提取。",
+    "history_book_01_p0101_issue001": "主代理与OCR子代理分别目视原PDF放大图，徐继畬注音为yú；对应clean_text已纠正，raw_text保留初提取。"
+  }
+}

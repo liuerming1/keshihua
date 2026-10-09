@@ -1,0 +1,4881 @@
+{
+  "schema_version": "history-pdf-ingest/1.0",
+  "batch": {
+    "id": "history_book_01_b04b",
+    "document_id": "history_book_01",
+    "requested_pdf_pages": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "completed_pdf_pages": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "partial_pdf_pages": [],
+    "unprocessed_pdf_pages": [],
+    "complete": true,
+    "next_pdf_page": null,
+    "carryover": [
+      {
+        "type": "paragraph",
+        "record_ids": [
+          "history_book_01_p0123_b002"
+        ],
+        "description": "第123页开头承接前页正文，保留本页实际可读起始片段；本批无未完成跨批段落。",
+        "next_action": "与前批第122页核对语句衔接。"
+      },
+      {
+        "type": "paragraph",
+        "record_ids": [
+          "history_book_01_p0129_b012",
+          "history_book_01_p0130_b002",
+          "history_book_01_p0130_b003",
+          "history_book_01_p0131_b002"
+        ],
+        "description": "五四运动意义和“马克思学说研究会”段落分别跨页序129—130、130—131，已在本批完整回接。",
+        "next_action": "人工复核跨页文字连续性。"
+      }
+    ]
+  },
+  "documents": [
+    {
+      "id": "history_book_01",
+      "file_name": "普通高中教科书·历史必修_中外历史纲要（上）.pdf",
+      "title": "普通高中教科书·历史必修 中外历史纲要（上）",
+      "edition": null,
+      "volume": "上",
+      "publisher": "人民教育出版社",
+      "publication_year": null,
+      "total_pdf_pages": 223,
+      "language": "zh-CN",
+      "source_kind": "textbook",
+      "sha256": null
+    }
+  ],
+  "pages": [
+    {
+      "id": "history_book_01_p0123",
+      "document_id": "history_book_01",
+      "pdf_page_number": 123,
+      "printed_page_label": "116",
+      "chapter_path": [
+        "第六单元 辛亥革命与中华民国的建立",
+        "第19课 北洋军阀统治时期的政治、经济与文化"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层逐页读取；PDF页序与印刷页码分开记录.",
+        "已渲染检查：tmp_pdf_b04b_render/page-123.png。",
+        "未导出裁剪图片，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0124",
+      "document_id": "history_book_01",
+      "pdf_page_number": 124,
+      "printed_page_label": "117",
+      "chapter_path": [
+        "第六单元 辛亥革命与中华民国的建立",
+        "第19课 北洋军阀统治时期的政治、经济与文化"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层逐页读取；PDF页序与印刷页码分开记录.",
+        "已渲染检查：tmp_pdf_b04b_render/page-124.png。",
+        "未导出裁剪图片，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0125",
+      "document_id": "history_book_01",
+      "pdf_page_number": 125,
+      "printed_page_label": "118",
+      "chapter_path": [
+        "第六单元 辛亥革命与中华民国的建立",
+        "第19课 北洋军阀统治时期的政治、经济与文化"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层逐页读取；PDF页序与印刷页码分开记录.",
+        "已渲染检查：tmp_pdf_b04b_render/page-125.png。",
+        "未导出裁剪图片，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126",
+      "document_id": "history_book_01",
+      "pdf_page_number": 126,
+      "printed_page_label": "119",
+      "chapter_path": [
+        "第六单元 辛亥革命与中华民国的建立",
+        "第19课 北洋军阀统治时期的政治、经济与文化"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层逐页读取；PDF页序与印刷页码分开记录.",
+        "已渲染检查：tmp_pdf_b04b_render/page-126.png。",
+        "未导出裁剪图片，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0127",
+      "document_id": "history_book_01",
+      "pdf_page_number": 127,
+      "printed_page_label": "120",
+      "chapter_path": [
+        "第六单元 辛亥革命与中华民国的建立",
+        "第19课 北洋军阀统治时期的政治、经济与文化"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "not_applicable",
+      "notes": [
+        "文字层逐页读取；PDF页序与印刷页码分开记录.",
+        "已渲染检查：tmp_pdf_b04b_render/page-127.png。",
+        "未导出裁剪图片，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0128",
+      "document_id": "history_book_01",
+      "pdf_page_number": 128,
+      "printed_page_label": "121",
+      "chapter_path": [
+        "第七单元 中国共产党成立与新民主主义革命兴起"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层逐页读取；PDF页序与印刷页码分开记录.",
+        "已渲染检查：tmp_pdf_b04b_render/page-128.png。",
+        "未导出裁剪图片，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129",
+      "document_id": "history_book_01",
+      "pdf_page_number": 129,
+      "printed_page_label": "122",
+      "chapter_path": [
+        "第七单元 中国共产党成立与新民主主义革命兴起",
+        "第20课 五四运动与中国共产党的诞生"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层逐页读取；PDF页序与印刷页码分开记录.",
+        "已渲染检查：tmp_pdf_b04b_render/page-129.png。",
+        "未导出裁剪图片，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0130",
+      "document_id": "history_book_01",
+      "pdf_page_number": 130,
+      "printed_page_label": "123",
+      "chapter_path": [
+        "第七单元 中国共产党成立与新民主主义革命兴起",
+        "第20课 五四运动与中国共产党的诞生"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层逐页读取；PDF页序与印刷页码分开记录.",
+        "已渲染检查：tmp_pdf_b04b_render/page-130.png。",
+        "未导出裁剪图片，assets.file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131",
+      "document_id": "history_book_01",
+      "pdf_page_number": 131,
+      "printed_page_label": "124",
+      "chapter_path": [
+        "第七单元 中国共产党成立与新民主主义革命兴起",
+        "第20课 五四运动与中国共产党的诞生"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层逐页读取；PDF页序与印刷页码分开记录.",
+        "已渲染检查：tmp_pdf_b04b_render/page-131.png。",
+        "未导出裁剪图片，assets.file_path保持null。"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "history_book_01_p0123_b001",
+      "page_id": "history_book_01_p0123",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "116 中外历史纲要 上 第六单元 辛亥革命与中华民国的建立",
+      "clean_text": "116 中外历史纲要 上 第六单元 辛亥革命与中华民国的建立",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_b002",
+      "page_id": "history_book_01_p0123",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "控制之下的“二十一条”要求。经过谈判，袁世凯最终于1915年5月被迫签订不平等的“中日民四条约”。",
+      "clean_text": "控制之下的“二十一条”要求。经过谈判，袁世凯最终于1915年5月被迫签订不平等的“中日民四条约”。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_b003",
+      "page_id": "history_book_01_p0123",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "大权独揽的袁世凯，很快走上帝制之路。1915年10月，参政院以“尊重民意”为由，召开“国民代表大会”，表示一律“赞成”君主立宪。12月，袁世凯接受“劝进”当上了皇帝，以1916年为洪宪元年。",
+      "clean_text": "大权独揽的袁世凯，很快走上帝制之路。1915年10月，参政院以“尊重民意”为由，召开“国民代表大会”，表示一律“赞成”君主立宪。12月，袁世凯接受“劝进”当上了皇帝，以1916年为洪宪元年。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_b004",
+      "page_id": "history_book_01_p0123",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "面对袁世凯的倒行逆施，革命党人起而反抗。二次革命失败后，孙中山组织中华革命党，武力讨伐袁世凯。袁世凯称帝的行径，更激起全国人民的强烈反对。1915年底，唐继尧、蔡锷、李烈钧在云南宣布独立，并组织护国军，发动护国战争，讨伐背叛共和的袁世凯。随后，贵州、广西、广东、浙江、陕西、四川、湖南等省相继宣告独立。1916年3月，袁世凯被迫宣布取消帝制，恢复中华民国纪年。",
+      "clean_text": "面对袁世凯的倒行逆施，革命党人起而反抗。二次革命失败后，孙中山组织中华革命党，武力讨伐袁世凯。袁世凯称帝的行径，更激起全国人民的强烈反对。1915年底，唐继尧、蔡锷、李烈钧在云南宣布独立，并组织护国军，发动护国战争，讨伐背叛共和的袁世凯。随后，贵州、广西、广东、浙江、陕西、四川、湖南等省相继宣告独立。1916年3月，袁世凯被迫宣布取消帝制，恢复中华民国纪年。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_b005",
+      "page_id": "history_book_01_p0123",
+      "order": 5,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "北洋时期的军阀割据",
+      "clean_text": "北洋时期的军阀割据",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_b006",
+      "page_id": "history_book_01_p0123",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "袁世凯称帝失败，不久死去，北洋军阀中难以产生一个能统御整个北洋派的人。北洋军阀内部派系纷争，很快发展为军阀混战与割据的局面。以冯国璋为首的直系，在英美支持下，控制了直隶及长江中下游的苏、赣、鄂等省；皖系的段祺瑞在日本支持下，据有皖、浙、闽、鲁、陕各省；奉系的张作霖，同样以日本为靠山，占据东北三省。各军阀凭借手中掌握的军队，争权夺利，先后爆发直皖、直奉混战，导致北京政权实际上由不同的军阀所控制。",
+      "clean_text": "袁世凯称帝失败，不久死去，北洋军阀中难以产生一个能统御整个北洋派的人。北洋军阀内部派系纷争，很快发展为军阀混战与割据的局面。以冯国璋为首的直系，在英美支持下，控制了直隶及长江中下游的苏、赣、鄂等省；皖系的段祺瑞在日本支持下，据有皖、浙、闽、鲁、陕各省；奉系的张作霖，同样以日本为靠山，占据东北三省。各军阀凭借手中掌握的军队，争权夺利，先后爆发直皖、直奉混战，导致北京政权实际上由不同的军阀所控制。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_b007",
+      "page_id": "history_book_01_p0123",
+      "order": 7,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "袁世凯死后，段祺瑞在各种错综复杂的矛盾中出任掌握实权的国务总理。为了使权力合法化，段祺瑞重新召开被袁世凯解散的国会，但这次会议的进展并不顺利。1917年5月，继任总统黎元洪免去段祺瑞总理职务，造成所谓的“府院之争”。随后，张勋以调解府院之争为名，率兵入京，解散了国会，拥清废帝溥仪复辟。",
+      "clean_text": "袁世凯死后，段祺瑞在各种错综复杂的矛盾中出任掌握实权的国务总理。为了使权力合法化，段祺瑞重新召开被袁世凯解散的国会，但这次会议的进展并不顺利。1917年5月，继任总统黎元洪免去段祺瑞总理职务，造成所谓的“府院之争”。随后，张勋以调解府院之争为名，率兵入京，解散了国会，拥清废帝溥仪复辟。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_b008",
+      "page_id": "history_book_01_p0123",
+      "order": 8,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦",
+      "clean_text": "学习聚焦",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_b009",
+      "page_id": "history_book_01_p0123",
+      "order": 9,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "北洋时期，各种错综复杂的矛盾相继爆发。军阀混战和割据，政治上分崩离析，是这个时期最大的特点。",
+      "clean_text": "北洋时期，各种错综复杂的矛盾相继爆发。军阀混战和割据，政治上分崩离析，是这个时期最大的特点。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_b010",
+      "page_id": "history_book_01_p0123",
+      "order": 10,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "由袁世凯签字的“中日民四条约”",
+      "clean_text": "由袁世凯签字的“中日民四条约”",
+      "asset_ids": [
+        "history_book_01_p0123_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_b011",
+      "page_id": "history_book_01_p0123",
+      "order": 11,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "“中日民四条约”又称“中日北京条约”，是由《关于南满洲及东部内蒙古之条约》及其附件与《关于山东省之条约》及其附件组成的。",
+      "clean_text": "“中日民四条约”又称“中日北京条约”，是由《关于南满洲及东部内蒙古之条约》及其附件与《关于山东省之条约》及其附件组成的。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0124_b001",
+      "page_id": "history_book_01_p0124",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "第19课 北洋军阀统治时期的政治、经济与文化",
+      "clean_text": "第19课 北洋军阀统治时期的政治、经济与文化",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0124_b002",
+      "page_id": "history_book_01_p0124",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "张勋复辟失败后，冯国璋代行大总统职权，段祺瑞回到北京就任国务总理。但段祺瑞公然破坏《中华民国临时约法》，拒绝恢复国会。1917年8月，南下的150余名国会议员在广州召开非常会议，决定成立“中华民国军政府”，推举孙中山为大元帅。借孙中山的名望争权夺势的西南军阀，却千方百计排挤孙中山。1918年，孙中山愤而辞去大元帅之职，发表通电，痛心地表示：“顾吾国之大患，莫大于武人之争雄，南与北如一丘之貉。”",
+      "clean_text": "张勋复辟失败后，冯国璋代行大总统职权，段祺瑞回到北京就任国务总理。但段祺瑞公然破坏《中华民国临时约法》，拒绝恢复国会。1917年8月，南下的150余名国会议员在广州召开非常会议，决定成立“中华民国军政府”，推举孙中山为大元帅。借孙中山的名望争权夺势的西南军阀，却千方百计排挤孙中山。1918年，孙中山愤而辞去大元帅之职，发表通电，痛心地表示：“顾吾国之大患，莫大于武人之争雄，南与北如一丘之貉。”",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0124_b003",
+      "page_id": "history_book_01_p0124",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "为争取国际地位，抑制日本在华势力的发展，1917年8月14日，中国向德、奥两国宣战，加入第一次世界大战的协约国方面。随即，中国收回德、奥在天津、汉口的租界，撤销两国领事裁判权。十几万名中国劳工远渡重洋前往欧洲前线。中国劳工的巨大付出，为协约国一方取得胜利作出了贡献。",
+      "clean_text": "为争取国际地位，抑制日本在华势力的发展，1917年8月14日，中国向德、奥两国宣战，加入第一次世界大战的协约国方面。随即，中国收回德、奥在天津、汉口的租界，撤销两国领事裁判权。十几万名中国劳工远渡重洋前往欧洲前线。中国劳工的巨大付出，为协约国一方取得胜利作出了贡献。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0124_b004",
+      "page_id": "history_book_01_p0124",
+      "order": 4,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "思考点",
+      "clean_text": "思考点",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0124_b005",
+      "page_id": "history_book_01_p0124",
+      "order": 5,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "你怎样理解孙中山的这则通电？",
+      "clean_text": "你怎样理解孙中山的这则通电？",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0124_b006",
+      "page_id": "history_book_01_p0124",
+      "order": 6,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "北洋军阀统治时期军阀割据示意图",
+      "clean_text": "北洋军阀统治时期军阀割据示意图",
+      "asset_ids": [
+        "history_book_01_p0124_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0124_b007",
+      "page_id": "history_book_01_p0124",
+      "order": 7,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "第一次世界大战时期在欧洲的华工",
+      "clean_text": "第一次世界大战时期在欧洲的华工",
+      "asset_ids": [
+        "history_book_01_p0124_a002"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0125_b001",
+      "page_id": "history_book_01_p0125",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "118 中外历史纲要 上 第六单元 辛亥革命与中华民国的建立",
+      "clean_text": "118 中外历史纲要 上 第六单元 辛亥革命与中华民国的建立",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0125_b002",
+      "page_id": "history_book_01_p0125",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "民国初年经济、社会生活的新气象",
+      "clean_text": "民国初年经济、社会生活的新气象",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0125_b003",
+      "page_id": "history_book_01_p0125",
+      "order": 3,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦",
+      "clean_text": "学习聚焦",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0125_b004",
+      "page_id": "history_book_01_p0125",
+      "order": 4,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "中华民国建立为中国民族资本主义经济的发展提供了一定的有利条件，日常生活中也出现种种新气象。",
+      "clean_text": "中华民国建立为中国民族资本主义经济的发展提供了一定的有利条件，日常生活中也出现种种新气象。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0125_b005",
+      "page_id": "history_book_01_p0125",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "中华民国建立，扫除了政治上的一些束缚和障碍，为中国民族资本主义经济的发展提供了一定条件。南京临时政府成立后，鼓励民间兴办实业。第一次世界大战期间，西方列强忙于欧战，中国民族工业得到迅速发展，速度和规模甚至超过以往半个世纪所取得的成绩。与此同时，群众性的反帝爱国斗争此起彼伏，特别是1915年因反对“二十一条”掀起的抵制日货、提倡国货运动，有力推动了纺织、面粉等轻工业系统的民族资本主义的发展。以荣宗敬、荣德生兄弟开办的面粉厂、纱厂等为代表的一批民族企业迅速壮大起来。随着民族工业的迅速发展，中国产业工人的人数也急剧增加，成为不可忽视的社会力量。",
+      "clean_text": "中华民国建立，扫除了政治上的一些束缚和障碍，为中国民族资本主义经济的发展提供了一定条件。南京临时政府成立后，鼓励民间兴办实业。第一次世界大战期间，西方列强忙于欧战，中国民族工业得到迅速发展，速度和规模甚至超过以往半个世纪所取得的成绩。与此同时，群众性的反帝爱国斗争此起彼伏，特别是1915年因反对“二十一条”掀起的抵制日货、提倡国货运动，有力推动了纺织、面粉等轻工业系统的民族资本主义的发展。以荣宗敬、荣德生兄弟开办的面粉厂、纱厂等为代表的一批民族企业迅速壮大起来。随着民族工业的迅速发展，中国产业工人的人数也急剧增加，成为不可忽视的社会力量。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0125_b006",
+      "page_id": "history_book_01_p0125",
+      "order": 6,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "荣氏兄弟创办的福新面粉公司",
+      "clean_text": "荣氏兄弟创办的福新面粉公司",
+      "asset_ids": [
+        "history_book_01_p0125_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0125_b007",
+      "page_id": "history_book_01_p0125",
+      "order": 7,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "建立共和政体是中国历史上破天荒的大事，民众日常生活也出现了种种新气象。南京临时政府致力于社会生活方面的除旧布新，宣布改用阳历，颁布剪发辫、易服饰和废止缠足的法律；还颁布法令，革除“大人”“老爷”等清朝官场的称呼。越来越多的人认识到过去的陈规陋习不符合时代潮流，应接受文明开化的新习俗、新风尚。",
+      "clean_text": "建立共和政体是中国历史上破天荒的大事，民众日常生活也出现了种种新气象。南京临时政府致力于社会生活方面的除旧布新，宣布改用阳历，颁布剪发辫、易服饰和废止缠足的法律；还颁布法令，革除“大人”“老爷”等清朝官场的称呼。越来越多的人认识到过去的陈规陋习不符合时代潮流，应接受文明开化的新习俗、新风尚。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0125_b008",
+      "page_id": "history_book_01_p0125",
+      "order": 8,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "据《欧战前后农商部注册工业公司年别表》，战前（1914年8月前）注册的工业公司，共计146个，资本总额41 148 205元；而自1914年8月至1920年，新注册的公司就有272个，资本额为117 434 500元。所涉及的行业众多，尤以纺织业和面粉业这两个关系民众衣食的行业发展得最快。\n—整理自《中国年鉴 第一回》商务印书馆1924年版",
+      "clean_text": "据《欧战前后农商部注册工业公司年别表》，战前（1914年8月前）注册的工业公司，共计146个，资本总额41 148 205元；而自1914年8月至1920年，新注册的公司就有272个，资本额为117 434 500元。所涉及的行业众多，尤以纺织业和面粉业这两个关系民众衣食的行业发展得最快。\n—整理自《中国年鉴 第一回》商务印书馆1924年版",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0125_b009",
+      "page_id": "history_book_01_p0125",
+      "order": 9,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学思之窗",
+      "clean_text": "学思之窗",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0125_b010",
+      "page_id": "history_book_01_p0125",
+      "order": 10,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "结合这段材料，并联系课文，思考第一次世界大战期间中国民族工业发展的原因。",
+      "clean_text": "结合这段材料，并联系课文，思考第一次世界大战期间中国民族工业发展的原因。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_b001",
+      "page_id": "history_book_01_p0126",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "第19课 北洋军阀统治时期的政治、经济与文化",
+      "clean_text": "第19课 北洋军阀统治时期的政治、经济与文化",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_b002",
+      "page_id": "history_book_01_p0126",
+      "order": 2,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "《青年杂志》第1卷第1号",
+      "clean_text": "《青年杂志》第1卷第1号",
+      "asset_ids": [
+        "history_book_01_p0126_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_b003",
+      "page_id": "history_book_01_p0126",
+      "order": 3,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "《青年杂志》从第2卷起改名为《新青年》。",
+      "clean_text": "《青年杂志》从第2卷起改名为《新青年》。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_b004",
+      "page_id": "history_book_01_p0126",
+      "order": 4,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "蔡元培（前排右四）、陈独秀（前排右三）等与北大文科哲学门师生合影",
+      "clean_text": "蔡元培（前排右四）、陈独秀（前排右三）等与北大文科哲学门师生合影",
+      "asset_ids": [
+        "history_book_01_p0126_a002"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_b005",
+      "page_id": "history_book_01_p0126",
+      "order": 5,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "史料阅读",
+      "clean_text": "史料阅读",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_b006",
+      "page_id": "history_book_01_p0126",
+      "order": 6,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "三年以来，吾人于共和国体之下，备受专制政治之痛苦。自经此次之实验，国中贤者，宝爱共和之心，因以勃发；厌弃专制之心，因以明确。吾人拜赐于执政，可谓没齿不忘者矣。然自今以往，共和国体果能巩固无虞乎？立宪政治果能施行无阻乎？以予观之，此等政治根本解决问题，犹待吾人最后之觉悟。\n——陈独秀《吾人最后之觉悟》（1916年2月15日），《青年杂志》第1卷第6号",
+      "clean_text": "三年以来，吾人于共和国体之下，备受专制政治之痛苦。自经此次之实验，国中贤者，宝爱共和之心，因以勃发；厌弃专制之心，因以明确。吾人拜赐于执政，可谓没齿不忘者矣。然自今以往，共和国体果能巩固无虞乎？立宪政治果能施行无阻乎？以予观之，此等政治根本解决问题，犹待吾人最后之觉悟。\n——陈独秀《吾人最后之觉悟》（1916年2月15日），《青年杂志》第1卷第6号",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_b007",
+      "page_id": "history_book_01_p0126",
+      "order": 7,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "新文化运动的开展",
+      "clean_text": "新文化运动的开展",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_b008",
+      "page_id": "history_book_01_p0126",
+      "order": 8,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦",
+      "clean_text": "学习聚焦",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_b009",
+      "page_id": "history_book_01_p0126",
+      "order": 9,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "新文化运动高举民主与科学的旗帜，反对封建礼教，提倡文学革命，有着解放思想的重大意义。",
+      "clean_text": "新文化运动高举民主与科学的旗帜，反对封建礼教，提倡文学革命，有着解放思想的重大意义。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_b010",
+      "page_id": "history_book_01_p0126",
+      "order": 10,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "新文化运动是从1915年9月陈独秀在上海创办《青年杂志》开始的。这场运动源于对辛亥革命失败原因的痛苦反思。人们认识到共和制度之所以不能真正得到巩固，中国的状况依然黑暗，根本原因在于缺乏对旧思想、旧文化、旧礼教的彻底批判，大多数国民的头脑仍被专制和愚昧牢牢地束缚着。",
+      "clean_text": "新文化运动是从1915年9月陈独秀在上海创办《青年杂志》开始的。这场运动源于对辛亥革命失败原因的痛苦反思。人们认识到共和制度之所以不能真正得到巩固，中国的状况依然黑暗，根本原因在于缺乏对旧思想、旧文化、旧礼教的彻底批判，大多数国民的头脑仍被专制和愚昧牢牢地束缚着。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_b011",
+      "page_id": "history_book_01_p0126",
+      "order": 11,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1917年初，蔡元培就任北京大学校长，随即聘请陈独秀为文科学长，并延揽许多具有新思想的学者来北大任教。北京大学和迁往北京的《新青年》杂志，成为新文化运动的主要阵地。李大钊、鲁迅、胡适、钱玄同、刘半农等成为编辑部成员，共同推进新文化运动。《新青年》阐述了新文化运动的主张：要拥护“德先生”，便不得不反对孔教、礼法、贞节、旧伦理、旧政治；要拥护“赛先生”，便不得不反对旧艺术、旧宗教；要拥护“德先生”又要拥护“赛先生”，便不得不反对国粹和旧文学。",
+      "clean_text": "1917年初，蔡元培就任北京大学校长，随即聘请陈独秀为文科学长，并延揽许多具有新思想的学者来北大任教。北京大学和迁往北京的《新青年》杂志，成为新文化运动的主要阵地。李大钊、鲁迅、胡适、钱玄同、刘半农等成为编辑部成员，共同推进新文化运动。《新青年》阐述了新文化运动的主张：要拥护“德先生”，便不得不反对孔教、礼法、贞节、旧伦理、旧政治；要拥护“赛先生”，便不得不反对旧艺术、旧宗教；要拥护“德先生”又要拥护“赛先生”，便不得不反对国粹和旧文学。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_b012",
+      "page_id": "history_book_01_p0126",
+      "order": 12,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "新文化运动也是一场文学革命。胡适在《新青年》发表《文学改良刍议》一文，主张以白话文作为新文学的语言，得到广泛响应。经过新文化运动的倡导，白话文逐渐普及开来。",
+      "clean_text": "新文化运动也是一场文学革命。胡适在《新青年》发表《文学改良刍议》一文，主张以白话文作为新文学的语言，得到广泛响应。经过新文化运动的倡导，白话文逐渐普及开来。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0127_b001",
+      "page_id": "history_book_01_p0127",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "120 中外历史纲要 上 第六单元 辛亥革命与中华民国的建立",
+      "clean_text": "120 中外历史纲要 上 第六单元 辛亥革命与中华民国的建立",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0127_b002",
+      "page_id": "history_book_01_p0127",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "在《新青年》的有力推动下，各地拥护新文化运动的刊物纷纷出版，使全国报刊面貌为之一新。妇女解放、婚姻自由、家庭革命等口号的提出，也使这场运动所涉及的内容远比辛亥革命时期更加广泛和深刻。",
+      "clean_text": "在《新青年》的有力推动下，各地拥护新文化运动的刊物纷纷出版，使全国报刊面貌为之一新。妇女解放、婚姻自由、家庭革命等口号的提出，也使这场运动所涉及的内容远比辛亥革命时期更加广泛和深刻。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0127_b003",
+      "page_id": "history_book_01_p0127",
+      "order": 3,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "新文化运动高举民主与科学的旗帜，推动思想文化革新，有着解放思想的重大意义。",
+      "clean_text": "新文化运动高举民主与科学的旗帜，推动思想文化革新，有着解放思想的重大意义。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0127_b004",
+      "page_id": "history_book_01_p0127",
+      "order": 4,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "探究与拓展",
+      "clean_text": "探究与拓展",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0127_b005",
+      "page_id": "history_book_01_p0127",
+      "order": 5,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "问题探究",
+      "clean_text": "问题探究",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0127_b006",
+      "page_id": "history_book_01_p0127",
+      "order": 6,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "今之标立宪主义以为国体论之护符者，除非其于立宪二字别有解释，则吾不敢言。夫前清之末叶，则固自谓立宪矣，试问论者能承认否？且吾欲问论者，挟何券约，敢保证国体一变之后，而宪政即可实行而无障？如其不然，则仍是单纯之君主论，非君主立宪论也。既非君主立宪，则其为君主专制，自无待言。不忍于共和之敝，而欲以君主专制代之，谓为良图，实所未解。\n——梁启超《异哉所谓国体问题者》（1915年8月20日），《大中华》第1卷第8期",
+      "clean_text": "今之标立宪主义以为国体论之护符者，除非其于立宪二字别有解释，则吾不敢言。夫前清之末叶，则固自谓立宪矣，试问论者能承认否？且吾欲问论者，挟何券约，敢保证国体一变之后，而宪政即可实行而无障？如其不然，则仍是单纯之君主论，非君主立宪论也。既非君主立宪，则其为君主专制，自无待言。不忍于共和之敝，而欲以君主专制代之，谓为良图，实所未解。\n——梁启超《异哉所谓国体问题者》（1915年8月20日），《大中华》第1卷第8期",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0127_b007",
+      "page_id": "history_book_01_p0127",
+      "order": 7,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "阅读上述材料，谈谈中华民国建立后围绕“国体”问题所发生的争端。",
+      "clean_text": "阅读上述材料，谈谈中华民国建立后围绕“国体”问题所发生的争端。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0127_b008",
+      "page_id": "history_book_01_p0127",
+      "order": 8,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习拓展",
+      "clean_text": "学习拓展",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0127_b009",
+      "page_id": "history_book_01_p0127",
+      "order": 9,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "收集材料，结合史实，进一步探讨新文化运动对近代中国思想解放的影响。",
+      "clean_text": "收集材料，结合史实，进一步探讨新文化运动对近代中国思想解放的影响。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0128_b001",
+      "page_id": "history_book_01_p0128",
+      "order": 1,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第七单元\n中国共产党成立与新民主主义革命兴起",
+      "clean_text": "第七单元\n中国共产党成立与新民主主义革命兴起",
+      "asset_ids": [
+        "history_book_01_p0128_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0128_b002",
+      "page_id": "history_book_01_p0128",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "巴黎和会上，中国外交遭遇惨败，轰轰烈烈的反帝爱国运动——五四运动由此爆发。五四运动后诞生的中国共产党，给灾难深重的中国人民带来了光明和希望，指明了中国革命的方向。随后，第一次国共合作正式实现，推动反帝反封建的国民革命运动迅速展开。正当北伐军胜利进军的紧要关头，蒋介石发动了四一二反革命政变。国民革命失败后，国民政府加强了独裁统治。中国共产党开始认识到掌握武装力量的重要性，发动了一系列武装起义，开辟了中国革命的新道路。由于“左”倾错误的影响，红军第五次反“围剿”失利，被迫长征。红军长征的胜利，打开了中国革命的新局面。这一时期，民族资本主义取得了较大发展，但也面临着重重阻碍。",
+      "clean_text": "巴黎和会上，中国外交遭遇惨败，轰轰烈烈的反帝爱国运动——五四运动由此爆发。五四运动后诞生的中国共产党，给灾难深重的中国人民带来了光明和希望，指明了中国革命的方向。随后，第一次国共合作正式实现，推动反帝反封建的国民革命运动迅速展开。正当北伐军胜利进军的紧要关头，蒋介石发动了四一二反革命政变。国民革命失败后，国民政府加强了独裁统治。中国共产党开始认识到掌握武装力量的重要性，发动了一系列武装起义，开辟了中国革命的新道路。由于“左”倾错误的影响，红军第五次反“围剿”失利，被迫长征。红军长征的胜利，打开了中国革命的新局面。这一时期，民族资本主义取得了较大发展，但也面临着重重阻碍。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0128_b003",
+      "page_id": "history_book_01_p0128",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "通过本单元的学习，认识五四爱国运动的历史意义，认识马克思主义在中国的传播与中国共产党成立对中国革命的深远影响；认识国共合作领导国民革命的历史作用；了解南京国民政府的成立；认识中国共产党开辟革命新道路的意义；认识红军长征的意义。",
+      "clean_text": "通过本单元的学习，认识五四爱国运动的历史意义，认识马克思主义在中国的传播与中国共产党成立对中国革命的深远影响；认识国共合作领导国民革命的历史作用；了解南京国民政府的成立；认识中国共产党开辟革命新道路的意义；认识红军长征的意义。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_b001",
+      "page_id": "history_book_01_p0129",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "122 中外历史纲要 上 第七单元 中国共产党成立与新民主主义革命兴起",
+      "clean_text": "122 中外历史纲要 上 第七单元 中国共产党成立与新民主主义革命兴起",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_b002",
+      "page_id": "history_book_01_p0129",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第20课\n五四运动与中国共产党的诞生",
+      "clean_text": "第20课\n五四运动与中国共产党的诞生",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_b003",
+      "page_id": "history_book_01_p0129",
+      "order": 3,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "北京学生在天安门前游行示威",
+      "clean_text": "北京学生在天安门前游行示威",
+      "asset_ids": [
+        "history_book_01_p0129_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_b004",
+      "page_id": "history_book_01_p0129",
+      "order": 4,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "1919年5月5日，上海《新申报》为五四运动爆发印发的“号外”",
+      "clean_text": "1919年5月5日，上海《新申报》为五四运动爆发印发的“号外”",
+      "asset_ids": [
+        "history_book_01_p0129_a002"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_b005",
+      "page_id": "history_book_01_p0129",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "巴黎和会上，强权战胜了公理，中国遭遇严重外交失败，这引发了爱国青年的极大愤慨。北京大学、北京高等师范学校等十几所学校的青年学生，高呼“还我青岛”“取消二十一条”等口号，齐集天安门前游行示威。",
+      "clean_text": "巴黎和会上，强权战胜了公理，中国遭遇严重外交失败，这引发了爱国青年的极大愤慨。北京大学、北京高等师范学校等十几所学校的青年学生，高呼“还我青岛”“取消二十一条”等口号，齐集天安门前游行示威。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_b006",
+      "page_id": "history_book_01_p0129",
+      "order": 6,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "五四运动和马克思主义的传播",
+      "clean_text": "五四运动和马克思主义的传播",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_b007",
+      "page_id": "history_book_01_p0129",
+      "order": 7,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦",
+      "clean_text": "学习聚焦",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_b008",
+      "page_id": "history_book_01_p0129",
+      "order": 8,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "五四运动是一次彻底的不妥协的反帝反封建的爱国运动。马克思主义得到广泛传播。",
+      "clean_text": "五四运动是一次彻底的不妥协的反帝反封建的爱国运动。马克思主义得到广泛传播。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_b009",
+      "page_id": "history_book_01_p0129",
+      "order": 9,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1919年1月，中国作为第一次世界大战的战胜国之一，参加了在法国巴黎召开的“和平会议”。中国代表提出废除外国在中国的一切特权、取消“二十一条”等，但英、美等国操纵的和会拒绝了中国代表提出的正义要求，竟决定将德国在中国山东的权益转让给日本。这一消息传到国内，激起人们郁积已久的愤怒，各界人士和爱国团体纷纷发表通电，斥责这一无理行径，并且要求中国政府坚决维护国家主权。这成为五四运动爆发的导火索。",
+      "clean_text": "1919年1月，中国作为第一次世界大战的战胜国之一，参加了在法国巴黎召开的“和平会议”。中国代表提出废除外国在中国的一切特权、取消“二十一条”等，但英、美等国操纵的和会拒绝了中国代表提出的正义要求，竟决定将德国在中国山东的权益转让给日本。这一消息传到国内，激起人们郁积已久的愤怒，各界人士和爱国团体纷纷发表通电，斥责这一无理行径，并且要求中国政府坚决维护国家主权。这成为五四运动爆发的导火索。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_b010",
+      "page_id": "history_book_01_p0129",
+      "order": 10,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "5月4日，北京大学等十几所学校的三千多名学生齐集天安门前，举行游行示威，高喊“外争主权，内除国贼”等口号。学生的爱国行动遭到北洋军阀政府的镇压，使得从北京开始的学生爱国运动迅速向全国发展。",
+      "clean_text": "5月4日，北京大学等十几所学校的三千多名学生齐集天安门前，举行游行示威，高喊“外争主权，内除国贼”等口号。学生的爱国行动遭到北洋军阀政府的镇压，使得从北京开始的学生爱国运动迅速向全国发展。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_b011",
+      "page_id": "history_book_01_p0129",
+      "order": 11,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "6月3日和4日，北京大批学生被捕，消息传到上海。6月5日，上海出现大规模的工人罢工和商人罢市。中国工人阶级登上政治舞台，推动着这场爱国运动发展到一个新阶段。在巨大压力下，北京政府释放了被捕学生。参加巴黎和会的中国代表也拒绝在和约上签字。",
+      "clean_text": "6月3日和4日，北京大批学生被捕，消息传到上海。6月5日，上海出现大规模的工人罢工和商人罢市。中国工人阶级登上政治舞台，推动着这场爱国运动发展到一个新阶段。在巨大压力下，北京政府释放了被捕学生。参加巴黎和会的中国代表也拒绝在和约上签字。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_b012",
+      "page_id": "history_book_01_p0129",
+      "order": 12,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "五四运动是一场以先进青年知识分子为先锋、广大人民群众参加的彻底反帝反封建的伟大爱国革命运动，是一",
+      "clean_text": "五四运动是一场以先进青年知识分子为先锋、广大人民群众参加的彻底反帝反封建的伟大爱国革命运动，是一",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0130_b001",
+      "page_id": "history_book_01_p0130",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "第20课 五四运动与中国共产党的诞生",
+      "clean_text": "第20课 五四运动与中国共产党的诞生",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0130_b002",
+      "page_id": "history_book_01_p0130",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "场中国人民为拯救民族危亡、捍卫民族尊严、凝聚民族力量而掀起的伟大社会革命运动，是一场传播新思想新文化新知识的伟大思想启蒙运动。它推动了中国社会进步，促进了马克思主义在中国的传播，促进了马克思主义同中国工人运动的结合，为中国共产党成立做了思想上干部上的准备，为新的革命力量、革命文化、革命斗争登上历史舞台创造了条件，是中国旧民主主义革命走向新民主主义革命的转折点，在近代以来中华民族追求民族独立和发展进步的历史进程中具有里程碑意义。",
+      "clean_text": "场中国人民为拯救民族危亡、捍卫民族尊严、凝聚民族力量而掀起的伟大社会革命运动，是一场传播新思想新文化新知识的伟大思想启蒙运动。它推动了中国社会进步，促进了马克思主义在中国的传播，促进了马克思主义同中国工人运动的结合，为中国共产党成立做了思想上干部上的准备，为新的革命力量、革命文化、革命斗争登上历史舞台创造了条件，是中国旧民主主义革命走向新民主主义革命的转折点，在近代以来中华民族追求民族独立和发展进步的历史进程中具有里程碑意义。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0130_b003",
+      "page_id": "history_book_01_p0130",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "马克思主义在中国的广泛传播是从俄国十月革命后开始的，北京与上海成为宣传马克思主义的中心。在1919年出版的《新青年》“马克思研究专号”上，李大钊发表了《我的马克思主义观》，系统介绍了马克思主义学说。1920年3月，李大钊又发起中国最早研究马克思主义的团体——马克思",
+      "clean_text": "马克思主义在中国的广泛传播是从俄国十月革命后开始的，北京与上海成为宣传马克思主义的中心。在1919年出版的《新青年》“马克思研究专号”上，李大钊发表了《我的马克思主义观》，系统介绍了马克思主义学说。1920年3月，李大钊又发起中国最早研究马克思主义的团体——马克思",
+      "asset_ids": [
+        "history_book_01_p0130_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0130_b004",
+      "page_id": "history_book_01_p0130",
+      "order": 4,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "《共产党宣言》一书的封面",
+      "clean_text": "《共产党宣言》一书的封面",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0130_b005",
+      "page_id": "history_book_01_p0130",
+      "order": 5,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "1920年8月，陈望道翻译的《共产党宣言》出版，这是马克思主义经典著作在中国出版的第一个中文全译本。8月第一版标题错写成《共党产宣言》，9月再版改为《共产党宣言》。",
+      "clean_text": "1920年8月，陈望道翻译的《共产党宣言》出版，这是马克思主义经典著作在中国出版的第一个中文全译本。8月第一版标题错写成《共党产宣言》，9月再版改为《共产党宣言》。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0130_b006",
+      "page_id": "history_book_01_p0130",
+      "order": 6,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学思之窗",
+      "clean_text": "学思之窗",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0130_b007",
+      "page_id": "history_book_01_p0130",
+      "order": 7,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "五四运动以全民族的力量高举起爱国主义的伟大旗帜。五四运动，孕育了以爱国、进步、民主、科学为主要内容的伟大五四精神，其核心是爱国主义精神。……五四运动以全民族的行动激发了追求真理、追求进步的伟大觉醒。五四运动前后，我国一批先进知识分子和革命青年，在追求真理中传播新思想新文化，勇于打破封建思想的桎梏，猛烈冲击了几千年来的封建旧礼教、旧道德、旧思想、旧文化。五四运动改变了以往只有觉悟的革命者而缺少觉醒的人民大众的斗争状况，实现了中国人民和中华民族自鸦片战争以来第一次全面觉醒。……五四运动以全民族的搏击培育了永久奋斗的伟大传统。……中国人民和中华民族从斗争实践中懂得，中国社会发展，中华民族振兴，中国人民幸福，必须依靠自己的英勇奋斗来实现，没有人会恩赐给我们一个光明的中国。\n——习近平《在纪念五四运动100周年大会上的讲话》（2019年4月30日）",
+      "clean_text": "五四运动以全民族的力量高举起爱国主义的伟大旗帜。五四运动，孕育了以爱国、进步、民主、科学为主要内容的伟大五四精神，其核心是爱国主义精神。……五四运动以全民族的行动激发了追求真理、追求进步的伟大觉醒。五四运动前后，我国一批先进知识分子和革命青年，在追求真理中传播新思想新文化，勇于打破封建思想的桎梏，猛烈冲击了几千年来的封建旧礼教、旧道德、旧思想、旧文化。五四运动改变了以往只有觉悟的革命者而缺少觉醒的人民大众的斗争状况，实现了中国人民和中华民族自鸦片战争以来第一次全面觉醒。……五四运动以全民族的搏击培育了永久奋斗的伟大传统。……中国人民和中华民族从斗争实践中懂得，中国社会发展，中华民族振兴，中国人民幸福，必须依靠自己的英勇奋斗来实现，没有人会恩赐给我们一个光明的中国。\n——习近平《在纪念五四运动100周年大会上的讲话》（2019年4月30日）",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0130_b008",
+      "page_id": "history_book_01_p0130",
+      "order": 8,
+      "type": "exercise",
+      "bbox": null,
+      "raw_text": "阅读上述材料，进一步理解五四运动的意义，体会其时代价值。",
+      "clean_text": "阅读上述材料，进一步理解五四运动的意义，体会其时代价值。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_b001",
+      "page_id": "history_book_01_p0131",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "124 中外历史纲要 上 第七单元 中国共产党成立与新民主主义革命兴起",
+      "clean_text": "124 中外历史纲要 上 第七单元 中国共产党成立与新民主主义革命兴起",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_b002",
+      "page_id": "history_book_01_p0131",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "学说研究会，把一批经历过五四运动洗礼的优秀青年组织起来。同年5月，陈独秀在上海组织了马克思主义研究会。从日本留学回国的李达、陈望道、李汉俊等人，投身于马克思主义学说的翻译和宣传。",
+      "clean_text": "学说研究会，把一批经历过五四运动洗礼的优秀青年组织起来。同年5月，陈独秀在上海组织了马克思主义研究会。从日本留学回国的李达、陈望道、李汉俊等人，投身于马克思主义学说的翻译和宣传。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_b003",
+      "page_id": "history_book_01_p0131",
+      "order": 3,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "中国共产党的诞生",
+      "clean_text": "中国共产党的诞生",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_b004",
+      "page_id": "history_book_01_p0131",
+      "order": 4,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦",
+      "clean_text": "学习聚焦",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_b005",
+      "page_id": "history_book_01_p0131",
+      "order": 5,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "中国共产党的成立，给灾难深重的中国人民带来了光明和希望，指明了中国革命的方向，凝聚了中国人民的强大力量。",
+      "clean_text": "中国共产党的成立，给灾难深重的中国人民带来了光明和希望，指明了中国革命的方向，凝聚了中国人民的强大力量。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_b006",
+      "page_id": "history_book_01_p0131",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "随着马克思主义的广泛传播，以及中国工人运动的持续发展，创建工人阶级政党的问题提到日程上来。1920年初，陈独秀和李大钊最早提出并推动在中国建立共产党。同年4月，共产国际派代表来到中国，先后与李大钊、陈独秀商议建党事宜。8月，上海发起成立了中国共产党早期组织。10月，北京建立了共产党小组。武汉、长沙、济南、广州等地也建立了共产党的早期组织。",
+      "clean_text": "随着马克思主义的广泛传播，以及中国工人运动的持续发展，创建工人阶级政党的问题提到日程上来。1920年初，陈独秀和李大钊最早提出并推动在中国建立共产党。同年4月，共产国际派代表来到中国，先后与李大钊、陈独秀商议建党事宜。8月，上海发起成立了中国共产党早期组织。10月，北京建立了共产党小组。武汉、长沙、济南、广州等地也建立了共产党的早期组织。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_b007",
+      "page_id": "history_book_01_p0131",
+      "order": 7,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1921年7月23日，中国共产党第一次全国代表大会在上海举行。出席会议的除毛泽东、董必武、李达等13名代表外，还有共产国际代表。由于法租界巡捕突然搜查会场，会议最后一天是在浙江嘉兴南湖一艘游船上进行的。大会通过的纲领，首先确定了中国共产党这个名称。大会明确了中国共产党的奋斗目标是推翻资产阶级，建立无产阶级专政，实现社会主义和共产主义。大会还选举产生了党的领导机构，陈独秀任书记。",
+      "clean_text": "1921年7月23日，中国共产党第一次全国代表大会在上海举行。出席会议的除毛泽东、董必武、李达等13名代表外，还有共产国际代表。由于法租界巡捕突然搜查会场，会议最后一天是在浙江嘉兴南湖一艘游船上进行的。大会通过的纲领，首先确定了中国共产党这个名称。大会明确了中国共产党的奋斗目标是推翻资产阶级，建立无产阶级专政，实现社会主义和共产主义。大会还选举产生了党的领导机构，陈独秀任书记。",
+      "asset_ids": [
+        "history_book_01_p0131_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_b008",
+      "page_id": "history_book_01_p0131",
+      "order": 8,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "中国共产党第一次全国代表大会会址",
+      "clean_text": "中国共产党第一次全国代表大会会址",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_b009",
+      "page_id": "history_book_01_p0131",
+      "order": 9,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "中国共产党第一次全国代表大会会址位于上海市望志路106号，现为兴业路76号。",
+      "clean_text": "中国共产党第一次全国代表大会会址位于上海市望志路106号，现为兴业路76号。",
+      "asset_ids": [
+        "history_book_01_p0131_a002"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_b010",
+      "page_id": "history_book_01_p0131",
+      "order": 10,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "浙江嘉兴南湖红船（复制品）",
+      "clean_text": "浙江嘉兴南湖红船（复制品）",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_b011",
+      "page_id": "history_book_01_p0131",
+      "order": 11,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "中国共产党第一次全国代表大会在浙江嘉兴南湖的红船上闭幕。“红船精神”在这里孕育。",
+      "clean_text": "中国共产党第一次全国代表大会在浙江嘉兴南湖的红船上闭幕。“红船精神”在这里孕育。",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_b012",
+      "page_id": "history_book_01_p0123",
+      "order": 12,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "116 中外历史纲要  上   第六单元  辛亥革命与中华民国的建立\n控制之下的“二十一条”要求。经过谈判，袁世凯最终于\n1915 年 5 月被迫签订不平等的“中日民四条约” 。\n大权独揽的袁世凯，很快走上帝制之路。1915年10月，\n参政院以“尊重民意”为由，召开“国民代表大会” ，表示\n一律“赞成”君主立宪。 12 月，袁世凯接受“劝进”当上\n了皇帝，以1916年为洪宪元年。\n面对袁世凯的倒行逆施，革命党人起而反抗。二次革\n命失败后，孙中山组织中华革命党，武力讨伐袁世凯。袁\n世凯称帝的行径，更激起全国人民的强烈反对。 1915 年\n底，唐继尧﹑蔡锷﹑李烈钧在云南宣布独立，并组织护国\n军，发动护国战争，讨伐背叛共和的袁世凯。随后，贵\n州、广西、广东、浙江、陕西、四川、湖南等省相继宣告\n独立。1916 年 3 月，袁世凯被迫宣布取消帝制，恢复中华\n民国纪年。\n北洋时期的军阀割据\n袁世凯称帝失败，不久死去，北洋军阀中难以产生一\n个能统御整个北洋派的人。北洋军阀内部派系纷争，很快\n发展为军阀混战与割据的局面。以冯国璋为首的直系，在\n英美支持下，控制了直隶及长江中下游的苏、赣、鄂等省；\n皖系的段祺瑞在日本支持下，据有皖、浙、闽、鲁、陕各\n省；奉系的张作霖，同样以日本为靠山，占据东北三省。\n各军阀凭借手中掌握的军队，争权夺利，先后爆发直皖、\n直奉混战，导致北京政权实际上由不同的军阀所控制。\n袁世凯死后，段祺瑞在各种错综复杂的矛盾中出任\n掌握实权的国务总理。为了使权力合法化，段祺瑞重新\n召开被袁世凯解散的国会，但这次会议的进展并不顺利。\n1917 年 5 月，继任总统黎元洪免去段祺瑞总理职务，造成\n所谓的“府院之争” 。随后，张勋以调解府院之争为名，\n率兵入京，解散了国会，拥清废帝溥仪复辟。\n北洋时期，各种错综复\n杂的矛盾相继爆发。军阀混\n战和割据，政治上分崩离析，\n是这个时期最大的特点。\n学习聚焦\n▲ 由袁世凯签字的 “中日民四条约”\n    “中日民四条约”又称“中日\n北京条约” ，是由《关于南满洲及\n东部内蒙古之条约》及其附件与\n《关于山东省之条约》及其附件组\n成的。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "116 中外历史纲要  上   第六单元  辛亥革命与中华民国的建立\n控制之下的“二十一条”要求。经过谈判，袁世凯最终于\n1915 年 5 月被迫签订不平等的“中日民四条约” 。\n大权独揽的袁世凯，很快走上帝制之路。1915年10月，\n参政院以“尊重民意”为由，召开“国民代表大会” ，表示\n一律“赞成”君主立宪。 12 月，袁世凯接受“劝进”当上\n了皇帝，以1916年为洪宪元年。\n面对袁世凯的倒行逆施，革命党人起而反抗。二次革\n命失败后，孙中山组织中华革命党，武力讨伐袁世凯。袁\n世凯称帝的行径，更激起全国人民的强烈反对。 1915 年\n底，唐继尧﹑蔡锷﹑李烈钧在云南宣布独立，并组织护国\n军，发动护国战争，讨伐背叛共和的袁世凯。随后，贵\n州、广西、广东、浙江、陕西、四川、湖南等省相继宣告\n独立。1916 年 3 月，袁世凯被迫宣布取消帝制，恢复中华\n民国纪年。\n北洋时期的军阀割据\n袁世凯称帝失败，不久死去，北洋军阀中难以产生一\n个能统御整个北洋派的人。北洋军阀内部派系纷争，很快\n发展为军阀混战与割据的局面。以冯国璋为首的直系，在\n英美支持下，控制了直隶及长江中下游的苏、赣、鄂等省；\n皖系的段祺瑞在日本支持下，据有皖、浙、闽、鲁、陕各\n省；奉系的张作霖，同样以日本为靠山，占据东北三省。\n各军阀凭借手中掌握的军队，争权夺利，先后爆发直皖、\n直奉混战，导致北京政权实际上由不同的军阀所控制。\n袁世凯死后，段祺瑞在各种错综复杂的矛盾中出任\n掌握实权的国务总理。为了使权力合法化，段祺瑞重新\n召开被袁世凯解散的国会，但这次会议的进展并不顺利。\n1917 年 5 月，继任总统黎元洪免去段祺瑞总理职务，造成\n所谓的“府院之争” 。随后，张勋以调解府院之争为名，\n率兵入京，解散了国会，拥清废帝溥仪复辟。\n北洋时期，各种错综复\n杂的矛盾相继爆发。军阀混\n战和割据，政治上分崩离析，\n是这个时期最大的特点。\n学习聚焦\n▲ 由袁世凯签字的 “中日民四条约”\n    “中日民四条约”又称“中日\n北京条约” ，是由《关于南满洲及\n东部内蒙古之条约》及其附件与\n《关于山东省之条约》及其附件组\n成的。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "PDF文字层逐页原串锚点，仅用于覆盖审计；语义内容已按标题、段落、图注和边栏拆分。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0124_b008",
+      "page_id": "history_book_01_p0124",
+      "order": 8,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "第19课    北洋军阀统治时期的政治、经济与文化 117\n▲ 第一次世界大战时期在欧洲的华工\n张勋复辟失败后，冯国璋代行\n大总统职权，段祺瑞回到北京就任国\n务总理。但段祺瑞公然破坏《中华民\n国临时约法》 ，拒绝恢复国会。1917\n年8 月，南下的 150余名国会议员在\n广州召开非常会议，决定成立“中\n华民国军政府” ，推举孙中山为大元\n帅。借孙中山的名望争权夺势的西南\n军阀，却千方百计排挤孙中山。1918\n年，孙中山愤而辞去大元帅之职，发\n表通电，痛心地表示： “顾吾国之大\n患，莫大于武人之争雄，南与北如一\n丘之貉。 ”\n为争取国际地位，抑制日本在\n华势力的发展 ， 1917 年 8 月 14 日，\n中国向德、奥两国宣战，加入第一\n次世界大战的协约国方面 。随即 ，\n中国收回德、奥在天津、汉口的租\n界，撤销两国领事裁判权。十几万\n名中国劳工远渡重洋前往欧洲前线。中国劳工的巨大付\n出，为协约国一方取得胜利作出了贡献。 你怎样理解孙中山的\n这则通电？\n思考点\n▲ 北洋军阀统治时期军阀割据示意图北洋军阀统治时期军阀割据示意图\n北京\n（日占）\n澳门\n香港\n（英占）\n（葡占）\n上海\n省级界\n南北军阀\n争夺地区\n皖系军阀\n直系军阀\n奉系军阀\n滇系军阀\n晋系军阀\n桂系军阀\n地区界\n国界 黑\n龙\n江\n渤\n黄\n江\n河\n长\n海\n黄  海\n东  海\n南       海\n山\n西\n黑\n龙\n江\n吉 林奉\n天\n京兆\n隶\n东\n浙江江\n江\n苏安\n徽\n湖北\n湖\n南\n四川\n西\n陕\n西 福\n建\n广 东\n台广西\n贵州\n云\n南\n直\n山\n湾\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "第19课    北洋军阀统治时期的政治、经济与文化 117\n▲ 第一次世界大战时期在欧洲的华工\n张勋复辟失败后，冯国璋代行\n大总统职权，段祺瑞回到北京就任国\n务总理。但段祺瑞公然破坏《中华民\n国临时约法》 ，拒绝恢复国会。1917\n年8 月，南下的 150余名国会议员在\n广州召开非常会议，决定成立“中\n华民国军政府” ，推举孙中山为大元\n帅。借孙中山的名望争权夺势的西南\n军阀，却千方百计排挤孙中山。1918\n年，孙中山愤而辞去大元帅之职，发\n表通电，痛心地表示： “顾吾国之大\n患，莫大于武人之争雄，南与北如一\n丘之貉。 ”\n为争取国际地位，抑制日本在\n华势力的发展 ， 1917 年 8 月 14 日，\n中国向德、奥两国宣战，加入第一\n次世界大战的协约国方面 。随即 ，\n中国收回德、奥在天津、汉口的租\n界，撤销两国领事裁判权。十几万\n名中国劳工远渡重洋前往欧洲前线。中国劳工的巨大付\n出，为协约国一方取得胜利作出了贡献。 你怎样理解孙中山的\n这则通电？\n思考点\n▲ 北洋军阀统治时期军阀割据示意图北洋军阀统治时期军阀割据示意图\n北京\n（日占）\n澳门\n香港\n（英占）\n（葡占）\n上海\n省级界\n南北军阀\n争夺地区\n皖系军阀\n直系军阀\n奉系军阀\n滇系军阀\n晋系军阀\n桂系军阀\n地区界\n国界 黑\n龙\n江\n渤\n黄\n江\n河\n长\n海\n黄  海\n东  海\n南       海\n山\n西\n黑\n龙\n江\n吉 林奉\n天\n京兆\n隶\n东\n浙江江\n江\n苏安\n徽\n湖北\n湖\n南\n四川\n西\n陕\n西 福\n建\n广 东\n台广西\n贵州\n云\n南\n直\n山\n湾\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "PDF文字层逐页原串锚点，仅用于覆盖审计；语义内容已按标题、段落、图注和边栏拆分。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0125_b011",
+      "page_id": "history_book_01_p0125",
+      "order": 11,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "118 中外历史纲要  上   第六单元  辛亥革命与中华民国的建立\n中华民国建立为中国民\n族资本主义经济的发展提供\n了一定的有利条件，日常生\n活中也出现种种新气象。\n学习聚焦\n民国初年经济、社会生活的新气象\n中华民国建立，扫除了政治上的一些束缚和障碍，为\n中国民族资本主义经济的发展提供了一定条件。南京临时\n政府成立后，鼓励民间兴办实业。第一次世界大战期间，\n西方列强忙于欧战，中国民族工业得到迅速发展，速度\n和规模甚至超过以往半个世纪所取得的成绩。与此同时，\n群众性的反帝爱国斗争此起彼伏，特别是 1915 年因反对\n“二十一条”掀起的抵制日货、提倡国货运动，有力推动\n了纺织、面粉等轻工业系统的民族资本主义的发展。以荣\n宗敬、荣德生兄弟开办的面粉厂、纱厂等为代表的一批民\n族企业迅速壮大起来。随着民族工业的迅速发展，中国产\n业工人的人数也急剧增加，成为不可忽视的社会力量。\n▲  荣氏兄弟创办的福新面粉公司\n建立共和政体是中国历史上破天荒的大事，民众日常\n生活也出现了种种新气象。南京临时政府致力于社会生活\n方面的除旧布新，宣布改用阳历，颁布剪发辫、易服饰和\n废止缠足的法律；还颁布法令，革除“大人” “老爷”等\n清朝官场的称呼。越来越多的人认识到过去的陈规陋习不\n符合时代潮流，应接受文明开化的新习俗、新风尚。\n据《欧战前后农商部\n注册工业公司年别表》 ，战\n前（1914 年 8 月 前 ） 注 册\n的工业公司，共计146个，\n资 本 总 额 41\n 148\n 205 元；\n而自 1914 年 8 月至 1920 年，\n新注册的公司就有272个，\n资 本 额 为 117\n 434\n 500 元。\n所涉及的行业众多，尤以\n纺织业和面粉业这两个关\n系民众衣食的行业发展得\n最快。\n—整理自《中国年\n鉴  第一回》商务印书馆\n1924 年版\n结合这段材料，并联系课\n文，思考第一次世界大战期间\n中国民族工业发展的原因。\n学思之窗\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "118 中外历史纲要  上   第六单元  辛亥革命与中华民国的建立\n中华民国建立为中国民\n族资本主义经济的发展提供\n了一定的有利条件，日常生\n活中也出现种种新气象。\n学习聚焦\n民国初年经济、社会生活的新气象\n中华民国建立，扫除了政治上的一些束缚和障碍，为\n中国民族资本主义经济的发展提供了一定条件。南京临时\n政府成立后，鼓励民间兴办实业。第一次世界大战期间，\n西方列强忙于欧战，中国民族工业得到迅速发展，速度\n和规模甚至超过以往半个世纪所取得的成绩。与此同时，\n群众性的反帝爱国斗争此起彼伏，特别是 1915 年因反对\n“二十一条”掀起的抵制日货、提倡国货运动，有力推动\n了纺织、面粉等轻工业系统的民族资本主义的发展。以荣\n宗敬、荣德生兄弟开办的面粉厂、纱厂等为代表的一批民\n族企业迅速壮大起来。随着民族工业的迅速发展，中国产\n业工人的人数也急剧增加，成为不可忽视的社会力量。\n▲  荣氏兄弟创办的福新面粉公司\n建立共和政体是中国历史上破天荒的大事，民众日常\n生活也出现了种种新气象。南京临时政府致力于社会生活\n方面的除旧布新，宣布改用阳历，颁布剪发辫、易服饰和\n废止缠足的法律；还颁布法令，革除“大人” “老爷”等\n清朝官场的称呼。越来越多的人认识到过去的陈规陋习不\n符合时代潮流，应接受文明开化的新习俗、新风尚。\n据《欧战前后农商部\n注册工业公司年别表》 ，战\n前（1914 年 8 月 前 ） 注 册\n的工业公司，共计146个，\n资 本 总 额 41\n 148\n 205 元；\n而自 1914 年 8 月至 1920 年，\n新注册的公司就有272个，\n资 本 额 为 117\n 434\n 500 元。\n所涉及的行业众多，尤以\n纺织业和面粉业这两个关\n系民众衣食的行业发展得\n最快。\n—整理自《中国年\n鉴  第一回》商务印书馆\n1924 年版\n结合这段材料，并联系课\n文，思考第一次世界大战期间\n中国民族工业发展的原因。\n学思之窗\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "PDF文字层逐页原串锚点，仅用于覆盖审计；语义内容已按标题、段落、图注和边栏拆分。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_b013",
+      "page_id": "history_book_01_p0126",
+      "order": 13,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "第19课    北洋军阀统治时期的政治、经济与文化 119\n▲  《青年杂志》第 1 卷第 1 号\n  《青年杂志》从第 2 卷起改名\n为《新青年》 。\n▲ 蔡元培（前排右四） 、陈独秀（前排右三）等与北大\n文科哲学门师生合影\n三年以来，吾人于共和国体之下，备受\n专制政治之痛苦。自经此次之实验，国中贤\n者，宝爱共和之心，因以勃发；厌弃专制之\n心，因以明确。吾人拜赐于执政，可谓没齿\n不忘者矣。然自今以往，共和国体果能巩固\n无虞乎？立宪政治果能施行无阻乎？以予观\n之，此等政治根本解决问题，犹待吾人最后\n之觉悟。\n——陈独秀《吾人最后之觉悟》 （1916 年\n2 月 15 日） ， 《青年杂志》第 1 卷第 6 号\n史料阅读\n新文化运动高举民主与\n科学的旗帜 ，反对封建礼\n教，提倡文学革命，有着解\n放思想的重大意义。\n学习聚焦\n新文化运动的开展\n新文化运动是从 1915年 9 月陈独秀在上海创办《青年\n杂志》开始的。这场运动源于对辛亥革命失败原因的痛苦\n反思。人们认识到共和制度之所以不能真正得到巩固，中\n国的状况依然黑暗，根本原因在于缺乏对旧思想、旧文化、\n旧礼教的彻底批判，大多数国民的头脑仍被专制和愚昧牢\n牢地束缚着。\n1917 年初，蔡元培就任北京大学校长，随即聘请陈\n独秀为文科学长，并延揽许多具有新思想的学者来北大任\n教。北京大学和迁往北京的《新青年》杂志，成为新文化\n运动的主要阵地。李大钊、鲁迅、胡适、钱玄同、刘半农\n等成为编辑部成员，共同推进新文化运动。 《新青年》阐\n述了新文化运动的主张：要拥护“德先生” ，便不得不反\n对孔教、礼法、贞节、旧伦理、旧政治；要拥护“赛先\n生” ，便不得不反对旧艺术、旧宗教；要拥护“德先生”\n又要拥护“赛先生” ，便不得不反对国粹和旧文学。新文\n化运动也是一场文学革命。胡适在《新青年》发表《文\n学改良刍议》一文，主张以白话文作为新文学的语言，\n得到广泛响应。经过新文化运动的倡导，白话文逐渐普\n及开来。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "第19课    北洋军阀统治时期的政治、经济与文化 119\n▲  《青年杂志》第 1 卷第 1 号\n  《青年杂志》从第 2 卷起改名\n为《新青年》 。\n▲ 蔡元培（前排右四） 、陈独秀（前排右三）等与北大\n文科哲学门师生合影\n三年以来，吾人于共和国体之下，备受\n专制政治之痛苦。自经此次之实验，国中贤\n者，宝爱共和之心，因以勃发；厌弃专制之\n心，因以明确。吾人拜赐于执政，可谓没齿\n不忘者矣。然自今以往，共和国体果能巩固\n无虞乎？立宪政治果能施行无阻乎？以予观\n之，此等政治根本解决问题，犹待吾人最后\n之觉悟。\n——陈独秀《吾人最后之觉悟》 （1916 年\n2 月 15 日） ， 《青年杂志》第 1 卷第 6 号\n史料阅读\n新文化运动高举民主与\n科学的旗帜 ，反对封建礼\n教，提倡文学革命，有着解\n放思想的重大意义。\n学习聚焦\n新文化运动的开展\n新文化运动是从 1915年 9 月陈独秀在上海创办《青年\n杂志》开始的。这场运动源于对辛亥革命失败原因的痛苦\n反思。人们认识到共和制度之所以不能真正得到巩固，中\n国的状况依然黑暗，根本原因在于缺乏对旧思想、旧文化、\n旧礼教的彻底批判，大多数国民的头脑仍被专制和愚昧牢\n牢地束缚着。\n1917 年初，蔡元培就任北京大学校长，随即聘请陈\n独秀为文科学长，并延揽许多具有新思想的学者来北大任\n教。北京大学和迁往北京的《新青年》杂志，成为新文化\n运动的主要阵地。李大钊、鲁迅、胡适、钱玄同、刘半农\n等成为编辑部成员，共同推进新文化运动。 《新青年》阐\n述了新文化运动的主张：要拥护“德先生” ，便不得不反\n对孔教、礼法、贞节、旧伦理、旧政治；要拥护“赛先\n生” ，便不得不反对旧艺术、旧宗教；要拥护“德先生”\n又要拥护“赛先生” ，便不得不反对国粹和旧文学。新文\n化运动也是一场文学革命。胡适在《新青年》发表《文\n学改良刍议》一文，主张以白话文作为新文学的语言，\n得到广泛响应。经过新文化运动的倡导，白话文逐渐普\n及开来。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "PDF文字层逐页原串锚点，仅用于覆盖审计；语义内容已按标题、段落、图注和边栏拆分。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0127_b010",
+      "page_id": "history_book_01_p0127",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "120 中外历史纲要  上   第六单元  辛亥革命与中华民国的建立\n在《新青年》的有力推动下，各地拥护新文化运动的\n刊物纷纷出版，使全国报刊面貌为之一新。妇女解放、婚\n姻自由、家庭革命等口号的提出，也使这场运动所涉及的\n内容远比辛亥革命时期更为广泛和深刻。\n新文化运动高举民主与科学的旗帜，推动思想文化革\n新，有着解放思想的重大意义。\n探究与拓展\n今之标立宪主义以为国体论之护符者，除非其于立宪\n二字别有解释，则吾不敢言。夫前清之末叶，则固自谓立\n宪矣，试问论者能承认否？且吾欲问论者，挟何券约，敢\n保证国体一变之后，而宪政即可实行而无障？如其不然，\n则仍是单纯之君主论，非君主立宪论也。既非君主立宪，\n则其为君主专制，自无待言。不忍于共和之敝，而欲以君\n主专制代之，谓为良图，实所未解。今在共和国体之下而\n暂行专制，其中有种种不得已之理由，犯众谤以行之，尚\n能为天下所共谅。今如论者所规划，欲以立宪政体与君主\n国体为交换条件，使其说果行，则当国体改定伊始，势必\n且以实行立宪宣示国民。宣示以后，万一现今种种不得已\n之理由者依然存在，为应彼时时势之要求起见，又不得不\n仍行专制，吾恐天下人遂不复能为元首谅矣。\n——梁启超《异哉所谓国体问题者》 （1915年8月20日 ），\n《大中华》第1 卷第 8 期\n阅读上述材料，谈谈中华民国建立后围绕“国体”问\n题所发生的争端。\n问题探究\n收集材料，结合史实，进一步探讨新文化运动对近代\n中国思想解放的影响。\n学习拓展\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "120 中外历史纲要  上   第六单元  辛亥革命与中华民国的建立\n在《新青年》的有力推动下，各地拥护新文化运动的\n刊物纷纷出版，使全国报刊面貌为之一新。妇女解放、婚\n姻自由、家庭革命等口号的提出，也使这场运动所涉及的\n内容远比辛亥革命时期更为广泛和深刻。\n新文化运动高举民主与科学的旗帜，推动思想文化革\n新，有着解放思想的重大意义。\n探究与拓展\n今之标立宪主义以为国体论之护符者，除非其于立宪\n二字别有解释，则吾不敢言。夫前清之末叶，则固自谓立\n宪矣，试问论者能承认否？且吾欲问论者，挟何券约，敢\n保证国体一变之后，而宪政即可实行而无障？如其不然，\n则仍是单纯之君主论，非君主立宪论也。既非君主立宪，\n则其为君主专制，自无待言。不忍于共和之敝，而欲以君\n主专制代之，谓为良图，实所未解。今在共和国体之下而\n暂行专制，其中有种种不得已之理由，犯众谤以行之，尚\n能为天下所共谅。今如论者所规划，欲以立宪政体与君主\n国体为交换条件，使其说果行，则当国体改定伊始，势必\n且以实行立宪宣示国民。宣示以后，万一现今种种不得已\n之理由者依然存在，为应彼时时势之要求起见，又不得不\n仍行专制，吾恐天下人遂不复能为元首谅矣。\n——梁启超《异哉所谓国体问题者》 （1915年8月20日 ），\n《大中华》第1 卷第 8 期\n阅读上述材料，谈谈中华民国建立后围绕“国体”问\n题所发生的争端。\n问题探究\n收集材料，结合史实，进一步探讨新文化运动对近代\n中国思想解放的影响。\n学习拓展\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "PDF文字层逐页原串锚点，仅用于覆盖审计；语义内容已按标题、段落、图注和边栏拆分。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0128_b004",
+      "page_id": "history_book_01_p0128",
+      "order": 4,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "第19课    北洋军阀统治时期的政治、经济与文化 121\n第七单元\n中国共产党成立与新民主主义革命兴起\n巴黎和会上，中国外交遭遇惨败，轰轰烈烈的反帝爱\n国运动——五四运动由此爆发。五四运动后诞生的中国共\n产党，给灾难深重的中国人民带来了光明和希望，指明了\n中国革命的方向。随后，第一次国共合作正式实现，推动\n反帝反封建的国民革命运动迅速展开。正当北伐军胜利进\n军的紧要关头，蒋介石发动了四一二反革命政变。国民革\n命失败后，国民政府加强了独裁统治。中国共产党开始认\n识到掌握武装力量的重要性，发动了一系列武装起义，开\n辟了中国革命的新道路。由于“左”倾错误的影响，红军\n第五次反“围剿”失利，被迫长征。红军长征的胜利，打\n开了中国革命的新局面。这一时期，民族资本主义取得了\n较大发展，但也面临着重重阻碍。\n通过本单元的学习，认识五四爱国运动的历史意义，\n认识马克思主义在中国的传播与中国共产党成立对中国革\n命的深远影响；认识国共合作领导国民革命的历史作用；\n了解南京国民政府的成立；认识中国共产党开辟革命新道\n路的意义；认识红军长征的意义。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "第19课    北洋军阀统治时期的政治、经济与文化 121\n第七单元\n中国共产党成立与新民主主义革命兴起\n巴黎和会上，中国外交遭遇惨败，轰轰烈烈的反帝爱\n国运动——五四运动由此爆发。五四运动后诞生的中国共\n产党，给灾难深重的中国人民带来了光明和希望，指明了\n中国革命的方向。随后，第一次国共合作正式实现，推动\n反帝反封建的国民革命运动迅速展开。正当北伐军胜利进\n军的紧要关头，蒋介石发动了四一二反革命政变。国民革\n命失败后，国民政府加强了独裁统治。中国共产党开始认\n识到掌握武装力量的重要性，发动了一系列武装起义，开\n辟了中国革命的新道路。由于“左”倾错误的影响，红军\n第五次反“围剿”失利，被迫长征。红军长征的胜利，打\n开了中国革命的新局面。这一时期，民族资本主义取得了\n较大发展，但也面临着重重阻碍。\n通过本单元的学习，认识五四爱国运动的历史意义，\n认识马克思主义在中国的传播与中国共产党成立对中国革\n命的深远影响；认识国共合作领导国民革命的历史作用；\n了解南京国民政府的成立；认识中国共产党开辟革命新道\n路的意义；认识红军长征的意义。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "PDF文字层逐页原串锚点，仅用于覆盖审计；语义内容已按标题、段落、图注和边栏拆分。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_b013",
+      "page_id": "history_book_01_p0129",
+      "order": 13,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "122 中外历史纲要  上   第七单元  中国共产党成立与新民主主义革命兴起\n第2 0课\n五四运动与中国共产党的诞生\n▲ 北京学生在天安门前游行示威\n▲\n 1919 年 5 月 5 日，上海《新申报》\n为五四运动爆发印发的“号外”\n巴黎和会上，强权战胜了公理，中国遭遇严重外交\n失败，这引发了爱国青年的极大愤慨。北京大学、北京\n高等师范学校等十几所学校的青年学生，高呼“还我青\n岛” “取消二十一条”等口号，齐集天安门前游行示威。\n五四运动和马克思主义的传播\n1919 年 1 月，中国作为第一次世界大战的战胜国之\n一，参加了在法国巴黎召开的“和平会议” 。中国代表提\n出废除外国在中国的一切特权、取消“二十一条”等，但\n英、美等国操纵的和会拒绝了中国代表提出的正义要求，\n竟决定将德国在中国山东的权益转让给日本。这一消息传\n到国内，激起人们郁积已久的愤怒，各界人士和爱国团体\n纷纷发表通电，斥责这一无理行径，并且要求中国政府坚\n决维护国家主权。这成为五四运动爆发的导火索。\n5 月 4 日，北京大学等十几所学校的三千多名学生齐\n集天安门前，举行游行示威，高喊“外争主权，内除国\n贼”等口号。学生的爱国行动遭到北洋军阀政府的镇压，\n使得从北京开始的学生爱国运动迅速向全国发展。\n6 月 3 日和 4 日，北京大批学生被捕，消息传到上海。\n6 月 5 日，上海出现大规模的工人罢工和商人罢市。中国工\n人阶级登上政治舞台，推动着这场爱国运动发展到一个新\n阶段。在巨大压力下，北京政府释放了被捕学生。参加巴\n黎和会的中国代表也拒绝在和约上签字。\n五四运动是一场以先进青年知识分子为先锋、广大人\n民群众参加的彻底反帝反封建的伟大爱国革命运动，是一\n五四运动是一次彻底的\n不妥协的反帝反封建的爱国\n运动。马克思主义得到广泛\n传播。\n学习聚焦\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "122 中外历史纲要  上   第七单元  中国共产党成立与新民主主义革命兴起\n第2 0课\n五四运动与中国共产党的诞生\n▲ 北京学生在天安门前游行示威\n▲\n 1919 年 5 月 5 日，上海《新申报》\n为五四运动爆发印发的“号外”\n巴黎和会上，强权战胜了公理，中国遭遇严重外交\n失败，这引发了爱国青年的极大愤慨。北京大学、北京\n高等师范学校等十几所学校的青年学生，高呼“还我青\n岛” “取消二十一条”等口号，齐集天安门前游行示威。\n五四运动和马克思主义的传播\n1919 年 1 月，中国作为第一次世界大战的战胜国之\n一，参加了在法国巴黎召开的“和平会议” 。中国代表提\n出废除外国在中国的一切特权、取消“二十一条”等，但\n英、美等国操纵的和会拒绝了中国代表提出的正义要求，\n竟决定将德国在中国山东的权益转让给日本。这一消息传\n到国内，激起人们郁积已久的愤怒，各界人士和爱国团体\n纷纷发表通电，斥责这一无理行径，并且要求中国政府坚\n决维护国家主权。这成为五四运动爆发的导火索。\n5 月 4 日，北京大学等十几所学校的三千多名学生齐\n集天安门前，举行游行示威，高喊“外争主权，内除国\n贼”等口号。学生的爱国行动遭到北洋军阀政府的镇压，\n使得从北京开始的学生爱国运动迅速向全国发展。\n6 月 3 日和 4 日，北京大批学生被捕，消息传到上海。\n6 月 5 日，上海出现大规模的工人罢工和商人罢市。中国工\n人阶级登上政治舞台，推动着这场爱国运动发展到一个新\n阶段。在巨大压力下，北京政府释放了被捕学生。参加巴\n黎和会的中国代表也拒绝在和约上签字。\n五四运动是一场以先进青年知识分子为先锋、广大人\n民群众参加的彻底反帝反封建的伟大爱国革命运动，是一\n五四运动是一次彻底的\n不妥协的反帝反封建的爱国\n运动。马克思主义得到广泛\n传播。\n学习聚焦\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "PDF文字层逐页原串锚点，仅用于覆盖审计；语义内容已按标题、段落、图注和边栏拆分。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0130_b009",
+      "page_id": "history_book_01_p0130",
+      "order": 9,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "第20课    五四运动与中国共产党的诞生 123\n马克思主义在中国的广泛传播是从俄国十月革命后开始\n的，北京与上海成为宣传马克思主义的中心。在1919年出版\n的《新青年》 “马克思研究专号”上，李大钊发表了《我的\n马克思主义观》 ，系统介绍了马克思主义学说。1920年3月，\n李大钊又发起中国最早研究马克思主义的团体——马克思\n▲ 《共产党宣言》一书的封面\n    1 9 2 0年8月 ，陈望道翻译的\n《共产党宣言》出版，这是马克思主\n义经典著作在中国出版的第一个中\n文全译本。8月第一版标题错写成\n《共党产宣言》 ，9月再版改为《共\n产党宣言》 。\n五四运动以全民族的力量高举起爱国主义的伟大旗帜。\n五四运动，孕育了以爱国、进步、民主、科学为主要内容的伟\n大五四精神，其核心是爱国主义精神。……\n五四运动以全民族的行动激发了追求真理、追求进步的伟\n大觉醒。五四运动前后，我国一批先进知识分子和革命青年，\n在追求真理中传播新思想新文化，勇于打破封建思想的桎梏，\n猛烈冲击了几千年来的封建旧礼教、旧道德、旧思想、旧文\n化。五四运动改变了以往只有觉悟的革命者而缺少觉醒的人民\n大众的斗争状况，实现了中国人民和中华民族自鸦片战争以来\n第一次全面觉醒。……\n五四运动以全民族的搏击培育了永久奋斗的伟大传\n统。……中国人民和中华民族从斗争实践中懂得，中国社会发\n展，中华民族振兴，中国人民幸福，必须依靠自己的英勇奋斗\n来实现，没有人会恩赐给我们一个光明的中国。\n— —习近平 《在纪念五四运动1 0 0周年大会上的讲话》\n（2019 年 4 月 30 日）\n阅读上述材料，进一步理解五四运动的意义，体会其时代\n价值。\n学思之窗\n场中国人民为拯救民族危亡、捍卫民族尊严、凝聚民族力\n量而掀起的伟大社会革命运动，是一场传播新思想新文化\n新知识的伟大思想启蒙运动。它推动了中国社会进步，促\n进了马克思主义在中国的传播，促进了马克思主义同中国\n工人运动的结合，为中国共产党成立做了思想上干部上的\n准备，为新的革命力量、革命文化、革命斗争登上历史舞\n台创造了条件，是中国旧民主主义革命走向新民主主义革\n命的转折点，在近代以来中华民族追求民族独立和发展进\n步的历史进程中具有里程碑意义。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "第20课    五四运动与中国共产党的诞生 123\n马克思主义在中国的广泛传播是从俄国十月革命后开始\n的，北京与上海成为宣传马克思主义的中心。在1919年出版\n的《新青年》 “马克思研究专号”上，李大钊发表了《我的\n马克思主义观》 ，系统介绍了马克思主义学说。1920年3月，\n李大钊又发起中国最早研究马克思主义的团体——马克思\n▲ 《共产党宣言》一书的封面\n    1 9 2 0年8月 ，陈望道翻译的\n《共产党宣言》出版，这是马克思主\n义经典著作在中国出版的第一个中\n文全译本。8月第一版标题错写成\n《共党产宣言》 ，9月再版改为《共\n产党宣言》 。\n五四运动以全民族的力量高举起爱国主义的伟大旗帜。\n五四运动，孕育了以爱国、进步、民主、科学为主要内容的伟\n大五四精神，其核心是爱国主义精神。……\n五四运动以全民族的行动激发了追求真理、追求进步的伟\n大觉醒。五四运动前后，我国一批先进知识分子和革命青年，\n在追求真理中传播新思想新文化，勇于打破封建思想的桎梏，\n猛烈冲击了几千年来的封建旧礼教、旧道德、旧思想、旧文\n化。五四运动改变了以往只有觉悟的革命者而缺少觉醒的人民\n大众的斗争状况，实现了中国人民和中华民族自鸦片战争以来\n第一次全面觉醒。……\n五四运动以全民族的搏击培育了永久奋斗的伟大传\n统。……中国人民和中华民族从斗争实践中懂得，中国社会发\n展，中华民族振兴，中国人民幸福，必须依靠自己的英勇奋斗\n来实现，没有人会恩赐给我们一个光明的中国。\n— —习近平 《在纪念五四运动1 0 0周年大会上的讲话》\n（2019 年 4 月 30 日）\n阅读上述材料，进一步理解五四运动的意义，体会其时代\n价值。\n学思之窗\n场中国人民为拯救民族危亡、捍卫民族尊严、凝聚民族力\n量而掀起的伟大社会革命运动，是一场传播新思想新文化\n新知识的伟大思想启蒙运动。它推动了中国社会进步，促\n进了马克思主义在中国的传播，促进了马克思主义同中国\n工人运动的结合，为中国共产党成立做了思想上干部上的\n准备，为新的革命力量、革命文化、革命斗争登上历史舞\n台创造了条件，是中国旧民主主义革命走向新民主主义革\n命的转折点，在近代以来中华民族追求民族独立和发展进\n步的历史进程中具有里程碑意义。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "PDF文字层逐页原串锚点，仅用于覆盖审计；语义内容已按标题、段落、图注和边栏拆分。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_b012",
+      "page_id": "history_book_01_p0131",
+      "order": 12,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "124 中外历史纲要  上   第七单元  中国共产党成立与新民主主义革命兴起\n▲ 中国共产党第一次全国代表大会会址\n    中国共产党第一次全国代表大会会址位于上海市望\n志路 106 号，现为兴业路 76 号。\n▲ 浙江嘉兴南湖红船（复制品）\n    中国共产党第一次全国代表大会在浙江嘉兴南\n湖的红船上闭幕。 “红船精神”在这里孕育。\n学说研究会，把一批经历过五四运动洗礼的优秀青年组织\n起来。同年 5 月，陈独秀在上海组织了马克思主义研究会。\n从日本留学回国的李达、陈望道、李汉俊等人，投身于马\n克思主义学说的翻译和宣传。\n中国共产党的诞生  \n随着马克思主义的广泛传播，以及中国工人运动的持\n续发展，创建工人阶级政党的问题提到日程上来。 1920 年\n初，陈独秀和李大钊最早提出并推动在中国建立共产党。\n同年 4 月，共产国际派代表来到中国，先后与李大钊、陈\n独秀商议建党事宜。 8 月，上海发起成立了中国共产党早\n期组织。10 月，北京建立了共产党小组。武汉、长沙、济\n南、广州等地也建立了共产党的早期组织。\n1921 年 7 月 23 日，中国共产党第一次全国代表大会\n在上海举行。出席会议的除毛泽东、董必武、李达等 13 名\n代表外，还有共产国际代表。由于法租界巡捕突然搜查会\n场，会议最后一天是在浙江嘉兴南湖一艘游船上进行的。\n大会通过的纲领，首先确定了中国共产党这个名称。大会\n明确了中国共产党的奋斗目标是推翻资产阶级，建立无产\n阶级专政，实现社会主义和共产主义。大会还选举产生了\n党的领导机构，陈独秀任书记。\n中国共产党的成立，给\n灾难深重的中国人民带来了\n光明和希望，指明了中国革\n命的方向，凝聚了中国人民\n的强大力量。\n学习聚焦\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "124 中外历史纲要  上   第七单元  中国共产党成立与新民主主义革命兴起\n▲ 中国共产党第一次全国代表大会会址\n    中国共产党第一次全国代表大会会址位于上海市望\n志路 106 号，现为兴业路 76 号。\n▲ 浙江嘉兴南湖红船（复制品）\n    中国共产党第一次全国代表大会在浙江嘉兴南\n湖的红船上闭幕。 “红船精神”在这里孕育。\n学说研究会，把一批经历过五四运动洗礼的优秀青年组织\n起来。同年 5 月，陈独秀在上海组织了马克思主义研究会。\n从日本留学回国的李达、陈望道、李汉俊等人，投身于马\n克思主义学说的翻译和宣传。\n中国共产党的诞生  \n随着马克思主义的广泛传播，以及中国工人运动的持\n续发展，创建工人阶级政党的问题提到日程上来。 1920 年\n初，陈独秀和李大钊最早提出并推动在中国建立共产党。\n同年 4 月，共产国际派代表来到中国，先后与李大钊、陈\n独秀商议建党事宜。 8 月，上海发起成立了中国共产党早\n期组织。10 月，北京建立了共产党小组。武汉、长沙、济\n南、广州等地也建立了共产党的早期组织。\n1921 年 7 月 23 日，中国共产党第一次全国代表大会\n在上海举行。出席会议的除毛泽东、董必武、李达等 13 名\n代表外，还有共产国际代表。由于法租界巡捕突然搜查会\n场，会议最后一天是在浙江嘉兴南湖一艘游船上进行的。\n大会通过的纲领，首先确定了中国共产党这个名称。大会\n明确了中国共产党的奋斗目标是推翻资产阶级，建立无产\n阶级专政，实现社会主义和共产主义。大会还选举产生了\n党的领导机构，陈独秀任书记。\n中国共产党的成立，给\n灾难深重的中国人民带来了\n光明和希望，指明了中国革\n命的方向，凝聚了中国人民\n的强大力量。\n学习聚焦\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "PDF文字层逐页原串锚点，仅用于覆盖审计；语义内容已按标题、段落、图注和边栏拆分。"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "history_book_01_p0123_a001",
+      "page_id": "history_book_01_p0123",
+      "block_id": "history_book_01_p0123_b010",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "由袁世凯签字的“中日民四条约”",
+      "visible_text": null,
+      "description": "页面照片展示条约签字图像；图注明确说明与袁世凯签字相关。",
+      "claims": [
+        {
+          "text": "由袁世凯签字的“中日民四条约”",
+          "evidence_block_ids": [
+            "history_book_01_p0123_b010"
+          ]
+        }
+      ],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0124_a001",
+      "page_id": "history_book_01_p0124",
+      "block_id": "history_book_01_p0124_b006",
+      "type": "map",
+      "bbox": null,
+      "file_path": null,
+      "caption": "北洋军阀统治时期军阀割据示意图",
+      "visible_text": "直系军阀；皖系军阀；奉系军阀；滇系军阀；晋系军阀；桂系军阀；南北军阀争夺地区；省级界；地区界；国界",
+      "description": "地图图例区分多种军阀势力、争夺地区、省级界、地区界和国界；未作空间校准。",
+      "claims": [
+        {
+          "text": "北洋军阀统治时期军阀割据示意图",
+          "evidence_block_ids": [
+            "history_book_01_p0124_b006"
+          ]
+        }
+      ],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0124_a002",
+      "page_id": "history_book_01_p0124",
+      "block_id": "history_book_01_p0124_b007",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "第一次世界大战时期在欧洲的华工",
+      "visible_text": null,
+      "description": "照片展示第一次世界大战时期在欧洲的华工；历史身份和地点依据图注记录。",
+      "claims": [
+        {
+          "text": "第一次世界大战时期在欧洲的华工",
+          "evidence_block_ids": [
+            "history_book_01_p0124_b007"
+          ]
+        }
+      ],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0125_a001",
+      "page_id": "history_book_01_p0125",
+      "block_id": "history_book_01_p0125_b006",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "荣氏兄弟创办的福新面粉公司",
+      "visible_text": null,
+      "description": "黑白照片展示工厂建筑；图注说明为荣氏兄弟创办的福新面粉公司。",
+      "claims": [
+        {
+          "text": "荣氏兄弟创办的福新面粉公司",
+          "evidence_block_ids": [
+            "history_book_01_p0125_b006"
+          ]
+        }
+      ],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_a001",
+      "page_id": "history_book_01_p0126",
+      "block_id": "history_book_01_p0126_b002",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "《青年杂志》第1卷第1号",
+      "visible_text": "青年杂志",
+      "description": "页面展示《青年杂志》封面；图注说明从第2卷起改名为《新青年》。",
+      "claims": [
+        {
+          "text": "《青年杂志》第1卷第1号",
+          "evidence_block_ids": [
+            "history_book_01_p0126_b002",
+            "history_book_01_p0126_b003"
+          ]
+        }
+      ],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_a002",
+      "page_id": "history_book_01_p0126",
+      "block_id": "history_book_01_p0126_b004",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "蔡元培（前排右四）、陈独秀（前排右三）等与北大文科哲学门师生合影",
+      "visible_text": null,
+      "description": "黑白合影；图注明确标示蔡元培和陈独秀在照片中的位置。",
+      "claims": [
+        {
+          "text": "蔡元培（前排右四）、陈独秀（前排右三）等与北大文科哲学门师生合影",
+          "evidence_block_ids": [
+            "history_book_01_p0126_b004"
+          ]
+        }
+      ],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0128_a001",
+      "page_id": "history_book_01_p0128",
+      "block_id": "history_book_01_p0128_b001",
+      "type": "illustration",
+      "bbox": null,
+      "file_path": null,
+      "caption": null,
+      "visible_text": null,
+      "description": "单元导语页底部可见建筑背景插图；图中建筑、人物和年代未由图像单独确认。",
+      "claims": [],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_a001",
+      "page_id": "history_book_01_p0129",
+      "block_id": "history_book_01_p0129_b003",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "北京学生在天安门前游行示威",
+      "visible_text": null,
+      "description": "黑白照片展示学生举旗游行场景；图注说明为北京学生在天安门前游行示威。",
+      "claims": [
+        {
+          "text": "北京学生在天安门前游行示威",
+          "evidence_block_ids": [
+            "history_book_01_p0129_b003"
+          ]
+        }
+      ],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_a002",
+      "page_id": "history_book_01_p0129",
+      "block_id": "history_book_01_p0129_b004",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "1919年5月5日，上海《新申报》为五四运动爆发印发的“号外”",
+      "visible_text": "新申报",
+      "description": "页面展示报纸号外图像；图注给出1919年5月5日、上海《新申报》和五四运动爆发的关系。",
+      "claims": [
+        {
+          "text": "1919年5月5日，上海《新申报》为五四运动爆发印发的“号外”",
+          "evidence_block_ids": [
+            "history_book_01_p0129_b004"
+          ]
+        }
+      ],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0130_a001",
+      "page_id": "history_book_01_p0130",
+      "block_id": "history_book_01_p0130_b003",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "《共产党宣言》一书的封面",
+      "visible_text": null,
+      "description": "页面展示《共产党宣言》封面；旁注记录1920年8月中译本出版及首版标题错写、再版改正信息。",
+      "claims": [
+        {
+          "text": "《共产党宣言》一书的封面",
+          "evidence_block_ids": [
+            "history_book_01_p0130_b003",
+            "history_book_01_p0130_b004"
+          ]
+        }
+      ],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_a001",
+      "page_id": "history_book_01_p0131",
+      "block_id": "history_book_01_p0131_b007",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "中国共产党第一次全国代表大会会址",
+      "visible_text": null,
+      "description": "照片展示中共一大会址；图注补充其历史与现今地址。",
+      "claims": [
+        {
+          "text": "中国共产党第一次全国代表大会会址",
+          "evidence_block_ids": [
+            "history_book_01_p0131_b007",
+            "history_book_01_p0131_b008"
+          ]
+        }
+      ],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_a002",
+      "page_id": "history_book_01_p0131",
+      "block_id": "history_book_01_p0131_b009",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "浙江嘉兴南湖红船（复制品）",
+      "visible_text": null,
+      "description": "照片展示浙江嘉兴南湖红船复制品；图注说明中共一大在该船上闭幕。",
+      "claims": [
+        {
+          "text": "浙江嘉兴南湖红船（复制品）",
+          "evidence_block_ids": [
+            "history_book_01_p0131_b009",
+            "history_book_01_p0131_b010"
+          ]
+        }
+      ],
+      "notes": [
+        "已检查页面渲染图；未导出独立图片文件。"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "history_book_01_p0123_place001",
+      "name_as_written": "云南",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b004",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_place002",
+      "name_as_written": "贵州",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b004"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_place003",
+      "name_as_written": "广西",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b004",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_place004",
+      "name_as_written": "广东",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b004",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_place005",
+      "name_as_written": "浙江",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b004",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_place006",
+      "name_as_written": "陕西",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b004",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_place007",
+      "name_as_written": "四川",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b004",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_place008",
+      "name_as_written": "湖南",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b004",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_place009",
+      "name_as_written": "直隶",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b006",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0123_place010",
+      "name_as_written": "北京",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b006",
+        "history_book_01_p0123_b011",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0124_place001",
+      "name_as_written": "广州",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0124_b002",
+        "history_book_01_p0124_b008"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0124_place002",
+      "name_as_written": "天津",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0124_b003",
+        "history_book_01_p0124_b008"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0124_place003",
+      "name_as_written": "汉口",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0124_b003",
+        "history_book_01_p0124_b008"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0124_place004",
+      "name_as_written": "欧洲前线",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0124_b003",
+        "history_book_01_p0124_b008"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0125_place001",
+      "name_as_written": "南京",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0125_b005",
+        "history_book_01_p0125_b007",
+        "history_book_01_p0125_b011"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0125_place002",
+      "name_as_written": "中国",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0125_b004",
+        "history_book_01_p0125_b005",
+        "history_book_01_p0125_b007",
+        "history_book_01_p0125_b008",
+        "history_book_01_p0125_b010",
+        "history_book_01_p0125_b011"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_place001",
+      "name_as_written": "上海",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0126_b010",
+        "history_book_01_p0126_b013"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_place002",
+      "name_as_written": "北京大学",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0126_b011",
+        "history_book_01_p0126_b013"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0126_place003",
+      "name_as_written": "北京",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0126_b011",
+        "history_book_01_p0126_b013"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_place001",
+      "name_as_written": "法国巴黎",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0129_b009",
+        "history_book_01_p0129_b013"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_place002",
+      "name_as_written": "山东",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0129_b009",
+        "history_book_01_p0129_b013"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_place003",
+      "name_as_written": "天安门",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0129_b003",
+        "history_book_01_p0129_b005",
+        "history_book_01_p0129_b010",
+        "history_book_01_p0129_b013"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_place004",
+      "name_as_written": "北京",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0129_b003",
+        "history_book_01_p0129_b005",
+        "history_book_01_p0129_b010",
+        "history_book_01_p0129_b011",
+        "history_book_01_p0129_b013"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0129_place005",
+      "name_as_written": "上海",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0129_b004",
+        "history_book_01_p0129_b011",
+        "history_book_01_p0129_b013"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0130_place001",
+      "name_as_written": "俄国",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0130_b003",
+        "history_book_01_p0130_b009"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0130_place002",
+      "name_as_written": "北京",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0130_b003",
+        "history_book_01_p0130_b009"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0130_place003",
+      "name_as_written": "上海",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0130_b003",
+        "history_book_01_p0130_b009"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_place001",
+      "name_as_written": "上海",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0131_b002",
+        "history_book_01_p0131_b006",
+        "history_book_01_p0131_b007",
+        "history_book_01_p0131_b009",
+        "history_book_01_p0131_b012"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_place002",
+      "name_as_written": "浙江嘉兴南湖",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0131_b007",
+        "history_book_01_p0131_b010",
+        "history_book_01_p0131_b011",
+        "history_book_01_p0131_b012"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_place003",
+      "name_as_written": "武汉",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0131_b006",
+        "history_book_01_p0131_b012"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_place004",
+      "name_as_written": "长沙",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0131_b006",
+        "history_book_01_p0131_b012"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_place005",
+      "name_as_written": "济南",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0131_b006"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0131_place006",
+      "name_as_written": "广州",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0131_b006",
+        "history_book_01_p0131_b012"
+      ],
+      "notes": [
+        "教材未提供可核验坐标；不填充经纬度。"
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": "history_book_01_p0123_person001",
+      "name_as_written": "袁世凯",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b002",
+        "history_book_01_p0123_b003",
+        "history_book_01_p0123_b004",
+        "history_book_01_p0123_b006",
+        "history_book_01_p0123_b007",
+        "history_book_01_p0123_b010",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0123_person002",
+      "name_as_written": "孙中山",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b004",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0123_person003",
+      "name_as_written": "唐继尧",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b004",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0123_person004",
+      "name_as_written": "蔡锷",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b004",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0123_person005",
+      "name_as_written": "李烈钧",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b004",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0123_person006",
+      "name_as_written": "冯国璋",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b006",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0123_person007",
+      "name_as_written": "段祺瑞",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b006",
+        "history_book_01_p0123_b007",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0123_person008",
+      "name_as_written": "张作霖",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b006",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0123_person009",
+      "name_as_written": "黎元洪",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b007",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0123_person010",
+      "name_as_written": "张勋",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b007",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0123_person011",
+      "name_as_written": "溥仪",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0123_b007",
+        "history_book_01_p0123_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0124_person001",
+      "name_as_written": "冯国璋",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0124_b002",
+        "history_book_01_p0124_b008"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0124_person002",
+      "name_as_written": "段祺瑞",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0124_b002",
+        "history_book_01_p0124_b008"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0124_person003",
+      "name_as_written": "孙中山",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0124_b002",
+        "history_book_01_p0124_b005",
+        "history_book_01_p0124_b008"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0125_person001",
+      "name_as_written": "荣宗敬",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0125_b005"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0125_person002",
+      "name_as_written": "荣德生",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0125_b005",
+        "history_book_01_p0125_b011"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0126_person001",
+      "name_as_written": "陈独秀",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0126_b004",
+        "history_book_01_p0126_b006",
+        "history_book_01_p0126_b010",
+        "history_book_01_p0126_b011",
+        "history_book_01_p0126_b013"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0126_person002",
+      "name_as_written": "蔡元培",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0126_b004",
+        "history_book_01_p0126_b011",
+        "history_book_01_p0126_b013"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0126_person003",
+      "name_as_written": "李大钊",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0126_b011",
+        "history_book_01_p0126_b013"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0126_person004",
+      "name_as_written": "鲁迅",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0126_b011",
+        "history_book_01_p0126_b013"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0126_person005",
+      "name_as_written": "胡适",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0126_b011",
+        "history_book_01_p0126_b012",
+        "history_book_01_p0126_b013"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0126_person006",
+      "name_as_written": "钱玄同",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0126_b011",
+        "history_book_01_p0126_b013"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0126_person007",
+      "name_as_written": "刘半农",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0126_b011",
+        "history_book_01_p0126_b013"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0127_person001",
+      "name_as_written": "梁启超",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0127_b006",
+        "history_book_01_p0127_b010"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0130_person001",
+      "name_as_written": "李大钊",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0130_b003",
+        "history_book_01_p0130_b009"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0130_person002",
+      "name_as_written": "陈望道",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0130_b005",
+        "history_book_01_p0130_b009"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0130_person003",
+      "name_as_written": "习近平",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0130_b007",
+        "history_book_01_p0130_b009"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0131_person001",
+      "name_as_written": "陈独秀",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0131_b002",
+        "history_book_01_p0131_b006",
+        "history_book_01_p0131_b007",
+        "history_book_01_p0131_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0131_person002",
+      "name_as_written": "李大钊",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0131_b006",
+        "history_book_01_p0131_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0131_person003",
+      "name_as_written": "李达",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0131_b002",
+        "history_book_01_p0131_b007",
+        "history_book_01_p0131_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0131_person004",
+      "name_as_written": "陈望道",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0131_b002",
+        "history_book_01_p0131_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0131_person005",
+      "name_as_written": "李汉俊",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0131_b002",
+        "history_book_01_p0131_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0131_person006",
+      "name_as_written": "毛泽东",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0131_b007",
+        "history_book_01_p0131_b012"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0131_person007",
+      "name_as_written": "董必武",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0131_b007",
+        "history_book_01_p0131_b012"
+      ],
+      "notes": []
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "history_book_01_p0123_k001",
+      "title": "袁世凯签订不平等的“中日民四条约”",
+      "kind": "event",
+      "content_type": "event",
+      "time": {
+        "source_text": "1915年5月",
+        "mode": "point",
+        "start_year": 1915,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "month",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0123_b002"
+        ]
+      },
+      "themes": [
+        "foreign_relations",
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0123_person001"
+      ],
+      "summary": {
+        "text": "经过谈判，袁世凯最终于1915年5月被迫签订不平等的“中日民四条约”。",
+        "evidence_block_ids": [
+          "history_book_01_p0123_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0123_b002"
+      ],
+      "asset_ids": [
+        "history_book_01_p0123_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0123_inv001"
+      ],
+      "uncertainties": [
+        "条约正式名称、签订地点和条文范围需对照原版图注与正文核验。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0123_k002",
+      "title": "袁世凯复辟帝制",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "1915年10月至1916年3月",
+        "mode": "duration",
+        "start_year": 1915,
+        "end_year": 1916,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0123_b003",
+          "history_book_01_p0123_b004"
+        ]
+      },
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0123_person001"
+      ],
+      "summary": {
+        "text": "袁世凯在1915年10月召开“国民代表大会”后称帝，以1916年为洪宪元年，后于1916年3月取消帝制。",
+        "evidence_block_ids": [
+          "history_book_01_p0123_b003",
+          "history_book_01_p0123_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0123_b003",
+        "history_book_01_p0123_b004"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0123_inv002"
+      ],
+      "uncertainties": [
+        "教材未给出称帝的具体月份；时间对象保留段落范围。",
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0123_k003",
+      "title": "护国战争",
+      "kind": "event",
+      "content_type": "war",
+      "time": {
+        "source_text": "1915年底至1916年3月",
+        "mode": "duration",
+        "start_year": 1915,
+        "end_year": 1916,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0123_b004"
+        ]
+      },
+      "themes": [
+        "war",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0123_place001",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0123_b004"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0123_person001",
+        "history_book_01_p0123_person003",
+        "history_book_01_p0123_person004",
+        "history_book_01_p0123_person005"
+      ],
+      "summary": {
+        "text": "唐继尧、蔡锷、李烈钧在云南宣布独立并组织护国军，发动护国战争，随后多省相继宣告独立。",
+        "evidence_block_ids": [
+          "history_book_01_p0123_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0123_b004"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0123_inv003"
+      ],
+      "uncertainties": [
+        "各省独立的先后和具体日期未在本页逐一给出。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0123_k004",
+      "title": "北洋时期的军阀割据",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "袁世凯死后",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0123_b006",
+          "history_book_01_p0123_b007"
+        ]
+      },
+      "themes": [
+        "politics",
+        "war"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0123_place010",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0123_b006",
+            "history_book_01_p0123_b007"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0123_person006",
+        "history_book_01_p0123_person007",
+        "history_book_01_p0123_person008",
+        "history_book_01_p0123_person009",
+        "history_book_01_p0123_person010",
+        "history_book_01_p0123_person011"
+      ],
+      "summary": {
+        "text": "袁世凯死后，北洋军阀内部派系纷争发展为军阀混战与割据，直系、皖系、奉系分别控制不同地区。",
+        "evidence_block_ids": [
+          "history_book_01_p0123_b005",
+          "history_book_01_p0123_b006"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "军阀凭借军队争权夺利，先后爆发直皖、直奉混战。",
+          "evidence_block_ids": [
+            "history_book_01_p0123_b006"
+          ]
+        },
+        {
+          "text": "1917年形成“府院之争”，张勋率兵入京并拥清废帝溥仪复辟。",
+          "evidence_block_ids": [
+            "history_book_01_p0123_b007"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0123_b005",
+        "history_book_01_p0123_b006",
+        "history_book_01_p0123_b007"
+      ],
+      "asset_ids": [
+        "history_book_01_p0124_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0123_inv004"
+      ],
+      "uncertainties": [
+        "示意图对应的具体时点和各军阀控制范围需人工核图。",
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0124_k001",
+      "title": "广州非常会议与中华民国军政府",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": "1917年8月至1918年",
+        "mode": "duration",
+        "start_year": 1917,
+        "end_year": 1918,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0124_b002"
+        ]
+      },
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0124_place001",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0124_b002"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0124_person001",
+        "history_book_01_p0124_person002",
+        "history_book_01_p0124_person003"
+      ],
+      "summary": {
+        "text": "1917年8月南下的国会议员在广州召开非常会议，决定成立“中华民国军政府”，推举孙中山为大元帅；1918年孙中山辞职。",
+        "evidence_block_ids": [
+          "history_book_01_p0124_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0124_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0124_inv001"
+      ],
+      "uncertainties": [
+        "西南军阀的具体组织和排挤过程未在本页细分。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0124_k002",
+      "title": "中国加入第一次世界大战协约国方面",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "1917年8月14日",
+        "mode": "point",
+        "start_year": 1917,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0124_b003"
+        ]
+      },
+      "themes": [
+        "foreign_relations",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0124_place002",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0124_b003"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0124_place003",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0124_b003"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "1917年8月14日，中国向德、奥两国宣战，加入第一次世界大战的协约国方面，并收回两国在天津、汉口的租界，撤销领事裁判权。",
+        "evidence_block_ids": [
+          "history_book_01_p0124_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0124_b003"
+      ],
+      "asset_ids": [
+        "history_book_01_p0124_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0124_inv002"
+      ],
+      "uncertainties": [
+        "本批不补充宣战法律文本或国际地位的其他来源。",
+        "原提取 content_type=foreign_relations 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0124_k003",
+      "title": "中国劳工赴欧洲前线",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "第一次世界大战时期",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0124_b003",
+          "history_book_01_p0124_b007"
+        ]
+      },
+      "themes": [
+        "society",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "十几万名中国劳工远渡重洋前往欧洲前线，其付出被教材记为对协约国胜利作出了贡献。",
+        "evidence_block_ids": [
+          "history_book_01_p0124_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0124_b003",
+        "history_book_01_p0124_b007"
+      ],
+      "asset_ids": [
+        "history_book_01_p0124_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0124_inv003"
+      ],
+      "uncertainties": [
+        "教材未给出劳工组织、人数统计出处和具体抵达地点。",
+        "原提取 content_type=society 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0125_k001",
+      "title": "民国初年民族工业的发展",
+      "kind": "process",
+      "content_type": "economy",
+      "time": {
+        "source_text": "中华民国建立后；第一次世界大战期间",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0125_b005",
+          "history_book_01_p0125_b009"
+        ]
+      },
+      "themes": [
+        "economy",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0125_place001",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0125_b005"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0125_person001",
+        "history_book_01_p0125_person002"
+      ],
+      "summary": {
+        "text": "中华民国建立后，政治束缚和障碍减少；一战期间西方列强忙于欧战，中国民族工业迅速发展，纺织、面粉等行业尤其明显。",
+        "evidence_block_ids": [
+          "history_book_01_p0125_b005"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "教材材料列出1914年8月前注册工业公司146个、1914年8月至1920年新注册公司272个。",
+          "evidence_block_ids": [
+            "history_book_01_p0125_b009"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0125_b005",
+        "history_book_01_p0125_b009"
+      ],
+      "asset_ids": [
+        "history_book_01_p0125_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0125_inv001"
+      ],
+      "uncertainties": [
+        "数据来自教材转引材料，需人工核对数字排版和统计口径。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0125_k002",
+      "title": "抵制日货、提倡国货运动",
+      "kind": "process",
+      "content_type": "economy",
+      "time": {
+        "source_text": "1915年",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0125_b005"
+        ]
+      },
+      "themes": [
+        "economy",
+        "foreign_relations",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "1915年因反对“二十一条”掀起的抵制日货、提倡国货运动，有力推动纺织、面粉等轻工业发展。",
+        "evidence_block_ids": [
+          "history_book_01_p0125_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0125_b005"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0125_inv002"
+      ],
+      "uncertainties": [
+        "运动持续时间与地域范围未在本页明确。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0125_k003",
+      "title": "民国初年社会生活的新气象",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "中华民国建立后",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0125_b007"
+        ]
+      },
+      "themes": [
+        "society",
+        "culture"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0125_place001",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0125_b007"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "南京临时政府宣布改用阳历，颁布剪发辫、易服饰、废止缠足等法令，并革除“大人”“老爷”等称呼。",
+        "evidence_block_ids": [
+          "history_book_01_p0125_b007"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0125_b007"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0125_inv003"
+      ],
+      "uncertainties": [
+        "教材描述的是新气象，具体执行范围和时间需人工核验。",
+        "原提取 content_type=society 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0126_k001",
+      "title": "新文化运动的开展",
+      "kind": "process",
+      "content_type": "thought",
+      "time": {
+        "source_text": "1915年9月起",
+        "mode": "duration",
+        "start_year": 1915,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "month",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0126_b010",
+          "history_book_01_p0126_b011",
+          "history_book_01_p0127_b002"
+        ]
+      },
+      "themes": [
+        "culture",
+        "society",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0126_place001",
+          "role": "origin",
+          "evidence_block_ids": [
+            "history_book_01_p0126_b010"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0126_place002",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0126_b011"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0126_place003",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0126_b011"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0126_person001",
+        "history_book_01_p0126_person002",
+        "history_book_01_p0126_person003",
+        "history_book_01_p0126_person004",
+        "history_book_01_p0126_person005",
+        "history_book_01_p0126_person006",
+        "history_book_01_p0126_person007"
+      ],
+      "summary": {
+        "text": "新文化运动从1915年9月陈独秀在上海创办《青年杂志》开始，北大和《新青年》成为主要阵地。",
+        "evidence_block_ids": [
+          "history_book_01_p0126_b010",
+          "history_book_01_p0126_b011"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "运动提出拥护“德先生”和“赛先生”，反对旧思想、旧礼教、旧政治等。",
+          "evidence_block_ids": [
+            "history_book_01_p0126_b011"
+          ]
+        },
+        {
+          "text": "运动涉及妇女解放、婚姻自由、家庭革命等内容。",
+          "evidence_block_ids": [
+            "history_book_01_p0127_b002"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0126_b007",
+        "history_book_01_p0126_b010",
+        "history_book_01_p0126_b011",
+        "history_book_01_p0127_b002"
+      ],
+      "asset_ids": [
+        "history_book_01_p0126_a001",
+        "history_book_01_p0126_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0126_inv001"
+      ],
+      "uncertainties": [
+        "运动结束时间和各阶段边界未由本批教材页明确。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0126_k002",
+      "title": "新文化运动的文学革命与白话文推广",
+      "kind": "process",
+      "content_type": "culture",
+      "time": {
+        "source_text": "新文化运动时期",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0126_b012"
+        ]
+      },
+      "themes": [
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0126_person005"
+      ],
+      "summary": {
+        "text": "胡适主张以白话文作为新文学的语言，经过新文化运动倡导，白话文逐渐普及。",
+        "evidence_block_ids": [
+          "history_book_01_p0126_b012"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0126_b012"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0126_inv002"
+      ],
+      "uncertainties": [
+        "白话文推广的具体时间范围和其他作者贡献未在本页展开。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0126_k003",
+      "title": "《吾人最后之觉悟》对共和与专制的反思",
+      "kind": "origin",
+      "content_type": "thought",
+      "time": {
+        "source_text": "1916年2月15日",
+        "mode": "point",
+        "start_year": 1916,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0126_b006"
+        ]
+      },
+      "themes": [
+        "politics",
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0126_person001"
+      ],
+      "summary": {
+        "text": "陈独秀在史料中反思共和制度能否巩固、立宪政治能否实行，提出政治根本问题有待最后觉悟。",
+        "evidence_block_ids": [
+          "history_book_01_p0126_b006"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0126_b005",
+        "history_book_01_p0126_b006"
+      ],
+      "asset_ids": [
+        "history_book_01_p0126_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0126_inv003"
+      ],
+      "uncertainties": [
+        "本条为史料阅读候选，思想史解释需人工审阅。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0127_k001",
+      "title": "新文化运动推动思想文化革新",
+      "kind": "process",
+      "content_type": "culture",
+      "time": {
+        "source_text": "新文化运动时期",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0127_b002",
+          "history_book_01_p0127_b003"
+        ]
+      },
+      "themes": [
+        "culture",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "新文化运动推动思想文化革新，具有解放思想的重大意义，并使报刊和社会议题更加广泛深刻。",
+        "evidence_block_ids": [
+          "history_book_01_p0127_b002",
+          "history_book_01_p0127_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0127_b002",
+        "history_book_01_p0127_b003"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0127_inv001"
+      ],
+      "uncertainties": [
+        "影响范围为教材概括，需与正文其他页重复内容合并核对。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0127_k002",
+      "title": "中华民国建立后围绕国体问题的争端",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "1915年8月20日及其后",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0127_b006",
+          "history_book_01_p0127_b007"
+        ]
+      },
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0127_person001"
+      ],
+      "summary": {
+        "text": "梁启超材料质疑以君主立宪替代共和并保证宪政实行的主张，教材要求据此讨论国体争端。",
+        "evidence_block_ids": [
+          "history_book_01_p0127_b006",
+          "history_book_01_p0127_b007"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0127_b005",
+        "history_book_01_p0127_b006",
+        "history_book_01_p0127_b007"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0127_inv002"
+      ],
+      "uncertainties": [
+        "问题探究要求结合史实，本批不联网补充后续争端。",
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0128_k001",
+      "title": "第七单元：中国共产党成立与新民主主义革命兴起",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": "五四运动后至新民主主义革命兴起时期",
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": "原提取 mode=period 不属时间性质枚举；保留 source_text/precision，不推断持续区间。",
+        "evidence_block_ids": [
+          "history_book_01_p0128_b001",
+          "history_book_01_p0128_b002",
+          "history_book_01_p0128_b003"
+        ]
+      },
+      "themes": [
+        "politics",
+        "war",
+        "culture",
+        "economy"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "单元导语概述五四运动、中国共产党成立、国共合作、国民革命、武装起义、长征及民族资本主义发展等内容。",
+        "evidence_block_ids": [
+          "history_book_01_p0128_b002",
+          "history_book_01_p0128_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0128_b001",
+        "history_book_01_p0128_b002",
+        "history_book_01_p0128_b003"
+      ],
+      "asset_ids": [
+        "history_book_01_p0128_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0128_inv001"
+      ],
+      "uncertainties": [
+        "单元导语为范围概述，不将其拆成未经正文核对的精确事件时间。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0129_k001",
+      "title": "五四运动爆发",
+      "kind": "event",
+      "content_type": "event",
+      "time": {
+        "source_text": "1919年5月4日",
+        "mode": "point",
+        "start_year": 1919,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0129_b009",
+          "history_book_01_p0129_b010"
+        ]
+      },
+      "themes": [
+        "war",
+        "politics",
+        "society"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0129_place003",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0129_b005",
+            "history_book_01_p0129_b010"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0129_place002",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0129_b009"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "巴黎和会将德国在山东的权益转让给日本的消息传入国内，成为五四运动爆发的导火索；1919年5月4日北京学生游行示威。",
+        "evidence_block_ids": [
+          "history_book_01_p0129_b009",
+          "history_book_01_p0129_b010"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0129_b005",
+        "history_book_01_p0129_b009",
+        "history_book_01_p0129_b010"
+      ],
+      "asset_ids": [
+        "history_book_01_p0129_a001",
+        "history_book_01_p0129_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0129_inv001"
+      ],
+      "uncertainties": [
+        "本条时间取教材明确的5月4日；巴黎和会具体议程不在本批扩展。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0129_k002",
+      "title": "五四运动由学生运动发展为群众性运动",
+      "kind": "process",
+      "content_type": "event",
+      "time": {
+        "source_text": "1919年6月3日至6月5日",
+        "mode": "duration",
+        "start_year": 1919,
+        "end_year": 1919,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0129_b011"
+        ]
+      },
+      "themes": [
+        "society",
+        "politics",
+        "war"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0129_place005",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0129_b011"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0129_place004",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0129_b011"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "北京学生被捕的消息传到上海后，1919年6月5日上海出现工人罢工和商人罢市，中国工人阶级登上政治舞台。",
+        "evidence_block_ids": [
+          "history_book_01_p0129_b011"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0129_b011"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0129_inv002"
+      ],
+      "uncertainties": [
+        "教材未给出运动全国扩展的完整时间线。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0129_k003",
+      "title": "五四运动的历史意义",
+      "kind": "event",
+      "content_type": "thought",
+      "time": {
+        "source_text": "1919年",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "year",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0129_b012",
+          "history_book_01_p0130_b002"
+        ]
+      },
+      "themes": [
+        "politics",
+        "culture",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "五四运动是以先进青年知识分子为先锋、广大人民群众参加的反帝反封建爱国革命运动和思想启蒙运动。",
+        "evidence_block_ids": [
+          "history_book_01_p0129_b012",
+          "history_book_01_p0130_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": {
+        "text": "教材将其概括为促进马克思主义传播及其同工人运动结合、为中共成立准备条件并成为旧民主主义革命走向新民主主义革命的转折点。",
+        "evidence_block_ids": [
+          "history_book_01_p0130_b002"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0129_b012",
+        "history_book_01_p0130_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0129_inv003"
+      ],
+      "uncertainties": [
+        "教材评价性表述需与原文和后续历史内容进行语义复核。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0130_k001",
+      "title": "马克思主义在中国的传播",
+      "kind": "process",
+      "content_type": "thought",
+      "time": {
+        "source_text": "俄国十月革命后；1919年至1920年",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0130_b002",
+          "history_book_01_p0130_b003",
+          "history_book_01_p0131_b002"
+        ]
+      },
+      "themes": [
+        "culture",
+        "politics",
+        "society"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0130_place002",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0130_b003"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0130_place003",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0130_b003",
+            "history_book_01_p0131_b002"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0130_person001",
+        "history_book_01_p0130_person002"
+      ],
+      "summary": {
+        "text": "马克思主义在中国的广泛传播从俄国十月革命后开始，北京与上海成为宣传中心；李大钊、陈独秀等组织研究会并开展翻译宣传。",
+        "evidence_block_ids": [
+          "history_book_01_p0130_b003",
+          "history_book_01_p0131_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0130_b003",
+        "history_book_01_p0131_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0130_inv001"
+      ],
+      "uncertainties": [
+        "传播网络和其他地区的具体时间未在本页完整列出。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0130_k002",
+      "title": "《共产党宣言》中文全译本出版",
+      "kind": "event",
+      "content_type": "culture",
+      "time": {
+        "source_text": "1920年8月",
+        "mode": "point",
+        "start_year": 1920,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "month",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0130_b003",
+          "history_book_01_p0130_b004"
+        ]
+      },
+      "themes": [
+        "culture",
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0130_person002"
+      ],
+      "summary": {
+        "text": "1920年8月，陈望道翻译的《共产党宣言》出版，被教材说明为马克思主义经典著作在中国出版的第一个中文全译本。",
+        "evidence_block_ids": [
+          "history_book_01_p0130_b003",
+          "history_book_01_p0130_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0130_b003",
+        "history_book_01_p0130_b004"
+      ],
+      "asset_ids": [
+        "history_book_01_p0130_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0130_inv002"
+      ],
+      "uncertainties": [
+        "首版标题错写和再版改正按教材旁注保留，需人工核对封面文字。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0130_k003",
+      "title": "五四精神及其时代价值",
+      "kind": "origin",
+      "content_type": "thought",
+      "time": {
+        "source_text": "五四运动时期；2019年4月30日讲话",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "period",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0130_b006",
+          "history_book_01_p0130_b007"
+        ]
+      },
+      "themes": [
+        "culture",
+        "society",
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0130_person003"
+      ],
+      "summary": {
+        "text": "材料将五四精神概括为爱国、进步、民主、科学，强调其核心是爱国主义，并讨论追求真理、追求进步和永久奋斗。",
+        "evidence_block_ids": [
+          "history_book_01_p0130_b007",
+          "history_book_01_p0130_b008"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0130_b006",
+        "history_book_01_p0130_b007",
+        "history_book_01_p0130_b008"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0130_inv003"
+      ],
+      "uncertainties": [
+        "本条包含教材史料与2019年讲话的不同时间层，待人工决定是否拆分。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0131_k001",
+      "title": "中国共产党早期组织的建立",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": "1920年初至1920年10月",
+        "mode": "duration",
+        "start_year": 1920,
+        "end_year": 1920,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "month",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0131_b005",
+          "history_book_01_p0131_b006"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0131_place001",
+          "role": "origin",
+          "evidence_block_ids": [
+            "history_book_01_p0131_b006"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0131_place003",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0131_b006"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0131_place004",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0131_b006"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0131_place005",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0131_b006"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0131_place006",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0131_b006"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0131_person001",
+        "history_book_01_p0131_person002"
+      ],
+      "summary": {
+        "text": "1920年初陈独秀和李大钊推动建党；8月上海成立中共早期组织，10月北京建立共产党小组，武汉、长沙、济南、广州等地也建立早期组织。",
+        "evidence_block_ids": [
+          "history_book_01_p0131_b006"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0131_b006"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0131_inv001"
+      ],
+      "uncertainties": [
+        "教材没有在本页列出各地组织的完整成员和成立日。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0131_k002",
+      "title": "中国共产党第一次全国代表大会与中国共产党的成立",
+      "kind": "event",
+      "content_type": "institution",
+      "time": {
+        "source_text": "1921年7月23日",
+        "mode": "point",
+        "start_year": 1921,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "day",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0131_b006",
+          "history_book_01_p0131_b007"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0131_place001",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0131_b007",
+            "history_book_01_p0131_b008"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0131_place002",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0131_b007",
+            "history_book_01_p0131_b009",
+            "history_book_01_p0131_b010"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0131_person001",
+        "history_book_01_p0131_person003",
+        "history_book_01_p0131_person006",
+        "history_book_01_p0131_person007"
+      ],
+      "summary": {
+        "text": "1921年7月23日，中共一大在上海举行，会议最后一天因法租界巡捕搜查改在浙江嘉兴南湖游船上进行；大会确定党名、奋斗目标并选举陈独秀任书记。",
+        "evidence_block_ids": [
+          "history_book_01_p0131_b007"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": {
+        "text": "教材概括中国共产党的成立给中国人民带来光明和希望，指明中国革命方向并凝聚强大力量。",
+        "evidence_block_ids": [
+          "history_book_01_p0131_b005"
+        ]
+      },
+      "evidence_block_ids": [
+        "history_book_01_p0131_b003",
+        "history_book_01_p0131_b007"
+      ],
+      "asset_ids": [
+        "history_book_01_p0131_a001",
+        "history_book_01_p0131_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0131_inv002"
+      ],
+      "uncertainties": [
+        "出席代表的完整名单、纲领原文和会址考证不在本批扩展。"
+      ],
+      "review_status": "pending_review"
+    }
+  ],
+  "relations": [
+    {
+      "id": "history_book_01_r001",
+      "from_knowledge_id": "history_book_01_p0123_k002",
+      "to_knowledge_id": "history_book_01_p0123_k003",
+      "target_label": "护国战争",
+      "type": "causes",
+      "person_ids": [
+        "history_book_01_p0123_person001",
+        "history_book_01_p0123_person003",
+        "history_book_01_p0123_person004",
+        "history_book_01_p0123_person005"
+      ],
+      "place_ids": [
+        "history_book_01_p0123_place001"
+      ],
+      "time_text": "1915年底",
+      "description": "袁世凯称帝激起反抗，唐继尧、蔡锷、李烈钧组织护国军讨伐。",
+      "evidence_block_ids": [
+        "history_book_01_p0123_b003",
+        "history_book_01_p0123_b004"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_r002",
+      "from_knowledge_id": "history_book_01_p0126_k001",
+      "to_knowledge_id": "history_book_01_p0130_k001",
+      "target_label": "马克思主义在中国的传播",
+      "type": "influence",
+      "person_ids": [
+        "history_book_01_p0126_person001",
+        "history_book_01_p0126_person003"
+      ],
+      "place_ids": [],
+      "time_text": "新文化运动时期",
+      "description": "本批教材后续单元将新文化运动与马克思主义传播分别叙述；此处仅保留待核关系，不以相邻页推断因果。",
+      "evidence_block_ids": [
+        "history_book_01_p0126_b010",
+        "history_book_01_p0130_b003"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_r003",
+      "from_knowledge_id": "history_book_01_p0130_k001",
+      "to_knowledge_id": "history_book_01_p0131_k002",
+      "target_label": "中国共产党的成立",
+      "type": "causes",
+      "person_ids": [
+        "history_book_01_p0130_person001",
+        "history_book_01_p0130_person002"
+      ],
+      "place_ids": [],
+      "time_text": "1920年至1921年",
+      "description": "教材明确叙述马克思主义广泛传播和工人运动持续发展后，创建工人阶级政党的问题提上日程。",
+      "evidence_block_ids": [
+        "history_book_01_p0130_b003",
+        "history_book_01_p0131_b006",
+        "history_book_01_p0131_b007"
+      ],
+      "review_status": "pending_review"
+    }
+  ],
+  "map_candidates": [
+    {
+      "id": "history_book_01_p0124_map001",
+      "asset_id": "history_book_01_p0124_a001",
+      "reference_time_text": "北洋军阀统治时期",
+      "reference_year": null,
+      "date_precision": "period",
+      "historical_names": [
+        "直系军阀",
+        "皖系军阀",
+        "奉系军阀",
+        "滇系军阀",
+        "晋系军阀",
+        "桂系军阀"
+      ],
+      "legend_text": "南北军阀争夺地区；省级界；地区界；国界",
+      "evidence_block_ids": [
+        "history_book_01_p0124_b006"
+      ],
+      "geometry": null,
+      "geometry_status": "not_digitized",
+      "notes": [
+        "历史地图截图未做空间校准与数字化，不能以像素位置生成经纬度。"
+      ]
+    }
+  ],
+  "inventory": [
+    {
+      "id": "history_book_01_p0123_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0123"
+      ],
+      "block_ids": [
+        "history_book_01_p0123_b002"
+      ],
+      "item_label": "袁世凯签订不平等的“中日民四条约”",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0123_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0123_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0123"
+      ],
+      "block_ids": [
+        "history_book_01_p0123_b003",
+        "history_book_01_p0123_b004"
+      ],
+      "item_label": "袁世凯复辟帝制",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0123_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0123_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0123"
+      ],
+      "block_ids": [
+        "history_book_01_p0123_b004"
+      ],
+      "item_label": "护国战争",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0123_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0123_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0123"
+      ],
+      "block_ids": [
+        "history_book_01_p0123_b005",
+        "history_book_01_p0123_b006",
+        "history_book_01_p0123_b007"
+      ],
+      "item_label": "北洋时期的军阀割据",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0123_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0124_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0124"
+      ],
+      "block_ids": [
+        "history_book_01_p0124_b002"
+      ],
+      "item_label": "广州非常会议与中华民国军政府",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0124_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0124_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0124"
+      ],
+      "block_ids": [
+        "history_book_01_p0124_b003"
+      ],
+      "item_label": "中国加入第一次世界大战协约国方面",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0124_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0124_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0124"
+      ],
+      "block_ids": [
+        "history_book_01_p0124_b003",
+        "history_book_01_p0124_b007"
+      ],
+      "item_label": "中国劳工赴欧洲前线",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0124_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0125_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0125"
+      ],
+      "block_ids": [
+        "history_book_01_p0125_b005",
+        "history_book_01_p0125_b009"
+      ],
+      "item_label": "民国初年民族工业的发展",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0125_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0125_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0125"
+      ],
+      "block_ids": [
+        "history_book_01_p0125_b005"
+      ],
+      "item_label": "抵制日货、提倡国货运动",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0125_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0125_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0125"
+      ],
+      "block_ids": [
+        "history_book_01_p0125_b007"
+      ],
+      "item_label": "民国初年社会生活的新气象",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0125_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0126_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0126"
+      ],
+      "block_ids": [
+        "history_book_01_p0126_b007",
+        "history_book_01_p0126_b010",
+        "history_book_01_p0126_b011",
+        "history_book_01_p0127_b002"
+      ],
+      "item_label": "新文化运动的开展",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0126_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0126_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0126"
+      ],
+      "block_ids": [
+        "history_book_01_p0126_b012"
+      ],
+      "item_label": "新文化运动的文学革命与白话文推广",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0126_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0126_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0126"
+      ],
+      "block_ids": [
+        "history_book_01_p0126_b005",
+        "history_book_01_p0126_b006"
+      ],
+      "item_label": "《吾人最后之觉悟》对共和与专制的反思",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0126_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0127_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0127"
+      ],
+      "block_ids": [
+        "history_book_01_p0127_b002",
+        "history_book_01_p0127_b003"
+      ],
+      "item_label": "新文化运动推动思想文化革新",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0127_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0127_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0127"
+      ],
+      "block_ids": [
+        "history_book_01_p0127_b005",
+        "history_book_01_p0127_b006",
+        "history_book_01_p0127_b007"
+      ],
+      "item_label": "中华民国建立后围绕国体问题的争端",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0127_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0128_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0128"
+      ],
+      "block_ids": [
+        "history_book_01_p0128_b001",
+        "history_book_01_p0128_b002",
+        "history_book_01_p0128_b003"
+      ],
+      "item_label": "第七单元：中国共产党成立与新民主主义革命兴起",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0128_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0129_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0129"
+      ],
+      "block_ids": [
+        "history_book_01_p0129_b005",
+        "history_book_01_p0129_b009",
+        "history_book_01_p0129_b010"
+      ],
+      "item_label": "五四运动爆发",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0129_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0129_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0129"
+      ],
+      "block_ids": [
+        "history_book_01_p0129_b011"
+      ],
+      "item_label": "五四运动由学生运动发展为群众性运动",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0129_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0129_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0129"
+      ],
+      "block_ids": [
+        "history_book_01_p0129_b012",
+        "history_book_01_p0130_b002"
+      ],
+      "item_label": "五四运动的历史意义",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0129_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0130_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0130"
+      ],
+      "block_ids": [
+        "history_book_01_p0130_b003",
+        "history_book_01_p0131_b002"
+      ],
+      "item_label": "马克思主义在中国的传播",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0130_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0130_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0130"
+      ],
+      "block_ids": [
+        "history_book_01_p0130_b003",
+        "history_book_01_p0130_b004"
+      ],
+      "item_label": "《共产党宣言》中文全译本出版",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0130_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0130_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0130"
+      ],
+      "block_ids": [
+        "history_book_01_p0130_b006",
+        "history_book_01_p0130_b007",
+        "history_book_01_p0130_b008"
+      ],
+      "item_label": "五四精神及其时代价值",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0130_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0131_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0131"
+      ],
+      "block_ids": [
+        "history_book_01_p0131_b006"
+      ],
+      "item_label": "中国共产党早期组织的建立",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0131_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    },
+    {
+      "id": "history_book_01_p0131_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0131"
+      ],
+      "block_ids": [
+        "history_book_01_p0131_b003",
+        "history_book_01_p0131_b007"
+      ],
+      "item_label": "中国共产党第一次全国代表大会与中国共产党的成立",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0131_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材正文、图注或学习栏目候选，需人工内容核验。"
+    }
+  ],
+  "review_issues": [
+    {
+      "id": "history_book_01_p0123_issue001",
+      "record_ids": [
+        "history_book_01_p0123_b002",
+        "history_book_01_p0123_a001"
+      ],
+      "category": "ocr",
+      "description": "PDF文字层将“中日民四条约”部分字形与图片文字混排，条约标题及附件名称需人工对照渲染图。",
+      "evidence_block_ids": [
+        "history_book_01_p0123_b002",
+        "history_book_01_p0123_b011"
+      ],
+      "suggested_action": "核对原版图注和正文，不以文字层单独定稿。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0124_issue001",
+      "record_ids": [
+        "history_book_01_p0124_map001"
+      ],
+      "category": "image",
+      "description": "北洋军阀割据示意图未做空间校准；图例、历史地名和军阀控制范围仅作为图文证据保留。",
+      "evidence_block_ids": [
+        "history_book_01_p0124_b006"
+      ],
+      "suggested_action": "后续核对图例与年代后再数字化，geometry保持null。",
+      "blocking": true,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0125_issue001",
+      "record_ids": [
+        "history_book_01_p0125_b009"
+      ],
+      "category": "source",
+      "description": "工业公司数量和资本额来自教材转引材料，PDF文字层存在数字间空格，统计口径需人工核对。",
+      "evidence_block_ids": [
+        "history_book_01_p0125_b009"
+      ],
+      "suggested_action": "对照原版材料及教材排版复核数字。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0127_issue001",
+      "record_ids": [
+        "history_book_01_p0127_b006"
+      ],
+      "category": "scope",
+      "description": "梁启超材料属于史料与问题探究，教材要求结合史实；本批不联网补充后续争端。",
+      "evidence_block_ids": [
+        "history_book_01_p0127_b006",
+        "history_book_01_p0127_b007"
+      ],
+      "suggested_action": "人工核对史料范围与问题答案边界。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0128_issue001",
+      "record_ids": [
+        "history_book_01_p0128_a001"
+      ],
+      "category": "image",
+      "description": "单元导语背景插图仅作可见图像记录，未据建筑外观认定地点、年代或事件。",
+      "evidence_block_ids": [
+        "history_book_01_p0128_b001"
+      ],
+      "suggested_action": "如需使用图像知识，另行查证图源。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0129_issue001",
+      "record_ids": [
+        "history_book_01_p0129_b012"
+      ],
+      "category": "relation",
+      "description": "五四运动意义的句子跨PDF页序129—130，已分别记录并在知识候选中合并，需人工确认跨页衔接。",
+      "evidence_block_ids": [
+        "history_book_01_p0129_b012",
+        "history_book_01_p0130_b002"
+      ],
+      "suggested_action": "核对页序129末与页序130首的原文连续性。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0130_issue001",
+      "record_ids": [
+        "history_book_01_p0130_b003"
+      ],
+      "category": "ocr",
+      "description": "“马克思学说研究会”在PDF页序130末跨页到131页首，已保留截断与续接原文。",
+      "evidence_block_ids": [
+        "history_book_01_p0130_b003",
+        "history_book_01_p0131_b002"
+      ],
+      "suggested_action": "核对跨页段落后再发布。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_p0131_issue001",
+      "record_ids": [
+        "history_book_01_p0131_a001",
+        "history_book_01_p0131_a002"
+      ],
+      "category": "place",
+      "description": "中共一大会址和嘉兴南湖红船图注含现今地址、复制品等信息，坐标未由教材提供。",
+      "evidence_block_ids": [
+        "history_book_01_p0131_b007",
+        "history_book_01_p0131_b008",
+        "history_book_01_p0131_b009",
+        "history_book_01_p0131_b010"
+      ],
+      "suggested_action": "后续补充有出处的地点资料后再定位。",
+      "blocking": false,
+      "status": "open"
+    }
+  ],
+  "validation": {
+    "structure_check_status": "passed",
+    "duplicate_ids": [],
+    "dangling_references": [],
+    "page_coverage_issues": [],
+    "time_issues": [],
+    "source_issues": [],
+    "unreadable_blocks": [],
+    "unprocessed_assets": [],
+    "semantic_review_status": "not_performed"
+  }
+}

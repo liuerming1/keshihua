@@ -1,0 +1,5950 @@
+{
+  "schema_version": "history-pdf-ingest/1.0",
+  "batch": {
+    "id": "history_book_01_b02d",
+    "document_id": "history_book_01",
+    "requested_pdf_pages": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "completed_pdf_pages": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "partial_pdf_pages": [],
+    "unprocessed_pdf_pages": [],
+    "complete": true,
+    "next_pdf_page": null,
+    "carryover": [
+      {
+        "type": "paragraph",
+        "record_ids": [
+          "history_book_01_p0067_b001"
+        ],
+        "description": "第67页承接前一页第10课正文；第75页为第11课“历史纵横”段落收束。",
+        "next_action": "与相邻批次核对跨页段落，不据此补写缺失史实。"
+      }
+    ]
+  },
+  "documents": [
+    {
+      "id": "history_book_01",
+      "file_name": "普通高中教科书·历史必修_中外历史纲要（上）.pdf",
+      "title": "普通高中教科书·历史必修 中外历史纲要（上）",
+      "edition": null,
+      "volume": "上",
+      "publisher": "人民教育出版社",
+      "publication_year": null,
+      "total_pdf_pages": 223,
+      "language": "zh-CN",
+      "source_kind": "textbook",
+      "sha256": null
+    }
+  ],
+  "pages": [
+    {
+      "id": "history_book_01_p0067",
+      "document_id": "history_book_01",
+      "pdf_page_number": 67,
+      "printed_page_label": "60",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第10课 辽夏金元的统治"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查，图片未导出裁剪文件，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068",
+      "document_id": "history_book_01",
+      "pdf_page_number": 68,
+      "printed_page_label": "61",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第10课 辽夏金元的统治"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查，图片未导出裁剪文件，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069",
+      "document_id": "history_book_01",
+      "pdf_page_number": 69,
+      "printed_page_label": "62",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第10课 辽夏金元的统治"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "not_applicable",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0070",
+      "document_id": "history_book_01",
+      "pdf_page_number": 70,
+      "printed_page_label": "63",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第10课 辽夏金元的统治"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "not_applicable",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0071",
+      "document_id": "history_book_01",
+      "pdf_page_number": 71,
+      "printed_page_label": "64",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第11课 辽宋夏金元的经济、社会与文化"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查，图片未导出裁剪文件，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072",
+      "document_id": "history_book_01",
+      "pdf_page_number": 72,
+      "printed_page_label": "65",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第11课 辽宋夏金元的经济、社会与文化"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查，图片未导出裁剪文件，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0073",
+      "document_id": "history_book_01",
+      "pdf_page_number": 73,
+      "printed_page_label": "66",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第11课 辽宋夏金元的经济、社会与文化"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查，图片未导出裁剪文件，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074",
+      "document_id": "history_book_01",
+      "pdf_page_number": 74,
+      "printed_page_label": "67",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第11课 辽宋夏金元的经济、社会与文化"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查，图片未导出裁剪文件，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0075",
+      "document_id": "history_book_01",
+      "pdf_page_number": 75,
+      "printed_page_label": "68",
+      "chapter_path": [
+        "第三单元 辽宋夏金多民族政权的并立与元朝的统一",
+        "第11课 辽宋夏金元的经济、社会与文化"
+      ],
+      "page_kind": "content",
+      "text_status": "complete",
+      "image_status": "complete",
+      "notes": [
+        "文字层已读取；逐页渲染并目视检查。",
+        "PDF页序与印刷页码分开记录。",
+        "页面图像已渲染并目视检查，图片未导出裁剪文件，file_path保持null。"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "history_book_01_p0067_b001",
+      "page_id": "history_book_01_p0067",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "60 中外历史纲要﻿上﻿﻿第三单元﻿辽宋夏金多民族政权的并立与元朝的统一\n",
+      "clean_text": "60 中外历史纲要﻿上﻿﻿第三单元﻿辽宋夏金多民族政权的并立与元朝的统一\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0067_b002",
+      "page_id": "history_book_01_p0067",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "金朝基本沿袭唐宋制度，同时保持了一套女真民族的\n管理系统，叫作“猛安谋克\n①\n” 。凡女真民户，每三百户编\n为一谋克，十谋克编为一猛安。他们被大批迁入中原，在\n汉族村落之间筑寨居住，平时耕作，战时选拔丁壮出征。\n",
+      "clean_text": "金朝基本沿袭唐宋制度，同时保持了一套女真民族的\n管理系统，叫作“猛安谋克\n①\n” 。凡女真民户，每三百户编\n为一谋克，十谋克编为一猛安。他们被大批迁入中原，在\n汉族村落之间筑寨居住，平时耕作，战时选拔丁壮出征。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0067_b003",
+      "page_id": "history_book_01_p0067",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "12 世纪后期金世宗在位，金朝进入鼎盛时期，政治稳\n定，经济繁荣，史称“大定之治” ，世宗被百姓誉为“小\n尧舜” 。世宗死后，金朝受到北方游牧民族的袭扰，猛安\n谋克又日益腐化，统治逐渐衰落。\n",
+      "clean_text": "12 世纪后期金世宗在位，金朝进入鼎盛时期，政治稳\n定，经济繁荣，史称“大定之治” ，世宗被百姓誉为“小\n尧舜” 。世宗死后，金朝受到北方游牧民族的袭扰，猛安\n谋克又日益腐化，统治逐渐衰落。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0067_b004",
+      "page_id": "history_book_01_p0067",
+      "order": 4,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "从蒙古崛起到元朝统一\n",
+      "clean_text": "从蒙古崛起到元朝统一\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0067_b005",
+      "page_id": "history_book_01_p0067",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1206 年，漠北蒙古部首领铁木真统一草原各部，建立\n蒙古汗国，被尊为“成吉思汗” 。此后半个世纪，蒙古军\n队先后灭掉西辽、西夏和金朝，收服吐蕃诸部，兼并云南\n的大理政权，还远征到中亚、西亚、东欧地区。\n",
+      "clean_text": "1206 年，漠北蒙古部首领铁木真统一草原各部，建立\n蒙古汗国，被尊为“成吉思汗” 。此后半个世纪，蒙古军\n队先后灭掉西辽、西夏和金朝，收服吐蕃诸部，兼并云南\n的大理政权，还远征到中亚、西亚、东欧地区。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0067_b006",
+      "page_id": "history_book_01_p0067",
+      "order": 6,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "史料阅读\n",
+      "clean_text": "史料阅读\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0067_b007",
+      "page_id": "history_book_01_p0067",
+      "order": 7,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "宋人徐梦莘所撰史书《三朝北盟会编》卷3这样记载辽朝后期女真人的生活方式：\n其地则至契丹东北隅，土多林木，田宜麻谷。以耕凿为业，不事蚕桑……其人则耐寒忍\n饥，不惮辛苦，食生物，勇悍不畏死……善骑，上下崖壁如飞。济江不用舟楫，浮马而渡，\n精射猎……其俗依山谷而居，联木为栅，屋高数尺，无瓦，覆以木板，或以桦皮，或以草绸\n缪（ chYumYu ）之。墙垣篱壁，率皆以木，门皆东向。环屋为土床，炽火其下，相与寝食起\n居其上，谓之炕，以取其煖 。\n",
+      "clean_text": "宋人徐梦莘所撰史书《三朝北盟会编》卷3这样记载辽朝后期女真人的生活方式：\n其地则至契丹东北隅，土多林木，田宜麻谷。以耕凿为业，不事蚕桑……其人则耐寒忍\n饥，不惮辛苦，食生物，勇悍不畏死……善骑，上下崖壁如飞。济江不用舟楫，浮马而渡，\n精射猎……其俗依山谷而居，联木为栅，屋高数尺，无瓦，覆以木板，或以桦皮，或以草绸\n缪（ chYumYu ）之。墙垣篱壁，率皆以木，门皆东向。环屋为土床，炽火其下，相与寝食起\n居其上，谓之炕，以取其煖 。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0067_b008",
+      "page_id": "history_book_01_p0067",
+      "order": 8,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "崛起于漠北的蒙古 ，\n建立元朝，完成了全国的\n大统一。\n",
+      "clean_text": "崛起于漠北的蒙古 ，\n建立元朝，完成了全国的\n大统一。\n",
+      "asset_ids": [
+        "history_book_01_p0067_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0067_b009",
+      "page_id": "history_book_01_p0067",
+      "order": 9,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦\n ",
+      "clean_text": "学习聚焦\n ",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0067_b010",
+      "page_id": "history_book_01_p0067",
+      "order": 10,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "萨班灵骨塔遗址\n  ",
+      "clean_text": "萨班灵骨塔遗址\n  ",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0067_b011",
+      "page_id": "history_book_01_p0067",
+      "order": 11,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1247年，蒙古皇子阔端与吐\n蕃宗教首领、藏传佛教高僧萨迦班\n智达②在凉州 ③会谈，就吐蕃地区\n归附达成协议。之后，西藏开始接\n受中央政府的管辖。后来萨班在凉\n州去世。\n",
+      "clean_text": "1247年，蒙古皇子阔端与吐\n蕃宗教首领、藏传佛教高僧萨迦班\n智达②在凉州 ③会谈，就吐蕃地区\n归附达成协议。之后，西藏开始接\n受中央政府的管辖。后来萨班在凉\n州去世。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0067_b012",
+      "page_id": "history_book_01_p0067",
+      "order": 12,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "① 猛安谋克，女真语音译。猛安，意为千、千夫长，是部落单位；谋克，意为百、百夫长，为氏族单位。\n② 萨迦班智达，即萨班。\n③ 凉州，今甘肃武威。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "① 猛安谋克，女真语音译。猛安，意为千、千夫长，是部落单位；谋克，意为百、百夫长，为氏族单位。\n② 萨迦班智达，即萨班。\n③ 凉州，今甘肃武威。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_b001",
+      "page_id": "history_book_01_p0068",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "第10课﻿﻿﻿﻿辽夏金元的统治 61\n",
+      "clean_text": "第10课﻿﻿﻿﻿辽夏金元的统治 61\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_b002",
+      "page_id": "history_book_01_p0068",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1260 年，成吉思汗的孙子忽必烈即位，开始推行中\n原传统政治制度，兴建大都。 ",
+      "clean_text": "1260 年，成吉思汗的孙子忽必烈即位，开始推行中\n原传统政治制度，兴建大都。 ",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_b003",
+      "page_id": "history_book_01_p0068",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1271 年，忽必烈定国号为大\n元，他就是元世祖。在此前后，蒙古在其他统治区形成了\n四大汗国\n①\n，它们在名义上仍将元朝尊为宗主国。\n",
+      "clean_text": "1271 年，忽必烈定国号为大\n元，他就是元世祖。在此前后，蒙古在其他统治区形成了\n四大汗国\n①\n，它们在名义上仍将元朝尊为宗主国。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_b004",
+      "page_id": "history_book_01_p0068",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1276 年，元军占领南宋都城临安。1279 年，元军在崖\n山海域击败南宋余部，完成统一。南宋宰相文天祥被俘，\n坚拒劝降，后来在大都从容就义。\n",
+      "clean_text": "1276 年，元军占领南宋都城临安。1279 年，元军在崖\n山海域击败南宋余部，完成统一。南宋宰相文天祥被俘，\n坚拒劝降，后来在大都从容就义。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_b005",
+      "page_id": "history_book_01_p0068",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "为巩固统一，元朝修筑了四通八达的驿道，设立驿\n站，为公差人员提供交通和生活服务，并运输官府物资；\n相隔一定距离分设急递铺，负责传递公文。\n",
+      "clean_text": "为巩固统一，元朝修筑了四通八达的驿道，设立驿\n站，为公差人员提供交通和生活服务，并运输官府物资；\n相隔一定距离分设急递铺，负责传递公文。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_b006",
+      "page_id": "history_book_01_p0068",
+      "order": 6,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 元朝形势图（1330 年）\n",
+      "clean_text": "▲ 元朝形势图（1330 年）\n",
+      "asset_ids": [
+        "history_book_01_p0068_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_b007",
+      "page_id": "history_book_01_p0068",
+      "order": 7,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "在地方管理上，元朝实行行省制度。当时中央的宰相\n机构是中书省，委派官员代表中书省处理地方事务，逐渐\n形成常设机构，称为行中书省，简称行省。除今天的河北、\n山西、山东等地由中书省直辖外，全国共设 10 个行省。行\n省辖区广阔，军政大权集中，提高了行政效率，巩固了多\n民族国家统一，也促进了边疆少数民族地区政治、经济和\n",
+      "clean_text": "在地方管理上，元朝实行行省制度。当时中央的宰相\n机构是中书省，委派官员代表中书省处理地方事务，逐渐\n形成常设机构，称为行中书省，简称行省。除今天的河北、\n山西、山东等地由中书省直辖外，全国共设 10 个行省。行\n省辖区广阔，军政大权集中，提高了行政效率，巩固了多\n民族国家统一，也促进了边疆少数民族地区政治、经济和\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_b008",
+      "page_id": "history_book_01_p0068",
+      "order": 8,
+      "type": "image",
+      "bbox": null,
+      "raw_text": "汗\n琉\n球\n大都\n台合察\n国\n元朝形势图（1330年）\n万\n里\n石\n塘\n万\n里\n石\n塘\n南海\n和宁\n上都\n海南\n江\n浙\n行\n省\n江\n西\n行\n省\n湖\n广\n行\n省\n云南行省\n省行\n四 （属湖广行省）\n川\n河南江北行省\n陕\n西\n行\n省\n甘 肃 行 省\n岭北行 省\n辽\n阳\n行\n省\n中\n书\n省\n宣政院辖地\n斡\n难\n河\n黄\n河\n大 江 海\n东\n海\n渤\n南 海\n鲸\n海\n元\n元\n省级界\n今国界\n政权部族界\n都城\n省级驻所\n未定\n北 海\n",
+      "clean_text": "汗\n琉\n球\n大都\n台合察\n国\n元朝形势图（1330年）\n万\n里\n石\n塘\n万\n里\n石\n塘\n南海\n和宁\n上都\n海南\n江\n浙\n行\n省\n江\n西\n行\n省\n湖\n广\n行\n省\n云南行省\n省行\n四 （属湖广行省）\n川\n河南江北行省\n陕\n西\n行\n省\n甘 肃 行 省\n岭北行 省\n辽\n阳\n行\n省\n中\n书\n省\n宣政院辖地\n斡\n难\n河\n黄\n河\n大 江 海\n东\n海\n渤\n南 海\n鲸\n海\n元\n元\n省级界\n今国界\n政权部族界\n都城\n省级驻所\n未定\n北 海\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_b009",
+      "page_id": "history_book_01_p0068",
+      "order": 9,
+      "type": "table",
+      "bbox": null,
+      "raw_text": "岭北行省\n辽\n阳\n行\n省\n岭北行省北部\n",
+      "clean_text": "岭北行省\n辽\n阳\n行\n省\n岭北行省北部\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_b010",
+      "page_id": "history_book_01_p0068",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "观察《元朝形势图（ 1330\n年） 》 ，你认为元朝行省制度对\n后世有什么影响 ?\n思考点\n",
+      "clean_text": "观察《元朝形势图（ 1330\n年） 》 ，你认为元朝行省制度对\n后世有什么影响 ?\n思考点\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_b011",
+      "page_id": "history_book_01_p0068",
+      "order": 11,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "大都……………………………… 今北京\n上都\n…………… 在今内蒙古正蓝旗东北\n和宁…………………… 今蒙古国哈拉和林\n琉球\n………………………………… 今台湾\n",
+      "clean_text": "大都……………………………… 今北京\n上都\n…………… 在今内蒙古正蓝旗东北\n和宁…………………… 今蒙古国哈拉和林\n琉球\n………………………………… 今台湾\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_b012",
+      "page_id": "history_book_01_p0068",
+      "order": 12,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "① 四大汗国，即钦察汗国、察合台汗国、窝阔台汗国和伊利汗国。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "① 四大汗国，即钦察汗国、察合台汗国、窝阔台汗国和伊利汗国。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069_b001",
+      "page_id": "history_book_01_p0069",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "62 中外历史纲要﻿上﻿﻿第三单元﻿辽宋夏金多民族政权的并立与元朝的统一\n",
+      "clean_text": "62 中外历史纲要﻿上﻿﻿第三单元﻿辽宋夏金多民族政权的并立与元朝的统一\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069_b002",
+      "page_id": "history_book_01_p0069",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "元朝的民族关系\n",
+      "clean_text": "元朝的民族关系\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069_b003",
+      "page_id": "history_book_01_p0069",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "蒙古原是漠北的一个游牧部落，铁木真统一草原后逐\n渐将其他部落融入其中。元朝时，很多蒙古人迁入中原，\n同汉族杂居相处。来自中亚、西亚的波斯人、阿拉伯人等\n移居中国，同汉、蒙古、畏兀儿\n①\n等民族长期相处、不断\n通婚，逐渐被吸收、融合而形成我国回族的前身—回回。\n",
+      "clean_text": "蒙古原是漠北的一个游牧部落，铁木真统一草原后逐\n渐将其他部落融入其中。元朝时，很多蒙古人迁入中原，\n同汉族杂居相处。来自中亚、西亚的波斯人、阿拉伯人等\n移居中国，同汉、蒙古、畏兀儿\n①\n等民族长期相处、不断\n通婚，逐渐被吸收、融合而形成我国回族的前身—回回。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069_b004",
+      "page_id": "history_book_01_p0069",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "蒙古统治者为了保障自己的统治利益，推行民族歧\n视和压迫政策。他们在很多方面对不同民族采取差别对待\n措施，被后人概括为“四等人制” 。四等人依次为蒙古人、\n色目人、汉人、南人。色目人指蒙古以外的西北、西域各\n族人，包括西夏、畏兀儿、回回等。汉人主要指北方的汉\n族，也包括已经入居中原的契丹、女真人。南人指原南宋\n统治区的居民。\n",
+      "clean_text": "蒙古统治者为了保障自己的统治利益，推行民族歧\n视和压迫政策。他们在很多方面对不同民族采取差别对待\n措施，被后人概括为“四等人制” 。四等人依次为蒙古人、\n色目人、汉人、南人。色目人指蒙古以外的西北、西域各\n族人，包括西夏、畏兀儿、回回等。汉人主要指北方的汉\n族，也包括已经入居中原的契丹、女真人。南人指原南宋\n统治区的居民。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069_b005",
+      "page_id": "history_book_01_p0069",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "随着时间推移，民族矛盾逐渐减弱，社会贫富差距带\n来的阶级矛盾却日益严重。 14 世纪中叶，农民起义相继在\n中原和南方爆发，不久元朝灭亡，以宫廷贵族为核心的一\n部分蒙古人退回草原。大批留居内地的蒙古人、色目人等，\n逐渐与汉族相融合。\n",
+      "clean_text": "随着时间推移，民族矛盾逐渐减弱，社会贫富差距带\n来的阶级矛盾却日益严重。 14 世纪中叶，农民起义相继在\n中原和南方爆发，不久元朝灭亡，以宫廷贵族为核心的一\n部分蒙古人退回草原。大批留居内地的蒙古人、色目人等，\n逐渐与汉族相融合。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069_b006",
+      "page_id": "history_book_01_p0069",
+      "order": 6,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "元朝存在民族矛盾，但\n不同民族的交往交流交融也\n得到进一步加强。\n",
+      "clean_text": "元朝存在民族矛盾，但\n不同民族的交往交流交融也\n得到进一步加强。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069_b007",
+      "page_id": "history_book_01_p0069",
+      "order": 7,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦\n",
+      "clean_text": "学习聚焦\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069_b008",
+      "page_id": "history_book_01_p0069",
+      "order": 8,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "文化的发展。它的创立是中国古代地方行政制度的重大变\n革，是我国省制的开端。对于吐蕃地区，由直属中央政府\n的宣政院进行管理。元朝设北庭都元帅府、宣慰司等管理\n军政事务，加强了对西域的管辖。元朝还在隶属福建晋江\n的澎湖设置巡检司，履行行政管理职能，以经略台湾。\n",
+      "clean_text": "文化的发展。它的创立是中国古代地方行政制度的重大变\n革，是我国省制的开端。对于吐蕃地区，由直属中央政府\n的宣政院进行管理。元朝设北庭都元帅府、宣慰司等管理\n军政事务，加强了对西域的管辖。元朝还在隶属福建晋江\n的澎湖设置巡检司，履行行政管理职能，以经略台湾。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069_b009",
+      "page_id": "history_book_01_p0069",
+      "order": 9,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "元朝对边疆的成功统治\n",
+      "clean_text": "元朝对边疆的成功统治\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069_b010",
+      "page_id": "history_book_01_p0069",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "元朝不仅版图辽阔，而且对边疆地区实施了长时间和比较稳定的统治，这是前代大一统王朝\n没有做到的。 《元史·地理志》总结道： “盖岭北、辽阳与甘肃、四川、云南、湖广之边，唐所谓\n羁縻（jUmI）之州，往往在是，今皆赋役之，比于内地。 ”汉唐王朝疆域辽阔，对内陆边疆地区往\n往是通过册封和朝贡实施控制，很不稳定。元朝的辽阔疆域则与王朝统治相始终，边疆管理也更\n多地呈现出与内地一体化的趋向。\n",
+      "clean_text": "元朝不仅版图辽阔，而且对边疆地区实施了长时间和比较稳定的统治，这是前代大一统王朝\n没有做到的。 《元史·地理志》总结道： “盖岭北、辽阳与甘肃、四川、云南、湖广之边，唐所谓\n羁縻（jUmI）之州，往往在是，今皆赋役之，比于内地。 ”汉唐王朝疆域辽阔，对内陆边疆地区往\n往是通过册封和朝贡实施控制，很不稳定。元朝的辽阔疆域则与王朝统治相始终，边疆管理也更\n多地呈现出与内地一体化的趋向。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069_b011",
+      "page_id": "history_book_01_p0069",
+      "order": 11,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "历史纵横\n",
+      "clean_text": "历史纵横\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069_b012",
+      "page_id": "history_book_01_p0069",
+      "order": 12,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "① 畏兀儿，元朝对今新疆地区维吾尔族先民的称呼。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "① 畏兀儿，元朝对今新疆地区维吾尔族先民的称呼。\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0070_b001",
+      "page_id": "history_book_01_p0070",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "第10课﻿﻿﻿﻿辽夏金元的统治 63\n",
+      "clean_text": "第10课﻿﻿﻿﻿辽夏金元的统治 63\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0070_b002",
+      "page_id": "history_book_01_p0070",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "探究与拓展\n",
+      "clean_text": "探究与拓展\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0070_b003",
+      "page_id": "history_book_01_p0070",
+      "order": 3,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "国朝土宇旷远，诸民相杂，俗既不同，论难遽定。考\n之前代，北方奄有中夏，必行汉法，可以长久。故魏、辽、\n金能用汉法，历年最多。其他不能实用汉法，皆乱亡相继。\n史册具载，昭昭可见也……国朝仍处远漠，无事论此。必\n若今日形势，非用汉法不可也。陆行资车，水行资舟，反\n之则必不能行。幽燕以北，服食宜凉；蜀汉以南，服食宜\n热，反之则必有变异。以是论之，国家当行汉法无疑也。\n然万世国俗，累朝勋贵，一旦驱之下从臣仆之谋，改就亡\n国之俗，其势有甚难者。苟非聪悟特达，晓知中原实历代\n圣王为治之地，则必咨嗟怨愤，喧哗其不可也。窃尝思之，\n寒之与暑，固为不同。然寒之变暑也，始于微温，温而热，\n热而暑，积百有八十二日，而寒气始尽。暑之变寒，其\n势亦然。山木之根，力可破石，是亦积之之一验也。苟能\n渐之摩之，待以岁月，心坚而确，事易而常，未有不可变\n者……在陛下，笃信而坚守之，不杂小人，不营小利，不\n责近效，不惑浮言，则天下之心庶几可得，而致治之功\n庶几可成也。\n",
+      "clean_text": "国朝土宇旷远，诸民相杂，俗既不同，论难遽定。考\n之前代，北方奄有中夏，必行汉法，可以长久。故魏、辽、\n金能用汉法，历年最多。其他不能实用汉法，皆乱亡相继。\n史册具载，昭昭可见也……国朝仍处远漠，无事论此。必\n若今日形势，非用汉法不可也。陆行资车，水行资舟，反\n之则必不能行。幽燕以北，服食宜凉；蜀汉以南，服食宜\n热，反之则必有变异。以是论之，国家当行汉法无疑也。\n然万世国俗，累朝勋贵，一旦驱之下从臣仆之谋，改就亡\n国之俗，其势有甚难者。苟非聪悟特达，晓知中原实历代\n圣王为治之地，则必咨嗟怨愤，喧哗其不可也。窃尝思之，\n寒之与暑，固为不同。然寒之变暑也，始于微温，温而热，\n热而暑，积百有八十二日，而寒气始尽。暑之变寒，其\n势亦然。山木之根，力可破石，是亦积之之一验也。苟能\n渐之摩之，待以岁月，心坚而确，事易而常，未有不可变\n者……在陛下，笃信而坚守之，不杂小人，不营小利，不\n责近效，不惑浮言，则天下之心庶几可得，而致治之功\n庶几可成也。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0070_b004",
+      "page_id": "history_book_01_p0070",
+      "order": 4,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "——许衡《许文正公遗书》卷7《时务五事·立国规摹》\n",
+      "clean_text": "——许衡《许文正公遗书》卷7《时务五事·立国规摹》\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0070_b005",
+      "page_id": "history_book_01_p0070",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "阅读上述材料，结合所学知识，谈谈你对中国古代少\n数民族王朝统治者学习、接受中原传统典章制度和统治理\n念的认识。\n",
+      "clean_text": "阅读上述材料，结合所学知识，谈谈你对中国古代少\n数民族王朝统治者学习、接受中原传统典章制度和统治理\n念的认识。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0070_b006",
+      "page_id": "history_book_01_p0070",
+      "order": 6,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "问题探究\n",
+      "clean_text": "问题探究\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0070_b007",
+      "page_id": "history_book_01_p0070",
+      "order": 7,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "元朝时意大利旅行家马可 ·波罗来华，是中外关系史\n上的著名事件。查找资料，了解有关马可 ·波罗来华的记\n载，以及当时除马可·波罗来华以外的中欧交往史实。\n",
+      "clean_text": "元朝时意大利旅行家马可 ·波罗来华，是中外关系史\n上的著名事件。查找资料，了解有关马可 ·波罗来华的记\n载，以及当时除马可·波罗来华以外的中欧交往史实。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0070_b008",
+      "page_id": "history_book_01_p0070",
+      "order": 8,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习拓展\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "学习拓展\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0071_b001",
+      "page_id": "history_book_01_p0071",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "64 中外历史纲要﻿上﻿﻿第三单元﻿辽宋夏金多民族政权的并立与元朝的统一\n",
+      "clean_text": "64 中外历史纲要﻿上﻿﻿第三单元﻿辽宋夏金多民族政权的并立与元朝的统一\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0071_b002",
+      "page_id": "history_book_01_p0071",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "第1 1课\n辽宋夏金元的经济、社会与文化\n",
+      "clean_text": "第1 1课\n辽宋夏金元的经济、社会与文化\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0071_b003",
+      "page_id": "history_book_01_p0071",
+      "order": 3,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲《夫妻对坐宴饮图》\n",
+      "clean_text": "▲《夫妻对坐宴饮图》\n",
+      "asset_ids": [
+        "history_book_01_p0071_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0071_b004",
+      "page_id": "history_book_01_p0071",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "北宋学者沈括通过研读唐诗注意到，唐朝人写过不少\n“富贵诗” ，描写当时的“奉养器服之盛” ，即奢华生活。\n在沈括看来，这些描写“乃贫眼所惊耳……此所谓‘不曾\n近富儿家’ ” ，意思就是没见过世面，不值一提。沈括的话\n间接反映出宋人的生活和消费水准明显超过了唐朝，其背\n景则是经济发展水平的提高。图为宋墓壁画《夫妻对坐宴\n饮图》 ，反映了墓主人生前家居生活的场景。\n",
+      "clean_text": "北宋学者沈括通过研读唐诗注意到，唐朝人写过不少\n“富贵诗” ，描写当时的“奉养器服之盛” ，即奢华生活。\n在沈括看来，这些描写“乃贫眼所惊耳……此所谓‘不曾\n近富儿家’ ” ，意思就是没见过世面，不值一提。沈括的话\n间接反映出宋人的生活和消费水准明显超过了唐朝，其背\n景则是经济发展水平的提高。图为宋墓壁画《夫妻对坐宴\n饮图》 ，反映了墓主人生前家居生活的场景。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0071_b005",
+      "page_id": "history_book_01_p0071",
+      "order": 5,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "经济的发展\n",
+      "clean_text": "经济的发展\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0071_b006",
+      "page_id": "history_book_01_p0071",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "宋朝农业发展成就突出。一年两熟的稻麦复种制在南\n方已经相当普及，有些地方还可以一年三熟，提高了粮食\n产量。一些地区出现了固定种植某种经济作物的农户，对\n传统自然经济结构有一定突破。棉花在内地的种植始于宋\n朝，在元朝得到大力推广，南方植棉逐渐普遍，带动了棉\n纺织业的发展。\n",
+      "clean_text": "宋朝农业发展成就突出。一年两熟的稻麦复种制在南\n方已经相当普及，有些地方还可以一年三熟，提高了粮食\n产量。一些地区出现了固定种植某种经济作物的农户，对\n传统自然经济结构有一定突破。棉花在内地的种植始于宋\n朝，在元朝得到大力推广，南方植棉逐渐普遍，带动了棉\n纺织业的发展。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0071_b007",
+      "page_id": "history_book_01_p0071",
+      "order": 7,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "宋元时期的经济较之前\n代有明显的发展，经济重心\n南移完成。\n",
+      "clean_text": "宋元时期的经济较之前\n代有明显的发展，经济重心\n南移完成。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0071_b008",
+      "page_id": "history_book_01_p0071",
+      "order": 8,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦\n",
+      "clean_text": "学习聚焦\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0071_b009",
+      "page_id": "history_book_01_p0071",
+      "order": 9,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 宋朝五大名窑的瓷器\n第三单元\n辽宋夏金多民族政权的并立\n与元朝的统一\n汝窑\n洗\n定窑\n划花萱草葵瓣口碗\n哥窑\n葵口盘\n钧窑\n玫瑰紫大花盆\n官窑\n贯耳瓶\n",
+      "clean_text": "▲ 宋朝五大名窑的瓷器\n第三单元\n辽宋夏金多民族政权的并立\n与元朝的统一\n汝窑\n洗\n定窑\n划花萱草葵瓣口碗\n哥窑\n葵口盘\n钧窑\n玫瑰紫大花盆\n官窑\n贯耳瓶\n",
+      "asset_ids": [
+        "history_book_01_p0071_a002"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0071_b010",
+      "page_id": "history_book_01_p0071",
+      "order": 10,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "宋朝制瓷技术有重要改进，出现了以定\n窑、汝窑、哥窑、官窑、钧窑等五大名窑为\n代表、风格各异的瓷器，色彩多变，质\n感浑厚。元朝烧出了新型彩绘瓷器\n青花瓷和釉里红。宋元时期，瓷\n器大量出口海外，成为继丝绸之\n后中华文明新的物质象征。矿冶\n业在北宋手工业中占有重要地位。\n煤的开采量很大，都城东京的居民\n普遍使用煤作燃料。燃料的改进大\n大提高了金属冶炼的产量和质量。印\n▲\n ",
+      "clean_text": "宋朝制瓷技术有重要改进，出现了以定\n窑、汝窑、哥窑、官窑、钧窑等五大名窑为\n代表、风格各异的瓷器，色彩多变，质\n感浑厚。元朝烧出了新型彩绘瓷器\n青花瓷和釉里红。宋元时期，瓷\n器大量出口海外，成为继丝绸之\n后中华文明新的物质象征。矿冶\n业在北宋手工业中占有重要地位。\n煤的开采量很大，都城东京的居民\n普遍使用煤作燃料。燃料的改进大\n大提高了金属冶炼的产量和质量。印\n▲\n ",
+      "asset_ids": [
+        "history_book_01_p0071_a003"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0071_b011",
+      "page_id": "history_book_01_p0071",
+      "order": 11,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "元朝青花瓷\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "元朝青花瓷\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_b001",
+      "page_id": "history_book_01_p0072",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "第11课﻿﻿﻿﻿辽宋夏金元的经济、社会与文化 65\n",
+      "clean_text": "第11课﻿﻿﻿﻿辽宋夏金元的经济、社会与文化 65\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_b002",
+      "page_id": "history_book_01_p0072",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "北宋的人口\n",
+      "clean_text": "北宋的人口\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_b003",
+      "page_id": "history_book_01_p0072",
+      "order": 3,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "户口增长是农业发展的\n一个重要指标。北宋初期的\n9 8 9年 ，全国户数只有6 5 0\n万。到北宋末的1110年，已\n增长到2088万。但史料记\n载这一年的“口数”仅为\n4673万，每户平均口数仅\n为2 . 2 4 。绝大部分学者认\n为，宋朝统计的口数只包括\n男丁，即成年男子。如以汉\n唐史料所载户口比例，即每\n户5口左右推算，北宋末年\n的实际人口数应当超过1亿。\n这在中国古代人口史上是一\n个划时代的标志。\n",
+      "clean_text": "户口增长是农业发展的\n一个重要指标。北宋初期的\n9 8 9年 ，全国户数只有6 5 0\n万。到北宋末的1110年，已\n增长到2088万。但史料记\n载这一年的“口数”仅为\n4673万，每户平均口数仅\n为2 . 2 4 。绝大部分学者认\n为，宋朝统计的口数只包括\n男丁，即成年男子。如以汉\n唐史料所载户口比例，即每\n户5口左右推算，北宋末年\n的实际人口数应当超过1亿。\n这在中国古代人口史上是一\n个划时代的标志。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_b004",
+      "page_id": "history_book_01_p0072",
+      "order": 4,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "历史纵横\n",
+      "clean_text": "历史纵横\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_b005",
+      "page_id": "history_book_01_p0072",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "刷业在宋元时期发展迅速，进一步带动了造纸业的发展。\n在辽夏金元统治之下，边疆地区获得进一步开发，漠\n北、东北、西北、西南的农业和手工业都有显著进步。\n",
+      "clean_text": "刷业在宋元时期发展迅速，进一步带动了造纸业的发展。\n在辽夏金元统治之下，边疆地区获得进一步开发，漠\n北、东北、西北、西南的农业和手工业都有显著进步。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_b006",
+      "page_id": "history_book_01_p0072",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "商品经济在宋朝发展到一个高峰，面向大众的基层\n市场蓬勃涌现。宋与辽夏金各政权之间的经济往来十分密\n切，官方设置榷场进行互市交易，民间贸易也相当活跃。\n商品流通规模的扩大，使得货币需求量剧增。北宋钱币年\n铸造量最多时高出唐朝十多倍，开始出现纸币——交子。\n元朝在全国范围内将纸币作为主币发行，加上大一统带来\n的稳定局面和交通系统的发展，推动了商业的发展。城市\n的兴盛引人注目，北宋东京、南宋临安、元朝的大都和\n杭州尤以繁华著称。\n",
+      "clean_text": "商品经济在宋朝发展到一个高峰，面向大众的基层\n市场蓬勃涌现。宋与辽夏金各政权之间的经济往来十分密\n切，官方设置榷场进行互市交易，民间贸易也相当活跃。\n商品流通规模的扩大，使得货币需求量剧增。北宋钱币年\n铸造量最多时高出唐朝十多倍，开始出现纸币——交子。\n元朝在全国范围内将纸币作为主币发行，加上大一统带来\n的稳定局面和交通系统的发展，推动了商业的发展。城市\n的兴盛引人注目，北宋东京、南宋临安、元朝的大都和\n杭州尤以繁华著称。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_b007",
+      "page_id": "history_book_01_p0072",
+      "order": 7,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "宋元时期，海外贸易非常繁荣。外贸税收成为宋元两\n朝国库的重要财源。大型远洋海船装载丝织品、瓷器等，\n远销亚非许多国家和地区，输入中国的商品以香料、珠宝\n等为主。主要外贸港口有广州、泉州、明州等。\n",
+      "clean_text": "宋元时期，海外贸易非常繁荣。外贸税收成为宋元两\n朝国库的重要财源。大型远洋海船装载丝织品、瓷器等，\n远销亚非许多国家和地区，输入中国的商品以香料、珠宝\n等为主。主要外贸港口有广州、泉州、明州等。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_b008",
+      "page_id": "history_book_01_p0072",
+      "order": 8,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "自唐朝中期以来，南方的经济实力增长迅速。北宋在\n经济上对南方依赖明显，户口分布南多北少的格局也已定\n型。长江下游和太湖流域一带，成为全国最重要的粮仓，\n谚语称“苏湖熟，天\n下足” 。元朝的南北\n经济差距继续扩大，\n全国大部分人口和税\n收集中在江南。为将\n南方财赋顺利北运，\n元朝对隋唐时期的大\n运河进行取直，大大\n缩短了航程。元朝还\n",
+      "clean_text": "自唐朝中期以来，南方的经济实力增长迅速。北宋在\n经济上对南方依赖明显，户口分布南多北少的格局也已定\n型。长江下游和太湖流域一带，成为全国最重要的粮仓，\n谚语称“苏湖熟，天\n下足” 。元朝的南北\n经济差距继续扩大，\n全国大部分人口和税\n收集中在江南。为将\n南方财赋顺利北运，\n元朝对隋唐时期的大\n运河进行取直，大大\n缩短了航程。元朝还\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_b009",
+      "page_id": "history_book_01_p0072",
+      "order": 9,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 元朝纸币\n大都…………………………… 今北京\n直沽\n…………………………… 今天津\n集庆\n……………………… 今江苏南京\n",
+      "clean_text": "▲ 元朝纸币\n大都…………………………… 今北京\n直沽\n…………………………… 今天津\n集庆\n……………………… 今江苏南京\n",
+      "asset_ids": [
+        "history_book_01_p0072_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_b010",
+      "page_id": "history_book_01_p0072",
+      "order": 10,
+      "type": "table",
+      "bbox": null,
+      "raw_text": "刘家港………… 在今江苏太仓浏河镇\n▲ ",
+      "clean_text": "刘家港………… 在今江苏太仓浏河镇\n▲ ",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_b011",
+      "page_id": "history_book_01_p0072",
+      "order": 11,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "元朝运河、海运路线图元朝运河、海运路线图\n刘家港\n杭州\n集庆\n水\n淮\n海\n东\n青\n水\n洋\n黑\n水\n洋\n大\n江\n济南\n东平\n临清\n通州\n直沽\n大都\n通惠河\n海\n渤\n黄\n河\n会\n通\n河\n运河\n主要海运路线\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "元朝运河、海运路线图元朝运河、海运路线图\n刘家港\n杭州\n集庆\n水\n淮\n海\n东\n青\n水\n洋\n黑\n水\n洋\n大\n江\n济南\n东平\n临清\n通州\n直沽\n大都\n通惠河\n海\n渤\n黄\n河\n会\n通\n河\n运河\n主要海运路线\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [
+        "history_book_01_p0072_a002"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0073_b001",
+      "page_id": "history_book_01_p0073",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "66 中外历史纲要﻿上﻿﻿第三单元﻿辽宋夏金多民族政权的并立与元朝的统一\n",
+      "clean_text": "66 中外历史纲要﻿上﻿﻿第三单元﻿辽宋夏金多民族政权的并立与元朝的统一\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0073_b002",
+      "page_id": "history_book_01_p0073",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "创造性地开辟了长途海运航线，主要任务也是运输江南的\n粮食。\n",
+      "clean_text": "创造性地开辟了长途海运航线，主要任务也是运输江南的\n粮食。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0073_b003",
+      "page_id": "history_book_01_p0073",
+      "order": 3,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "社会的变化\n",
+      "clean_text": "社会的变化\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0073_b004",
+      "page_id": "history_book_01_p0073",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "隋唐时期，士族阶层在政治上已经衰落，但重视家族\n背景的门第观念仍然十分流行。到宋朝，这种情况发生了\n根本改变。当时科举制度比唐朝更为完善，不仅原则上面\n向全社会开放，而且更加强调公平竞争。大批出身平民家\n庭的士人进入政坛，不少人官居高位，给政治增添了活力。\n人们的婚姻择偶，也以当下政治、经济地位为重，不再关\n心祖先名望。时人将这些变化概括为“取士不问家世，婚\n姻不问阀阅” 。\n",
+      "clean_text": "隋唐时期，士族阶层在政治上已经衰落，但重视家族\n背景的门第观念仍然十分流行。到宋朝，这种情况发生了\n根本改变。当时科举制度比唐朝更为完善，不仅原则上面\n向全社会开放，而且更加强调公平竞争。大批出身平民家\n庭的士人进入政坛，不少人官居高位，给政治增添了活力。\n人们的婚姻择偶，也以当下政治、经济地位为重，不再关\n心祖先名望。时人将这些变化概括为“取士不问家世，婚\n姻不问阀阅” 。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0073_b005",
+      "page_id": "history_book_01_p0073",
+      "order": 5,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "宋以前，社会上长期存在人身不完全自由并且受到歧\n视的贱民阶层。到宋朝，他们的数量显著减少。前代的家\n内服役大都由世袭奴婢承担，宋朝更多地来自雇佣。宋朝\n无地农民通常与地主签订契约，租种土地，也较少受到契\n约关系以外的人身束缚。\n",
+      "clean_text": "宋以前，社会上长期存在人身不完全自由并且受到歧\n视的贱民阶层。到宋朝，他们的数量显著减少。前代的家\n内服役大都由世袭奴婢承担，宋朝更多地来自雇佣。宋朝\n无地农民通常与地主签订契约，租种土地，也较少受到契\n约关系以外的人身束缚。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0073_b006",
+      "page_id": "history_book_01_p0073",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "为适应社会经济的变化，宋朝政府适当放松了对社会\n的控制。土地买卖、典当基本不受官府干预，仅办理法律\n手续，缴纳交易税即可。 “贫富无定势，田宅无定主”成为\n普遍现象。对于百姓迁移住所、更换职业，以及日常生活\n标准，官府的限制也比前代更为松弛。\n",
+      "clean_text": "为适应社会经济的变化，宋朝政府适当放松了对社会\n的控制。土地买卖、典当基本不受官府干预，仅办理法律\n手续，缴纳交易税即可。 “贫富无定势，田宅无定主”成为\n普遍现象。对于百姓迁移住所、更换职业，以及日常生活\n标准，官府的限制也比前代更为松弛。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0073_b007",
+      "page_id": "history_book_01_p0073",
+      "order": 7,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "儒学的复兴\n",
+      "clean_text": "儒学的复兴\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0073_b008",
+      "page_id": "history_book_01_p0073",
+      "order": 8,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "从三国到五代，以阐释经书字句为主的儒家学说日益\n僵化，社会影响总体来说不及佛教和道教。从北宋中期起，\n一批学者掀起了儒学复兴运动。他们力图挖掘儒家经书的\n思想内涵，强调学术为现实服务，特别是希望充分发挥儒\n学在强化社会伦理道德秩序、树立基本价值观方面的作用，\n提出了“为天地立心，为生民立命，为往圣继绝学，为万\n世开太平”的口号。其中，被称为理学的学派影响逐渐增\n大，其代表人物是北宋的程颢、程颐兄弟和南宋的朱熹，\n因此这一学派也被称为“程朱理学” 。\n宋朝社会与前代相比出\n现了一些重要的新变化，包\n括门第观念淡化、社会成员\n身份趋于平等、国家对社会\n的控制相对松弛等。\n",
+      "clean_text": "从三国到五代，以阐释经书字句为主的儒家学说日益\n僵化，社会影响总体来说不及佛教和道教。从北宋中期起，\n一批学者掀起了儒学复兴运动。他们力图挖掘儒家经书的\n思想内涵，强调学术为现实服务，特别是希望充分发挥儒\n学在强化社会伦理道德秩序、树立基本价值观方面的作用，\n提出了“为天地立心，为生民立命，为往圣继绝学，为万\n世开太平”的口号。其中，被称为理学的学派影响逐渐增\n大，其代表人物是北宋的程颢、程颐兄弟和南宋的朱熹，\n因此这一学派也被称为“程朱理学” 。\n宋朝社会与前代相比出\n现了一些重要的新变化，包\n括门第观念淡化、社会成员\n身份趋于平等、国家对社会\n的控制相对松弛等。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0073_b009",
+      "page_id": "history_book_01_p0073",
+      "order": 9,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦\n",
+      "clean_text": "学习聚焦\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0073_b010",
+      "page_id": "history_book_01_p0073",
+      "order": 10,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "宋朝儒学复兴，其中程\n朱理学一派对后世影响最大。\n学习聚焦\n",
+      "clean_text": "宋朝儒学复兴，其中程\n朱理学一派对后世影响最大。\n学习聚焦\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0073_b011",
+      "page_id": "history_book_01_p0073",
+      "order": 11,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 石刻朱熹（1130—1200）自画像\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "▲ 石刻朱熹（1130—1200）自画像\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [
+        "history_book_01_p0073_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_b001",
+      "page_id": "history_book_01_p0074",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "第11课﻿﻿﻿﻿辽宋夏金元的经济、社会与文化 67\n",
+      "clean_text": "第11课﻿﻿﻿﻿辽宋夏金元的经济、社会与文化 67\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_b002",
+      "page_id": "history_book_01_p0074",
+      "order": 2,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "理学认为“理”是自然界和社会的根本原则，也称“天\n理” ，主张“存天理，灭人欲” ，即通过道德修养克服过度\n的欲望。理学还提出“格物致知” ，认为只有深刻探究万物，\n才能真正得到其中的“理” ，逐渐达到对普遍天理的认识。\n",
+      "clean_text": "理学认为“理”是自然界和社会的根本原则，也称“天\n理” ，主张“存天理，灭人欲” ，即通过道德修养克服过度\n的欲望。理学还提出“格物致知” ，认为只有深刻探究万物，\n才能真正得到其中的“理” ，逐渐达到对普遍天理的认识。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_b003",
+      "page_id": "history_book_01_p0074",
+      "order": 3,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "从南宋后期起，程朱理学受到官方尊崇，在历史上产\n生了深远影响。\n",
+      "clean_text": "从南宋后期起，程朱理学受到官方尊崇，在历史上产\n生了深远影响。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_b004",
+      "page_id": "history_book_01_p0074",
+      "order": 4,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "1313年，元朝宣布将儒家经书作为科举考试的基本内\n容，答题标准以程朱理学的解释为主。当时宰相向皇帝上\n奏说：\n",
+      "clean_text": "1313年，元朝宣布将儒家经书作为科举考试的基本内\n容，答题标准以程朱理学的解释为主。当时宰相向皇帝上\n奏说：\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_b005",
+      "page_id": "history_book_01_p0074",
+      "order": 5,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "学秀才的经学、词赋是两等，经学的是说修身、齐家、治\n国、平天下的勾当，词赋的是吟诗、课赋、作文字的勾当。自\n隋唐以来，取人专尚词赋，人都习学的浮华了……俺如今……\n专立德行明经科。明经内“四书” “五经” ，以程子、朱晦庵注\n解为主，是格物、致知、修己、治人之学。这般取人呵，国家\n后头得人材去也。\n——《通制条格》卷5 《学令·科举》\n",
+      "clean_text": "学秀才的经学、词赋是两等，经学的是说修身、齐家、治\n国、平天下的勾当，词赋的是吟诗、课赋、作文字的勾当。自\n隋唐以来，取人专尚词赋，人都习学的浮华了……俺如今……\n专立德行明经科。明经内“四书” “五经” ，以程子、朱晦庵注\n解为主，是格物、致知、修己、治人之学。这般取人呵，国家\n后头得人材去也。\n——《通制条格》卷5 《学令·科举》\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_b006",
+      "page_id": "history_book_01_p0074",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "元朝是怎样确定科举考试内容和答题标准的？理由何在？\n",
+      "clean_text": "元朝是怎样确定科举考试内容和答题标准的？理由何在？\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_b007",
+      "page_id": "history_book_01_p0074",
+      "order": 7,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学思之窗\n",
+      "clean_text": "学思之窗\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_b008",
+      "page_id": "history_book_01_p0074",
+      "order": 8,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 朱熹《四书章句集注》书影\n",
+      "clean_text": "▲ 朱熹《四书章句集注》书影\n",
+      "asset_ids": [
+        "history_book_01_p0074_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_b009",
+      "page_id": "history_book_01_p0074",
+      "order": 9,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "文学艺术和科技\n",
+      "clean_text": "文学艺术和科技\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_b010",
+      "page_id": "history_book_01_p0074",
+      "order": 10,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "唐朝后期出现的一种新诗体——词，到宋朝进入鼎盛\n时期。词的句子长短不等，用来配乐歌唱，根据乐谱分为\n不同的词牌，各有固定格式。两宋城市生活丰富多彩，娱\n乐场所需要大量的歌词。士大夫的著名词作在社会上广泛\n流传，以豪放派的苏轼、辛弃疾和婉约派的柳永、李清照\n的词作成就最为突出。\n",
+      "clean_text": "唐朝后期出现的一种新诗体——词，到宋朝进入鼎盛\n时期。词的句子长短不等，用来配乐歌唱，根据乐谱分为\n不同的词牌，各有固定格式。两宋城市生活丰富多彩，娱\n乐场所需要大量的歌词。士大夫的著名词作在社会上广泛\n流传，以豪放派的苏轼、辛弃疾和婉约派的柳永、李清照\n的词作成就最为突出。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_b011",
+      "page_id": "history_book_01_p0074",
+      "order": 11,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "元朝文学的主要成就是曲，包括散曲和杂剧。散曲是\n一种比词更灵活、更通俗的长短句配乐诗歌体裁，更加适\n合市井演唱的需要。演员将成套的散曲连缀在一起歌唱，\n辅以音乐、舞蹈、表演、道白，安排不同的角色，来表达\n一个完整的故事情节，形成了杂剧。元杂剧标志着中国古\n代戏曲艺术的成熟，代表作家有关汉卿、王实甫等。\n  朱熹对儒学教育进行深入探\n索，从早期儒家典籍《礼记》中抽\n出《大学》 《中庸》两篇文章，加\n上分别记录孔子、孟子言论的《论\n语》 《孟子》二书 ，合编为 “四\n书” ，并且加以注释，作为儒学基\n础读物。\n",
+      "clean_text": "元朝文学的主要成就是曲，包括散曲和杂剧。散曲是\n一种比词更灵活、更通俗的长短句配乐诗歌体裁，更加适\n合市井演唱的需要。演员将成套的散曲连缀在一起歌唱，\n辅以音乐、舞蹈、表演、道白，安排不同的角色，来表达\n一个完整的故事情节，形成了杂剧。元杂剧标志着中国古\n代戏曲艺术的成熟，代表作家有关汉卿、王实甫等。\n  朱熹对儒学教育进行深入探\n索，从早期儒家典籍《礼记》中抽\n出《大学》 《中庸》两篇文章，加\n上分别记录孔子、孟子言论的《论\n语》 《孟子》二书 ，合编为 “四\n书” ，并且加以注释，作为儒学基\n础读物。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_b012",
+      "page_id": "history_book_01_p0074",
+      "order": 12,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "城市经济繁荣，推动宋\n元文学新体裁的发展。宋元\n科技成就突出。\n",
+      "clean_text": "城市经济繁荣，推动宋\n元文学新体裁的发展。宋元\n科技成就突出。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_b013",
+      "page_id": "history_book_01_p0074",
+      "order": 13,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "学习聚焦\n",
+      "clean_text": "学习聚焦\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_b014",
+      "page_id": "history_book_01_p0074",
+      "order": 14,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "▲ 元朝杂剧演出壁画\n",
+      "clean_text": "▲ 元朝杂剧演出壁画\n",
+      "asset_ids": [
+        "history_book_01_p0074_a002"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_b015",
+      "page_id": "history_book_01_p0074",
+      "order": 15,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "你如何看待 “存天理 ，\n灭人欲” ？\n思考点\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "你如何看待 “存天理 ，\n灭人欲” ？\n思考点\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0075_b001",
+      "page_id": "history_book_01_p0075",
+      "order": 1,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "68 中外历史纲要﻿上﻿﻿第三单元﻿辽宋夏金多民族政权的并立与元朝的统一\n",
+      "clean_text": "68 中外历史纲要﻿上﻿﻿第三单元﻿辽宋夏金多民族政权的并立与元朝的统一\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0075_b002",
+      "page_id": "history_book_01_p0075",
+      "order": 2,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "史料阅读\n",
+      "clean_text": "史料阅读\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0075_b003",
+      "page_id": "history_book_01_p0075",
+      "order": 3,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "元杂剧不仅具有文学价值，作为舞台艺术也取得很高成就。元朝前期人胡祗遹（zhUyM）在文章\n中热情赞颂了一位杂剧女演员的表演功力：\n学业专攻，积久而能，老于一艺，尚莫能精。以一女子，众艺兼并。危冠而道，圆颅而僧，褒衣\n而儒，武弁而兵。短袂（mFi）则骏奔走，鱼笏（hM）则贵公卿。卜言祸福，医决死生。为母则慈贤，\n为妇则孝贞。媒妁（shuH）则雍容巧辨，闺门则旖旎娉婷……九流百伎，众美群英，外则曲尽其态，\n内则详悉其情。心得三昧，天然老成。见一时之教养，乐百年之升平！\n",
+      "clean_text": "元杂剧不仅具有文学价值，作为舞台艺术也取得很高成就。元朝前期人胡祗遹（zhUyM）在文章\n中热情赞颂了一位杂剧女演员的表演功力：\n学业专攻，积久而能，老于一艺，尚莫能精。以一女子，众艺兼并。危冠而道，圆颅而僧，褒衣\n而儒，武弁而兵。短袂（mFi）则骏奔走，鱼笏（hM）则贵公卿。卜言祸福，医决死生。为母则慈贤，\n为妇则孝贞。媒妁（shuH）则雍容巧辨，闺门则旖旎娉婷……九流百伎，众美群英，外则曲尽其态，\n内则详悉其情。心得三昧，天然老成。见一时之教养，乐百年之升平！\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0075_b004",
+      "page_id": "history_book_01_p0075",
+      "order": 4,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "—— 《紫山大全集》卷8 《朱氏诗卷序》\n ",
+      "clean_text": "—— 《紫山大全集》卷8 《朱氏诗卷序》\n ",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0075_b005",
+      "page_id": "history_book_01_p0075",
+      "order": 5,
+      "type": "caption",
+      "bbox": null,
+      "raw_text": "简仪\n  ",
+      "clean_text": "简仪\n  ",
+      "asset_ids": [
+        "history_book_01_p0075_a001"
+      ],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0075_b006",
+      "page_id": "history_book_01_p0075",
+      "order": 6,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "简仪是元朝科学家郭守敬革新\n浑仪，将其结构简化，精度提高，\n创造出的当时世界上先进的天文观\n测仪器。图中简仪为明朝铸造，现\n陈列于南京紫金山天文台。\n",
+      "clean_text": "简仪是元朝科学家郭守敬革新\n浑仪，将其结构简化，精度提高，\n创造出的当时世界上先进的天文观\n测仪器。图中简仪为明朝铸造，现\n陈列于南京紫金山天文台。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0075_b007",
+      "page_id": "history_book_01_p0075",
+      "order": 7,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "宋元时期，城市中说书演出非常盛行。说书底本称\n为话本，实际上就是早期的白话小说。\n",
+      "clean_text": "宋元时期，城市中说书演出非常盛行。说书底本称\n为话本，实际上就是早期的白话小说。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0075_b008",
+      "page_id": "history_book_01_p0075",
+      "order": 8,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "宋元两朝，书法名家辈出，与唐朝相比更加追求个\n性，不拘法度。绘画成就以山水画最为突出，不强调写\n实，注重意境和笔墨情趣。花鸟画、人物画水平也很高。\n",
+      "clean_text": "宋元两朝，书法名家辈出，与唐朝相比更加追求个\n性，不拘法度。绘画成就以山水画最为突出，不强调写\n实，注重意境和笔墨情趣。花鸟画、人物画水平也很高。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0075_b009",
+      "page_id": "history_book_01_p0075",
+      "order": 9,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "印刷术、火药和指南针三大发明在宋朝基本成熟。雕\n版印刷已经相当普及，北宋工匠毕昇发明了活字印刷术。\n火药被大量制造并用于军事。用人工磁化的方法造出的指\n南针，广泛应用于航海。三大发明为人类文明的进步作出\n了重要贡献。\n",
+      "clean_text": "印刷术、火药和指南针三大发明在宋朝基本成熟。雕\n版印刷已经相当普及，北宋工匠毕昇发明了活字印刷术。\n火药被大量制造并用于军事。用人工磁化的方法造出的指\n南针，广泛应用于航海。三大发明为人类文明的进步作出\n了重要贡献。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0075_b010",
+      "page_id": "history_book_01_p0075",
+      "order": 10,
+      "type": "paragraph",
+      "bbox": null,
+      "raw_text": "北宋的沈括和元朝的郭守敬是两位大科学家，在科技\n领域取得了多方面成就。沈括所著《梦溪笔谈》记载和总\n结了当时的许多科技成果。郭守敬最突出的成就是设计和\n监制多种天文观测仪器，主持全国范围的天文测量，编定\n新的历法《授时历》 ，其中测定的数据在当时世界上处于\n领先地位。元朝农学家王祯编撰的《农书》 ，集北方和南\n方的农业技术于一体，其中关于农业工具的记载尤为丰富。\n",
+      "clean_text": "北宋的沈括和元朝的郭守敬是两位大科学家，在科技\n领域取得了多方面成就。沈括所著《梦溪笔谈》记载和总\n结了当时的许多科技成果。郭守敬最突出的成就是设计和\n监制多种天文观测仪器，主持全国范围的天文测量，编定\n新的历法《授时历》 ，其中测定的数据在当时世界上处于\n领先地位。元朝农学家王祯编撰的《农书》 ，集北方和南\n方的农业技术于一体，其中关于农业工具的记载尤为丰富。\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0075_b011",
+      "page_id": "history_book_01_p0075",
+      "order": 11,
+      "type": "heading",
+      "bbox": null,
+      "raw_text": "少数民族文字\n",
+      "clean_text": "少数民族文字\n",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0075_b012",
+      "page_id": "history_book_01_p0075",
+      "order": 12,
+      "type": "note",
+      "bbox": null,
+      "raw_text": "辽、夏、金都模仿汉字字形创造了本民族文字。辽先后创制契丹大字、小字，用以刻石立碑，\n还进行文学创作。金创制了女真文字，在科举中开设女真进士科，用女真文字答题。西夏文通过出\n土文献被大量保存下来，包括佛经、法律、字典，以及从汉文翻译过来的经史著作。成吉思汗统一\n草原各部，命人使用畏兀儿文字拼写蒙古语，形成畏兀体蒙古文，这套文字被用于修史。忽必烈即\n位后，委派藏传佛教高僧八思巴改制藏文字母，创造出一套拼音符号，用以拼写蒙古语，也用来广\n泛拼写汉语等多民族语言。这也是汉语拼音化的最早尝试。\n历史纵横\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "clean_text": "辽、夏、金都模仿汉字字形创造了本民族文字。辽先后创制契丹大字、小字，用以刻石立碑，\n还进行文学创作。金创制了女真文字，在科举中开设女真进士科，用女真文字答题。西夏文通过出\n土文献被大量保存下来，包括佛经、法律、字典，以及从汉文翻译过来的经史著作。成吉思汗统一\n草原各部，命人使用畏兀儿文字拼写蒙古语，形成畏兀体蒙古文，这套文字被用于修史。忽必烈即\n位后，委派藏传佛教高僧八思巴改制藏文字母，创造出一套拼音符号，用以拼写蒙古语，也用来广\n泛拼写汉语等多民族语言。这也是汉语拼音化的最早尝试。\n历史纵横\nNÅON*Nº[fN`Ou(ÿ\fg*~ÏcgCN\r_SæPZNÖu(",
+      "asset_ids": [],
+      "table_data": null,
+      "notes": [
+        "按版面语义切分；bbox未据可靠定位，保留null。"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "history_book_01_p0067_a001",
+      "page_id": "history_book_01_p0067",
+      "block_id": "history_book_01_p0067_b008",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "萨班灵骨塔遗址",
+      "visible_text": null,
+      "description": "页面照片显示一座砖石覆钵式佛塔遗址及周边树木、广场；身份和年代仅依据图注与正文。",
+      "claims": [
+        {
+          "text": "萨班灵骨塔遗址",
+          "evidence_block_ids": [
+            "history_book_01_p0067_b008"
+          ]
+        }
+      ],
+      "notes": [
+        "逐页渲染后目视检查；未导出独立裁剪图，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_a001",
+      "page_id": "history_book_01_p0068",
+      "block_id": "history_book_01_p0068_b006",
+      "type": "map",
+      "bbox": null,
+      "file_path": null,
+      "caption": "元朝形势图（1330年）",
+      "visible_text": "大都、上都、和宁、琉球、岭北行省、辽阳行省、宣政院辖地、行省界、今国界、政权部族界、都城、省级驻所",
+      "description": "历史地图显示元朝行省、边疆辖地、都城及图例；未进行空间校准。",
+      "claims": [
+        {
+          "text": "元朝形势图（1330年）",
+          "evidence_block_ids": [
+            "history_book_01_p0068_b006"
+          ]
+        }
+      ],
+      "notes": [
+        "逐页渲染后目视检查；未导出独立裁剪图，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0071_a001",
+      "page_id": "history_book_01_p0071",
+      "block_id": "history_book_01_p0071_b003",
+      "type": "illustration",
+      "bbox": null,
+      "file_path": null,
+      "caption": "《夫妻对坐宴饮图》",
+      "visible_text": null,
+      "description": "宋墓壁画人物对坐宴饮场景；正文说明其反映墓主人生前家居生活。",
+      "claims": [
+        {
+          "text": "《夫妻对坐宴饮图》",
+          "evidence_block_ids": [
+            "history_book_01_p0071_b003"
+          ]
+        }
+      ],
+      "notes": [
+        "逐页渲染后目视检查；未导出独立裁剪图，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0071_a002",
+      "page_id": "history_book_01_p0071",
+      "block_id": "history_book_01_p0071_b009",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "宋朝五大名窑的瓷器",
+      "visible_text": "汝窑洗、定窑划花萱草葵瓣口碗、哥窑葵口盘、钧窑玫瑰紫大花盆、官窑贯耳瓶",
+      "description": "页面图组展示五大名窑器物及器名。",
+      "claims": [
+        {
+          "text": "宋朝五大名窑的瓷器",
+          "evidence_block_ids": [
+            "history_book_01_p0071_b009"
+          ]
+        }
+      ],
+      "notes": [
+        "逐页渲染后目视检查；未导出独立裁剪图，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0071_a003",
+      "page_id": "history_book_01_p0071",
+      "block_id": "history_book_01_p0071_b010",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "元朝青花瓷",
+      "visible_text": null,
+      "description": "页面照片显示青花瓷瓶；正文说明元朝烧制青花瓷和釉里红。",
+      "claims": [
+        {
+          "text": "元朝青花瓷",
+          "evidence_block_ids": [
+            "history_book_01_p0071_b010"
+          ]
+        }
+      ],
+      "notes": [
+        "逐页渲染后目视检查；未导出独立裁剪图，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_a001",
+      "page_id": "history_book_01_p0072",
+      "block_id": "history_book_01_p0072_b009",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "元朝纸币",
+      "visible_text": null,
+      "description": "页面照片显示一张元朝纸币；正文说明元朝在全国范围内发行纸币为主币。",
+      "claims": [
+        {
+          "text": "元朝纸币",
+          "evidence_block_ids": [
+            "history_book_01_p0072_b009"
+          ]
+        }
+      ],
+      "notes": [
+        "逐页渲染后目视检查；未导出独立裁剪图，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_a002",
+      "page_id": "history_book_01_p0072",
+      "block_id": "history_book_01_p0072_b011",
+      "type": "map",
+      "bbox": null,
+      "file_path": null,
+      "caption": "元朝运河、海运路线图",
+      "visible_text": "大都、通州、直沽、临清、东平、济南、刘家港、集庆、杭州、通惠河、会通河、运河、主要海运路线",
+      "description": "历史地图显示元朝运河及海运路线和相关地名；未进行空间校准。",
+      "claims": [
+        {
+          "text": "元朝运河、海运路线图",
+          "evidence_block_ids": [
+            "history_book_01_p0072_b011"
+          ]
+        }
+      ],
+      "notes": [
+        "逐页渲染后目视检查；未导出独立裁剪图，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0073_a001",
+      "page_id": "history_book_01_p0073",
+      "block_id": "history_book_01_p0073_b011",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "石刻朱熹（1130—1200）自画像",
+      "visible_text": null,
+      "description": "页面黑白肖像图，图注标为石刻朱熹自画像；身份和年代按图注记录。",
+      "claims": [
+        {
+          "text": "石刻朱熹（1130—1200）自画像",
+          "evidence_block_ids": [
+            "history_book_01_p0073_b011"
+          ]
+        }
+      ],
+      "notes": [
+        "逐页渲染后目视检查；未导出独立裁剪图，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_a001",
+      "page_id": "history_book_01_p0074",
+      "block_id": "history_book_01_p0074_b008",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "朱熹《四书章句集注》书影",
+      "visible_text": null,
+      "description": "页面照片显示古籍书页；旁注说明朱熹编合并注释四书。",
+      "claims": [
+        {
+          "text": "朱熹《四书章句集注》书影",
+          "evidence_block_ids": [
+            "history_book_01_p0074_b008"
+          ]
+        }
+      ],
+      "notes": [
+        "逐页渲染后目视检查；未导出独立裁剪图，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0074_a002",
+      "page_id": "history_book_01_p0074",
+      "block_id": "history_book_01_p0074_b014",
+      "type": "illustration",
+      "bbox": null,
+      "file_path": null,
+      "caption": "元朝杂剧演出壁画",
+      "visible_text": null,
+      "description": "页面彩色壁画显示杂剧演出场面；不从画面推定具体人物。",
+      "claims": [
+        {
+          "text": "元朝杂剧演出壁画",
+          "evidence_block_ids": [
+            "history_book_01_p0074_b014"
+          ]
+        }
+      ],
+      "notes": [
+        "逐页渲染后目视检查；未导出独立裁剪图，file_path保持null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0075_a001",
+      "page_id": "history_book_01_p0075",
+      "block_id": "history_book_01_p0075_b005",
+      "type": "photo",
+      "bbox": null,
+      "file_path": null,
+      "caption": "简仪",
+      "visible_text": null,
+      "description": "页面照片显示天文观测仪器；图注及旁文说明为明朝铸造、现陈列于南京紫金山天文台。",
+      "claims": [
+        {
+          "text": "简仪",
+          "evidence_block_ids": [
+            "history_book_01_p0075_b005"
+          ]
+        }
+      ],
+      "notes": [
+        "逐页渲染后目视检查；未导出独立裁剪图，file_path保持null。"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "history_book_01_p0067_pl001",
+      "name_as_written": "凉州",
+      "name_type": "historical",
+      "valid_time_text": "蒙古时期",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0067_b011"
+      ],
+      "notes": [
+        "教材未提供可核验经纬度，坐标保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0067_pl002",
+      "name_as_written": "漠北",
+      "name_type": "historical",
+      "valid_time_text": "蒙古时期",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0067_b008"
+      ],
+      "notes": [
+        "教材未提供可核验经纬度，坐标保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_pl001",
+      "name_as_written": "大都",
+      "name_type": "historical",
+      "valid_time_text": "元朝",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0068_b002"
+      ],
+      "notes": [
+        "教材未提供可核验经纬度，坐标保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_pl002",
+      "name_as_written": "上都",
+      "name_type": "historical",
+      "valid_time_text": "元朝",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0068_b006"
+      ],
+      "notes": [
+        "教材未提供可核验经纬度，坐标保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_pl003",
+      "name_as_written": "临安",
+      "name_type": "historical",
+      "valid_time_text": "南宋末",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0068_b004"
+      ],
+      "notes": [
+        "教材未提供可核验经纬度，坐标保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0068_pl004",
+      "name_as_written": "崖山海域",
+      "name_type": "historical",
+      "valid_time_text": "南宋末",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0068_b004"
+      ],
+      "notes": [
+        "教材未提供可核验经纬度，坐标保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069_pl001",
+      "name_as_written": "中原",
+      "name_type": "historical",
+      "valid_time_text": null,
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0069_b003"
+      ],
+      "notes": [
+        "教材未提供可核验经纬度，坐标保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069_pl002",
+      "name_as_written": "西域",
+      "name_type": "historical",
+      "valid_time_text": "元朝",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0069_b004"
+      ],
+      "notes": [
+        "教材未提供可核验经纬度，坐标保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0069_pl003",
+      "name_as_written": "吐蕃地区",
+      "name_type": "historical",
+      "valid_time_text": "元朝",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0069_b008"
+      ],
+      "notes": [
+        "教材未提供可核验经纬度，坐标保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_pl001",
+      "name_as_written": "东京",
+      "name_type": "historical",
+      "valid_time_text": "北宋",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0072_b006"
+      ],
+      "notes": [
+        "教材未提供可核验经纬度，坐标保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_pl002",
+      "name_as_written": "临安",
+      "name_type": "historical",
+      "valid_time_text": "南宋",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0072_b006"
+      ],
+      "notes": [
+        "教材未提供可核验经纬度，坐标保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_pl003",
+      "name_as_written": "泉州",
+      "name_type": "historical",
+      "valid_time_text": "宋元",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0072_b007"
+      ],
+      "notes": [
+        "教材未提供可核验经纬度，坐标保留null。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0073_pl001",
+      "name_as_written": "宋朝",
+      "name_type": "historical",
+      "valid_time_text": "宋代",
+      "coordinates": null,
+      "spatial_precision": "unknown",
+      "coordinate_evidence_block_ids": [],
+      "evidence_block_ids": [
+        "history_book_01_p0073_b003"
+      ],
+      "notes": [
+        "教材未提供可核验经纬度，坐标保留null。"
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": "history_book_01_p0067_pe001",
+      "name_as_written": "铁木真",
+      "aliases": [
+        "成吉思汗"
+      ],
+      "evidence_block_ids": [
+        "history_book_01_p0067_b005"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0067_pe002",
+      "name_as_written": "徐梦莘",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0067_b007"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0067_pe003",
+      "name_as_written": "萨迦班智达",
+      "aliases": [
+        "萨班"
+      ],
+      "evidence_block_ids": [
+        "history_book_01_p0067_b011"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0068_pe001",
+      "name_as_written": "忽必烈",
+      "aliases": [
+        "元世祖"
+      ],
+      "evidence_block_ids": [
+        "history_book_01_p0068_b002"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0068_pe002",
+      "name_as_written": "文天祥",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0068_b004"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0071_pe001",
+      "name_as_written": "沈括",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0071_b004"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0071_pe002",
+      "name_as_written": "宋朝统治者",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0071_b005"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0073_pe001",
+      "name_as_written": "程颢",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0073_b008"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0073_pe002",
+      "name_as_written": "程颐",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0073_b008"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0073_pe003",
+      "name_as_written": "朱熹",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0073_b008"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0074_pe001",
+      "name_as_written": "朱熹",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0074_b002"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0074_pe002",
+      "name_as_written": "程子",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0074_b004"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0074_pe003",
+      "name_as_written": "朱晦庵",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0074_b004"
+      ],
+      "notes": []
+    },
+    {
+      "id": "history_book_01_p0075_pe001",
+      "name_as_written": "胡祗遹",
+      "aliases": [],
+      "evidence_block_ids": [
+        "history_book_01_p0075_b003"
+      ],
+      "notes": []
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "history_book_01_p0067_k001",
+      "title": "金朝猛安谋克制度及女真管理系统",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0067_b002"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "金朝沿袭唐宋制度，同时保留女真民族的猛安谋克管理系统；女真民户按谋克、猛安编制并兼具生产和军事功能。",
+        "evidence_block_ids": [
+          "history_book_01_p0067_b002"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "女真民户每三百户编为一谋克，十谋克编为一猛安。",
+          "evidence_block_ids": [
+            "history_book_01_p0067_b002"
+          ]
+        },
+        {
+          "text": "女真人被迁入中原村落之间筑寨居住，平时耕作，战时出征。",
+          "evidence_block_ids": [
+            "history_book_01_p0067_b002"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0067_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0067_inv001"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0067_k002",
+      "title": "金世宗时期的大定之治与金朝衰落",
+      "kind": "process",
+      "content_type": "event",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0067_b003"
+        ]
+      },
+      "themes": [
+        "politics",
+        "economy"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "12世纪后期金世宗在位时金朝政治稳定、经济繁荣，史称“大定之治”；世宗死后受到北方游牧民族袭扰，猛安谋克日益腐化，统治逐渐衰落。",
+        "evidence_block_ids": [
+          "history_book_01_p0067_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0067_b003"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0067_inv002"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0067_k003",
+      "title": "蒙古统一草原与对外扩张",
+      "kind": "process",
+      "content_type": "war",
+      "time": {
+        "source_text": "1206年",
+        "mode": "point",
+        "start_year": 1206,
+        "end_year": null,
+        "earliest_year": 1206,
+        "latest_year": 1206,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0067_b005"
+        ]
+      },
+      "themes": [
+        "war",
+        "politics",
+        "foreign_relations"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0067_pl002",
+          "role": "origin",
+          "evidence_block_ids": [
+            "history_book_01_p0067_b005"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0067_pe001"
+      ],
+      "summary": {
+        "text": "1206年铁木真统一草原各部，建立蒙古汗国并被尊为成吉思汗；此后蒙古军队灭西辽、西夏和金，收服吐蕃诸部、兼并大理，并远征中亚、西亚和东欧。",
+        "evidence_block_ids": [
+          "history_book_01_p0067_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0067_b005"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0067_inv003"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0067_k004",
+      "title": "辽朝后期女真人的生活方式（史料）",
+      "kind": null,
+      "content_type": "other",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0067_b007"
+        ]
+      },
+      "themes": [
+        "society",
+        "economy"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0067_pe002"
+      ],
+      "summary": {
+        "text": "《三朝北盟会编》记载辽朝后期女真人以耕凿为业，耐寒忍饥，善骑射，依山谷居住，以木构筑居所。",
+        "evidence_block_ids": [
+          "history_book_01_p0067_b007"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0067_b007"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0067_inv004"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0067_k005",
+      "title": "蒙古建立元朝并完成全国大统一",
+      "kind": "process",
+      "content_type": "event",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0067_b008"
+        ]
+      },
+      "themes": [
+        "politics",
+        "war"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材学习聚焦概括蒙古崛起于漠北、建立元朝并完成全国大统一。",
+        "evidence_block_ids": [
+          "history_book_01_p0067_b008"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0067_b008"
+      ],
+      "asset_ids": [
+        "history_book_01_p0067_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0067_inv005"
+      ],
+      "uncertainties": [
+        "页内概括未给出完整统一过程的起止年，待结合相邻页核验。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0067_k006",
+      "title": "蒙古与吐蕃宗教首领在凉州会谈",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "1247年",
+        "mode": "point",
+        "start_year": 1247,
+        "end_year": null,
+        "earliest_year": 1247,
+        "latest_year": 1247,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0067_b011"
+        ]
+      },
+      "themes": [
+        "politics",
+        "foreign_relations"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0067_pl001",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0067_b011"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0067_pe003"
+      ],
+      "summary": {
+        "text": "1247年阔端与萨迦班智达在凉州会谈，就吐蕃地区归附达成协议；之后西藏开始接受中央政府管辖。",
+        "evidence_block_ids": [
+          "history_book_01_p0067_b011"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0067_b011"
+      ],
+      "asset_ids": [
+        "history_book_01_p0067_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0067_inv006"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0068_k001",
+      "title": "忽必烈即位与元朝建立",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "1260年",
+        "mode": "point",
+        "start_year": 1260,
+        "end_year": null,
+        "earliest_year": 1260,
+        "latest_year": 1260,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0068_b002"
+        ]
+      },
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0068_pl001",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0068_b002"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0068_pe001"
+      ],
+      "summary": {
+        "text": "1260年忽必烈即位，开始推行中原传统政治制度并兴建大都。",
+        "evidence_block_ids": [
+          "history_book_01_p0068_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0068_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0068_inv001"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0068_k002",
+      "title": "元朝定国号与四大汗国",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": "1271年；此前后",
+        "mode": "point",
+        "start_year": 1271,
+        "end_year": null,
+        "earliest_year": 1271,
+        "latest_year": 1271,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": "“此前后”涉及四大汗国形成，单独时间未定。",
+        "evidence_block_ids": [
+          "history_book_01_p0068_b003"
+        ]
+      },
+      "themes": [
+        "politics",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0068_pe001"
+      ],
+      "summary": {
+        "text": "1271年忽必烈定国号为大元；此前后蒙古在其他统治区形成四大汗国，名义上仍尊元朝为宗主国。",
+        "evidence_block_ids": [
+          "history_book_01_p0068_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0068_b003"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0068_inv002"
+      ],
+      "uncertainties": [
+        "原提取 content_type=politics 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0068_k003",
+      "title": "元军灭南宋完成统一",
+      "kind": "event",
+      "content_type": "war",
+      "time": {
+        "source_text": "1276年、1279年",
+        "mode": "duration",
+        "start_year": 1276,
+        "end_year": 1279,
+        "earliest_year": 1276,
+        "latest_year": 1279,
+        "precision": "year",
+        "end_status": "known",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0068_b004"
+        ]
+      },
+      "themes": [
+        "war",
+        "politics"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0068_pl003",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0068_b004"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0068_pl004",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0068_b004"
+          ]
+        }
+      ],
+      "person_ids": [
+        "history_book_01_p0068_pe002"
+      ],
+      "summary": {
+        "text": "1276年元军占领临安，1279年在崖山海域击败南宋余部，完成统一；文天祥被俘后拒绝劝降。",
+        "evidence_block_ids": [
+          "history_book_01_p0068_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0068_b004"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0068_inv003"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0068_k004",
+      "title": "元朝驿道、驿站与急递铺",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0068_b005"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "元朝修筑驿道、设立驿站，为公差人员提供交通和生活服务并运输官府物资；急递铺负责传递公文。",
+        "evidence_block_ids": [
+          "history_book_01_p0068_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0068_b005"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0068_inv004"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0068_k005",
+      "title": "元朝行省制度",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0068_b007"
+        ]
+      },
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "元朝以中书省委派官员处理地方事务，逐渐形成行中书省即行省；除中书省直辖地外全国共设10个行省。",
+        "evidence_block_ids": [
+          "history_book_01_p0068_b007"
+        ]
+      },
+      "flow": [],
+      "points": [
+        {
+          "text": "行省辖区广阔，军政大权集中。",
+          "evidence_block_ids": [
+            "history_book_01_p0068_b007"
+          ]
+        },
+        {
+          "text": "教材指出行省制度提高行政效率，巩固多民族国家统一，并促进边疆少数民族地区政治、经济和文化发展。",
+          "evidence_block_ids": [
+            "history_book_01_p0068_b007"
+          ]
+        }
+      ],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0068_b007"
+      ],
+      "asset_ids": [
+        "history_book_01_p0068_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0068_inv005"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0068_k006",
+      "title": "元朝边疆管理机构与台湾经略",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0068_b007"
+        ]
+      },
+      "themes": [
+        "politics",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "元朝由宣政院管理吐蕃地区，设置北庭都元帅府、宣慰司等管理军政事务，并在澎湖设置巡检司以经略台湾。",
+        "evidence_block_ids": [
+          "history_book_01_p0068_b007"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0068_b007"
+      ],
+      "asset_ids": [
+        "history_book_01_p0068_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0068_inv006"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0069_k001",
+      "title": "元朝时期民族交往交流交融与回回形成",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0069_b003"
+        ]
+      },
+      "themes": [
+        "society",
+        "foreign_relations"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0069_pl001",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0069_b003"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "蒙古人迁入中原并与汉族杂居；来自中亚、西亚的波斯人、阿拉伯人等与汉、蒙古、畏兀儿等民族长期相处通婚，逐渐融合形成我国回族的前身回回。",
+        "evidence_block_ids": [
+          "history_book_01_p0069_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0069_b003"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0069_inv001"
+      ],
+      "uncertainties": [
+        "原提取 content_type=society 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0069_k002",
+      "title": "元朝四等人制",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0069_b004"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "元朝统治者为保障统治利益，对不同民族采取差别对待措施，后人概括为蒙古人、色目人、汉人、南人四等。",
+        "evidence_block_ids": [
+          "history_book_01_p0069_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0069_b004"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0069_inv002"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0069_k003",
+      "title": "元末民族矛盾与农民起义",
+      "kind": "process",
+      "content_type": "war",
+      "time": {
+        "source_text": "14世纪中叶",
+        "mode": "uncertain",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "century",
+        "end_status": "unknown",
+        "normalization_note": "原文给出世纪中叶，不换算为整数年份。",
+        "evidence_block_ids": [
+          "history_book_01_p0069_b005"
+        ]
+      },
+      "themes": [
+        "war",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "14世纪中叶农民起义在中原和南方相继爆发，不久元朝灭亡；部分蒙古贵族退回草原，留居内地的蒙古人、色目人等逐渐与汉族融合。",
+        "evidence_block_ids": [
+          "history_book_01_p0069_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0069_b005"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0069_inv003"
+      ],
+      "uncertainties": [
+        "教材未给出具体起义名称和灭亡年份，待后续页核对。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0069_k004",
+      "title": "元朝地方行政制度与行省制的历史意义",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0069_b008"
+        ]
+      },
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "行省制度被教材概括为中国古代地方行政制度的重大变革和我国省制的开端。",
+        "evidence_block_ids": [
+          "history_book_01_p0069_b008"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0069_b008"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0069_inv004"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0069_k005",
+      "title": "元朝对边疆地区的长时间稳定统治",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0069_b009"
+        ]
+      },
+      "themes": [
+        "politics",
+        "foreign_relations"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0069_pl003",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0069_b008"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "元朝对边疆地区实施长时间和比较稳定的统治，边疆管理较多呈现与内地一体化的趋向。",
+        "evidence_block_ids": [
+          "history_book_01_p0069_b009"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0069_b009"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0069_inv005"
+      ],
+      "uncertainties": [
+        "《元史·地理志》引文及“前代大一统王朝没有做到”的比较判断需人工核验。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0069_k006",
+      "title": "元朝边疆统治与内地一体化（史料）",
+      "kind": null,
+      "content_type": "other",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0069_b010"
+        ]
+      },
+      "themes": [
+        "politics",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "《元史·地理志》将岭北、辽阳、甘肃、四川、云南、湖广等边地与内地赋役相提并论。",
+        "evidence_block_ids": [
+          "history_book_01_p0069_b010"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0069_b010"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0069_inv006"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0070_k001",
+      "title": "少数民族王朝学习、接受中原典章制度（许衡史料）",
+      "kind": null,
+      "content_type": "institution",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0070_b003"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "许衡主张北方统治中原必须实行汉法，并以魏、辽、金的历史经验和因地制宜、渐进积累的论证支持这一观点。",
+        "evidence_block_ids": [
+          "history_book_01_p0070_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0070_b003"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0070_inv001"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0070_k002",
+      "title": "元朝统治者学习中原制度的探究问题",
+      "kind": null,
+      "content_type": "other",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0070_b005"
+        ]
+      },
+      "themes": [
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材要求结合所学认识中国古代少数民族王朝统治者学习、接受中原传统典章制度和统治理念的问题。",
+        "evidence_block_ids": [
+          "history_book_01_p0070_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0070_b005"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0070_inv002"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0070_k003",
+      "title": "马可·波罗来华与中欧交往探究",
+      "kind": null,
+      "content_type": "other",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0070_b007"
+        ]
+      },
+      "themes": [
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材将元朝时意大利旅行家马可·波罗来华列为中外关系史事件，并要求查找相关记载及其他中欧交往史实。",
+        "evidence_block_ids": [
+          "history_book_01_p0070_b007"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0070_b007"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0070_inv003"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0071_k001",
+      "title": "宋元时期经济发展与经济重心南移完成",
+      "kind": "process",
+      "content_type": "economy",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0071_b006"
+        ]
+      },
+      "themes": [
+        "economy",
+        "agriculture"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0071_pe001"
+      ],
+      "summary": {
+        "text": "宋朝农业发展突出，宋元时期经济较前代明显发展，经济重心南移完成。",
+        "evidence_block_ids": [
+          "history_book_01_p0071_b006"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0071_b006"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0071_inv001"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0071_k002",
+      "title": "宋朝农业复种制、经济作物与棉花种植",
+      "kind": "process",
+      "content_type": "economy",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0071_b006"
+        ]
+      },
+      "themes": [
+        "agriculture",
+        "economy"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "南方一年两熟稻麦复种制普及，部分地区一年三熟；经济作物农户出现，棉花内地种植始于宋朝、元朝得到推广并带动棉纺织业。",
+        "evidence_block_ids": [
+          "history_book_01_p0071_b006"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0071_b006"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0071_inv002"
+      ],
+      "uncertainties": [
+        "原提取 content_type=agriculture 不属该字段枚举；已规范化为 economy，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0071_k003",
+      "title": "宋朝与元朝制瓷业发展",
+      "kind": "process",
+      "content_type": "culture",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0071_b010"
+        ]
+      },
+      "themes": [
+        "culture",
+        "economy"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "宋朝制瓷技术改进，出现五大名窑；元朝烧制青花瓷和釉里红，宋元瓷器大量出口海外。",
+        "evidence_block_ids": [
+          "history_book_01_p0071_b010"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0071_b010"
+      ],
+      "asset_ids": [
+        "history_book_01_p0071_a002",
+        "history_book_01_p0071_a003"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0071_inv003"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0071_k004",
+      "title": "宋代矿冶业与煤炭使用",
+      "kind": "process",
+      "content_type": "science",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0071_b010"
+        ]
+      },
+      "themes": [
+        "science",
+        "economy"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "矿冶业在北宋手工业中占重要地位，煤开采量大，东京居民普遍使用煤作燃料，燃料改进提高了金属冶炼产量和质量。",
+        "evidence_block_ids": [
+          "history_book_01_p0071_b010"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0071_b010"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0071_inv004"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0071_k005",
+      "title": "《夫妻对坐宴饮图》所见宋代生活消费",
+      "kind": "event",
+      "content_type": "other",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0071_b004"
+        ]
+      },
+      "themes": [
+        "society",
+        "economy"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材以宋墓壁画《夫妻对坐宴饮图》说明墓主人生前家居生活，并结合沈括对唐宋生活消费的比较提示宋人生活和消费水准提高。",
+        "evidence_block_ids": [
+          "history_book_01_p0071_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0071_b004"
+      ],
+      "asset_ids": [
+        "history_book_01_p0071_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0071_inv005"
+      ],
+      "uncertainties": [
+        "原提取 content_type=society 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0072_k001",
+      "title": "宋元时期印刷、造纸与边疆开发",
+      "kind": "process",
+      "content_type": "science",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0072_b005"
+        ]
+      },
+      "themes": [
+        "science",
+        "economy"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "印刷业在宋元时期发展迅速并带动造纸业；辽夏金元统治下边疆地区农业和手工业显著进步。",
+        "evidence_block_ids": [
+          "history_book_01_p0072_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0072_b005"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0072_inv001"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0072_k002",
+      "title": "宋朝商品经济、货币与城市发展",
+      "kind": "process",
+      "content_type": "economy",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0072_b006"
+        ]
+      },
+      "themes": [
+        "economy",
+        "society"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0072_pl001",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0072_b006"
+          ]
+        },
+        {
+          "place_id": "history_book_01_p0072_pl002",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0072_b006"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "宋朝商品经济发展到高峰，基层市场涌现；榷场互市和民间贸易活跃，货币需求增加，北宋铸币量大并出现交子，元朝发行纸币并因统一和交通推动商业发展。",
+        "evidence_block_ids": [
+          "history_book_01_p0072_b006"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0072_b006"
+      ],
+      "asset_ids": [
+        "history_book_01_p0072_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0072_inv002"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0072_k003",
+      "title": "宋元时期海外贸易与港口",
+      "kind": "process",
+      "content_type": "economy",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0072_b007"
+        ]
+      },
+      "themes": [
+        "economy",
+        "foreign_relations"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0072_pl003",
+          "role": "occurrence",
+          "evidence_block_ids": [
+            "history_book_01_p0072_b007"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "宋元海外贸易繁荣，外贸税收成为国库重要财源，丝织品和瓷器远销亚非，广州、泉州、明州为主要外贸港口。",
+        "evidence_block_ids": [
+          "history_book_01_p0072_b007"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0072_b007"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0072_inv003"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0072_k004",
+      "title": "宋元时期经济重心南移与南北运输",
+      "kind": "process",
+      "content_type": "economy",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0072_b008"
+        ]
+      },
+      "themes": [
+        "economy",
+        "agriculture"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "自唐朝中期以来南方经济实力增长，北宋户口南多北少；元朝南北经济差距继续扩大，并取直大运河、开辟长途海运运输江南粮食。",
+        "evidence_block_ids": [
+          "history_book_01_p0072_b008"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0072_b008"
+      ],
+      "asset_ids": [
+        "history_book_01_p0072_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0072_inv004"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0072_k005",
+      "title": "北宋人口统计与人口增长（历史纵横）",
+      "kind": null,
+      "content_type": "other",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0072_b003"
+        ]
+      },
+      "themes": [
+        "society",
+        "economy"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材列出北宋初期、北宋末年户数和口数，并指出按户口比例推算北宋末实际人口可能超过一亿。",
+        "evidence_block_ids": [
+          "history_book_01_p0072_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0072_b003"
+      ],
+      "asset_ids": [
+        "history_book_01_p0072_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0072_inv005"
+      ],
+      "uncertainties": [
+        "原提取 content_type=society 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0073_k001",
+      "title": "宋朝科举完善与门第观念淡化",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0073_b004"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [
+        {
+          "place_id": "history_book_01_p0073_pl001",
+          "role": "related",
+          "evidence_block_ids": [
+            "history_book_01_p0073_b003"
+          ]
+        }
+      ],
+      "person_ids": [],
+      "summary": {
+        "text": "宋朝科举比唐朝更完善，原则上向全社会开放并强调公平竞争；平民家庭士人进入政坛，择偶重当下政治经济地位，门第观念淡化。",
+        "evidence_block_ids": [
+          "history_book_01_p0073_b004"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0073_b004"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0073_inv001"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0073_k002",
+      "title": "宋朝贱民减少与人身关系变化",
+      "kind": "process",
+      "content_type": "other",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0073_b005"
+        ]
+      },
+      "themes": [
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "宋朝贱民阶层数量显著减少，家内服役更多来自雇佣，无地农民通常与地主签订契约租种土地，人身束缚相对减少。",
+        "evidence_block_ids": [
+          "history_book_01_p0073_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0073_b005"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0073_inv002"
+      ],
+      "uncertainties": [
+        "原提取 content_type=society 不属该字段枚举；已规范化为 other，原标签保留在 themes。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0073_k003",
+      "title": "宋朝政府对社会控制相对松弛",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0073_b006"
+        ]
+      },
+      "themes": [
+        "politics",
+        "society"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "为适应社会经济变化，宋朝政府放松对社会的部分控制，土地买卖典当、迁移住所、更换职业和日常生活限制较前代松弛。",
+        "evidence_block_ids": [
+          "history_book_01_p0073_b006"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0073_b006"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0073_inv003"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0073_k004",
+      "title": "北宋中期儒学复兴与程朱理学",
+      "kind": "process",
+      "content_type": "thought",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0073_b008"
+        ]
+      },
+      "themes": [
+        "culture",
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0073_pe001",
+        "history_book_01_p0073_pe002",
+        "history_book_01_p0073_pe003"
+      ],
+      "summary": {
+        "text": "北宋中期学者掀起儒学复兴运动，强调儒学服务现实和强化伦理道德秩序；程颢、程颐和朱熹代表的理学影响逐渐增大。",
+        "evidence_block_ids": [
+          "history_book_01_p0073_b008"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0073_b008"
+      ],
+      "asset_ids": [
+        "history_book_01_p0073_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0073_inv004"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0073_k005",
+      "title": "宋朝社会新变化与儒学复兴学习聚焦",
+      "kind": "process",
+      "content_type": "thought",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0073_b009"
+        ]
+      },
+      "themes": [
+        "society",
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0073_pe003"
+      ],
+      "summary": {
+        "text": "教材学习聚焦概括宋朝社会与前代相比的新变化，并指出程朱理学对后世影响最大。",
+        "evidence_block_ids": [
+          "history_book_01_p0073_b009"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0073_b009"
+      ],
+      "asset_ids": [
+        "history_book_01_p0073_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0073_inv005"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0074_k001",
+      "title": "程朱理学的主要主张",
+      "kind": "process",
+      "content_type": "thought",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0074_b002"
+        ]
+      },
+      "themes": [
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0074_pe001"
+      ],
+      "summary": {
+        "text": "理学以“理”或“天理”为自然界和社会根本原则，主张“存天理，灭人欲”，并提出“格物致知”。",
+        "evidence_block_ids": [
+          "history_book_01_p0074_b002"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0074_b002"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0074_inv001"
+      ],
+      "uncertainties": [
+        "原提取筛选主题 thought 不属 themes 枚举；改为 culture，思想类别仍以 content_type 保留。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0074_k002",
+      "title": "程朱理学受官方尊崇与元朝科举标准",
+      "kind": "process",
+      "content_type": "institution",
+      "time": {
+        "source_text": "1313年",
+        "mode": "point",
+        "start_year": 1313,
+        "end_year": null,
+        "earliest_year": 1313,
+        "latest_year": 1313,
+        "precision": "year",
+        "end_status": "not_applicable",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0074_b003"
+        ]
+      },
+      "themes": [
+        "culture",
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0074_pe001",
+        "history_book_01_p0074_pe002",
+        "history_book_01_p0074_pe003"
+      ],
+      "summary": {
+        "text": "从南宋后期起程朱理学受到官方尊崇；1313年元朝将儒家经书作为科举基本内容，答题标准以程朱理学解释为主。",
+        "evidence_block_ids": [
+          "history_book_01_p0074_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0074_b003"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0074_inv002"
+      ],
+      "uncertainties": [
+        "原提取筛选主题 thought 不属 themes 枚举；改为 culture，思想类别仍以 content_type 保留。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0074_k003",
+      "title": "元朝科举考试内容与答题标准（学思之窗）",
+      "kind": null,
+      "content_type": "institution",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0074_b005"
+        ]
+      },
+      "themes": [
+        "culture",
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0074_pe002",
+        "history_book_01_p0074_pe003"
+      ],
+      "summary": {
+        "text": "《通制条格》所引奏议说明元朝明经科以四书五经为内容，并以程子、朱晦庵注解为主要答题标准。",
+        "evidence_block_ids": [
+          "history_book_01_p0074_b005"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0074_b005"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0074_inv003"
+      ],
+      "uncertainties": [
+        "原提取筛选主题 thought 不属 themes 枚举；改为 culture，思想类别仍以 content_type 保留。"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0074_k004",
+      "title": "宋词的兴盛与代表作家",
+      "kind": "process",
+      "content_type": "culture",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0074_b010"
+        ]
+      },
+      "themes": [
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "词在宋朝进入鼎盛，适应城市娱乐需要；苏轼、辛弃疾的豪放词和柳永、李清照的婉约词成就突出。",
+        "evidence_block_ids": [
+          "history_book_01_p0074_b010"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0074_b010"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0074_inv004"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0074_k005",
+      "title": "元曲与杂剧成熟",
+      "kind": "process",
+      "content_type": "culture",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0074_b011"
+        ]
+      },
+      "themes": [
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "元曲包括散曲和杂剧，杂剧综合歌唱、音乐、舞蹈、表演和道白，形成完整故事情节，标志中国古代戏曲艺术成熟。",
+        "evidence_block_ids": [
+          "history_book_01_p0074_b011"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0074_b011"
+      ],
+      "asset_ids": [
+        "history_book_01_p0074_a002"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0074_inv005"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0075_k001",
+      "title": "元杂剧表演艺术史料",
+      "kind": "event",
+      "content_type": "culture",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0075_b003"
+        ]
+      },
+      "themes": [
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [
+        "history_book_01_p0075_pe001"
+      ],
+      "summary": {
+        "text": "胡祗遹赞颂元朝前期一位杂剧女演员兼擅多种角色和技艺的表演功力。",
+        "evidence_block_ids": [
+          "history_book_01_p0075_b003"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0075_b003"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0075_inv001"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0075_k002",
+      "title": "宋元说书、书法与绘画",
+      "kind": "process",
+      "content_type": "culture",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0075_b007"
+        ]
+      },
+      "themes": [
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "宋元城市说书盛行，话本是早期白话小说；书法更追求个性，绘画以山水画突出并重意境和笔墨情趣。",
+        "evidence_block_ids": [
+          "history_book_01_p0075_b007"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0075_b007"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0075_inv002"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0075_k003",
+      "title": "宋元三大发明的发展与应用",
+      "kind": "process",
+      "content_type": "science",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0075_b009"
+        ]
+      },
+      "themes": [
+        "science",
+        "foreign_relations"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "印刷术、火药和指南针在宋朝基本成熟：雕版印刷普及、毕昇发明活字印刷，火药用于军事，指南针广泛用于航海。",
+        "evidence_block_ids": [
+          "history_book_01_p0075_b009"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0075_b009"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0075_inv003"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0075_k004",
+      "title": "沈括、郭守敬与王祯的科技成就",
+      "kind": "process",
+      "content_type": "science",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0075_b010"
+        ]
+      },
+      "themes": [
+        "science",
+        "agriculture"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "沈括《梦溪笔谈》记载和总结科技成果；郭守敬设计监制天文仪器、主持天文测量并编定《授时历》；王祯《农书》汇集南北农业技术。",
+        "evidence_block_ids": [
+          "history_book_01_p0075_b010"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0075_b010"
+      ],
+      "asset_ids": [
+        "history_book_01_p0075_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0075_inv004"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0075_k005",
+      "title": "辽夏金元少数民族文字",
+      "kind": "process",
+      "content_type": "culture",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0075_b012"
+        ]
+      },
+      "themes": [
+        "culture",
+        "politics"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "辽、夏、金仿汉字字形创造本民族文字；契丹文、女真文、西夏文、畏兀儿文字拼写蒙古语及八思巴改制藏文字母等，反映多民族文字的发展。",
+        "evidence_block_ids": [
+          "history_book_01_p0075_b012"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0075_b012"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0075_inv005"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0075_k006",
+      "title": "简仪与元代天文观测",
+      "kind": "event",
+      "content_type": "science",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0075_b006"
+        ]
+      },
+      "themes": [
+        "science"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "简仪是郭守敬革新浑仪、简化结构并提高精度而创造的天文观测仪器；页面图示为明朝铸造、现陈列于南京紫金山天文台。",
+        "evidence_block_ids": [
+          "history_book_01_p0075_b006"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0075_b006"
+      ],
+      "asset_ids": [
+        "history_book_01_p0075_a001"
+      ],
+      "source_inventory_ids": [
+        "history_book_01_p0075_inv006"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0075_k007",
+      "title": "少数民族文字学习概括",
+      "kind": "process",
+      "content_type": "culture",
+      "time": {
+        "source_text": null,
+        "mode": "unknown",
+        "start_year": null,
+        "end_year": null,
+        "earliest_year": null,
+        "latest_year": null,
+        "precision": "unknown",
+        "end_status": "unknown",
+        "normalization_note": null,
+        "evidence_block_ids": [
+          "history_book_01_p0075_b011"
+        ]
+      },
+      "themes": [
+        "culture"
+      ],
+      "place_refs": [],
+      "person_ids": [],
+      "summary": {
+        "text": "教材历史纵横集中介绍辽、夏、金、蒙古等政权文字及其使用场景。",
+        "evidence_block_ids": [
+          "history_book_01_p0075_b011"
+        ]
+      },
+      "flow": [],
+      "points": [],
+      "background": null,
+      "impact": null,
+      "evidence_block_ids": [
+        "history_book_01_p0075_b011"
+      ],
+      "asset_ids": [],
+      "source_inventory_ids": [
+        "history_book_01_p0075_inv007"
+      ],
+      "uncertainties": [],
+      "review_status": "pending_review"
+    }
+  ],
+  "relations": [
+    {
+      "id": "history_book_01_p0068_r001",
+      "from_knowledge_id": "history_book_01_p0068_k001",
+      "to_knowledge_id": "history_book_01_p0068_k005",
+      "target_label": null,
+      "type": "influence",
+      "person_ids": [],
+      "place_ids": [
+        "history_book_01_p0068_pl001"
+      ],
+      "time_text": "元朝时期",
+      "description": "忽必烈即位后推行中原传统政治制度，元朝随后形成行省制度；两条叙述在教材中构成制度发展的前后关联。",
+      "evidence_block_ids": [
+        "history_book_01_p0068_b002",
+        "history_book_01_p0068_b007"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0073_r001",
+      "from_knowledge_id": "history_book_01_p0073_k004",
+      "to_knowledge_id": "history_book_01_p0074_k002",
+      "target_label": null,
+      "type": "spread",
+      "person_ids": [
+        "history_book_01_p0073_pe003",
+        "history_book_01_p0074_pe001"
+      ],
+      "place_ids": [],
+      "time_text": "北宋中期至元朝",
+      "description": "北宋中期儒学复兴与程朱理学影响增大，至南宋后期受官方尊崇，元朝科举答题标准以其解释为主。",
+      "evidence_block_ids": [
+        "history_book_01_p0073_b007",
+        "history_book_01_p0074_b003"
+      ],
+      "review_status": "pending_review"
+    },
+    {
+      "id": "history_book_01_p0074_r001",
+      "from_knowledge_id": "history_book_01_p0074_k002",
+      "to_knowledge_id": "history_book_01_p0074_k003",
+      "target_label": null,
+      "type": "reform",
+      "person_ids": [
+        "history_book_01_p0074_pe001",
+        "history_book_01_p0074_pe002",
+        "history_book_01_p0074_pe003"
+      ],
+      "place_ids": [],
+      "time_text": "1313年",
+      "description": "1313年元朝将儒家经书作为科举基本内容，答题标准以程朱理学解释为主。",
+      "evidence_block_ids": [
+        "history_book_01_p0074_b004",
+        "history_book_01_p0074_b005"
+      ],
+      "review_status": "pending_review"
+    }
+  ],
+  "map_candidates": [
+    {
+      "id": "history_book_01_p0068_map001",
+      "asset_id": "history_book_01_p0068_a001",
+      "reference_time_text": "1330年",
+      "reference_year": 1330,
+      "date_precision": "year",
+      "historical_names": [
+        "元朝",
+        "岭北行省",
+        "辽阳行省",
+        "宣政院辖地",
+        "大都",
+        "上都",
+        "和宁",
+        "琉球"
+      ],
+      "legend_text": "省级界、今国界、政权部族界、都城、省级驻所、未定",
+      "evidence_block_ids": [
+        "history_book_01_p0068_b006"
+      ],
+      "geometry": null,
+      "geometry_status": "not_digitized",
+      "notes": [
+        "地图时期和图例来自页面文字，未做空间校准。"
+      ]
+    },
+    {
+      "id": "history_book_01_p0072_map001",
+      "asset_id": "history_book_01_p0072_a002",
+      "reference_time_text": "元朝",
+      "reference_year": null,
+      "date_precision": "period",
+      "historical_names": [
+        "元朝运河",
+        "海运路线",
+        "大都",
+        "刘家港",
+        "杭州",
+        "集庆",
+        "直沽"
+      ],
+      "legend_text": "运河、主要海运路线",
+      "evidence_block_ids": [
+        "history_book_01_p0072_b011"
+      ],
+      "geometry": null,
+      "geometry_status": "not_digitized",
+      "notes": [
+        "时期为元朝概称，未推定单一年份。"
+      ]
+    }
+  ],
+  "inventory": [
+    {
+      "id": "history_book_01_p0067_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0067"
+      ],
+      "block_ids": [
+        "history_book_01_p0067_b002"
+      ],
+      "item_label": "金朝猛安谋克制度及女真管理系统",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0067_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0067_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0067"
+      ],
+      "block_ids": [
+        "history_book_01_p0067_b003"
+      ],
+      "item_label": "金世宗时期的大定之治与金朝衰落",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0067_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0067_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0067"
+      ],
+      "block_ids": [
+        "history_book_01_p0067_b005"
+      ],
+      "item_label": "蒙古统一草原与对外扩张",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0067_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0067_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0067"
+      ],
+      "block_ids": [
+        "history_book_01_p0067_b007"
+      ],
+      "item_label": "辽朝后期女真人的生活方式（史料）",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0067_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "史料阅读材料，需核对引文与史料语境。"
+    },
+    {
+      "id": "history_book_01_p0067_inv005",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0067"
+      ],
+      "block_ids": [
+        "history_book_01_p0067_b008"
+      ],
+      "item_label": "蒙古建立元朝并完成全国大统一",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0067_k005"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0067_inv006",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0067"
+      ],
+      "block_ids": [
+        "history_book_01_p0067_b011"
+      ],
+      "item_label": "蒙古与吐蕃宗教首领在凉州会谈",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0067_k006"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0068_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0068"
+      ],
+      "block_ids": [
+        "history_book_01_p0068_b002"
+      ],
+      "item_label": "忽必烈即位与元朝建立",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0068_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0068_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0068"
+      ],
+      "block_ids": [
+        "history_book_01_p0068_b003"
+      ],
+      "item_label": "元朝定国号与四大汗国",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0068_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0068_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0068"
+      ],
+      "block_ids": [
+        "history_book_01_p0068_b004"
+      ],
+      "item_label": "元军灭南宋完成统一",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0068_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0068_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0068"
+      ],
+      "block_ids": [
+        "history_book_01_p0068_b005"
+      ],
+      "item_label": "元朝驿道、驿站与急递铺",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0068_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0068_inv005",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0068"
+      ],
+      "block_ids": [
+        "history_book_01_p0068_b007"
+      ],
+      "item_label": "元朝行省制度",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0068_k005"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0068_inv006",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0068"
+      ],
+      "block_ids": [
+        "history_book_01_p0068_b007"
+      ],
+      "item_label": "元朝边疆管理机构与台湾经略",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0068_k006"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0069_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0069"
+      ],
+      "block_ids": [
+        "history_book_01_p0069_b003"
+      ],
+      "item_label": "元朝时期民族交往交流交融与回回形成",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0069_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0069_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0069"
+      ],
+      "block_ids": [
+        "history_book_01_p0069_b004"
+      ],
+      "item_label": "元朝四等人制",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0069_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0069_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0069"
+      ],
+      "block_ids": [
+        "history_book_01_p0069_b005"
+      ],
+      "item_label": "元末民族矛盾与农民起义",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0069_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0069_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0069"
+      ],
+      "block_ids": [
+        "history_book_01_p0069_b008"
+      ],
+      "item_label": "元朝地方行政制度与行省制的历史意义",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0069_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0069_inv005",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0069"
+      ],
+      "block_ids": [
+        "history_book_01_p0069_b009"
+      ],
+      "item_label": "元朝对边疆地区的长时间稳定统治",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0069_k005"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0069_inv006",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0069"
+      ],
+      "block_ids": [
+        "history_book_01_p0069_b010"
+      ],
+      "item_label": "元朝边疆统治与内地一体化（史料）",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0069_k006"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "历史纵横史料及教材评述，需核对史料出处和概念范围。"
+    },
+    {
+      "id": "history_book_01_p0070_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0070"
+      ],
+      "block_ids": [
+        "history_book_01_p0070_b003"
+      ],
+      "item_label": "少数民族王朝学习、接受中原典章制度（许衡史料）",
+      "scope": "mixed",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0070_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "探究材料及观点题，不能直接改写为无条件历史事实。"
+    },
+    {
+      "id": "history_book_01_p0070_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0070"
+      ],
+      "block_ids": [
+        "history_book_01_p0070_b005"
+      ],
+      "item_label": "元朝统治者学习中原制度的探究问题",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0070_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材问题，不是已给出的事实结论。"
+    },
+    {
+      "id": "history_book_01_p0070_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0070"
+      ],
+      "block_ids": [
+        "history_book_01_p0070_b007"
+      ],
+      "item_label": "马可·波罗来华与中欧交往探究",
+      "scope": "world_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0070_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "世界史范围的学习拓展，需补充明确来源。"
+    },
+    {
+      "id": "history_book_01_p0071_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0071"
+      ],
+      "block_ids": [
+        "history_book_01_p0071_b006"
+      ],
+      "item_label": "宋元时期经济发展与经济重心南移完成",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0071_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0071_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0071"
+      ],
+      "block_ids": [
+        "history_book_01_p0071_b006"
+      ],
+      "item_label": "宋朝农业复种制、经济作物与棉花种植",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0071_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0071_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0071"
+      ],
+      "block_ids": [
+        "history_book_01_p0071_b010"
+      ],
+      "item_label": "宋朝与元朝制瓷业发展",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0071_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0071_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0071"
+      ],
+      "block_ids": [
+        "history_book_01_p0071_b010"
+      ],
+      "item_label": "宋代矿冶业与煤炭使用",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0071_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0071_inv005",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0071"
+      ],
+      "block_ids": [
+        "history_book_01_p0071_b004"
+      ],
+      "item_label": "《夫妻对坐宴饮图》所见宋代生活消费",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0071_k005"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "图像与沈括评论的历史解释需人工核验。"
+    },
+    {
+      "id": "history_book_01_p0072_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0072"
+      ],
+      "block_ids": [
+        "history_book_01_p0072_b005"
+      ],
+      "item_label": "宋元时期印刷、造纸与边疆开发",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0072_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0072_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0072"
+      ],
+      "block_ids": [
+        "history_book_01_p0072_b006"
+      ],
+      "item_label": "宋朝商品经济、货币与城市发展",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0072_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0072_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0072"
+      ],
+      "block_ids": [
+        "history_book_01_p0072_b007"
+      ],
+      "item_label": "宋元时期海外贸易与港口",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0072_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0072_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0072"
+      ],
+      "block_ids": [
+        "history_book_01_p0072_b008"
+      ],
+      "item_label": "宋元时期经济重心南移与南北运输",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0072_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0072_inv005",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0072"
+      ],
+      "block_ids": [
+        "history_book_01_p0072_b003"
+      ],
+      "item_label": "北宋人口统计与人口增长（历史纵横）",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0072_k005"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "人口统计口径和推算方法需核对原始资料。"
+    },
+    {
+      "id": "history_book_01_p0073_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0073"
+      ],
+      "block_ids": [
+        "history_book_01_p0073_b004"
+      ],
+      "item_label": "宋朝科举完善与门第观念淡化",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0073_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0073_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0073"
+      ],
+      "block_ids": [
+        "history_book_01_p0073_b005"
+      ],
+      "item_label": "宋朝贱民减少与人身关系变化",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0073_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0073_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0073"
+      ],
+      "block_ids": [
+        "history_book_01_p0073_b006"
+      ],
+      "item_label": "宋朝政府对社会控制相对松弛",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0073_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0073_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0073"
+      ],
+      "block_ids": [
+        "history_book_01_p0073_b008"
+      ],
+      "item_label": "北宋中期儒学复兴与程朱理学",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0073_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0073_inv005",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0073"
+      ],
+      "block_ids": [
+        "history_book_01_p0073_b009"
+      ],
+      "item_label": "宋朝社会新变化与儒学复兴学习聚焦",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0073_k005"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "学习聚焦是教材概括，需与正文逐项核验。"
+    },
+    {
+      "id": "history_book_01_p0074_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0074"
+      ],
+      "block_ids": [
+        "history_book_01_p0074_b002"
+      ],
+      "item_label": "程朱理学的主要主张",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0074_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0074_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0074"
+      ],
+      "block_ids": [
+        "history_book_01_p0074_b003"
+      ],
+      "item_label": "程朱理学受官方尊崇与元朝科举标准",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0074_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0074_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0074"
+      ],
+      "block_ids": [
+        "history_book_01_p0074_b005"
+      ],
+      "item_label": "元朝科举考试内容与答题标准（学思之窗）",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0074_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "学思之窗引文及问题需人工核验。"
+    },
+    {
+      "id": "history_book_01_p0074_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0074"
+      ],
+      "block_ids": [
+        "history_book_01_p0074_b010"
+      ],
+      "item_label": "宋词的兴盛与代表作家",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0074_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0074_inv005",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0074"
+      ],
+      "block_ids": [
+        "history_book_01_p0074_b011"
+      ],
+      "item_label": "元曲与杂剧成熟",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0074_k005"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0075_inv001",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0075"
+      ],
+      "block_ids": [
+        "history_book_01_p0075_b003"
+      ],
+      "item_label": "元杂剧表演艺术史料",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0075_k001"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "史料阅读引文，需核对作者、出处与译读。"
+    },
+    {
+      "id": "history_book_01_p0075_inv002",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0075"
+      ],
+      "block_ids": [
+        "history_book_01_p0075_b007"
+      ],
+      "item_label": "宋元说书、书法与绘画",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0075_k002"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0075_inv003",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0075"
+      ],
+      "block_ids": [
+        "history_book_01_p0075_b009"
+      ],
+      "item_label": "宋元三大发明的发展与应用",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0075_k003"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0075_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0075"
+      ],
+      "block_ids": [
+        "history_book_01_p0075_b010"
+      ],
+      "item_label": "沈括、郭守敬与王祯的科技成就",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0075_k004"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0075_inv005",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0075"
+      ],
+      "block_ids": [
+        "history_book_01_p0075_b012"
+      ],
+      "item_label": "辽夏金元少数民族文字",
+      "scope": "chinese_history",
+      "disposition": "included",
+      "knowledge_ids": [
+        "history_book_01_p0075_k005"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": null
+    },
+    {
+      "id": "history_book_01_p0075_inv006",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0075"
+      ],
+      "block_ids": [
+        "history_book_01_p0075_b006"
+      ],
+      "item_label": "简仪与元代天文观测",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0075_k006"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "图示器物年代与郭守敬原制需人工区分。"
+    },
+    {
+      "id": "history_book_01_p0075_inv007",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0075"
+      ],
+      "block_ids": [
+        "history_book_01_p0075_b011"
+      ],
+      "item_label": "少数民族文字学习概括",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [
+        "history_book_01_p0075_k007"
+      ],
+      "duplicate_of_inventory_id": null,
+      "reason": "历史纵横汇总项，需逐项核对文字名称和年代。"
+    },
+    {
+      "id": "history_book_01_p0067_inv007",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0067"
+      ],
+      "block_ids": [
+        "history_book_01_p0067_b006"
+      ],
+      "item_label": "《三朝北盟会编》女真人生活方式史料",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "史料正文保留，知识候选已单列。"
+    },
+    {
+      "id": "history_book_01_p0068_inv007",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0068"
+      ],
+      "block_ids": [
+        "history_book_01_p0068_b010"
+      ],
+      "item_label": "行省制度影响的思考点",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材问题，需人工组织答案。"
+    },
+    {
+      "id": "history_book_01_p0070_inv004",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0070"
+      ],
+      "block_ids": [
+        "history_book_01_p0070_b008"
+      ],
+      "item_label": "马可·波罗来华及中欧交往学习拓展",
+      "scope": "world_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "超出中国通史核心范围，保留覆盖记录。"
+    },
+    {
+      "id": "history_book_01_p0074_inv006",
+      "document_id": "history_book_01",
+      "page_ids": [
+        "history_book_01_p0074"
+      ],
+      "block_ids": [
+        "history_book_01_p0074_b015"
+      ],
+      "item_label": "“存天理，灭人欲”思考点",
+      "scope": "chinese_history",
+      "disposition": "pending_review",
+      "knowledge_ids": [],
+      "duplicate_of_inventory_id": null,
+      "reason": "教材问题，不直接改写为结论。"
+    }
+  ],
+  "review_issues": [
+    {
+      "id": "history_book_01_b02d_issue001",
+      "record_ids": [
+        "history_book_01_p0067_b002"
+      ],
+      "category": "ocr",
+      "description": "页面文字层末尾含重复版权水印乱码；正文证据保留，未将水印当作史实。",
+      "evidence_block_ids": [
+        "history_book_01_p0067_b002"
+      ],
+      "suggested_action": "人工确认清洗展示时去除水印，但保留raw_text。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue002",
+      "record_ids": [
+        "history_book_01_p0067_a001"
+      ],
+      "category": "image",
+      "description": "萨班灵骨塔遗址仅有页面照片和图注，未导出独立图片文件。",
+      "evidence_block_ids": [
+        "history_book_01_p0067_b010"
+      ],
+      "suggested_action": "核对照片来源、地点及年代后再决定发布。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue003",
+      "record_ids": [
+        "history_book_01_p0067_k003"
+      ],
+      "category": "time",
+      "description": "蒙古军队征服西辽、西夏、金及远征诸地未给统一起止年。",
+      "evidence_block_ids": [
+        "history_book_01_p0067_b005"
+      ],
+      "suggested_action": "补充逐项时间依据，不用概括段落推定连续区间。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue004",
+      "record_ids": [
+        "history_book_01_p0068_a001",
+        "history_book_01_p0068_map001"
+      ],
+      "category": "image",
+      "description": "元朝形势图未空间校准，geometry保持null。",
+      "evidence_block_ids": [
+        "history_book_01_p0068_b006"
+      ],
+      "suggested_action": "后续以历史地图资料核验边界和地名后数字化。",
+      "blocking": true,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue005",
+      "record_ids": [
+        "history_book_01_p0068_k004"
+      ],
+      "category": "source",
+      "description": "行省制度“全国共设10个行省”及其影响为教材叙述，需核对版本和历史范围。",
+      "evidence_block_ids": [
+        "history_book_01_p0068_b007"
+      ],
+      "suggested_action": "人工核对教材正文与历史资料。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue006",
+      "record_ids": [
+        "history_book_01_p0068_k002"
+      ],
+      "category": "time",
+      "description": "四大汗国形成时间表述为“此前后”，未给精确日期。",
+      "evidence_block_ids": [
+        "history_book_01_p0068_b003"
+      ],
+      "suggested_action": "保留原话，后续补充精度。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue007",
+      "record_ids": [
+        "history_book_01_p0069_k001"
+      ],
+      "category": "person",
+      "description": "“回回”为回族前身的概括及民族融合叙述需核对教材语境。",
+      "evidence_block_ids": [
+        "history_book_01_p0069_b003"
+      ],
+      "suggested_action": "人工核对相关民族史表述。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue008",
+      "record_ids": [
+        "history_book_01_p0069_k004"
+      ],
+      "category": "source",
+      "description": "元朝边疆统治与内地一体化的比较判断引用《元史·地理志》，需核对引文范围。",
+      "evidence_block_ids": [
+        "history_book_01_p0069_b010"
+      ],
+      "suggested_action": "核对原始史料及教材论述边界。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue009",
+      "record_ids": [
+        "history_book_01_p0070_k001"
+      ],
+      "category": "scope",
+      "description": "许衡材料是探究史料和观点，不应未经限定转为普遍史实。",
+      "evidence_block_ids": [
+        "history_book_01_p0070_b003"
+      ],
+      "suggested_action": "保留pending_review并补充题目答案证据。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue010",
+      "record_ids": [
+        "history_book_01_p0070_k003"
+      ],
+      "category": "scope",
+      "description": "马可·波罗及中欧交往属于学习拓展，当前批次不补充外部史实。",
+      "evidence_block_ids": [
+        "history_book_01_p0070_b007"
+      ],
+      "suggested_action": "后续按明确来源另行整理。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue011",
+      "record_ids": [
+        "history_book_01_p0071_a001",
+        "history_book_01_p0071_k004"
+      ],
+      "category": "image",
+      "description": "《夫妻对坐宴饮图》图像身份、墓葬年代及消费水平解释需人工核验。",
+      "evidence_block_ids": [
+        "history_book_01_p0071_b003"
+      ],
+      "suggested_action": "核对图注与教材原文。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue012",
+      "record_ids": [
+        "history_book_01_p0072_k004"
+      ],
+      "category": "source",
+      "description": "北宋人口数据存在户数、口数统计口径差异，实际人口为推算值。",
+      "evidence_block_ids": [
+        "history_book_01_p0072_b003"
+      ],
+      "suggested_action": "核对脚注、原始数据与推算依据。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue013",
+      "record_ids": [
+        "history_book_01_p0072_a002",
+        "history_book_01_p0072_map001"
+      ],
+      "category": "image",
+      "description": "元朝运河、海运路线图的路线和地名未数字化校准。",
+      "evidence_block_ids": [
+        "history_book_01_p0072_b011"
+      ],
+      "suggested_action": "保留地图候选，后续人工校准。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue014",
+      "record_ids": [
+        "history_book_01_p0073_k003"
+      ],
+      "category": "source",
+      "description": "“国家对社会的控制相对松弛”等学习聚焦概括需与正文逐项核对。",
+      "evidence_block_ids": [
+        "history_book_01_p0073_b006"
+      ],
+      "suggested_action": "人工检查概括与段落证据的一致性。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue015",
+      "record_ids": [
+        "history_book_01_p0074_k002"
+      ],
+      "category": "time",
+      "description": "程朱理学官方尊崇和1313年科举内容的先后关系需核对。",
+      "evidence_block_ids": [
+        "history_book_01_p0074_b004"
+      ],
+      "suggested_action": "核对元代制度史资料。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue016",
+      "record_ids": [
+        "history_book_01_p0074_k004"
+      ],
+      "category": "source",
+      "description": "四书编合与注释说明来自旁注，朱熹与四书关系需核对原文。",
+      "evidence_block_ids": [
+        "history_book_01_p0074_b008"
+      ],
+      "suggested_action": "核对图注、旁注和史实。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue017",
+      "record_ids": [
+        "history_book_01_p0075_k003"
+      ],
+      "category": "source",
+      "description": "沈括、郭守敬、王祯科技成就为综合段落，人物-成就对应关系需逐项复核。",
+      "evidence_block_ids": [
+        "history_book_01_p0075_b010"
+      ],
+      "suggested_action": "人工逐项核对原文与人物。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue018",
+      "record_ids": [
+        "history_book_01_p0075_a001",
+        "history_book_01_p0075_k005"
+      ],
+      "category": "image",
+      "description": "简仪图示为明朝铸造，需与郭守敬革新浑仪的原制区分。",
+      "evidence_block_ids": [
+        "history_book_01_p0075_b005"
+      ],
+      "suggested_action": "在发布字段中分别记录器物图示年代和历史发明者。",
+      "blocking": false,
+      "status": "open"
+    },
+    {
+      "id": "history_book_01_b02d_issue019",
+      "record_ids": [
+        "history_book_01_p0075_k004"
+      ],
+      "category": "source",
+      "description": "少数民族文字段落涉及多种文字、创制者和使用场景，需逐项核对。",
+      "evidence_block_ids": [
+        "history_book_01_p0075_b012"
+      ],
+      "suggested_action": "人工校对文字名称和年代。",
+      "blocking": false,
+      "status": "open"
+    }
+  ],
+  "validation": {
+    "structure_check_status": "passed",
+    "duplicate_ids": [],
+    "dangling_references": [],
+    "page_coverage_issues": [],
+    "time_issues": [],
+    "source_issues": [],
+    "unreadable_blocks": [],
+    "unprocessed_assets": [],
+    "semantic_review_status": "not_performed"
+  }
+}

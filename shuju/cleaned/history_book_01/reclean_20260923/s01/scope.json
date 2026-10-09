@@ -1,0 +1,232 @@
+{
+  "pdf": "D:\\ai\\codex\\知识可视化\\shuju\\普通高中教科书·历史必修_中外历史纲要（上）.pdf",
+  "pdf_pages": 223,
+  "baseline_sha256": "c62dceba95d0317efdb4b89cf4fddf27801b13a8d81e939158d4a23d1229627f",
+  "knowledge_count": 80,
+  "knowledge_by_page": {
+    "8": [
+      "history_book_01_p0008_k001",
+      "history_book_01_p0008_k002",
+      "history_book_01_p0008_k003",
+      "history_book_01_p0008_k004",
+      "history_book_01_p0008_k005",
+      "history_book_01_p0008_k006"
+    ],
+    "9": [
+      "history_book_01_p0009_k001",
+      "history_book_01_p0009_k002",
+      "history_book_01_p0009_k003"
+    ],
+    "10": [
+      "history_book_01_p0010_k001",
+      "history_book_01_p0010_k002",
+      "history_book_01_p0010_k003",
+      "history_book_01_p0010_k004",
+      "history_book_01_p0010_k005"
+    ],
+    "11": [
+      "history_book_01_p0011_k001",
+      "history_book_01_p0011_k002",
+      "history_book_01_p0011_k003",
+      "history_book_01_p0011_k004"
+    ],
+    "12": [
+      "history_book_01_p0012_k001",
+      "history_book_01_p0012_k002",
+      "history_book_01_p0012_k003",
+      "history_book_01_p0012_k004",
+      "history_book_01_p0012_k005"
+    ],
+    "13": [
+      "history_book_01_p0013_k001",
+      "history_book_01_p0013_k002",
+      "history_book_01_p0013_k003",
+      "history_book_01_p0013_k004"
+    ],
+    "14": [
+      "history_book_01_p0014_k001",
+      "history_book_01_p0014_k002",
+      "history_book_01_p0014_k003",
+      "history_book_01_p0014_k004"
+    ],
+    "15": [
+      "history_book_01_p0015_k001",
+      "history_book_01_p0015_k002"
+    ],
+    "16": [
+      "history_book_01_p0016_k001",
+      "history_book_01_p0016_k002"
+    ],
+    "17": [
+      "history_book_01_p0017_k001",
+      "history_book_01_p0017_k002"
+    ],
+    "18": [
+      "history_book_01_p0018_k001",
+      "history_book_01_p0018_k002"
+    ],
+    "19": [
+      "history_book_01_p0019_k001",
+      "history_book_01_p0019_k002",
+      "history_book_01_p0019_k003"
+    ],
+    "20": [
+      "history_book_01_p0020_k001"
+    ],
+    "21": [
+      "history_book_01_p0021_k001",
+      "history_book_01_p0021_k002"
+    ],
+    "22": [
+      "history_book_01_p0022_k001"
+    ],
+    "23": [
+      "history_book_01_p0023_k001",
+      "history_book_01_p0023_k002"
+    ],
+    "24": [
+      "history_book_01_p0024_k001"
+    ],
+    "25": [
+      "history_book_01_p0025_k001",
+      "history_book_01_p0025_k002"
+    ],
+    "26": [
+      "history_book_01_p0026_k001"
+    ],
+    "27": [
+      "history_book_01_p0027_k001"
+    ],
+    "28": [
+      "history_book_01_p0028_k001"
+    ],
+    "29": [
+      "history_book_01_p0029_k001",
+      "history_book_01_p0029_k002"
+    ],
+    "30": [
+      "history_book_01_p0030_k001",
+      "history_book_01_p0030_k002",
+      "history_book_01_p0030_k003",
+      "history_book_01_p0030_k004"
+    ],
+    "31": [
+      "history_book_01_p0031_k001",
+      "history_book_01_p0031_k002",
+      "history_book_01_p0031_k003",
+      "history_book_01_p0031_k004"
+    ],
+    "32": [
+      "history_book_01_p0032_k001",
+      "history_book_01_p0032_k002"
+    ],
+    "33": [
+      "history_book_01_p0033_k001",
+      "history_book_01_p0033_k002"
+    ],
+    "34": [
+      "history_book_01_p0034_k001"
+    ],
+    "35": [
+      "history_book_01_p0035_k001",
+      "history_book_01_p0035_k002"
+    ],
+    "36": [
+      "history_book_01_p0036_k001",
+      "history_book_01_p0036_k002"
+    ],
+    "37": [
+      "history_book_01_p0037_k001",
+      "history_book_01_p0037_k002",
+      "history_book_01_p0037_k003"
+    ],
+    "38": [
+      "history_book_01_p0038_k001",
+      "history_book_01_p0038_k002",
+      "history_book_01_p0038_k003",
+      "history_book_01_p0038_k004"
+    ]
+  },
+  "ids": [
+    "history_book_01_p0008_k001",
+    "history_book_01_p0008_k002",
+    "history_book_01_p0008_k003",
+    "history_book_01_p0008_k004",
+    "history_book_01_p0008_k005",
+    "history_book_01_p0008_k006",
+    "history_book_01_p0009_k001",
+    "history_book_01_p0009_k002",
+    "history_book_01_p0009_k003",
+    "history_book_01_p0010_k001",
+    "history_book_01_p0010_k002",
+    "history_book_01_p0010_k003",
+    "history_book_01_p0010_k004",
+    "history_book_01_p0010_k005",
+    "history_book_01_p0011_k001",
+    "history_book_01_p0011_k002",
+    "history_book_01_p0011_k003",
+    "history_book_01_p0011_k004",
+    "history_book_01_p0012_k001",
+    "history_book_01_p0012_k002",
+    "history_book_01_p0012_k003",
+    "history_book_01_p0012_k004",
+    "history_book_01_p0012_k005",
+    "history_book_01_p0013_k001",
+    "history_book_01_p0013_k002",
+    "history_book_01_p0013_k003",
+    "history_book_01_p0013_k004",
+    "history_book_01_p0014_k001",
+    "history_book_01_p0014_k002",
+    "history_book_01_p0014_k003",
+    "history_book_01_p0014_k004",
+    "history_book_01_p0015_k001",
+    "history_book_01_p0015_k002",
+    "history_book_01_p0016_k001",
+    "history_book_01_p0016_k002",
+    "history_book_01_p0017_k001",
+    "history_book_01_p0017_k002",
+    "history_book_01_p0018_k001",
+    "history_book_01_p0018_k002",
+    "history_book_01_p0019_k001",
+    "history_book_01_p0019_k002",
+    "history_book_01_p0019_k003",
+    "history_book_01_p0020_k001",
+    "history_book_01_p0021_k001",
+    "history_book_01_p0021_k002",
+    "history_book_01_p0022_k001",
+    "history_book_01_p0023_k001",
+    "history_book_01_p0023_k002",
+    "history_book_01_p0024_k001",
+    "history_book_01_p0025_k001",
+    "history_book_01_p0025_k002",
+    "history_book_01_p0026_k001",
+    "history_book_01_p0027_k001",
+    "history_book_01_p0028_k001",
+    "history_book_01_p0029_k001",
+    "history_book_01_p0029_k002",
+    "history_book_01_p0030_k001",
+    "history_book_01_p0030_k002",
+    "history_book_01_p0030_k003",
+    "history_book_01_p0030_k004",
+    "history_book_01_p0031_k001",
+    "history_book_01_p0031_k002",
+    "history_book_01_p0031_k003",
+    "history_book_01_p0031_k004",
+    "history_book_01_p0032_k001",
+    "history_book_01_p0032_k002",
+    "history_book_01_p0033_k001",
+    "history_book_01_p0033_k002",
+    "history_book_01_p0034_k001",
+    "history_book_01_p0035_k001",
+    "history_book_01_p0035_k002",
+    "history_book_01_p0036_k001",
+    "history_book_01_p0036_k002",
+    "history_book_01_p0037_k001",
+    "history_book_01_p0037_k002",
+    "history_book_01_p0037_k003",
+    "history_book_01_p0038_k001",
+    "history_book_01_p0038_k002",
+    "history_book_01_p0038_k003",
+    "history_book_01_p0038_k004"
+  ]
+}

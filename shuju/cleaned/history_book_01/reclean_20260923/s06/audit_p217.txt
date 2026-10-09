@@ -1,0 +1,287 @@
+## history_book_01_p0217_k001 汪精卫“分共”，国民革命失败
+TIME {"source_text": "1927年7月15日", "mode": "point", "start_year": 1927, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b002"]}
+SUMMARY {"text": "汪精卫“分共”，国民革命失败", "evidence_block_ids": ["history_book_01_p0217_b002"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_009_b06"]
+EVIDENCE ["history_book_01_p0217_b002"]
+BLOCK history_book_01_p0217_b002 [paragraph] 1927年7月15日 汪精卫“分共”，国民革命失败
+
+## history_book_01_p0217_k002 宁汉合流，国民党专制统治确立
+TIME {"source_text": "1927年秋", "mode": "point", "start_year": 1927, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "year", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b003"]}
+SUMMARY {"text": "宁汉合流，国民党专制统治确立", "evidence_block_ids": ["history_book_01_p0217_b003"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b003"]
+BLOCK history_book_01_p0217_b003 [paragraph] 1927年秋 宁汉合流，国民党专制统治确立
+
+## history_book_01_p0217_k003 南昌起义爆发
+TIME {"source_text": "1927年8月1日", "mode": "point", "start_year": 1927, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b004"]}
+SUMMARY {"text": "南昌起义爆发", "evidence_block_ids": ["history_book_01_p0217_b004"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b004"]
+BLOCK history_book_01_p0217_b004 [paragraph] 1927年8月1日 南昌起义爆发
+
+## history_book_01_p0217_k004 八七会议召开
+TIME {"source_text": "1927年8月7日", "mode": "point", "start_year": 1927, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b005"]}
+SUMMARY {"text": "八七会议召开", "evidence_block_ids": ["history_book_01_p0217_b005"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b005"]
+BLOCK history_book_01_p0217_b005 [paragraph] 1927年8月7日 八七会议召开
+
+## history_book_01_p0217_k005 湘赣边秋收起义爆发
+TIME {"source_text": "1927年9月", "mode": "point", "start_year": 1927, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b006"]}
+SUMMARY {"text": "湘赣边秋收起义爆发", "evidence_block_ids": ["history_book_01_p0217_b006"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b006"]
+BLOCK history_book_01_p0217_b006 [paragraph] 1927年9月 湘赣边秋收起义爆发
+
+## history_book_01_p0217_k006 毛泽东在井冈山创建革命根据地
+TIME {"source_text": "1927年10月", "mode": "point", "start_year": 1927, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b007"]}
+SUMMARY {"text": "毛泽东在井冈山创建革命根据地", "evidence_block_ids": ["history_book_01_p0217_b007"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_008_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0217_b007"]}]
+PEOPLE ["history_book_01_person_010_b06"]
+EVIDENCE ["history_book_01_p0217_b007"]
+BLOCK history_book_01_p0217_b007 [paragraph] 1927年10月 毛泽东在井冈山创建革命根据地
+
+## history_book_01_p0217_k007 毛泽东、朱德在井冈山会师
+TIME {"source_text": "1928年4月", "mode": "point", "start_year": 1928, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b008"]}
+SUMMARY {"text": "毛泽东、朱德在井冈山会师", "evidence_block_ids": ["history_book_01_p0217_b008"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_008_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0217_b008"]}]
+PEOPLE ["history_book_01_person_010_b06", "history_book_01_person_011_b06"]
+EVIDENCE ["history_book_01_p0217_b008"]
+BLOCK history_book_01_p0217_b008 [paragraph] 1928年4月 毛泽东、朱德在井冈山会师
+
+## history_book_01_p0217_k008 张学良改旗易帜，国民政府在形式上基本统一全国
+TIME {"source_text": "1928年12月", "mode": "point", "start_year": 1928, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b009"]}
+SUMMARY {"text": "张学良改旗易帜，国民政府在形式上基本统一全国", "evidence_block_ids": ["history_book_01_p0217_b009"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_012_b06"]
+EVIDENCE ["history_book_01_p0217_b009"]
+BLOCK history_book_01_p0217_b009 [paragraph] 1928年12月 张学良改旗易帜，国民政府在形式上基本统一全国
+
+## history_book_01_p0217_k009 古田会议召开
+TIME {"source_text": "1929年12月", "mode": "point", "start_year": 1929, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b010"]}
+SUMMARY {"text": "古田会议召开", "evidence_block_ids": ["history_book_01_p0217_b010"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b010"]
+BLOCK history_book_01_p0217_b010 [paragraph] 1929年12月 古田会议召开
+
+## history_book_01_p0217_k010 蒋介石向革命根据地发动“围剿”
+TIME {"source_text": "1930年10月", "mode": "point", "start_year": 1930, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b011"]}
+SUMMARY {"text": "蒋介石向革命根据地发动“围剿”", "evidence_block_ids": ["history_book_01_p0217_b011"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE ["history_book_01_person_008_b06"]
+EVIDENCE ["history_book_01_p0217_b011"]
+BLOCK history_book_01_p0217_b011 [paragraph] 1930年10月 蒋介石向革命根据地发动“围剿”
+
+## history_book_01_p0217_k011 九一八事变爆发，中国局部抗战开始
+TIME {"source_text": "1931年9月18日", "mode": "point", "start_year": 1931, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b012"]}
+SUMMARY {"text": "九一八事变爆发，中国局部抗战开始", "evidence_block_ids": ["history_book_01_p0217_b012"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b012"]
+BLOCK history_book_01_p0217_b012 [paragraph] 1931年9月18日 九一八事变爆发，中国局部抗战开始
+
+## history_book_01_p0217_k012 中华苏维埃共和国临时中央政府成立
+TIME {"source_text": "1931年11月", "mode": "point", "start_year": 1931, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b013"]}
+SUMMARY {"text": "中华苏维埃共和国临时中央政府成立", "evidence_block_ids": ["history_book_01_p0217_b013"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b013"]
+BLOCK history_book_01_p0217_b013 [paragraph] 1931年11月 中华苏维埃共和国临时中央政府成立
+
+## history_book_01_p0217_k013 一·二八事变爆发
+TIME {"source_text": "1932年1月28日", "mode": "point", "start_year": 1932, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b014"]}
+SUMMARY {"text": "一·二八事变爆发", "evidence_block_ids": ["history_book_01_p0217_b014"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b014"]
+BLOCK history_book_01_p0217_b014 [paragraph] 1932年1月28日 一·二八事变爆发
+
+## history_book_01_p0217_k014 伪满洲国成立
+TIME {"source_text": "1932年3月", "mode": "point", "start_year": 1932, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b015"]}
+SUMMARY {"text": "伪满洲国成立", "evidence_block_ids": ["history_book_01_p0217_b015"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b015"]
+BLOCK history_book_01_p0217_b015 [paragraph] 1932年3月 伪满洲国成立
+
+## history_book_01_p0217_k015 中央红军被迫战略转移，开始长征
+TIME {"source_text": "1934年10月", "mode": "point", "start_year": 1934, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b016"]}
+SUMMARY {"text": "中央红军被迫战略转移，开始长征", "evidence_block_ids": ["history_book_01_p0217_b016"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b016"]
+BLOCK history_book_01_p0217_b016 [paragraph] 1934年10月 中央红军被迫战略转移，开始长征
+
+## history_book_01_p0217_k016 遵义会议召开
+TIME {"source_text": "1935年1月", "mode": "point", "start_year": 1935, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b017"]}
+SUMMARY {"text": "遵义会议召开", "evidence_block_ids": ["history_book_01_p0217_b017"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b017"]
+BLOCK history_book_01_p0217_b017 [paragraph] 1935年1月 遵义会议召开
+
+## history_book_01_p0217_k017 中国工农红军第一方面军到达陕北
+TIME {"source_text": "1935年10月", "mode": "point", "start_year": 1935, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b018"]}
+SUMMARY {"text": "中国工农红军第一方面军到达陕北", "evidence_block_ids": ["history_book_01_p0217_b018"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_009_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0217_b018"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b018"]
+BLOCK history_book_01_p0217_b018 [paragraph] 1935年10月 中国工农红军第一方面军到达陕北
+
+## history_book_01_p0217_k018 一二·九运动爆发
+TIME {"source_text": "1935年12月9日", "mode": "point", "start_year": 1935, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b019"]}
+SUMMARY {"text": "一二·九运动爆发", "evidence_block_ids": ["history_book_01_p0217_b019"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b019"]
+BLOCK history_book_01_p0217_b019 [paragraph] 1935年12月9日 一二·九运动爆发
+
+## history_book_01_p0217_k019 红军三大主力在甘肃会宁等地会师，长征结束
+TIME {"source_text": "1936年10月", "mode": "point", "start_year": 1936, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b020"]}
+SUMMARY {"text": "红军三大主力在甘肃会宁等地会师，长征结束", "evidence_block_ids": ["history_book_01_p0217_b020"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES [{"place_id": "history_book_01_place_010_b06", "role": "related", "evidence_block_ids": ["history_book_01_p0217_b020"]}]
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b020"]
+BLOCK history_book_01_p0217_b020 [paragraph] 1936年10月 红军三大主力在甘肃会宁等地会师，长征结束
+
+## history_book_01_p0217_k020 西安事变
+TIME {"source_text": "1936年12月12日", "mode": "point", "start_year": 1936, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b021"]}
+SUMMARY {"text": "西安事变", "evidence_block_ids": ["history_book_01_p0217_b021"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b021"]
+BLOCK history_book_01_p0217_b021 [paragraph] 1936年12月12日 西安事变
+
+## history_book_01_p0217_k021 卢沟桥事变爆发，全国抗战开始
+TIME {"source_text": "1937年7月7日", "mode": "point", "start_year": 1937, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b022"]}
+SUMMARY {"text": "卢沟桥事变爆发，全国抗战开始", "evidence_block_ids": ["history_book_01_p0217_b022"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b022"]
+BLOCK history_book_01_p0217_b022 [paragraph] 1937年7月7日 卢沟桥事变爆发，全国抗战开始
+
+## history_book_01_p0217_k022 八一三事变爆发，淞沪会战开始
+TIME {"source_text": "1937年8月13日", "mode": "point", "start_year": 1937, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b023"]}
+SUMMARY {"text": "八一三事变爆发，淞沪会战开始", "evidence_block_ids": ["history_book_01_p0217_b023"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b023"]
+BLOCK history_book_01_p0217_b023 [paragraph] 1937年8月13日 八一三事变爆发，淞沪会战开始
+
+## history_book_01_p0217_k023 洛川会议召开
+TIME {"source_text": "1937年8月22日", "mode": "point", "start_year": 1937, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "day", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b024"]}
+SUMMARY {"text": "洛川会议召开", "evidence_block_ids": ["history_book_01_p0217_b024"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b024"]
+BLOCK history_book_01_p0217_b024 [paragraph] 1937年8月22日 洛川会议召开
+
+## history_book_01_p0217_k024 国共第二次合作实现，平型关大捷，忻口会战
+TIME {"source_text": "1937年9月", "mode": "point", "start_year": 1937, "end_year": null, "earliest_year": null, "latest_year": null, "precision": "month", "end_status": "not_applicable", "normalization_note": null, "evidence_block_ids": ["history_book_01_p0217_b025"]}
+SUMMARY {"text": "国共第二次合作实现，平型关大捷，忻口会战", "evidence_block_ids": ["history_book_01_p0217_b025"]}
+FLOW []
+POINTS []
+BACKGROUND null
+IMPACT null
+PLACES []
+PEOPLE []
+EVIDENCE ["history_book_01_p0217_b025"]
+BLOCK history_book_01_p0217_b025 [paragraph] 1937年9月 国共第二次合作实现，平型关大捷，忻口会战
